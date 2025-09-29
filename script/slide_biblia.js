@@ -368,8 +368,8 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
 <body>
     <div id="marcadagua"></div>                                                                <!-- Elemento visual para marca d'água (pode ser usado para exibir o nome da igreja, logo, etc.) -->
     <div id="titulo">${livroAcentuado.toUpperCase()} ${capituloAtual}:${versiculoAtual}</div>  <!-- Exibe o nome do livro, capítulo e versículo atual no topo do slide.                         -->
-    <div id="versiculo-container"><div class="texto-versiculo">Carregando...</div></div>       <!-- Container onde o texto do versículo será exibido; inicialmente mostra "Carregando...".      -->
-    <div id="botao-container">                                                                 <!-- Container para os botões de navegação.                                                      -->
+    <div id="versiculo-conteiner"><div class="texto-versiculo">Carregando...</div></div>       <!-- Conteiner onde o texto do versículo será exibido; inicialmente mostra "Carregando...".      -->
+    <div id="botao-conteiner">                                                                 <!-- Conteiner para os botões de navegação.                                                      -->
         <button id="voltar-botao">‹ Anterior</button>                                          <!-- Botão para voltar ao versículo anterior.                                                    -->
         <button id="proximo-botao">Próximo ›</button>                                          <!-- Botão para avançar ao próximo versículo.                                                    -->
     </div>
@@ -390,7 +390,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
 
         // Este bloco busca e armazena referências aos elementos da interface.
         const tituloElement = document.getElementById('titulo');                                                               // Seleciona o elemento do título na interface.
-        const versiculoContainer = document.getElementById('versiculo-container');                                             // Seleciona o container dos versículos.
+        const versiculoConteiner = document.getElementById('versiculo-conteiner');                                             // Seleciona o conteiner dos versículos.
         const btnVoltar = document.getElementById('voltar-botao');                                                             // Seleciona o botão de voltar.
         const btnProximo = document.getElementById('proximo-botao');                                                           // Seleciona o botão de avançar.
 
@@ -427,7 +427,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
                 console.error(\`Contagem não encontrada para \${livroAtual} (\${versaoBiblia}).\`);                                      // Exibe um erro no console.
                 versiculosPorCapituloArray = [];                                                                                         // Zera o array de contagem.
                 tituloElement.innerText = "ERRO CONFIG";                                                                                 // Exibe um erro no título da janela.
-                versiculoContainer.innerHTML = \`<div class="texto-versiculo" style="color:red;">Config de versículos ausente.</div>\`;  // Exibe erro no conteúdo.
+                versiculoConteiner.innerHTML = \`<div class="texto-versiculo" style="color:red;">Config de versículos ausente.</div>\`;  // Exibe erro no conteúdo.
                 btnVoltar.disabled = true; btnProximo.disabled = true;                                                                   // Desabilita os botões de navegação.
             }
         }
@@ -438,7 +438,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             console.log(\`Carregando capítulo: \${caminho}\`);                                                                           // Exibe o caminho no console para depuração.
             const livroAcentuado = obterNomeAcentuado(livroAtual);                                                                       // Pega o nome de exibição do livro.
             tituloElement.innerText = \`\${livroAcentuado.toUpperCase()} \${capituloNum}:... (Carregando)\`;                             // Atualiza o título com uma mensagem de carregamento.
-            versiculoContainer.innerHTML = '<div class="texto-versiculo">Carregando capítulo...</div>';                                  // Exibe uma mensagem de carregamento no container.
+            versiculoConteiner.innerHTML = '<div class="texto-versiculo">Carregando capítulo...</div>';                                  // Exibe uma mensagem de carregamento no conteiner.
             btnVoltar.disabled = true; btnProximo.disabled = true;                                                                       // Desabilita os botões durante o carregamento.
 
             try {                                                                                                                        // Inicia o bloco 'try' para tratar erros de download.
@@ -450,7 +450,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             } catch (error) {                                                                                                            // Captura qualquer erro ocorrido.
                 console.error('Erro ao carregar capítulo:', error);                                                                      // Exibe o erro técnico no console.
                 tituloElement.innerText = \`ERRO \${livroAcentuado.toUpperCase()} \${capituloNum}\`;                                     // Exibe um título de erro.
-                versiculoContainer.innerHTML = \`<div class="texto-versiculo" style="color:red;font-size:1.2rem;">Falha.</div>\`;        // Exibe uma mensagem de erro.
+                versiculoConteiner.innerHTML = \`<div class="texto-versiculo" style="color:red;font-size:1.2rem;">Falha.</div>\`;        // Exibe uma mensagem de erro.
             }
         }
 
@@ -461,7 +461,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             const livroAcentuado = obterNomeAcentuado(livroAtual);                                                                       // Pega o nome de exibição do livro.
 
             if (!dadosCapitulo) {                                                                                                        // Verifica se os dados do capítulo foram carregados.
-                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:orange;">Dados não carregados.</div>';         // Exibe um aviso.
+                versiculoConteiner.innerHTML = '<div class="texto-versiculo" style="color:orange;">Dados não carregados.</div>';         // Exibe um aviso.
                 atualizarBotoes(); return;                                                                                               // Habilita/desabilita os botões e interrompe a função.
             }
 
@@ -488,7 +488,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             }
 
             tituloElement.innerText = \`\${livroAcentuado.toUpperCase()} \${capituloAtual}:\${versiculoNum}\`;                           // Atualiza o título da janela com a referência completa.
-            versiculoContainer.innerHTML = (tituloSecao || '') + '<div class="texto-versiculo">' + conteudo + '</div>';                  // Exibe o título (se houver) e o texto do versículo.
+            versiculoConteiner.innerHTML = (tituloSecao || '') + '<div class="texto-versiculo">' + conteudo + '</div>';                  // Exibe o título (se houver) e o texto do versículo.
             atualizarBotoes();                                                                                                           // Atualiza o estado dos botões de navegação.
         }
 
@@ -580,7 +580,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             const livroAcentuado = obterNomeAcentuado(livroAtual);                                                             // Pega o nome de exibição do livro.
             if (todaContagemDataGlobal[livroAtual]) {                                                                          // Se o livro existe, mas há outro problema...
                 tituloElement.innerText = "ERRO";                                                                              // Exibe um título de erro.
-                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:red;">Falha ao inicializar.</div>';  // Exibe uma mensagem de erro.
+                versiculoConteiner.innerHTML = '<div class="texto-versiculo" style="color:red;">Falha ao inicializar.</div>';  // Exibe uma mensagem de erro.
                 btnVoltar.disabled = true; btnProximo.disabled = true;                                                         // Desabilita os botões.
             }
         }

@@ -88,10 +88,10 @@ document.addEventListener('DOMContentLoaded', () => {                           
 
     // Este bloco busca os dados da concordância para uma letra específica e os exibe.
     async function fetchConcordanciaDataByLetter(letra) {
-        const resultadosContainer = conteudoPrincipal.querySelector('#resultados-container');
-        if (!resultadosContainer) return;
+        const resultadosConteiner = conteudoPrincipal.querySelector('#resultados-conteiner');
+        if (!resultadosConteiner) return;
 
-        resultadosContainer.innerHTML = '<div class="loader">Carregando...</div>';
+        resultadosConteiner.innerHTML = '<div class="loader">Carregando...</div>';
 
         try {
             const response = await fetch(`${CONCORDANCIA_DATA_BASE_PATH}${letra.toLowerCase()}.json`);
@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {                           
             const wordEntries = jsonData[letra.toLowerCase()] || [];
             carregarDadosBaseConcordancia(wordEntries);                                                                // Usa a função do módulo concordancia.js para processar os dados.
         } catch (error) {
-            resultadosContainer.innerHTML = `<p class="erro-mensagem">${error.message}</p>`;
+            resultadosConteiner.innerHTML = `<p class="erro-mensagem">${error.message}</p>`;
             carregarDadosBaseConcordancia([]);
         }
     }
@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', () => {                           
                 letraAtivaSidebar = btn.dataset.letra;                                                                 // Atualiza a letra ativa.
 
                 if (currentView === 'concordance') {                                                                   // Decide qual função chamar com base na view atual.
-                    const buscaGlobalInput = conteudoPrincipal.querySelector('.filtros-container .search-input');
+                    const buscaGlobalInput = conteudoPrincipal.querySelector('.filtros-conteiner .search-input');
                     const filtroPalavraInput = conteudoPrincipal.querySelector('#filtro-palavra-input');
                     if (buscaGlobalInput) buscaGlobalInput.value = '';
                     if (filtroPalavraInput) filtroPalavraInput.value = '';
@@ -141,9 +141,9 @@ document.addEventListener('DOMContentLoaded', () => {                           
         );
         onConcordanciaViewReady();
 
-        const buscaGlobalInput = conteudoPrincipal.querySelector('.filtros-container .search-input');
+        const buscaGlobalInput = conteudoPrincipal.querySelector('.filtros-conteiner .search-input');
         const filtroPalavraInputConc = conteudoPrincipal.querySelector('#filtro-palavra-input');
-        const btnConsultar = conteudoPrincipal.querySelector('.filtros-container .search-btn');
+        const btnConsultar = conteudoPrincipal.querySelector('.filtros-conteiner .search-btn');
 
         function executarBuscaGlobalConcHandler() {
             const termoBusca = buscaGlobalInput.value.trim();

@@ -3,6 +3,11 @@
  */
 class ConcordanciaOptimized {
     constructor() {
+        if (!window.dataManager) {
+            window.dataManager = new DataManager();
+        }
+        this.dataManager = window.dataManager;
+        
         this.currentLetter = 'A';
         this.currentPage = 0;
         this.isLoading = false;
@@ -25,7 +30,7 @@ class ConcordanciaOptimized {
 
     initializeElements() {
         this.elements = {
-            resultadosContainer: document.getElementById('resultados-container'),
+            resultadosConteiner: document.getElementById('resultados-conteiner'),
             loadingIndicator: document.getElementById('loading-indicator'),
             contadorResultados: document.getElementById('contador-resultados'),
             resultadosVisiveis: document.getElementById('resultados-visiveis'),
@@ -83,7 +88,7 @@ class ConcordanciaOptimized {
                     this.selectLetter(this.currentLetter); // Recarrega a lista da letra atual
                 } else {
                     // Limpa imediatamente a área de resultados quando começar a digitar
-                    this.elements.resultadosContainer.innerHTML = '';
+                    this.elements.resultadosConteiner.innerHTML = '';
                     this.elements.contadorResultados.style.display = 'none';
                     this.elements.carregarMais.style.display = 'none';
                     
@@ -116,20 +121,20 @@ class ConcordanciaOptimized {
         if (!testamentoSelect) return;
 
         const selectedDisplay = testamentoSelect.querySelector('.select-selected');
-        const itemsContainer = testamentoSelect.querySelector('.select-items');
+        const itemsConteiner = testamentoSelect.querySelector('.select-items');
         
-        if (!selectedDisplay || !itemsContainer) return;
+        if (!selectedDisplay || !itemsConteiner) return;
 
         // Evento para abrir/fechar dropdown
         selectedDisplay.addEventListener('click', (e) => {
             e.stopPropagation();
             this.closeAllDropdowns();
-            itemsContainer.classList.toggle('select-hide');
+            itemsConteiner.classList.toggle('select-hide');
             selectedDisplay.classList.toggle('select-arrow-active');
         });
 
         // Eventos para os itens do dropdown
-        itemsContainer.querySelectorAll('div').forEach(item => {
+        itemsConteiner.querySelectorAll('div').forEach(item => {
             item.addEventListener('click', (e) => {
                 e.stopPropagation();
                 const valor = item.getAttribute('data-value') || 'todos';
@@ -140,7 +145,7 @@ class ConcordanciaOptimized {
                 selectedDisplay.setAttribute('data-value', valor);
                 
                 // Remove seleção anterior e marca nova
-                itemsContainer.querySelectorAll('div').forEach(div => div.classList.remove('same-as-selected'));
+                itemsConteiner.querySelectorAll('div').forEach(div => div.classList.remove('same-as-selected'));
                 item.classList.add('same-as-selected');
                 
                 // Atualiza filtro
@@ -165,15 +170,15 @@ class ConcordanciaOptimized {
         if (!livroSelect) return;
 
         const selectedDisplay = livroSelect.querySelector('.select-selected');
-        const itemsContainer = livroSelect.querySelector('.select-items');
+        const itemsConteiner = livroSelect.querySelector('.select-items');
         
-        if (!selectedDisplay || !itemsContainer) return;
+        if (!selectedDisplay || !itemsConteiner) return;
 
         // Evento para abrir/fechar dropdown
         selectedDisplay.addEventListener('click', (e) => {
             e.stopPropagation();
             this.closeAllDropdowns();
-            itemsContainer.classList.toggle('select-hide');
+            itemsConteiner.classList.toggle('select-hide');
             selectedDisplay.classList.toggle('select-arrow-active');
         });
 
@@ -190,8 +195,8 @@ class ConcordanciaOptimized {
     }
 
     closeAllDropdowns() {
-        document.querySelectorAll('.custom-select .select-items').forEach(container => {
-            container.classList.add('select-hide');
+        document.querySelectorAll('.custom-select .select-items').forEach(conteiner => {
+            conteiner.classList.add('select-hide');
         });
         document.querySelectorAll('.custom-select .select-selected').forEach(display => {
             display.classList.remove('select-arrow-active');
@@ -262,7 +267,7 @@ class ConcordanciaOptimized {
         if (this.isLoading) return;
 
         if (clearResults) {
-            this.elements.resultadosContainer.innerHTML = '';
+            this.elements.resultadosConteiner.innerHTML = '';
             this.elements.contadorResultados.style.display = 'none';
             this.elements.carregarMais.style.display = 'none';
         }
@@ -271,7 +276,7 @@ class ConcordanciaOptimized {
         this.isLoading = true;
 
         try {
-            const result = await window.dataManager.loadLetterData(letra, page);
+            const result = await this.dataManager.loadLetterData(letra, page);
             
             // Define o tamanho da página na primeira carga de uma letra
             if (page === 0) {
@@ -355,7 +360,7 @@ class ConcordanciaOptimized {
 
         if (this.isLoading) return;
 
-        this.elements.resultadosContainer.innerHTML = '';
+        this.elements.resultadosConteiner.innerHTML = '';
         this.elements.contadorResultados.style.display = 'none';
         this.elements.carregarMais.style.display = 'none';
         
@@ -465,7 +470,7 @@ class ConcordanciaOptimized {
         }).filter(Boolean);
 
         // 6. Renderiza e atualiza contador
-        this.elements.resultadosContainer.innerHTML = '';
+        this.elements.resultadosConteiner.innerHTML = '';
         this.renderResults(finalResults, false);
         this.updateResultsCounter(finalResults.length, this.totalResultsCount);
     }
@@ -480,32 +485,32 @@ class ConcordanciaOptimized {
         const livroSelect = document.getElementById('custom-livro-select');
         if (!livroSelect) return;
         
-        const itemsContainer = livroSelect.querySelector('.select-items');
+        const itemsConteiner = livroSelect.querySelector('.select-items');
         const selectedDisplay = livroSelect.querySelector('.select-selected');
         
-        if (!itemsContainer || !selectedDisplay) return;
+        if (!itemsConteiner || !selectedDisplay) return;
         
-        itemsContainer.innerHTML = '';
+        itemsConteiner.innerHTML = '';
         
         const todosOption = document.createElement('div');
         todosOption.textContent = 'Todos os livros';
         todosOption.setAttribute('data-value', 'todos');
         todosOption.classList.add('same-as-selected');
-        itemsContainer.appendChild(todosOption);
+        itemsConteiner.appendChild(todosOption);
         
         const livros = this.getLivrosPorTestamento(normalizedTestamento);
         livros.forEach(livro => {
             const option = document.createElement('div');
             option.textContent = livro.nome;
             option.setAttribute('data-value', livro.id);
-            itemsContainer.appendChild(option);
+            itemsConteiner.appendChild(option);
         });
         
         selectedDisplay.textContent = 'Todos os livros';
         selectedDisplay.setAttribute('data-value', 'todos');
         this.filters.livro = 'todos';
         
-        itemsContainer.querySelectorAll('div').forEach(item => {
+        itemsConteiner.querySelectorAll('div').forEach(item => {
             item.addEventListener('click', (e) => {
                 e.stopPropagation();
                 const valor = item.getAttribute('data-value') || 'todos';
@@ -514,7 +519,7 @@ class ConcordanciaOptimized {
                 selectedDisplay.textContent = texto;
                 selectedDisplay.setAttribute('data-value', valor);
                 
-                itemsContainer.querySelectorAll('div').forEach(div => div.classList.remove('same-as-selected'));
+                itemsConteiner.querySelectorAll('div').forEach(div => div.classList.remove('same-as-selected'));
                 item.classList.add('same-as-selected');
                 
                 this.filters.livro = valor;
@@ -601,71 +606,117 @@ class ConcordanciaOptimized {
     }
 
     async searchInAllFiles(searchTerm) {
-        const searchLower = searchTerm.toLowerCase();
-        const allResults = [];
-        const letters = 'abcdefghijklmnopqrstuvwxyz'.split('');
+    const searchLower = searchTerm.toLowerCase();
+    console.log('🚀 Iniciando busca otimizada para:', searchLower);
+    
+    this._showSearchStatus(10);
+    
+    // Usa o novo método de busca prioritária
+    try {
+        const result = await window.dataManager.searchPriority(searchTerm, this.filters);
         
-        this.elements.loadingIndicator.innerHTML = `<div class="loading-spinner"></div> <p>Buscando "${searchTerm}" em todos os arquivos...</p>`;
+        this._hideSearchStatus();
         
-        for (const letter of letters) {
-            try {
-                await window.dataManager.loadLetterList();
-                const letterFiles = window.dataManager.listaLetras[letter] || [];
-                
-                for (const fileName of letterFiles) {
-                    try {
-                        const response = await fetch(`../concordancia/${letter}/${fileName}.json`);
-                        if (!response.ok) continue;
-                        
-                        const jsonData = await response.json();
-                        const wordEntries = jsonData[letter] || [];
-                        
-                        wordEntries.forEach(item => {
-                            let matchingConcordancias = [];
-                            let wordMatches = false;
-                            
-                            if (item.palavra && item.palavra.toLowerCase().includes(searchLower)) {
-                                wordMatches = true;
-                                matchingConcordancias = item.concordancias || [];
-                            }
-                            
-                            if (!wordMatches && item.concordancias) {
-                                const regex = new RegExp(`\\b${searchLower.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'gi');
-                                matchingConcordancias = item.concordancias.filter(concordancia => regex.test(concordancia.texto));
-                            }
-                            
-                            if (!wordMatches && !matchingConcordancias.length && item.fonte) {
-                                if (item.fonte.toLowerCase().includes(searchLower)) { matchingConcordancias = item.concordancias || []; }
-                            }
-                            
-                            if (!wordMatches && !matchingConcordancias.length && item['veja tambem']) {
-                                if (item['veja tambem'].some(vt => vt.toLowerCase().includes(searchLower))) { matchingConcordancias = item.concordancias || []; }
-                            }
-                            
-                            if (matchingConcordancias.length > 0) {
-                                allResults.push({ ...item, concordancias: matchingConcordancias, ocorrencias: matchingConcordancias.length });
-                            }
-                        });
-                        
-                    } catch (fileError) { console.warn(`Erro ao carregar arquivo ${fileName}.json:`, fileError); }
-                }
-                
-            } catch (letterError) { console.warn(`Erro ao processar letra ${letter}:`, letterError); }
+        if (result && result.data && result.data.length > 0) {
+            console.log('✅ Busca concluída com sucesso. Resultados:', result.data.length);
+            return result;
         }
         
-        allResults.sort((a, b) => {
-            const aExact = a.palavra.toLowerCase() === searchLower;
-            const bExact = b.palavra.toLowerCase() === searchLower;
-            if (aExact && !bExact) return -1;
-            if (!aExact && bExact) return 1;
-            return b.ocorrencias - a.ocorrencias;
-        });
+        // Se não encontrou resultados, tenta busca mais ampla
+        console.log('🔍 Nenhum resultado encontrado, tentando busca ampla...');
+        return await this._fallbackSearch(searchLower);
         
-        return { data: allResults, total: allResults.length };
+    } catch (error) {
+        console.error('Erro na busca prioritária:', error);
+        this._hideSearchStatus();
+        return await this._fallbackSearch(searchLower);
     }
+}
+
+// Busca de fallback mais ampla
+async _fallbackSearch(searchLower) {
+    this._showSearchStatus(50);
+    
+    const allResults = [];
+    const letrasPrioritarias = [
+        searchLower.charAt(0), // Letra inicial
+        'a', 'e', 'o', 's', 'c', 'p', 'm' // Letras mais comuns
+    ];
+    
+    const letrasUnicas = [...new Set(letrasPrioritarias)];
+    
+    let letrasProcessadas = 0;
+    
+    for (const letra of letrasUnicas) {
+        if (allResults.length > 50) break; // Limite de resultados
+        
+        try {
+            await window.dataManager.loadLetterList();
+            const letterFiles = window.dataManager.listaLetras[letra] || [];
+            
+            // Limita a 5 arquivos por letra
+            for (const fileName of letterFiles.slice(0, 5)) {
+                try {
+                    const response = await fetch(`../concordancia/${letra}/${fileName}.json`);
+                    if (!response.ok) continue;
+                    
+                    const jsonData = await response.json();
+                    const wordEntries = jsonData[letra] || [];
+                    
+                    for (const item of wordEntries) {
+                        // Verifica correspondência na palavra
+                        if (item.palavra && item.palavra.toLowerCase().includes(searchLower)) {
+                            allResults.push({
+                                ...item,
+                                ocorrencias: item.ocorrencias || 1
+                            });
+                        }
+                        // Verifica correspondência no texto das concordâncias
+                        else if (item.concordancias) {
+                            const concordanciasCorrespondentes = item.concordancias.filter(concordancia => 
+                                concordancia.texto && concordancia.texto.toLowerCase().includes(searchLower)
+                            );
+                            
+                            if (concordanciasCorrespondentes.length > 0) {
+                                allResults.push({
+                                    ...item,
+                                    concordancias: concordanciasCorrespondentes,
+                                    ocorrencias: concordanciasCorrespondentes.length
+                                });
+                            }
+                        }
+                    }
+                    
+                } catch (fileError) {
+                    console.warn(`Erro no arquivo ${fileName}:`, fileError);
+                }
+            }
+            
+        } catch (error) {
+            console.warn(`Erro ao processar letra ${letra}:`, error);
+        }
+        
+        letrasProcessadas++;
+        this._showSearchStatus(50 + Math.floor(letrasProcessadas / letrasUnicas.length * 40));
+    }
+    
+    // Ordena por relevância
+    allResults.sort((a, b) => {
+        const aExact = a.palavra && a.palavra.toLowerCase() === searchLower;
+        const bExact = b.palavra && b.palavra.toLowerCase() === searchLower;
+        if (aExact && !bExact) return -1;
+        if (!aExact && bExact) return 1;
+        return (b.ocorrencias || 0) - (a.ocorrencias || 0);
+    });
+    
+    return {
+        data: allResults.slice(0, 100),
+        total: allResults.length
+    };
+}
 
     renderResults(data, append = false) {
-        if (!append) { this.elements.resultadosContainer.innerHTML = ''; }
+        if (!append) { this.elements.resultadosConteiner.innerHTML = ''; }
         if (data.length === 0 && !append) { this.showNoResults(); return; }
 
         const fragment = document.createDocumentFragment();
@@ -673,11 +724,11 @@ class ConcordanciaOptimized {
             const palavraElement = this.createPalavraElement(item);
             fragment.appendChild(palavraElement);
         });
-        this.elements.resultadosContainer.appendChild(fragment);
+        this.elements.resultadosConteiner.appendChild(fragment);
 
-        this.elements.resultadosContainer.style.display = 'none';
-        this.elements.resultadosContainer.offsetHeight;
-        this.elements.resultadosContainer.style.display = '';
+        this.elements.resultadosConteiner.style.display = 'none';
+        this.elements.resultadosConteiner.offsetHeight;
+        this.elements.resultadosConteiner.style.display = '';
     }
 
     createPalavraElement(item) {
@@ -748,13 +799,25 @@ class ConcordanciaOptimized {
         }
     }
 
-    updateLoadMoreButton() {
-        const contadorContainer = this.elements.contadorResultados;
-        if (!contadorContainer) return;
+    _showSearchStatus(progress) {
+        if (this.elements.loadingIndicator) {
+            this.elements.loadingIndicator.style.display = 'flex';
+        }
+    }
 
-        contadorContainer.innerHTML = '';
+    _hideSearchStatus() {
+        if (this.elements.loadingIndicator) {
+            this.elements.loadingIndicator.style.display = 'none';
+        }
+    }
+
+    updateLoadMoreButton() {
+        const contadorConteiner = this.elements.contadorResultados;
+        if (!contadorConteiner) return;
+
+        contadorConteiner.innerHTML = '';
         if (this.totalResultsCount === 0 && this.currentResults.length === 0) {
-            contadorContainer.style.display = 'none';
+            contadorConteiner.style.display = 'none';
             return;
         }
 
@@ -764,12 +827,12 @@ class ConcordanciaOptimized {
         btnAnterior.textContent = 'ANTERIOR';
         btnAnterior.onclick = () => this.loadPreviousPage();
         btnAnterior.disabled = this.currentPage === 0 || !!this.searchTerm;
-        contadorContainer.appendChild(btnAnterior);
+        contadorConteiner.appendChild(btnAnterior);
 
         const carregarMaisText = document.createElement('span');
         carregarMaisText.className = 'btn-carregar-mais';
         carregarMaisText.textContent = 'CARREGAR MAIS RESULTADOS';
-        contadorContainer.appendChild(carregarMaisText);
+        contadorConteiner.appendChild(carregarMaisText);
 
         const btnProximo = document.createElement('button');
         btnProximo.id = 'btn-proximo';
@@ -777,14 +840,14 @@ class ConcordanciaOptimized {
         btnProximo.textContent = 'PRÓXIMO';
         btnProximo.onclick = () => this.loadNextPage();
         btnProximo.disabled = !this.hasMore || !!this.searchTerm;
-        contadorContainer.appendChild(btnProximo);
+        contadorConteiner.appendChild(btnProximo);
 
         const contador = document.createElement('p');
         // Usa `this.visibleCount` para o valor "mostrando" e `this.totalResultsCount` para o total
         contador.textContent = `Mostrando ${this.visibleCount} de ${this.totalResultsCount} resultados`;
-        contadorContainer.appendChild(contador);
+        contadorConteiner.appendChild(contador);
 
-        contadorContainer.style.display = 'flex';
+        contadorConteiner.style.display = 'flex';
     }
 
     async loadPreviousPage() {
@@ -802,17 +865,17 @@ class ConcordanciaOptimized {
     showLoading(show) {
         if (show) {
             this.elements.loadingIndicator.style.display = 'block';
-            this.elements.resultadosContainer.style.visibility = 'hidden';
+            this.elements.resultadosConteiner.style.visibility = 'hidden';
             this.elements.contadorResultados.style.display = 'none';
             this.elements.carregarMais.style.display = 'none';
         } else {
             this.elements.loadingIndicator.style.display = 'none';
-            this.elements.resultadosContainer.style.visibility = 'visible';
+            this.elements.resultadosConteiner.style.visibility = 'visible';
         }
     }
 
     showError(message) {
-        this.elements.resultadosContainer.innerHTML = `
+        this.elements.resultadosConteiner.innerHTML = `
             <div class="sem-resultados">
                 <h3>Erro</h3>
                 <p>${message}</p>
@@ -821,7 +884,7 @@ class ConcordanciaOptimized {
     }
 
     showNoResults(message = 'Nenhum resultado encontrado.') {
-        this.elements.resultadosContainer.innerHTML = `
+        this.elements.resultadosConteiner.innerHTML = `
             <div class="sem-resultados">
                 <h3>Sem resultados</h3>
                 <p>${message}</p>

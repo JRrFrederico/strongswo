@@ -18,7 +18,7 @@
     };
 
     // Este bloco define as chaves (nomes) usadas para salvar dados no localStorage do navegador.
-    const CHAVES_LOCAL_STORAGE = {
+    const CHAVES_ARMAZENAMENTO_LOCAL = {
         VERSAO_BIBLICA: 'versaoBiblicaSelecionada',                                    // Define a chave para a versão da Bíblia selecionada.
         MODO_LEITURA: 'modoLeituraAtivo',                                              // Define a chave para o estado do modo leitura.
         ULTIMO_LIVRO: 'ultimoLivroSelecionado',                                        // Define a chave para o último livro visitado.
@@ -27,7 +27,7 @@
     };
 
     // Este bloco define a função global para armazenar dados de um capítulo no cache.
-    window.cacheCapítulo = function(livro, capitulo, dados) {
+    window.cacheCapitulo = function(livro, capitulo, dados) {
         const chave = `${livro.toLowerCase()}_${capitulo}`;                            // Cria uma chave única combinando o nome do livro e o número do capítulo.
         cache.capitulos[chave] = dados;                                                // Armazena os dados do capítulo no objeto de cache usando a chave criada.
     };
@@ -39,7 +39,7 @@
     };
 
     // Este bloco define a função global para limpar todo o cache de capítulos.
-    window.limparCacheCapítulos = function() {
+    window.limparCacheCapitulos = function() {
         cache.capitulos = {};                                                          // Redefine o objeto de capítulos para um objeto vazio, limpando-o.
     };
 
@@ -74,9 +74,9 @@
 
     // Este bloco define a função que carrega todas as preferências do localStorage para o cache.
     window.carregarPreferencias = function() {
-        Object.keys(CHAVES_LOCAL_STORAGE).forEach(chave => {                           // Percorre cada uma das chaves de preferência definidas no início do script.
-            const chaveStorage = CHAVES_LOCAL_STORAGE[chave];                          // Pega o nome da chave (ex: 'versaoBiblicaSelecionada').
-            cache.preferencias[chaveStorage] = window.obterPreferencia(chaveStorage);  // Usa a função 'obterPreferencia' para carregar e armazenar cada uma no cache.
+        Object.keys(CHAVES_ARMAZENAMENTO_LOCAL).forEach(chave => {                           // Percorre cada uma das chaves de preferência definidas no início do script.
+            const chaveArmazenamento = CHAVES_ARMAZENAMENTO_LOCAL[chave];                          // Pega o nome da chave (ex: 'versaoBiblicaSelecionada').
+            cache.preferencias[chaveArmazenamento] = window.obterPreferencia(chaveArmazenamento);  // Usa a função 'obterPreferencia' para carregar e armazenar cada uma no cache.
         });
     };
 

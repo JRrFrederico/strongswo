@@ -90,10 +90,10 @@ window.getSpecificVerseCount = function(livro, capitulo) {
 // Cria a função que será chamada por biblia-navegacao.js. Carregar o versículo (Original - JSON)
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     console.log(`[ORIGINAL] Carregando: ${livro} ${capitulo}:${versiculo}`);                   // Loga o carregamento do versículo
-    const content = document.querySelector('.content');                                        // Seleciona o container principal
+    const content = document.querySelector('.content');                                        // Seleciona o conteiner principal
     let tituloH2 = document.querySelector('.content h2');                                      // Seleciona o título principal
     if (!content) {
-        console.error("[ORIGINAL] Elemento .content não encontrado.");                         // Loga erro se não encontrar o container
+        console.error("[ORIGINAL] Elemento .content não encontrado.");                         // Loga erro se não encontrar o conteiner
         return;
     }
 
@@ -141,7 +141,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
         versiculoElementDiv.appendChild(textoP);                                                             // Adiciona o elemento <p> à div do versículo
     }
 
-    content.appendChild(versiculoElementDiv);                                                                // Adiciona o versículo ao container
+    content.appendChild(versiculoElementDiv);                                                                // Adiciona o versículo ao conteiner
     if (window.titulo) {
         window.titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;// Atualiza o texto do título principal da página
     } else {                                                                                                 // Caso não exista o elemento de título principal

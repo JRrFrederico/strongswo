@@ -41,7 +41,7 @@
         // Busca o capítulo anterior e o próximo (usando funções do script de navegação principal)
         const livroCapituloAnterior = await window.obterLivroCapituloAnterior(livro, capitulo);// Aguarda a busca pelas informações do capítulo anterior.
         const proximoLivroCapitulo  = await window.obterProximoLivroECapitulo(livro, capitulo);// Aguarda a busca pelas informações do próximo capítulo.
-        let htmlBotoesNavegacao = '<div class="reading-mode-navigation">';                     // Inicia a criação do texto HTML com um container <div>.
+        let htmlBotoesNavegacao = '<div class="reading-mode-navigation">';                     // Inicia a criação do texto HTML com um conteiner <div>.
         
         htmlBotoesNavegacao += livroCapituloAnterior ?                                         // Usa um if-curto: se existe um capítulo anterior...
             `<button id="modoLeitura-capitulo-anterior" data-livro="${livroCapituloAnterior.livro}" data-capitulo="${livroCapituloAnterior.capitulo}">Cap. Anterior</button>` : // ...cria um botão habilitado.
@@ -51,15 +51,15 @@
             `<button id="modoLeitura-capitulo-proximo" data-livro="${proximoLivroCapitulo.livro}" data-capitulo="${proximoLivroCapitulo.capitulo}">Cap. Próximo</button>` : // ...cria um botão habilitado.
             `<button id="modoLeitura-capitulo-proximo" disabled>Cap. Próximo</button>`;        // Senão, cria um botão desabilitado.
             
-        htmlBotoesNavegacao += '</div>';                                                       // Fecha o container <div> no texto HTML.
+        htmlBotoesNavegacao += '</div>';                                                       // Fecha o conteiner <div> no texto HTML.
         
         return htmlBotoesNavegacao;                                                            // Retorna a string HTML completa com os botões.
     };
 
     // Este bloco cria uma nova função para configurar os event listeners NOS BOTÕES QUE JÁ ESTÃO NO DOM. */
-    window.configurarListenersNavegacao = async function(containerLeitura, livro, capitulo) {
+    window.configurarListenersNavegacao = async function(conteinerLeitura, livro, capitulo) {
         const configurarBotaoNavegacao = (id) => {                                             // Cria uma função interna para evitar a repetição de código.
-            const botao = containerLeitura.querySelector(`#${id}`);                            // Busca o botão pelo seu ID dentro do container de leitura.
+            const botao = conteinerLeitura.querySelector(`#${id}`);                            // Busca o botão pelo seu ID dentro do conteiner de leitura.
             if (botao && !botao.disabled) {                                                    // Verifica se o botão foi encontrado e se não está desabilitado.
                 const novoBotao = botao.cloneNode(true);                                       // Cria uma cópia exata do botão para limpar eventos antigos.
                 botao.parentNode.replaceChild(novoBotao, botao);                               // Substitui o botão original pela sua cópia limpa.

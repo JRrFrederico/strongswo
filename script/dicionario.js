@@ -23,14 +23,15 @@ class Dicionario {
     initializeElements() {
         this.elements = {
             dicionarioInput: document.querySelector('#secao-dicionario .dicionario-busca input'),  // Busca o campo de input da busca do dicionário.
-            dicionarioResultados: document.getElementById('dicionario-resultados'),                // Busca o container onde os resultados serão exibidos.
+            dicionarioBtn: document.querySelector('#secao-dicionario .dicionario-btn'),
+            dicionarioResultados: document.getElementById('dicionario-resultados'),                // Busca o conteiner onde os resultados serão exibidos.
             secaoDicionario: document.getElementById('secao-dicionario'),                          // Busca o elemento da seção principal do dicionário.
         };
     }
 
     // Este bloco vincula todos os eventos necessários para a interatividade do dicionário.
     bindEvents() {                                                                                 // Validação para garantir que os elementos essenciais existem no DOM.
-        if (!this.elements.dicionarioInput || !this.elements.secaoDicionario) {
+        if (!this.elements.dicionarioInput || !this.elements.secaoDicionario || !this.elements.dicionarioBtn) {
             console.error("Elementos essenciais do dicionário não foram encontrados no DOM.");     // Exibe um erro se elementos cruciais não forem encontrados.
             return;
         }
@@ -46,9 +47,8 @@ class Dicionario {
             });
         });
 
-        // Este bloco adiciona evento de digitação no campo de busca para filtrar resultados em tempo real.
-        this.elements.dicionarioInput.addEventListener('input', (e) => {
-            this.handleSearch(e.target.value);                                                     // Chama o manipulador de busca com o valor do input.
+        this.elements.dicionarioBtn.addEventListener('click', () => {
+            this.handleSearch(this.elements.dicionarioInput.value);
         });
     }
 
@@ -85,7 +85,7 @@ class Dicionario {
         // Este bloco limpa a interface antes de carregar novos dados.
         if (this.elements.dicionarioInput) this.elements.dicionarioInput.value = '';                         // Limpa o campo de busca.
         // Exibe um spinner de carregamento.
-        this.elements.dicionarioResultados.innerHTML = '<div class="loading-container"><div class="loading-spinner"></div><p>Carregando dados...</p></div>';
+        this.elements.dicionarioResultados.innerHTML = '<div class="loading-conteiner"><div class="loading-spinner"></div><p>Carregando dados...</p></div>';
         this.clearPagination();                                                                              // Limpa a paginação anterior.
 
         // Este bloco carrega o mapa de arquivos (lista_letras.json) se ainda não estiver em cache.
@@ -140,7 +140,7 @@ class Dicionario {
 
         // Este bloco mapeia cada resultado para seu elemento HTML e junta tudo em uma string.
         const resultsHtml = results.map(item => this.createDefinitionElement(item)).join('');
-        this.elements.dicionarioResultados.innerHTML = resultsHtml;                                          // Insere o HTML gerado no container de resultados.
+        this.elements.dicionarioResultados.innerHTML = resultsHtml;                                          // Insere o HTML gerado no conteiner de resultados.
 
         // Adiciona eventos de clique para expandir/recolher as definições.
         this.elements.dicionarioResultados.querySelectorAll('.palavra-header').forEach(header => {
@@ -184,7 +184,7 @@ class Dicionario {
 
     // Este bloco renderiza os controles de paginação e os insere na barra de busca.
     renderPagination() {
-        const linhaBusca = document.querySelector('#secao-dicionario .dicionario-linha');                    // Busca o container da barra superior.
+        const linhaBusca = document.querySelector('#secao-dicionario .dicionario-linha');                    // Busca o conteiner da barra superior.
         if (!linhaBusca) return;
 
         this.clearPagination();                                                                              // Garante que não haja controles de paginação duplicados.
@@ -263,7 +263,7 @@ class Dicionario {
         }
 
         this.allGlobalTermos = [];
-        this.elements.dicionarioResultados.innerHTML = '<div class="loading-container"><div class="loading-spinner"></div><p>Carregando todos os termos para busca...</p></div>';
+        this.elements.dicionarioResultados.innerHTML = '<div class="loading-conteiner"><div class="loading-spinner"></div><p>Carregando todos os termos para busca...</p></div>';
 
         for (const letra in this.listaLetras) {
             const arquivos = this.listaLetras[letra];
@@ -301,12 +301,33 @@ class Dicionario {
         }
 
         // Este bloco filtra os resultados de `allGlobalTermos` com base no termo de busca.
-        const filteredResults = this.allGlobalTermos.filter(item =>
-            item.termo.toLowerCase().includes(term)                                                          // Compara o termo de forma insensível a maiúsculas/minúsculas.
-        );
+        const filteredResults = this.allGlobalTermos.filter(item => {
+            const termo = (item.termo || '').toLowerCase();
+            const definicao = (item.definicao || '').toLowerCase();
+            const definicaoAdicional = (item.definicaoAdicional || '').toLowerCase();
+            const referencias = (item.referencias || []).join(' ').toLowerCase();
+
+            return termo.includes(term) ||
+                   definicao.includes(term) ||
+                   definicaoAdicional.includes(term) ||
+                   referencias.includes(term);
+        });
         
         this.clearPagination();                                                                              // Remove a paginação durante a busca.
         this.renderDictionaryResults(filteredResults);                                                       // Renderiza os resultados filtrados.
+
+        const linhaBusca = document.querySelector('#secao-dicionario .dicionario-linha');
+        if (linhaBusca) {
+            const paginacaoGrupo = document.createElement("div");
+            paginacaoGrupo.className = "dicionario-paginacao-grupo";
+            
+            if (filteredResults.length > 0) {
+                const total = filteredResults.length;
+                paginacaoGrupo.innerHTML = `<span class="contador-dicionario">Mostrando ${total} de ${total} resultados</span>`;
+            }
+            
+            linhaBusca.appendChild(paginacaoGrupo);
+        }
     }
 
     // Este bloco atualiza a classe 'active' no botão da letra correspondente no menu lateral.
@@ -316,3 +337,4 @@ class Dicionario {
         });
     }
 }
+

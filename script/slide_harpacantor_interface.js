@@ -41,7 +41,7 @@ function gerarHtmlJanelaHino(hinoData) {
             z-index: 1;
         }
         
-        #slide-container {
+        #slide-conteiner {
             display: flex;
             flex-direction: column;
             justify-content: space-between;
@@ -190,7 +190,7 @@ function gerarHtmlJanelaHino(hinoData) {
 <body>
     <div id="marcadagua"></div>
     
-    <div id="slide-container">
+    <div id="slide-conteiner">
         <header id="slide-header">
             <h1 id="slide-titulo"></h1>
             <p id="slide-progresso"></p>

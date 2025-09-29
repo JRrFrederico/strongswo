@@ -41,7 +41,7 @@ function abrirJanelaDeBusca(resultados, getLivroDisplayNameFunc) {
 
     <div id="search-content">
         <h2>Resultados da Busca</h2>
-        <div id="resultados-busca-container">
+        <div id="resultados-busca-conteiner">
             ${resultadosHtml}
         </div>
     </div>

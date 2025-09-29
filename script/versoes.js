@@ -51,18 +51,18 @@
         await window.atualizaBotoesCapitulos(livro, cap);
         await window.toggleVersiculos(livro, cap);
         setTimeout(() => {
-            const containerCapitulos = document.querySelector('#dynamic-chapter-buttons-container');
-            if (containerCapitulos) {
-                containerCapitulos.querySelectorAll('button').forEach(btn => {
+            const conteinerCapitulos = document.querySelector('#dynamic-chapter-buttons-conteiner');
+            if (conteinerCapitulos) {
+                conteinerCapitulos.querySelectorAll('button').forEach(btn => {
                     btn.classList.toggle('active', btn.dataset.capitulo == cap);
                 });
             }
-            const containerVersiculos = document.querySelector('.conteudo-versiculos');
-            if (!containerVersiculos) {
-                console.error("Container de versículos não encontrado após o toggle.");
+            const conteinerVersiculos = document.querySelector('.conteudo-versiculos');
+            if (!conteinerVersiculos) {
+                console.error("Conteiner de versículos não encontrado após o toggle.");
                 return;
             }
-            const botaoVersiculo = containerVersiculos.querySelector(`button[data-versiculo="${vers}"]`);
+            const botaoVersiculo = conteinerVersiculos.querySelector(`button[data-versiculo="${vers}"]`);
             if (botaoVersiculo && typeof botaoVersiculo.click === 'function') {
                 console.log(`[Navegação] Clicando no botão do versículo ${vers}.`);
                 botaoVersiculo.click();
@@ -94,6 +94,7 @@
             await carregaScriptAssincrono('../script/slide_biblia_utils.js', 'script-slide-utils');
             await carregaScriptAssincrono('../script/slide_biblia_interface.js', 'script-slide-interface');
             await carregaScriptAssincrono('../script/slide_biblia_janela.js', 'script-slide-janela');
+            await carregaScriptAssincrono('../script/slide_biblia_preload.js', 'script-slide-preload');
             await carregaScriptAssincrono('../script/slide_biblia_coordenador.js', 'script-slide-coordenador');
 
             if (typeof window.inicializarDropdowns === 'function') window.inicializarDropdowns();
@@ -188,7 +189,7 @@
             let mensagemInicial = '<p>Buscando...</p>';
             if (window.searchEngine && !window.searchEngine.isReady) {
                 mensagemInicial = `
-                    <div id="progress-container">
+                    <div id="progress-conteiner">
                         <p>Preparando a busca rápida (só na primeira vez)...</p>
                         <div id="progress-bar-outer">
                             <div id="progress-bar-inner"></div>
@@ -230,14 +231,14 @@ shadow.innerHTML = `<style>
         min-height: 0;
     }
 
-    #resultados-busca-container {
+    #resultados-busca-conteiner {
         flex-grow: 1;
         overflow-y: auto;
         scrollbar-width: none;
         padding-left: 60px; 
     }
 
-    #resultados-busca-container::-webkit-scrollbar {
+    #resultados-busca-conteiner::-webkit-scrollbar {
         display: none;
     }
 
@@ -290,14 +291,14 @@ shadow.innerHTML = `<style>
         text-align: left;
     }
 
-    #resultados-busca-container p { 
+    #resultados-busca-conteiner p { 
         text-align: center; 
         font-size: 1.5em; 
         padding: 40px 0; 
         color: #ccc;
     }
 
-    #progress-container { 
+    #progress-conteiner { 
         padding: 20px; 
         text-align: center; 
     }
@@ -326,7 +327,7 @@ shadow.innerHTML = `<style>
 </style>
 <div id="search-content">
     <h2>Resultados da Busca</h2>
-    <div id="resultados-busca-container">${mensagemInicial}</div>
+    <div id="resultados-busca-conteiner">${mensagemInicial}</div>
 </div>`;            
             document.body.appendChild(overlay);
             document.body.style.overflow = 'hidden';
@@ -335,15 +336,15 @@ shadow.innerHTML = `<style>
                 const resultados = await window.realizarBuscaAvancada(termo);
                 exibirResultados(resultados, overlay, getLivroDisplayName);
             } else {
-                const container = overlay.shadowRoot.querySelector('#resultados-busca-container');
-                container.innerHTML = '<p>Funcionalidade de busca não carregada.</p>';
+                const conteiner = overlay.shadowRoot.querySelector('#resultados-busca-conteiner');
+                conteiner.innerHTML = '<p>Funcionalidade de busca não carregada.</p>';
             }
         }
         
         function exibirResultados(resultados, overlay, getLivroDisplayNameFunc) {
             const shadow = overlay.shadowRoot;
-            const container = shadow.querySelector('#resultados-busca-container');
-            container.innerHTML = '';
+            const conteiner = shadow.querySelector('#resultados-busca-conteiner');
+            conteiner.innerHTML = '';
             
             const botaoFechar = document.createElement('button');
             botaoFechar.className = 'botao-fechar-busca';
@@ -355,7 +356,7 @@ shadow.innerHTML = `<style>
             shadow.appendChild(botaoFechar);
 
             if (resultados.length === 0) {
-                container.innerHTML = '<p>Nenhum resultado encontrado.</p>';
+                conteiner.innerHTML = '<p>Nenhum resultado encontrado.</p>';
             } else {
                 resultados.forEach(r => {
                     const div = document.createElement('div');
@@ -369,7 +370,7 @@ shadow.innerHTML = `<style>
                         }
                         botaoFechar.click();
                     });
-                    container.appendChild(div);
+                    conteiner.appendChild(div);
                 });
             }
             setTimeout(() => {
@@ -377,8 +378,8 @@ shadow.innerHTML = `<style>
             }, 10);
         }
 
-        const botaoBuscar = document.querySelector('.barraPesquisa button');
-        const inputBusca = document.querySelector('.barraPesquisa input');
+        const botaoBuscar = document.querySelector('.barra-pesquisa button');
+        const inputBusca = document.querySelector('.barra-pesquisa input');
         if (botaoBuscar && inputBusca) {
             botaoBuscar.addEventListener('click', () => {
                 const termo = inputBusca.value.trim();

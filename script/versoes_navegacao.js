@@ -109,7 +109,7 @@
         const cacheCap = window.obterCapítuloDoCache(chaveLivro, 0);                               // Verifica primeiro no cache global se a contagem já foi feita para este livro.
         if (cacheCap) return cacheCap;                                                             // Se a contagem estiver no cache, retorna o valor imediatamente para economizar tempo.
         if (window.livros && window.livros[chaveLivro] && window.livros[chaveLivro].capitulos) {   // Verifica se a contagem já está disponível em uma variável global 'window.livros'.
-            window.cacheCapítulo(chaveLivro, 0, window.livros[chaveLivro].capitulos);              // Salva a contagem de 'window.livros' no cache para uso futuro.
+            window.cacheCapitulo(chaveLivro, 0, window.livros[chaveLivro].capitulos);              // Salva a contagem de 'window.livros' no cache para uso futuro.
             return window.livros[chaveLivro].capitulos;                                            // Retorna a contagem encontrada em 'window.livros'.
         }
 
@@ -120,7 +120,7 @@
             else break;                                                                            // Se um capítulo não existir, interrompe o laço, pois não haverá mais.
         }
         
-        window.cacheCapítulo(chaveLivro, 0, maximoCapitulo);                                       // Salva o resultado final no cache para não precisar calcular de novo.
+        window.cacheCapitulo(chaveLivro, 0, maximoCapitulo);                                       // Salva o resultado final no cache para não precisar calcular de novo.
         return maximoCapitulo;                                                                     // Retorna o número de capítulos descoberto.
     }
 

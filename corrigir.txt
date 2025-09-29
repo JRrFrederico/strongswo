@@ -1,4 +1,0 @@
-dividir os arquivos:
-comcordancia.js
-biblia-navegacao.js
-dropdown_concordancia

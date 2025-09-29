@@ -1,182 +1,125 @@
-# Bíblia Online - Documentação Completa
+# Documentação Completa do Projeto: Bíblia Sagrada Online
 
-## Visão Geral
+#### Início do projeto: Agosto de 2024
 
-Este projeto é uma aplicação web interativa para leitura da Bíblia Sagrada, com foco em experiência amigável, intuitiva e completa. Desenvolvido em HTML5, CSS3 e JavaScript puro, sem frameworks, para exercitar e fixar o aprendizado.
+## 1. Visão Geral
 
-O objetivo é oferecer uma ferramenta online acessível para leitura e estudo da Bíblia, além de conteúdos complementares como Harpa Cristã, Hinário Batista, Dicionário Bíblico e Concordância. O sistema permite navegação intuitiva entre livros, capítulos e versículos, além de recursos como projeção de versículos (slide), download, utilidades e busca avançada.
+Este projeto é uma aplicação web interativa para leitura e estudo da Bíblia Sagrada, desenvolvida com foco em uma experiência de usuário amigável, intuitiva e completa. A aplicação foi construída com **HTML5, CSS3 e JavaScript puro**, sem o uso de frameworks, como um exercício prático para aprofundar e consolidar conhecimentos fundamentais de desenvolvimento web.
 
-## Estrutura do Projeto
+O objetivo principal é oferecer uma ferramenta online robusta e acessível, que vai além da simples leitura, incorporando um ecossistema de recursos complementares para estudo e adoração, como a Harpa Cristã, o Cantor Cristão (Hinário Batista), um Dicionário Bíblico e uma Concordância Bíblica completa.
+
+## 2. Estrutura do Projeto
+
+A estrutura de pastas foi organizada para garantir modularidade, escalabilidade e facilitar a manutenção:
 
 ```
-biblia/
-├── index.html          # Página principal
-├── style.css           # Estilos gerais
-├── script.js           # Lógica principal
-├── img/                # Imagens
-├── html/               # Páginas das versões
-├── baixar/             # Downloads de versões
-├── arc/ ara/ nvi/      # Estrutura por versão/livro/capítulo
-├── harpa_cantor/       # Hinos e cantos
-├── js/                 # Scripts por versão
-├── css/                # Estilos por versão
-├── README.md           # Documentação resumida
-├── documentacao.md     # Documentação técnica
-└── projeto.md          # Documentação completa
+bibliav1/
+├── index.html              # Página inicial da aplicação
+├── style.css               # Folha de estilo principal
+├── script.js               # Script principal com a lógica geral
+├── readme.md               # Documentação geral do projeto
+├── projeto.md              # Documentação detalhada do projeto (este arquivo)
+├── html/                   # Páginas HTML para as diferentes seções (versões, cursos, etc.)
+├── css/                    # Arquivos CSS específicos para cada seção
+├── script/                 # Scripts JavaScript modulares e específicos de cada funcionalidade
+├── ver/                    # Arquivos de documentação e versionamento do projeto
+├── concordancia/           # Dados da Concordância Bíblica, organizados por letra (JSON)
+├── dicionario/             # Dados do Dicionário Bíblico, organizados por letra (JSON)
+├── harpacrista/            # Hinos da Harpa Cristã (JSON)
+├── cantorcristao/          # Hinos do Cantor Cristão (JSON)
+├── versao/                 # Dados das diferentes versões da Bíblia, com estrutura hierárquica (versao/livro/capitulo.json)
+├── baixar/                 # Arquivos PDF de Bíblias e materiais de estudo para download
+└── img/                    # Imagens, ícones e outros recursos visuais
 ```
 
-## Componentes e Funcionalidades
+## 3. Componentes e Funcionalidades
 
-- **Interface Principal:** Lista de versões, busca em tempo real, popups interativos, design responsivo.
-- **Cards de Versões:** Exibição de imagens e títulos, layout responsivo, efeitos visuais.
-- **Popups:** Boas-vindas, adicionar nova versão, overlays.
-- **Busca:** Filtragem em tempo real, feedback visual.
-- **Upload de Imagens:** Preview, validação, base64.
-- **Slide para Datashow:** Projeção de versículos, navegação simplificada, otimização para tela cheia.
-- **Dicionário e Concordância:** Busca de termos, referências bíblicas, filtros.
-- **Download:** Vários formatos, verificação de disponibilidade.
-- **Utilitários:** Conversão de referências, formatação, estatísticas.
+### Interface Principal
+- **Página de Entrada (`index.html`)**: Apresenta as versões da Bíblia em formato de cards interativos.
+- **Busca de Versões**: Uma barra de pesquisa que filtra as versões em tempo real.
+- **Pop-ups**: Janelas modais para boas-vindas e para adicionar novas versões da Bíblia (funcionalidade de upload de imagem e título).
+- **Design Responsivo**: A interface se adapta a diferentes tamanhos de tela, de dispositivos móveis a desktops.
 
-## Estrutura de Dados e Lógica
+### Módulo de Leitura da Bíblia
+- **Navegação Intuitiva**: Um menu lateral permite a seleção de livros, e a área de conteúdo exibe os capítulos e versículos de forma dinâmica.
+- **Múltiplas Versões**: Suporte para diversas traduções, carregadas a partir de arquivos JSON.
+- **Modo Leitura**: Uma visão otimizada para leitura contínua, com navegação fluida entre capítulos.
 
-```javascript
-// Exemplo de array de versões
-const bibleVersions = [
-    { titleAnime: 'Bíblia ACF', img: './img/acf.png' },
-    { titleAnime: 'Bíblia ARA', img: './img/ara.png' },
-    // ... outras versões
-];
+### Ferramentas de Estudo
+- **Dicionário Bíblico**: Permite a busca por termos bíblicos, com as definições e referências carregadas sob demanda.
+- **Concordância Bíblica**: Uma ferramenta poderosa para encontrar todas as ocorrências de uma palavra ou frase, com filtros por Testamento e livro.
 
-// Busca
-function barraPesquisa() {
-    const searchTerm = inputUserFilter.value.toLowerCase();
-    const filteredVersions = bibleVersions.filter(version => 
-        version.titleAnime.toLowerCase().includes(searchTerm)
-    );
-    // Renderiza resultados
-}
-```
+### Modo Slide (Datashow)
+- **Projeção em Tela Cheia**: Abre uma janela otimizada para apresentações, exibindo versículos com alta legibilidade.
+- **Controles Simplificados**: Navegação fácil entre versículos (anterior/próximo), ideal para uso em cultos e estudos em grupo.
 
-## Fluxo de Dados
+### Outros Recursos
+- **Downloads**: Seção com links para baixar Bíblias e outros materiais em PDF.
+- **Cursos e Utilitários**: Links para recursos externos que complementam o estudo bíblico.
 
-### Carregamento Inicial
+## 4. Fluxo de Dados e Lógica
+
+### Carregamento Inicial da Página
 ```mermaid
 graph TD
-A[Página Carrega] --> B[Inicializa Array de Versões]
-B --> C[Renderiza Lista]
-C --> D[Mostra Popup de Boas-vindas]
+    A[Carregamento do index.html] --> B{Execução do script.js};
+    B --> C[Inicialização do array de versões];
+    C --> D[Renderização dos cards de versões na tela];
+    D --> E[Exibição do popup de boas-vindas];
 ```
 
-### Busca de Versões
+### Busca por uma Versão da Bíblia
 ```mermaid
 graph TD
-A[Usuário Digita] --> B[Filtra Array]
-B --> C[Atualiza Lista]
-C --> D[Feedback Visual]
+    A[Usuário digita na barra de busca] --> B{Evento de input é acionado};
+    B --> C[Função de filtro é chamada com o termo];
+    C --> D[Array de versões é filtrado];
+    D --> E[A lista de cards é atualizada em tempo real];
 ```
 
-### Adição de Nova Versão
+### Adição de uma Nova Versão
 ```mermaid
 graph TD
-A[Clique em +] --> B[Abre Popup]
-B --> C[Upload Imagem]
-C --> D[Preview]
-D --> E[Salvar]
-E --> F[Atualiza Lista]
+    A[Clique no botão '+'] --> B{Abre o popup de nova versão};
+    B --> C[Usuário seleciona uma imagem e digita um título];
+    C --> D[Preview da imagem é exibido];
+    D --> E[Clique em 'Salvar'];
+    E --> F{Nova versão é adicionada ao array};
+    F --> G[A lista de cards é atualizada];
 ```
 
-## Recursos Adicionais
+## 5. Padrões de Código
 
-### Slide para Datashow
-- Apresentação imersiva em tela cheia
-- Navegação entre versículos
-- Layout otimizado para projeção
+O projeto adota padrões rigorosos de codificação para garantir a legibilidade, manutenção e escalabilidade do código.
 
-### Dicionário Bíblico
-- Busca de termos
-- Adição e cache de definições
+### HTML (`index.html` e outras páginas)
+- **Estrutura Semântica**: Uso de tags como `<header>`, `<footer>`, `<main>`, `<section>` e `<aside>`. 
+- **Comentários**: Blocos de comentários (`<!---- ... ---->`) são usados para delimitar seções importantes, facilitando a leitura do código.
 
-### Concordância Bíblica
-- Busca por palavras
-- Geração de índice e referências
+### CSS (`style.css` e outros)
+- **Organização**: As folhas de estilo são divididas em seções lógicas (Reset, Header, Popups, etc.), delimitadas por comentários de bloco.
+- **Nomenclatura**: Classes e IDs seguem um padrão descritivo em português.
+- **Comentários**: 
+    - Blocos de seção: `/*==================== NOME DA SEÇÃO ====================*/`
+    - Comentários de linha: Alinhados à direita, explicando propriedades específicas.
 
-### Download
-- Vários formatos (PDF, EPUB, MOBI)
-- Verificação de disponibilidade
+### JavaScript (`script.js` e módulos)
+- **Modularização**: A lógica é dividida em múltiplos arquivos na pasta `/script/`, cada um com uma responsabilidade clara (ex: `dicionario.js`, `concordancia.js`, `versoes_navegacao.js`).
+- **Padrão de Comentários**:
+    - **Cabeçalho de Arquivo**: Um bloco de comentário no topo de cada arquivo descreve seu propósito.
+    - **Comentários de Linha**: Alinhados à direita (coluna 86), iniciando com um verbo de ação (ex: `// Define...`, `// Carrega...`, `// Adiciona...`).
+- **Nomenclatura**: Variáveis e funções são nomeadas em português para manter a consistência.
 
-### Utilitários
-- Conversão de referências
-- Formatação de texto
-- Estatísticas
+## 6. Pontos de Melhoria (Futuro)
 
-## Interface dos Recursos
+- **Busca Avançada**: Implementar filtros mais complexos na busca da concordância e dicionário.
+- **Leitura em Áudio**: Adicionar a funcionalidade de ouvir a narração dos capítulos.
+- **Marcação de Versículos**: Permitir que os usuários salvem e organizem seus versículos favoritos.
+- **Compartilhamento**: Integrar botões para compartilhar versículos em redes sociais e outros aplicativos.
+- **API e Banco de Dados**: Em uma versão futura, migrar os dados de arquivos JSON para um banco de dados e expor uma API para consumo.
+- **Testes Automatizados**: Implementar uma suíte de testes para garantir a estabilidade do código.
 
-```html
-<!-- Slide -->
-<div class="slide-container">
-    <div class="slide-content"></div>
-    <div class="slide-controls">
-        <button class="prev">Anterior</button>
-        <button class="next">Próximo</button>
-    </div>
-</div>
+## 7. Licença e Contato
 
-<!-- Dicionário -->
-<div class="dicionario-container">
-    <input type="text" class="busca-termo">
-    <div class="resultado-termo"></div>
-</div>
-
-<!-- Concordância -->
-<div class="concordancia-container">
-    <input type="text" class="busca-palavra">
-    <div class="resultados-concordancia"></div>
-</div>
-```
-
-## Estilos e Responsividade
-
-```css
-/* Exemplo de responsividade */
-@media (max-width: 768px) {
-    .lista-versoes { flex-direction: column; }
-}
-@media (min-width: 769px) and (max-width: 1024px) {
-    .lista-versoes { grid-template-columns: repeat(2, 1fr); }
-}
-```
-
-## Segurança e Performance
-
-- Validação de inputs e sanitização de dados
-- Proteção contra XSS
-- Otimização de imagens e lazy loading
-- Cache temporário
-
-## Instruções de Uso
-
-1. **Clonar o Repositório:**
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    ```
-2. **Abrir o Projeto:**
-   - Use seu editor de código preferido (ex: VS Code)
-3. **Estrutura de Arquivos:**
-   - `index.html`, `style.css`, `script.js`, pastas de versões, imagens, etc.
-
-## Próximos Passos
-
-- Implementar persistência de dados
-- Adicionar mais versões
-- Melhorar acessibilidade
-- Otimizar performance
-- Adicionar testes automatizados
-
-## Créditos e Licença
-
-- Projeto desenvolvido por [Seu Nome]
-- Licença: MIT
-
----
-
-*Este arquivo reúne e organiza todas as informações do README.md e documentacao.md, removendo duplicidades e mantendo apenas uma versão de cada explicação.* 
+- **Licença**: Este projeto está licenciado sob a **Licença MIT**.
+- **Contato**: Para dúvidas, sugestões ou colaborações, entre em contato com Wagner F. Freitas pelo e-mail: `wagnerffreitas1973@gmail.com`.

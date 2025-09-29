@@ -30,11 +30,11 @@ class VersiculosManager {                                                       
             }
 
             // Este bloco exibe o texto do versículo na área de conteúdo designada.
-            const container = areaConteudo.querySelector('.conteudo-versiculos') ||            // Busca o container de versículos; se não existir...
-                              this._criarContainerVersiculos(areaConteudo);                    // Chama a função para criar um novo container.
+            const conteiner = areaConteudo.querySelector('.conteudo-versiculos') ||            // Busca o conteiner de versículos; se não existir...
+                              this._criarConteinerVersiculos(areaConteudo);                    // Chama a função para criar um novo conteiner.
 
-            // Este bloco define o conteúdo HTML do container com o número e o texto do versículo.
-            container.innerHTML = `                                                            
+            // Este bloco define o conteúdo HTML do conteiner com o número e o texto do versículo.
+            conteiner.innerHTML = `                                                            
                 <div class="versiculo-ativo">
                     <sup>${versiculo}</sup>
                     <span>${dados.versiculos[versiculo]}</span>
@@ -43,7 +43,7 @@ class VersiculosManager {                                                       
 
             // Este bloco atualiza o estado do versículo ativo e os botões de navegação.
             this.versiculoAtivo = versiculo;                                                   // Armazena o número do versículo carregado como o "versículo ativo".
-            this._atualizarBotoesVersiculos(container, versiculo);                             // Chama a função para marcar visualmente o botão do versículo ativo.
+            this._atualizarBotoesVersiculos(conteiner, versiculo);                             // Chama a função para marcar visualmente o botão do versículo ativo.
 
         } catch (erro) {                                                                       // Captura qualquer erro que tenha ocorrido no bloco 'try'.
             console.error('Erro ao carregar versículo:', erro);                                // Exibe o erro no console do navegador para ajudar na depuração.
@@ -52,8 +52,8 @@ class VersiculosManager {                                                       
 
     // Este bloco define a função que cria os botões de navegação para cada versículo de um capítulo.
     criarBotoesVersiculos(livro, capitulo, totalVersiculos) {
-        const container = document.createElement('div');                                       // Cria um novo elemento <div> na memória para agrupar os botões.
-        container.className = 'conteudo-versiculos';                                           // Define a classe CSS do novo container como 'conteudo-versiculos'.
+        const conteiner = document.createElement('div');                                       // Cria um novo elemento <div> na memória para agrupar os botões.
+        conteiner.className = 'conteudo-versiculos';                                           // Define a classe CSS do novo conteiner como 'conteudo-versiculos'.
 
         // Este bloco inicia um laço de repetição que vai de 1 até o número total de versículos.
         for (let i = 1; i <= totalVersiculos; i++) {
@@ -65,23 +65,23 @@ class VersiculosManager {                                                       
                 this.carregarVersiculo(livro, capitulo, i);                                    // Define a ação a ser executada ao clicar: carregar o respectivo versículo.
             });
 
-            container.appendChild(botao);                                                      // Adiciona o botão recém-criado dentro do container de botões.
+            conteiner.appendChild(botao);                                                      // Adiciona o botão recém-criado dentro do conteiner de botões.
         }
 
-        return container;                                                                      // Retorna o container com todos os botões de versículo criados.
+        return conteiner;                                                                      // Retorna o conteiner com todos os botões de versículo criados.
     }                                                                                          
 
-    // Este bloco define uma função interna para criar um container de versículos.
-    _criarContainerVersiculos(areaConteudo) {
-        const container = document.createElement('div');                                       // Cria um novo elemento <div> na memória.
-        container.className = 'conteudo-versiculos';                                           // Define a classe CSS do novo container.
-        areaConteudo.appendChild(container);                                                   // Adiciona o novo container à área de conteúdo principal da página.
-        return container;                                                                      // Retorna o container que foi criado e adicionado à página.
+    // Este bloco define uma função interna para criar um conteiner de versículos.
+    _criarConteinerVersiculos(areaConteudo) {
+        const conteiner = document.createElement('div');                                       // Cria um novo elemento <div> na memória.
+        conteiner.className = 'conteudo-versiculos';                                           // Define a classe CSS do novo conteiner.
+        areaConteudo.appendChild(conteiner);                                                   // Adiciona o novo conteiner à área de conteúdo principal da página.
+        return conteiner;                                                                      // Retorna o conteiner que foi criado e adicionado à página.
     }
 
     // Este bloco define uma função interna para atualizar o estilo dos botões.
-    _atualizarBotoesVersiculos(container, versiculoAtivo) {
-        container.querySelectorAll('.botao-versiculo').forEach(botao => {                      // Busca todos os botões de versículo e executa uma ação para cada um.
+    _atualizarBotoesVersiculos(conteiner, versiculoAtivo) {
+        conteiner.querySelectorAll('.botao-versiculo').forEach(botao => {                      // Busca todos os botões de versículo e executa uma ação para cada um.
             botao.classList.toggle('active',                                                   // Adiciona ou remove a classe 'active' do botão.
                 parseInt(botao.dataset.versiculo) === versiculoAtivo                           // A classe é adicionada se o número do botão for igual ao versículo ativo.
             );

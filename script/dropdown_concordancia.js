@@ -165,24 +165,24 @@ export function initConcordanciaDropdowns(cbTestamento, cbLivro) {
 // Este bloco constrói a lógica para um dropdown customizado a partir de um elemento HTML.
 function _makeCustomSelect(customSelectElement, onChangeCallback) {
     const selectSelectedDisplay = customSelectElement.querySelector(".select-selected");
-    const itemsContainer = customSelectElement.querySelector(".select-items");
+    const itemsConteiner = customSelectElement.querySelector(".select-items");
 
-    if (!selectSelectedDisplay || !itemsContainer) return;
+    if (!selectSelectedDisplay || !itemsConteiner) return;
 
      selectSelectedDisplay.addEventListener("click", function (e) {                                // Adiciona evento de clique para abrir/fechar o dropdown.
         e.stopPropagation();
         _closeAllSelects(this); // Fecha outros dropdowns abertos.
-        itemsContainer.classList.toggle("select-hide");
+        itemsConteiner.classList.toggle("select-hide");
         this.classList.toggle("select-arrow-active");
     });
 
     // Este bloco adiciona evento de clique para cada opção do dropdown.
-    Array.from(itemsContainer.children).forEach(optionItem => {
+    Array.from(itemsConteiner.children).forEach(optionItem => {
         optionItem.addEventListener("click", function () {
             selectSelectedDisplay.innerHTML = this.innerHTML;
             selectSelectedDisplay.dataset.value = this.dataset.value || this.textContent;
 
-            Array.from(itemsContainer.children).forEach(child => child.classList.remove("same-as-selected"));
+            Array.from(itemsConteiner.children).forEach(child => child.classList.remove("same-as-selected"));
             this.classList.add("same-as-selected");
             _closeAllSelects(null);
 
@@ -195,23 +195,23 @@ function _makeCustomSelect(customSelectElement, onChangeCallback) {
 
 // Este bloco popula dinamicamente as opções do dropdown de livros.
 function _populateLivrosDropdown(customLivroSelectElement, testamentoFiltrado) {
-    const itemsContainer = customLivroSelectElement.querySelector(".select-items");
+    const itemsConteiner = customLivroSelectElement.querySelector(".select-items");
     const selectedDisplay = customLivroSelectElement.querySelector(".select-selected");
 
-    if (!itemsContainer || !selectedDisplay) return;
-    itemsContainer.innerHTML = '';                                                                 // Limpa as opções existentes.
+    if (!itemsConteiner || !selectedDisplay) return;
+    itemsConteiner.innerHTML = '';                                                                 // Limpa as opções existentes.
 
     const TodosOption = document.createElement("div");                                             // Adiciona a opção "Todos os livros".
     TodosOption.textContent = "Todos os livros";
     TodosOption.dataset.value = "todos";
-    itemsContainer.appendChild(TodosOption);
+    itemsConteiner.appendChild(TodosOption);
 
     const livrosParaExibir = bibliaConfig.getLivrosPorTestamento(testamentoFiltrado);              // Adiciona os livros correspondentes ao testamento filtrado.
     livrosParaExibir.forEach(livro => {
         const opt = document.createElement("div");
         opt.textContent = livro.nome;
         opt.dataset.value = livro.id;
-        itemsContainer.appendChild(opt);
+        itemsConteiner.appendChild(opt);
     });
 
     // Reseta a seleção para "Todos os livros" se o livro anteriormente selecionado não pertencer ao novo testamento.
@@ -224,7 +224,7 @@ function _populateLivrosDropdown(customLivroSelectElement, testamentoFiltrado) {
         selectedDisplay.dataset.value = "todos";
     }
 
-    Array.from(itemsContainer.children).forEach(optionItem => {                                    // Adiciona os listeners de clique para as novas opções.
+    Array.from(itemsConteiner.children).forEach(optionItem => {                                    // Adiciona os listeners de clique para as novas opções.
         optionItem.addEventListener("click", function () {
             selectedDisplay.innerHTML = this.innerHTML;
             selectedDisplay.dataset.value = this.dataset.value;
@@ -238,8 +238,8 @@ function _populateLivrosDropdown(customLivroSelectElement, testamentoFiltrado) {
 
 // Este bloco fecha todos os dropdowns customizados abertos na página.
 function _closeAllSelects(exceptThisSelectedDisplay) {
-    document.querySelectorAll(".custom-select .select-items").forEach(container => {
-        container.classList.add("select-hide");
+    document.querySelectorAll(".custom-select .select-items").forEach(conteiner => {
+        conteiner.classList.add("select-hide");
     });
     document.querySelectorAll(".custom-select .select-selected").forEach(display => {
         display.classList.remove("select-arrow-active");

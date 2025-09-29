@@ -53,15 +53,15 @@
         return versiculos;
     }
     
-    async function carregarEConstruirIndice() {
+    async function carregarConstruirIndice() {
         const versao = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';
         if (window.searchEngine.isReady && window.searchEngine.versaoAtual === versao) { return; }
         
         window.searchEngine.isReady = false;
         console.log("[Busca] Iniciando construção do índice...");
-        const cacheKey = `searchIndex_${versao}_${CACHE_VERSION}`;
+        const chaveCache = `searchIndex_${versao}_${CACHE_VERSION}`;
         
-        if (await carregarDeIndexedDB(cacheKey)) {
+        if (await carregarIndexedDB(chaveCache)) {
             console.log(`[Busca] Índice carregado do IndexedDB para ${versao}.`);
             window.searchEngine.isReady = true;
             return;
@@ -123,7 +123,7 @@
         window.searchEngine.versiculos = newVersiculos;
         window.searchEngine.versaoAtual = versao;
         
-        await salvarEmIndexedDB(cacheKey, window.searchEngine);
+        await salvarEmIndexedDB(chaveCache, window.searchEngine);
         console.log(`[Busca] Índice construído e salvo. Total de versículos: ${newVersiculos.length}.`);
         window.searchEngine.isReady = true;
     }
@@ -131,11 +131,11 @@
     // ... (As funções de IndexedDB, realizarBuscaAvancada e combinarEstrategiasBusca permanecem as mesmas)
     
     document.addEventListener('DOMContentLoaded', () => {
-        setTimeout(() => { carregarEConstruirIndice(); }, 1000); // Inicia a indexação em segundo plano
+        setTimeout(() => { carregarConstruirIndice(); }, 1000); // Inicia a indexação em segundo plano
     });
 
     // Colando as funções que faltavam aqui para garantir que o arquivo esteja completo
-    async function carregarDeIndexedDB(chave) {
+    async function carregarIndexedDB(chave) {
         return new Promise((resolve) => {
             const request = indexedDB.open('BibleSearchDB', 1);
             request.onupgradeneeded = (event) => {
@@ -180,7 +180,7 @@
         const versaoSelecionada = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';
         
         if (!window.searchEngine.isReady || window.searchEngine.versaoAtual !== versaoSelecionada) {
-            await carregarEConstruirIndice();
+            await carregarConstruirIndice();
         }
         
         const termoNorm = normalizarTexto(termo);

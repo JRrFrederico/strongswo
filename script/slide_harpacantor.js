@@ -83,7 +83,7 @@ function gerarHtmlJanelaHino(hinoData) {
 <body>
     <div id="marcadagua"></div>
     
-    <div id="slide-container">
+    <div id="slide-conteiner">
         <header id="slide-header">
             <h1 id="slide-titulo"></h1>
             <p id="slide-progresso"></p>

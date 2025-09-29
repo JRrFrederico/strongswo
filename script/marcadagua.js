@@ -8,13 +8,13 @@
 
 // Este bloco adiciona a marca d'água assim que todo o documento HTML for carregado
 window.onload = () => {
-    const content = document.querySelector('.conteudo');                          // Obtém o container principal de conteúdo
-    const marcadaguaContainer = document.createElement('div');                    // Cria um container específico para a marca d'água
-    marcadaguaContainer.classList.add('marcadagua');                              // Adiciona classe para estilização
+    const content = document.querySelector('.conteudo');                          // Obtém o conteiner principal de conteúdo
+    const marcadaguaConteiner = document.createElement('div');                    // Cria um conteiner específico para a marca d'água
+    marcadaguaConteiner.classList.add('marcadagua');                              // Adiciona classe para estilização
     const img = document.createElement('img');                                    // Cria o elemento de imagem para a marca d'água
     img.src = '../img/biblia.png';                                                // Define o caminho da imagem
     img.alt = "Marca d'água da Bíblia";                                           // Define texto alternativo para acessibilidade
-    img.classList.add('marcadagua-image');                                        // Adiciona classe para estilização
-    marcadaguaContainer.appendChild(img);                                         // Adiciona a imagem ao container
-    content.appendChild(marcadaguaContainer);                                     // Adiciona o container ao conteúdo principal
+    img.classList.add('marca-dagua-imagem');                                        // Adiciona classe para estilização
+    marcadaguaConteiner.appendChild(img);                                         // Adiciona a imagem ao conteiner
+    content.appendChild(marcadaguaConteiner);                                     // Adiciona o conteiner ao conteúdo principal
 };

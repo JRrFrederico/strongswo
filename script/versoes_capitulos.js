@@ -34,32 +34,32 @@ window.atualizaBotoesCapitulos = async function(livro, capituloAtual, isReadingM
         return;
     }
 
-    const containersBotoesCapitulosExistentes = areaConteudo.querySelectorAll('div.capitulos:not(.conteudo-versiculos), #dynamic-chapter-buttons-container');
-    containersBotoesCapitulosExistentes.forEach(container => container.remove());
-    let containerCapitulos = document.createElement('div');
-    containerCapitulos.className = 'capitulos';
-    containerCapitulos.id = 'dynamic-chapter-buttons-container';
+    const conteinersBotoesCapitulosExistentes = areaConteudo.querySelectorAll('div.capitulos:not(.conteudo-versiculos), #dynamic-chapter-buttons-conteiner');
+    conteinersBotoesCapitulosExistentes.forEach(conteiner => conteiner.remove());
+    let conteinerCapitulos = document.createElement('div');
+    conteinerCapitulos.className = 'capitulos';
+    conteinerCapitulos.id = 'dynamic-chapter-buttons-conteiner';
 
     const tituloH2 = areaConteudo.querySelector('h2');
-    if (tituloH2) tituloH2.insertAdjacentElement('afterend', containerCapitulos);
-    else areaConteudo.insertBefore(containerCapitulos, areaConteudo.firstChild);
+    if (tituloH2) tituloH2.insertAdjacentElement('afterend', conteinerCapitulos);
+    else areaConteudo.insertBefore(conteinerCapitulos, areaConteudo.firstChild);
 
     if (typeof window.obterContagemCapitulosLivro !== 'function') {
         console.error('Função obterContagemCapitulosLivro não encontrada no escopo global.');
-        containerCapitulos.innerHTML = `<p class="error-message">Erro interno: dependência ausente.</p>`;
+        conteinerCapitulos.innerHTML = `<p class="error-message">Erro interno: dependência ausente.</p>`;
         return;
     }
 
     const totalCapitulos = await window.obterContagemCapitulosLivro(livro);
     if (totalCapitulos === 0) {
-        containerCapitulos.innerHTML = `<p class="error-message">Não foi possível carregar os capítulos para ${livro}.</p>`;
+        conteinerCapitulos.innerHTML = `<p class="error-message">Não foi possível carregar os capítulos para ${livro}.</p>`;
         return;
     }
     
     // =======================================================================
     // LÓGICA DE CARREGAMENTO CENTRALIZADA (NOVA FUNÇÃO)
     // =======================================================================
-    window.carregarConteudoEWatermark = async function(livro, capitulo) {
+    window.carregarConteudoMarcaDagua = async function(livro, capitulo) {
         // Guarda o último estado para o botão "Fechar Busca"
         window.ultimoLivroSelecionado = livro;
         window.ultimoCapituloSelecionado = capitulo;
@@ -92,10 +92,10 @@ window.atualizaBotoesCapitulos = async function(livro, capituloAtual, isReadingM
             const livroClicado = this.dataset.livro;
             
             // Chama a nova função centralizada
-            await window.carregarConteudoEWatermark(livroClicado, capituloClicado);
+            await window.carregarConteudoMarcaDagua(livroClicado, capituloClicado);
             
             // Atualiza a interface
-            containerCapitulos.querySelectorAll('button').forEach(btn => btn.classList.remove('active'));
+            conteinerCapitulos.querySelectorAll('button').forEach(btn => btn.classList.remove('active'));
             this.classList.add('active');
             
             if (typeof window.getLivroDisplayName === 'function') {
@@ -110,7 +110,7 @@ window.atualizaBotoesCapitulos = async function(livro, capituloAtual, isReadingM
             }
         });
 
-        containerCapitulos.appendChild(botao);
+        conteinerCapitulos.appendChild(botao);
     }
 
     if (!window.activeLivro) window.activeLivro = livro;

@@ -102,8 +102,8 @@
         const dropdownTriggers = document.querySelectorAll('nav ul li.dropdown > a');          // Busca todos os triggers de dropdown
         
         dropdownTriggers.forEach((trigger, index) => {                                         // Itera sobre cada trigger
-            const dropdownContainer = trigger.parentElement;                                   // Obtém o container do dropdown
-            const listContent = dropdownContainer.querySelector('.conteudo-dropdown');         // Busca o conteúdo da lista
+            const dropdownConteiner = trigger.parentElement;                                   // Obtém o conteiner do dropdown
+            const listContent = dropdownConteiner.querySelector('.conteudo-menu-suspenso');         // Busca o conteúdo da lista
 
             if (!listContent) {                                                                // Verifica se existe conteúdo
                 console.warn(`[dropdown.js] Menu #${index+1} sem conteudo.`);                  // Loga aviso se não encontrar
@@ -122,10 +122,10 @@
                 // Este bloco define a função de ocultação com delay (verifica se ainda está em hover)
                 const startHideTimeout = () => {
                     hideTimeout = setTimeout(() => {                                           // Define timeout de 250ms
-                        const currentContainer = trigger.parentElement;                        // Obtém container atual
+                        const currentConteiner = trigger.parentElement;                        // Obtém conteiner atual
                         const currentList = document.getElementById(listContent.id);           // Obtém lista atual
 
-                        if (!currentContainer.matches(':hover') &&                             // Verifica se container não está em hover
+                        if (!currentConteiner.matches(':hover') &&                             // Verifica se conteiner não está em hover
                             (!currentList || !currentList.matches(':hover'))) {                // Verifica se lista não está em hover
                             hideList(listContent.id);                                          // Oculta a lista
                         }
@@ -133,8 +133,8 @@
                 };
 
                 // Este bloco configura os event listeners para cada elemento
-                dropdownContainer.addEventListener('mouseenter', show);                        // Adiciona listener para mouseenter no container
-                dropdownContainer.addEventListener('mouseleave', startHideTimeout);            // Adiciona listener para mouseleave no container
+                dropdownConteiner.addEventListener('mouseenter', show);                        // Adiciona listener para mouseenter no conteiner
+                dropdownConteiner.addEventListener('mouseleave', startHideTimeout);            // Adiciona listener para mouseleave no conteiner
                 listContent.addEventListener('mouseenter', show);                              // Adiciona listener para mouseenter na lista
                 listContent.addEventListener('mouseleave', startHideTimeout);                  // Adiciona listener para mouseleave na lista
             }

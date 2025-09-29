@@ -1,123 +1,131 @@
-/* css/biblia_realizabusca.css */
+/*=====================================================*/
+/*          ARQUIVO DE ESTILOS DA BUSCA BÍBLICA        */
+/*   Estiliza a sobreposição e os resultados da busca  */
+/*=====================================================*/
 
-/* ================================================================== */
-/*          BLOCO DE RESET E ISOLAMENTO DE ESTILO (A CORREÇÃO)        */
-/* ================================================================== */
-/* css/biblia_realizabusca.css - Versão com Blindagem Forte */
-
+/* O bloco abaixo configura o contêiner principal da sobreposição de busca */
 #search-overlay-content {
-    /* Força a anulação dos estilos herdados */
-    font-family: sans-serif !important;
-    font-style: normal !important;
-    font-weight: normal !important;
-    color: #f0f0f0 !important;
-
-    max-width: 800px;
-    margin: 40px auto;
-    text-align: left;
-    opacity: 0;
-    transition: opacity 0.2s ease-in-out;
+    font-family: sans-serif !important;                    /* Força a fonte padrão para evitar herança.         */
+    font-style: normal !important;                         /* Força o estilo de fonte normal.                   */
+    font-weight: normal !important;                        /* Força o peso da fonte normal.                     */
+    color: #f0f0f0 !important;                             /* Define a cor do texto principal.                  */
+    max-width: 800px;                                      /* Define a largura máxima do contêiner.             */
+    margin: 40px auto;                                     /* Centraliza o contêiner na tela.                   */
+    text-align: left;                                      /* Alinha o texto à esquerda.                        */
+    opacity: 0;                                            /* Inicia com opacidade 0 para transição.            */
+    transition: opacity 0.2s ease-in-out;                  /* Adiciona transição suave para a opacidade.        */
 }
 
+/* O bloco abaixo torna o contêiner visível após o carregamento */
 #search-overlay-content.loaded {
-    opacity: 1;
+    opacity: 1;                                            /* Torna o contêiner totalmente visível.             */
 }
 
+/* O bloco abaixo estiliza a imagem de marca d'água no fundo */
 #marcadagua {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: -1;
-    opacity: 0.08;
-    width: 80%;
-    height: 80%;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center center;
-    pointer-events: none;
+    position: fixed;                                       /* Fixa a posição na tela.                           */
+    top: 50%;                                              /* Centraliza verticalmente.                         */
+    left: 50%;                                             /* Centraliza horizontalmente.                       */
+    transform: translate(-50%, -50%);                      /* Ajusta a centralização precisa.                   */
+    z-index: -1;                                           /* Coloca a imagem atrás do conteúdo.                */
+    opacity: 0.08;                                         /* Define a opacidade da imagem.                     */
+    width: 80%;                                            /* Define a largura da imagem.                       */
+    height: 80%;                                           /* Define a altura da imagem.                        */
+    background-size: contain;                              /* Ajusta o tamanho da imagem para caber no contêiner. */
+    background-repeat: no-repeat;                          /* Evita a repetição da imagem.                      */
+    background-position: center center;                    /* Centraliza a imagem de fundo.                     */
+    pointer-events: none;                                  /* Impede que a imagem receba eventos de mouse.      */
 }
 
+/* O bloco abaixo estiliza o título principal da sobreposição */
 #search-overlay-content h2 {
-    color: yellow;
-    text-align: center;
-    font-size: 2.5em;
-    font-weight: bold !important; /* Garante o negrito apenas aqui */
-    margin-bottom: 30px;
-    text-shadow: 2px 2px 2px #000;
+    color: yellow;                                         /* Define a cor do texto do título.                  */
+    text-align: center;                                    /* Centraliza o texto do título.                     */
+    font-size: 2.5em;                                      /* Define o tamanho da fonte do título.              */
+    font-weight: bold !important;                          /* Garante que o título esteja em negrito.           */
+    margin-bottom: 30px;                                   /* Adiciona espaço abaixo do título.                 */
+    text-shadow: 2px 2px 2px #000;                         /* Adiciona sombra ao texto do título.               */
 }
 
+/* O bloco abaixo estiliza o botão de fechar da sobreposição */
 .search-overlay-botao-fechar {
-    position: fixed;
-    top: 20px;
-    right: 30px;
-    background-color: #f44336;
-    color: white;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    z-index: 10;
+    position: fixed;                                       /* Fixa a posição do botão na tela.                  */
+    top: 20px;                                             /* Define a distância do topo.                       */
+    right: 30px;                                           /* Define a distância da direita.                    */
+    background-color: #f44336;                             /* Define a cor de fundo do botão.                   */
+    color: white;                                          /* Define a cor do texto do botão.                   */
+    padding: 10px 15px;                                    /* Adiciona preenchimento ao botão.                  */
+    border: none;                                          /* Remove a borda do botão.                          */
+    border-radius: 4px;                                    /* Arredonda os cantos do botão.                     */
+    cursor: pointer;                                       /* Define o cursor do mouse para ponteiro.           */
+    z-index: 10;                                           /* Garante que o botão fique acima de outros elementos.*/
 }
 
+/* O bloco abaixo estiliza cada item de resultado da busca */
 .search-overlay-resultado-item {
-    padding: 15px 10px;
-    border-bottom: 1px solid #444;
-    line-height: 1.6;
+    padding: 15px 10px;                                    /* Adiciona preenchimento ao item.                   */
+    border-bottom: 1px solid #444;                         /* Adiciona uma linha separadora abaixo do item.     */
+    line-height: 1.6;                                      /* Define a altura da linha para melhor legibilidade.*/
 }
 
+/* O bloco abaixo estiliza o link do título do resultado */
 .search-overlay-resultado-item strong a {
-    color: #FFD700;
-    font-size: 1.1em;
-    font-weight: bold !important; /* Garante o negrito apenas aqui */
-    display: block;
-    margin-bottom: 5px;
-    text-decoration: underline;
-    cursor: pointer;
+    color: #FFD700;                                        /* Define a cor do link.                             */
+    font-size: 1.1em;                                      /* Define o tamanho da fonte do link.                */
+    font-weight: bold !important;                          /* Garante que o link esteja em negrito.             */
+    display: block;                                        /* Faz com que o link ocupe toda a largura.          */
+    margin-bottom: 5px;                                    /* Adiciona espaço abaixo do link.                   */
+    text-decoration: underline;                            /* Adiciona sublinhado ao link.                      */
+    cursor: pointer;                                       /* Define o cursor do mouse para ponteiro.           */
 }
 
+/* O bloco abaixo remove o sublinhado do link ao passar o mouse */
 .search-overlay-resultado-item strong a:hover {
-    text-decoration: none;
-    opacity: 0.8;
+    text-decoration: none;                                 /* Remove o sublinhado ao passar o mouse.            */
+    opacity: 0.8;                                          /* Reduz a opacidade ao passar o mouse.              */
 }
 
+/* O bloco abaixo estiliza o texto do versículo do resultado */
 .search-overlay-resultado-item span {
-    color: #eee;
-    font-weight: normal !important; /* Garante que o texto do versículo não fique em negrito */
-    font-style: normal !important; /* Garante que o texto do versículo não fique em itálico */
+    color: #eee;                                           /* Define a cor do texto do versículo.               */
+    font-weight: normal !important;                        /* Garante que o texto não esteja em negrito.        */
+    font-style: normal !important;                         /* Garante que o texto não esteja em itálico.        */
 }
 
-/* ... (O restante do CSS para a barra de progresso permanece o mesmo) ... */
-
-#search-overlay-resultados-container p {
-    text-align: center;
-    font-size: 1.2em;
-    padding: 40px 0;
+/* O bloco abaixo estiliza a mensagem de "nenhum resultado" */
+#search-overlay-resultados-conteiner p {
+    text-align: center;                                    /* Centraliza o texto.                               */
+    font-size: 1.2em;                                      /* Define o tamanho da fonte.                        */
+    padding: 40px 0;                                       /* Adiciona preenchimento vertical.                  */
 }
 
-#search-overlay-progress-container {
-    padding: 20px;
-    text-align: center;
+/* O bloco abaixo estiliza o contêiner da barra de progresso */
+#search-overlay-progress-conteiner {
+    padding: 20px;                                         /* Adiciona preenchimento ao contêiner.              */
+    text-align: center;                                    /* Centraliza o conteúdo.                            */
 }
 
+/* O bloco abaixo estiliza a parte externa da barra de progresso */
 #search-overlay-progress-bar-outer {
-    background-color: #555;
-    border-radius: 13px;
-    padding: 3px;
-    margin: 15px auto;
-    width: 80%;
+    background-color: #555;                                /* Define a cor de fundo da barra.                   */
+    border-radius: 13px;                                   /* Arredonda os cantos da barra.                     */
+    padding: 3px;                                          /* Adiciona preenchimento interno.                   */
+    margin: 15px auto;                                     /* Centraliza a barra e adiciona margem.             */
+    width: 80%;                                            /* Define a largura da barra.                        */
 }
 
+/* O bloco abaixo estiliza a parte interna da barra de progresso */
 #search-overlay-progress-bar-inner {
-    background-color: #FFD700;
-    width: 0%;
-    height: 20px;
-    border-radius: 10px;
-    transition: width 0.4s ease-in-out;
+    background-color: #FFD700;                             /* Define a cor de preenchimento da barra.           */
+    width: 0%;                                             /* Inicia com largura 0.                             */
+    height: 20px;                                          /* Define a altura da barra.                         */
+    border-radius: 10px;                                   /* Arredonda os cantos da barra interna.             */
+    transition: width 0.4s ease-in-out;                  /* Adiciona transição suave para a largura.          */
 }
 
+/* O bloco abaixo estiliza o texto de progresso da busca */
 #search-overlay-progress-text {
-    margin-top: 10px;
-    font-style: italic; /* Aplica itálico APENAS neste texto de progresso */
-    color: #ccc;
+    margin-top: 10px;                                      /* Adiciona espaço acima do texto.                   */
+    font-style: italic;                                    /* Aplica estilo itálico ao texto.                   */
+    color: #ccc;                                           /* Define a cor do texto.                            */
 }

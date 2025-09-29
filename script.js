@@ -6,15 +6,15 @@
 const versoesBiblia = [];                                                                   // Array que armazena todas as versões da Bíblia
 
 // Este bloco adiciona as versões padrão da Bíblia com seus títulos e imagens
-versoesBiblia.push({ tituloDesenho: 'Bíblia ACF', img: './img/acf.png' });
-versoesBiblia.push({ tituloDesenho: 'Bíblia ARA', img: './img/ara.png' });
-versoesBiblia.push({ tituloDesenho: 'Bíblia ARC', img: './img/arc.png' });
-versoesBiblia.push({ tituloDesenho: 'Bíblia KJV', img: './img/kjv.png' });
-versoesBiblia.push({ tituloDesenho: 'Bíblia NAA', img: './img/naa.png' });
-versoesBiblia.push({ tituloDesenho: 'Bíblia NTLH', img: './img/ntlh.png' });
-versoesBiblia.push({ tituloDesenho: 'Bíblia NVI', img: './img/nvi.png' });
-versoesBiblia.push({ tituloDesenho: 'Bíblia NVT', img: './img/nvt.png' });
-versoesBiblia.push({ tituloDesenho: 'Bíblia Original', img: './img/original.png' });
+versoesBiblia.push({ tituloVersao: 'Bíblia ACF', img: './img/acf.png' });
+versoesBiblia.push({ tituloVersao: 'Bíblia ARA', img: './img/ara.png' });
+versoesBiblia.push({ tituloVersao: 'Bíblia ARC', img: './img/arc.png' });
+versoesBiblia.push({ tituloVersao: 'Bíblia KJV', img: './img/kjv.png' });
+versoesBiblia.push({ tituloVersao: 'Bíblia NAA', img: './img/naa.png' });
+versoesBiblia.push({ tituloVersao: 'Bíblia NTLH', img: './img/ntlh.png' });
+versoesBiblia.push({ tituloVersao: 'Bíblia NVI', img: './img/nvi.png' });
+versoesBiblia.push({ tituloVersao: 'Bíblia NVT', img: './img/nvt.png' });
+versoesBiblia.push({ tituloVersao: 'Bíblia Original', img: './img/original.png' });
 
 /*===============================================================================*/
 /*                  INICIALIZAÇÃO E CONFIGURAÇÃO DE EVENTOS                      */
@@ -31,7 +31,7 @@ function exibirTodasVersoes() {
     }
     lista.innerHTML = '';                                                                   // Limpa a lista atual para evitar duplicação
     for (let i = 0; i < versoesBiblia.length; i++) {
-        lista.appendChild(criarelementodesenho(versoesBiblia[i]));                          // Adiciona o elemento visual de cada versão à lista
+        lista.appendChild(criarElementoVersao(versoesBiblia[i]));                          // Adiciona o elemento visual de cada versão à lista
     }
 }
 
@@ -41,18 +41,18 @@ function exibirTodasVersoes() {
 /*===============================================================================*/
 
 // Este bloco cria a função para um item da lista para uma versão da Bíblia
-function criarelementodesenho(desenho) { 
+function criarElementoVersao(desenho) { 
     const listaItem = document.createElement('li');                                         // Cria item da lista
     const img = document.createElement('img');                                              // Cria elemento de imagem
     const titulo = document.createElement('h2');                                            // Cria elemento de título
     img.src = desenho.img;                                                                  // Define o caminho da imagem
-    img.alt = desenho.tituloDesenho;                                                        // Define texto alternativo (importante para acessibilidade)
-    titulo.innerHTML = desenho.tituloDesenho;                                               // Define o texto do título
+    img.alt = desenho.tituloVersao;                                                        // Define texto alternativo (importante para acessibilidade)
+    titulo.innerHTML = desenho.tituloVersao;                                               // Define o texto do título
     listaItem.addEventListener('click', () => {
         let codigoVersao = null;                                                            // Código da versão
         
         // Este bloco converte o texto para minúsculas
-        const tituloMinusculo = desenho.tituloDesenho.toLowerCase();
+        const tituloMinusculo = desenho.tituloVersao.toLowerCase();
         if (tituloMinusculo.includes('acf')) codigoVersao = 'acf';
         else if (tituloMinusculo.includes('ara')) codigoVersao = 'ara';
         else if (tituloMinusculo.includes('arc')) codigoVersao = 'arc';
@@ -70,7 +70,7 @@ function criarelementodesenho(desenho) {
             console.log(`Redirecionando para: ${urlDestino}`);                              // Mostra no console
             window.location.href = urlDestino;                                              // Muda para a página
         } else {
-            console.warn(`Não foi possível determinar o código da versão para: ${desenho.tituloDesenho}`); // Aviso se não encontrou o código
+            console.warn(`Não foi possível determinar o código da versão para: ${desenho.tituloVersao}`); // Aviso se não encontrou o código
             alert("Não foi possível abrir esta versão. Código não identificado.");          // Alerta para o usuário
         }
     });
@@ -84,7 +84,7 @@ function criarelementodesenho(desenho) {
 /*                 GERENCIAMENTO DE POP-UPS E UPLOAD DE IMAGENS                  */
 /*===============================================================================*/
 
-let subirImg = '';                                                                          // Guarda a imagem escolhida temporariamente em base64
+let subirImagem = '';                                                                          // Guarda a imagem escolhida temporariamente em base64
 
 document.addEventListener('DOMContentLoaded', () => {
     const botaoArquivoReal = document.getElementById('arquivo-imagem');                     // Campo de arquivo
@@ -95,9 +95,9 @@ document.addEventListener('DOMContentLoaded', () => {
             if (botaoArquivoReal.files && botaoArquivoReal.files.length > 0) {
                 const leitorArquivo = new FileReader();                                     // Lê o arquivo
                 leitorArquivo.onloadend = () => {
-                    subirImg = leitorArquivo.result;                                        // Guarda a imagem
+                    subirImagem = leitorArquivo.result;                                        // Guarda a imagem
                     if (previsualizacaoImagem) {
-                        previsualizacaoImagem.src = subirImg;                               // Mostra a imagem
+                        previsualizacaoImagem.src = subirImagem;                               // Mostra a imagem
                         previsualizacaoImagem.style.display = 'flex';                       // Exibe a pré-visualização
                     }
                     if (botaoPersonalizado) {
@@ -157,7 +157,7 @@ function fecharPopup() {
     if (entradaTitulo) {
         entradaTitulo.value = '';                                                           // Limpa o campo de texto
     }
-    subirImg = '';                                                                          // Limpa a variável da imagem
+    subirImagem = '';                                                                          // Limpa a variável da imagem
 }
 
 // Este bloco cria a função para fechar a janela Seja Bem-Vindo
@@ -173,19 +173,19 @@ function fecharSejaBemVindo() {                                                 
 // Este bloco cria a função para salva uma nova versão da Bíblia
 function salvarVersao() {
     const entradaTitulo = document.getElementById('novo-titulo-biblia');                    // Campo de título
-    const nomeDesenho = entradaTitulo ? entradaTitulo.value : null;                         // Nome da versão
-    const imgDesenho = subirImg;                                                            // Imagem da versão
-    if (!nomeDesenho || nomeDesenho.trim() === '') {
+    const tituloVersao = entradaTitulo ? entradaTitulo.value : null;                         // Nome da versão
+    const imagemVersao = subirImagem;                                                            // Imagem da versão
+    if (!tituloVersao || tituloVersao.trim() === '') {
         alert('Por favor, insira um título para a versão.');                                // Alerta se não preencheu o título
         return;
     }
-    if (!imgDesenho) {
+    if (!imagemVersao) {
         alert('Por favor, selecione uma imagem para a versão.');                            // Alerta se não selecionou imagem
         return;
     }
 
     // Este bloco executa as ações finais
-    versoesBiblia.push({ titleAnime: nomeDesenho, img: imgDesenho });                       // Adiciona a nova versão ao array
+    versoesBiblia.push({ tituloVersao: tituloVersao, img: imagemVersao });                       // Adiciona a nova versão ao array
     exibirTodasVersoes();                                                                   // Atualiza a tela
     fecharPopup();                                                                          // Fecha o popup
     alert('Versão adicionada com sucesso! (Nota: será perdida ao recarregar a página)');    // Alerta de sucesso

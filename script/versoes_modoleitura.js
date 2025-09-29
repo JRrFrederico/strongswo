@@ -31,19 +31,19 @@
         
         await window.atualizaBotoesCapitulos(livro, capitulo);                                  // Aguarda a atualização da barra de botões de capítulo.
 
-        // Este bloco verifica se o container de leitura existe e, caso contrário, o cria e o insere na página.
-        let containerLeitura = areaConteudoLeitura.querySelector('.modo-leitura-conteudo');    // Busca o container específico para o conteúdo do modo leitura.
-        if (!containerLeitura) {                                                               // Se o container não existe, este bloco o cria.
-            containerLeitura = document.createElement('div');                                  // Cria um novo elemento <div> na memória.
-            containerLeitura.className = 'modo-leitura-conteudo';                              // Define a classe CSS do novo container.
-             // Encontra um ponto de referência para inserir o container.
-            const elementoReferencia = areaConteudoLeitura.querySelector('#dynamic-chapter-buttons-container') || areaConteudoLeitura.querySelector('h2'); 
-            if (elementoReferencia) elementoReferencia.insertAdjacentElement('afterend', containerLeitura);  // Insere o container após o elemento de referência.
-            else areaConteudoLeitura.appendChild(containerLeitura);                                          // Se não houver referência, insere no final da área de conteúdo.
+        // Este bloco verifica se o conteiner de leitura existe e, caso contrário, o cria e o insere na página.
+        let conteinerLeitura = areaConteudoLeitura.querySelector('.modo-leitura-conteudo');    // Busca o conteiner específico para o conteúdo do modo leitura.
+        if (!conteinerLeitura) {                                                               // Se o conteiner não existe, este bloco o cria.
+            conteinerLeitura = document.createElement('div');                                  // Cria um novo elemento <div> na memória.
+            conteinerLeitura.className = 'modo-leitura-conteudo';                              // Define a classe CSS do novo conteiner.
+             // Encontra um ponto de referência para inserir o conteiner.
+            const elementoReferencia = areaConteudoLeitura.querySelector('#dynamic-chapter-buttons-conteiner') || areaConteudoLeitura.querySelector('h2'); 
+            if (elementoReferencia) elementoReferencia.insertAdjacentElement('afterend', conteinerLeitura);  // Insere o conteiner após o elemento de referência.
+            else areaConteudoLeitura.appendChild(conteinerLeitura);                                          // Se não houver referência, insere no final da área de conteúdo.
         }
 
-        containerLeitura.innerHTML = '<div class="loading-message">Carregando capítulo...</div>';            // Exibe a mensagem 'Carregando...' para o usuário enquanto o conteúdo é buscado.
-        containerLeitura.style.display = 'block';                                                            // Garante que o container de leitura esteja visível.
+        conteinerLeitura.innerHTML = '<div class="loading-message">Carregando capítulo...</div>';            // Exibe a mensagem 'Carregando...' para o usuário enquanto o conteúdo é buscado.
+        conteinerLeitura.style.display = 'block';                                                            // Garante que o conteiner de leitura esteja visível.
 
         // Este bloco inicia a tentativa de carregar e processar os dados do capítulo.
         try {                                                                                                // Inicia um bloco de 'tentativa', para capturar possíveis erros de download.
@@ -66,7 +66,7 @@
                     const response = await fetch(caminho);                                                                       // Faz o download do arquivo.
                     if (!response.ok) throw new Error(`Arquivo HTML não encontrado: ${caminho}`);                                // Se o arquivo não for encontrado, lança um erro.
                     dadosCapitulo = await response.text();                                                                       // Converte a resposta do download para texto.
-                    window.cacheCapítulo(livro, capitulo, dadosCapitulo);                                                        // Salva os dados no cache para uso futuro.
+                    window.cacheCapitulo(livro, capitulo, dadosCapitulo);                                                        // Salva os dados no cache para uso futuro.
                 }
 
                 // Este bloco analisa o texto HTML e constrói o conteúdo dos versículos.
@@ -82,7 +82,7 @@
                         if (clone.querySelector('strong')) clone.querySelector('strong').remove();                               // Remove o título da cópia para não repetir o texto.
                         const texto = clone.textContent.trim();                                                                  // Pega o texto limpo do versículo.
                         // Monta e adiciona o HTML do versículo.
-                        if (texto) htmlConstruido += `<div class="verse-container"><sup class="verse-number">${numero}</sup><span class="verse-text">${texto}</span></div>`;
+                        if (texto) htmlConstruido += `<div class="verse-conteiner"><sup class="verse-number">${numero}</sup><span class="verse-text">${texto}</span></div>`;
                     }
                 });
                 
@@ -96,7 +96,7 @@
                     const response = await fetch(caminho);                                                                       // Faz o download do arquivo.
                     if (!response.ok) throw new Error(`Arquivo JSON não encontrado: ${caminho}`);                                // Se o arquivo não for encontrado, lança um erro.
                     dadosCapitulo = await response.json();                                                                       // Converte a resposta do download para um objeto JSON.
-                    window.cacheCapítulo(livro, capitulo, dadosCapitulo);                                                        // Salva os dados no cache para uso futuro.
+                    window.cacheCapitulo(livro, capitulo, dadosCapitulo);                                                        // Salva os dados no cache para uso futuro.
                 }
 
                 // Este bloco constrói o HTML dos versículos a partir dos dados JSON.
@@ -109,7 +109,7 @@
                         // Adiciona títulos de seção, se existirem.
                         if (dadosCapitulo.titulos && dadosCapitulo.titulos[chave]) htmlVersiculos += `<h3 class="verse-section-title">${dadosCapitulo.titulos[chave]}</h3>`;
                         // Monta e adiciona o HTML do versículo.
-                        htmlVersiculos += `<div class="verse-container"><sup class="verse-number">${i}</sup><span class="verse-text">${dadosCapitulo.versiculos[chave]}</span></div>`;
+                        htmlVersiculos += `<div class="verse-conteiner"><sup class="verse-number">${i}</sup><span class="verse-text">${dadosCapitulo.versiculos[chave]}</span></div>`;
                     }
                 }
 
@@ -117,8 +117,8 @@
                 htmlParaExibir = htmlVersiculos;                                                                                 // Define o HTML final a ser exibido.
             }
 
-            containerLeitura.innerHTML = htmlBotoesNavegacao + htmlParaExibir;                                                   // Junta o HTML dos botões com o HTML dos versículos e insere na página.
-            await window.configurarListenersNavegacao(containerLeitura, livro, capitulo);                                        // Chama a função que ativa os cliques nos botões 'Anterior' e 'Próximo'.
+            conteinerLeitura.innerHTML = htmlBotoesNavegacao + htmlParaExibir;                                                   // Junta o HTML dos botões com o HTML dos versículos e insere na página.
+            await window.configurarListenersNavegacao(conteinerLeitura, livro, capitulo);                                        // Chama a função que ativa os cliques nos botões 'Anterior' e 'Próximo'.
             const tituloH2 = areaConteudoLeitura.querySelector('h2');                                                            // Busca o elemento do título principal (H2) para atualizá-lo.
             if (tituloH2 && typeof window.getLivroDisplayName === 'function') {                                                  // Se o título e a função de nome existem...
                 tituloH2.textContent = `${window.getLivroDisplayName(livro)} - CAPÍTULO ${capitulo}`;                            // Atualiza o texto do título.
@@ -127,8 +127,8 @@
         } catch (erro) {                                                                                                         // Se qualquer coisa deu errado no bloco 'try', este bloco é executado.
             console.error('[Modo Leitura] Erro:', erro);                                                                         // Exibe o erro técnico no console para depuração.
             
-            // Exibe uma mensagem de erro clara para o usuário dentro do container.
-            containerLeitura.innerHTML = `<div class="error-container" style="text-align:center; padding: 20px; color: red;">    
+            // Exibe uma mensagem de erro clara para o usuário dentro do conteiner.
+            conteinerLeitura.innerHTML = `<div class="error-conteiner" style="text-align:center; padding: 20px; color: red;">    
                                             <p><b>Erro ao carregar o capítulo.</b></p>
                                             <p><small>${erro.message}</small></p>
                                         </div>`;
@@ -161,31 +161,31 @@
             window.ultimoVersiculoSelecionado = (window.activeVersiculoButton && window.activeVersiculoButton.dataset.versiculo) ? parseInt(window.activeVersiculoButton.dataset.versiculo) : 1;
             
             areaConteudo.querySelectorAll(                                                                                       // Busca todos os elementos da interface do modo padrão...
-                '.texto-versiculo, .conteudo-versiculos, #dynamic-chapter-buttons-container, #dynamic-verse-buttons-container'
+                '.texto-versiculo, .conteudo-versiculos, #dynamic-chapter-buttons-conteiner, #dynamic-verse-buttons-conteiner'
             ).forEach(el => el.remove());                                                                                        // Remove para limpar a tela.
 
             if (window.ultimoLivroSelecionado && window.ultimoCapituloSelecionado) {                                             // Se houver um livro e capítulo selecionados...
                 await window.carregarCapituloModoLeitura(window.ultimoLivroSelecionado, window.ultimoCapituloSelecionado);       // Carrega o capítulo no novo modo.
             } else {                                                                                                             // Se não, exibe uma mensagem de ajuda.
-                let containerLeitura = areaConteudo.querySelector('.modo-leitura-conteudo');                                     // Busca ou cria o container de leitura.
-                if (!containerLeitura) {                                                                                         // Se não existe, cria.
-                    containerLeitura = document.createElement('div');                                                            // Cria o elemento.
-                    containerLeitura.className = 'modo-leitura-conteudo';                                                        // Define a classe.
-                    if (tituloH2) tituloH2.insertAdjacentElement('afterend', containerLeitura);                                  // Insere após o título.
-                    else areaConteudo.appendChild(containerLeitura);                                                             // Ou insere no final.
+                let conteinerLeitura = areaConteudo.querySelector('.modo-leitura-conteudo');                                     // Busca ou cria o conteiner de leitura.
+                if (!conteinerLeitura) {                                                                                         // Se não existe, cria.
+                    conteinerLeitura = document.createElement('div');                                                            // Cria o elemento.
+                    conteinerLeitura.className = 'modo-leitura-conteudo';                                                        // Define a classe.
+                    if (tituloH2) tituloH2.insertAdjacentElement('afterend', conteinerLeitura);                                  // Insere após o título.
+                    else areaConteudo.appendChild(conteinerLeitura);                                                             // Ou insere no final.
                 }
 
                 // Exibe a mensagem de ajuda.
-                containerLeitura.innerHTML = '<div class="reading-mode-message" style="text-align:center; padding: 20px;"><p>Por favor, selecione um livro e capítulo primeiro.</p></div>';
-                containerLeitura.style.display = 'block';                                                                        // Garante que o container esteja visível.
+                conteinerLeitura.innerHTML = '<div class="reading-mode-message" style="text-align:center; padding: 20px;"><p>Por favor, selecione um livro e capítulo primeiro.</p></div>';
+                conteinerLeitura.style.display = 'block';                                                                        // Garante que o conteiner esteja visível.
                 if (tituloH2) tituloH2.textContent = "Modo Leitura";                                                             // Atualiza o título da página.
             }
         } else {
 
             // Este bloco executa a lógica para DESATIVAR o modo leitura e restaurar a interface padrão.
             document.body.classList.remove('module-leitura');                                                                    // Remove a classe de modo leitura para reverter os estilos CSS.
-            const containerLeitura = areaConteudo.querySelector('.modo-leitura-conteudo');                                       // Busca o container de conteúdo do modo leitura.
-            if (containerLeitura) containerLeitura.remove();                                                                     // Se existir, o remove.
+            const conteinerLeitura = areaConteudo.querySelector('.modo-leitura-conteudo');                                       // Busca o conteiner de conteúdo do modo leitura.
+            if (conteinerLeitura) conteinerLeitura.remove();                                                                     // Se existir, o remove.
             if (window.ultimoLivroSelecionado && window.ultimoCapituloSelecionado) {                                             // Se um estado anterior foi salvo...
                 await window.atualizaBotoesCapitulos(window.ultimoLivroSelecionado, window.ultimoCapituloSelecionado);           // Restaura os botões de capítulo.
                 if (typeof window.toggleVersiculos === 'function') {                                                             // Se a função de botões de versículo existe...
@@ -216,7 +216,7 @@
                     Object.assign(tituloH2.style, { color: '', textAlign: '', marginBottom: '' });           // Remove os estilos.
                 }
 
-                areaConteudo.querySelectorAll('#dynamic-chapter-buttons-container').forEach(c => c.remove());// Remove qualquer contêiner de botões de capítulo para limpar a interface.
+                areaConteudo.querySelectorAll('#dynamic-chapter-buttons-conteiner').forEach(c => c.remove());// Remove qualquer contêiner de botões de capítulo para limpar a interface.
             }
         }
     };

@@ -4,9 +4,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const btnHarpa = document.getElementById('btnHarpa');
     const btnCantor = document.getElementById('btnCantor');
     const telaInicial = document.getElementById('tela-inicial');
-    const botoesFaixaContainer = document.getElementById('botoes-faixa-hinos');
-    const botoesHinosContainer = document.getElementById('botoes-hinos');
-    const hinoExibidoContainer = document.getElementById('hino-exibido');
+    const botoesFaixaConteiner = document.getElementById('botoes-faixa-hinos');
+    const botoesHinosConteiner = document.getElementById('botoes-hinos');
+    const hinoExibidoConteiner = document.getElementById('hino-exibido');
     const themeStyle = document.getElementById('theme-style');
 
     window.activeHinario = null;
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
             nome: 'Cantor Cristão',
             total: 581,
             pasta: '../cantorcristao',
-            css: '../css/cantor_cristao.css'
+            css: '../css/cantor_cristao_novo.css'
         }
     };
 
@@ -33,9 +33,9 @@ document.addEventListener('DOMContentLoaded', () => {
         window.activeHinario = hinario;
         window.activeHinoData = null;
         telaInicial.style.display = 'none';
-        botoesFaixaContainer.innerHTML = '';
-        botoesHinosContainer.innerHTML = ''; // <-- Limpa sempre!
-        hinoExibidoContainer.innerHTML = '';
+        botoesFaixaConteiner.innerHTML = '';
+        botoesHinosConteiner.innerHTML = ''; // <-- Limpa sempre!
+        hinoExibidoConteiner.innerHTML = '';
         themeStyle.href = hinario.css;
         criarBotoesFaixa(hinario);
         // NÃO chame exibirGradeDeHinos aqui!
@@ -58,15 +58,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Gera a grade de hinos para a faixa selecionada
                 exibirGradeDeHinos(inicio, fim);
             });
-            botoesFaixaContainer.appendChild(btnFaixa);
+            botoesFaixaConteiner.appendChild(btnFaixa);
         }
-        // Adiciona a classe 'active' ao container após criar os botões
-        botoesFaixaContainer.classList.add('active');
+        // Adiciona a classe 'active' ao conteiner após criar os botões
+        botoesFaixaConteiner.classList.add('active');
     }
     
     async function exibirGradeDeHinos(inicio, fim) {
-        botoesHinosContainer.innerHTML = '';
-        hinoExibidoContainer.innerHTML = '';
+        botoesHinosConteiner.innerHTML = '';
+        hinoExibidoConteiner.innerHTML = '';
 
         // Caminho do indexador
         const indexPath = window.activeHinario.nome === 'Harpa Cristã'
@@ -95,10 +95,10 @@ document.addEventListener('DOMContentLoaded', () => {
                     btn.classList.add('active');
                     exibirHino(window.activeHinario.pasta, hino.numero);
                 });
-                botoesHinosContainer.appendChild(btn);
+                botoesHinosConteiner.appendChild(btn);
             });
         } catch (e) {
-            botoesHinosContainer.innerHTML = '<p>Erro ao carregar a lista de hinos.</p>';
+            botoesHinosConteiner.innerHTML = '<p>Erro ao carregar a lista de hinos.</p>';
         }
     }
 
@@ -117,18 +117,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 return `<p class="${isCoro ? 'coro' : ''}">${versos}</p>`;
             }).join('');
 
-            hinoExibidoContainer.innerHTML = `
-                <div class="hino-container">
+            hinoExibidoConteiner.innerHTML = `
+                <div class="hino-conteiner">
                     <h3 class="hino-titulo">${data.numero} - ${data.titulo}</h3>
                     <div class="hino-letra">${letraHtml}</div>
                 </div>`;
             
-            hinoExibidoContainer.scrollIntoView({ behavior: 'smooth' });
+            hinoExibidoConteiner.scrollIntoView({ behavior: 'smooth' });
 
         } catch (error) {
             console.error('Erro ao carregar o hino:', error);
             window.activeHinoData = null;
-            hinoExibidoContainer.innerHTML = `<div class="hino-container"><p>Não foi possível carregar o hino ${numero}.</p></div>`;
+            hinoExibidoConteiner.innerHTML = `<div class="hino-conteiner"><p>Não foi possível carregar o hino ${numero}.</p></div>`;
         }
     }
 

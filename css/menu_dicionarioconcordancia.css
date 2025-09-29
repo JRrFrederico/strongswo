@@ -1,469 +1,437 @@
-/* =================================================================== */
-/* =================== ARQUIVO: main.css (ATUALIZADO) ================= */
-/* =================================================================== */
+/*=====================================================*/
+/*     ESTILOS DO MENU, DICIONÁRIO E CONCORDÂNCIA      */
+/*   Layout principal, cabeçalho, navegação e conteúdo 
+/* menu_dicionarioconcorancia.css */
+/*=====================================================*/
 
-/* Reset e configurações básicas */
+/* O bloco abaixo reseta estilos e configura o corpo da página */
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    margin: 0;                                             /* Remove margens padrão.                            */
+    padding: 0;                                            /* Remove preenchimento padrão.                      */
+    box-sizing: border-box;                                /* Inclui bordas e preenchimento no tamanho total.   */
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
-    color: #ffffff;
-    line-height: 1.6;
-    overflow: hidden;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Define a família da fonte.                        */
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); /* Fundo com gradiente escuro.                       */
+    color: #ffffff;                                        /* Cor do texto branca.                              */
+    line-height: 1.6;                                      /* Altura da linha.                                  */
+    overflow: hidden;                                      /* Esconde o conteúdo que transborda.                */
+    min-height: 100vh;                                     /* Altura mínima da viewport.                        */
+    display: flex;                                         /* Layout flexível.                                  */
+    flex-direction: column;                                /* Direção da flexbox para coluna.                   */
 }
 
-/* Cabeçalho */
+/* O bloco abaixo estiliza o cabeçalho */
 header {
-    background: linear-gradient(135deg, rgba(26, 26, 26, 0.2) 0%, rgba(51, 51, 51, 0.2) 100%);
-    border-bottom: 3px solid #d4af37;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 1000;
-    height: 100px;
+    background: linear-gradient(135deg, rgba(26, 26, 26, 0.2) 0%, rgba(51, 51, 51, 0.2) 100%); /* Fundo semitransparente.                           */
+    /*border-bottom: 3px solid #d4af37;                      /* Borda inferior dourada.                           */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);             /* Sombra para profundidade.                         */
+    position: fixed;                                       /* Posição fixa no topo.                             */
+    top: 0;                                                /* Alinha no topo.                                   */
+    left: 0;                                               /* Alinha à esquerda.                                */
+    width: 100%;                                           /* Largura total.                                    */
+    z-index: 1000;                                         /* Ordem de empilhamento.                            */
+    height: 100px;                                         /* Altura fixa.                                      */
 }
 
+/* O bloco abaixo estiliza a parte superior do cabeçalho */
 .cabecalho-superior {
-    padding: 20px;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
+    padding: 20px;                                         /* Preenchimento interno.                            */
+    height: 100%;                                          /* Altura total.                                     */
+    display: flex;                                         /* Layout flexível.                                  */
+    align-items: center;                                   /* Alinhamento vertical ao centro.                   */
+    justify-content: flex-start;                           /* Alinhamento horizontal à esquerda.                */
 }
 
-.titulo-container h1 {
-    color: #d4af37;
-    font-size: 2.5rem;
-    font-weight: 700;
-    font-style: italic;
-    margin-bottom: 2px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+/* O bloco abaixo estiliza o contêiner do título */
+.titulo-conteiner h1 {
+    color: #d4af37;                                        /* Cor do texto dourada.                             */
+    font-size: 2.5rem;                                     /* Tamanho da fonte.                                 */
+    font-weight: 700;                                      /* Peso da fonte.                                    */
+    font-style: italic;                                    /* Estilo da fonte itálico.                          */
+    margin-bottom: 2px;                                    /* Margem inferior.                                  */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);           /* Sombra no texto.                                  */
 }
 
+/* O bloco abaixo estiliza o nome por extenso */
 .nome-extenso {
-    color: #cccccc;
-    font-size: 1.1rem;
-    font-style: italic;
-    margin-left: 50px;
-    line-height: 0.2;
-    margin-bottom: 20px;
-    margin-left: 280px;
+    color: #cccccc;                                        /* Cor do texto cinza claro.                         */
+    font-size: 1.1rem;                                     /* Tamanho da fonte.                                 */
+    font-style: italic;                                    /* Estilo da fonte itálico.                          */
+    margin-left: 50px;                                     /* Margem à esquerda.                                */
+    line-height: 0.2;                                      /* Altura da linha.                                  */
+    margin-bottom: 20px;                                   /* Margem inferior.                                  */
+    margin-left: 280px;                                    /* Margem à esquerda.                                */
 }
 
-/* Navegação */
+/* O bloco abaixo estiliza a barra de navegação */
 nav {
-    background: rgba(0, 0, 0, 0.1);
-    padding: 15px 20px;
-    border-top: 1px solid rgba(212, 175, 55, 0.3);
-    position: fixed;
-    top: 100px;
-    left: 0;
-    width: 100%;
-    z-index: 900;
-    height: 60px;
-    display: flex;
-    align-items: center;
-    border-bottom: 3px solid #d4af37;
-    justify-content: center;  /* Adicionado para centralizar inicialmente */
+    background: rgba(0, 0, 0, 0.1);                        /* Fundo preto com transparência.                    */
+    padding: 15px 20px;                                    /* Preenchimento interno.                            */
+    border-top: 3px solid #d4af37;         /* Borda superior semitransparente dourada.          */
+    position: fixed;                                       /* Posição fixa.                                     */
+    top: 100px;                                            /* Distância do topo.                                */
+    left: 0;                                               /* Alinhamento à esquerda.                           */
+    width: 100%;                                           /* Largura total.                                    */
+    z-index: 900;                                          /* Ordem de empilhamento.                            */
+    height: 60px;                                          /* Altura fixa.                                      */
+    display: flex;                                         /* Layout flexível.                                  */
+    align-items: center;                                   /* Alinhamento vertical ao centro.                   */
+    border-bottom: 3px solid #d4af37;                      /* Borda inferior dourada.                           */
+    justify-content: center;                               /* Centraliza o conteúdo horizontalmente.            */
 }
 
+/* O bloco abaixo estiliza o título do menu */
 .titulo-menu {
-    color: #d4af37;
-    font-weight: 600;
-    font-size: 0.9rem;
-    letter-spacing: 1px;
-    margin-right: 340px;
-    display: none;  /* Adicionado para ocultar inicialmente */
+    color: #d4af37;                                        /* Cor do texto dourada.                             */
+    font-weight: 600;                                      /* Peso da fonte.                                    */
+    font-size: 0.9rem;                                     /* Tamanho da fonte.                                 */
+    letter-spacing: 1px;                                   /* Espaçamento entre as letras.                      */
+    margin-right: 340px;                                   /* Margem à direita.                                 */
+    display: none;                                         /* Escondido por padrão.                             */
 }
 
+/* O bloco abaixo estiliza as opções do menu */
 .menu-opcoes {
-    display: inline-flex;
-    list-style: none;
-    gap: 30px;
-    margin-left: 20px;
+    display: inline-flex;                                  /* Layout flexível em linha.                         */
+    list-style: none;                                      /* Remove os marcadores da lista.                    */
+    gap: 30px;                                             /* Espaçamento entre os itens.                       */
+    margin-left: 20px;                                     /* Margem à esquerda.                                */
 }
 
+/* O bloco abaixo estiliza os links do menu */
 .menu-opcoes a {
-    color: #ffffff;
-    text-decoration: none;
-    padding: 8px 16px;
-    border-radius: 5px;
-    transition: all 0.3s ease;
-    font-weight: 500;
+    color: #ffffff;                                        /* Cor do texto branca.                              */
+    text-decoration: none;                                 /* Remove o sublinhado.                              */
+    padding: 8px 16px;                                     /* Preenchimento interno.                            */
+    border-radius: 5px;                                    /* Cantos arredondados.                              */
+    transition: all 0.3s ease;                             /* Transição suave.                                  */
+    font-weight: 500;                                      /* Peso da fonte.                                    */
 }
 
+/* O bloco abaixo estiliza o efeito hover e o estado ativo dos links do menu */
 .menu-opcoes a:hover,
 .menu-opcoes a.active {
-    background: #d4af37;
-    color: #1a1a1a;
-    transform: translateY(-2px);
+    background: #d4af37;                                   /* Fundo dourado.                                    */
+    color: #1a1a1a;                                        /* Cor do texto escura.                              */
+    transform: translateY(-2px);                           /* Move o link para cima.                            */
 }
 
-/* Container principal */
-.container {
-    display: flex;
-    padding-top: 160px;
-    flex-grow: 1;
-    position: relative;
-    background: rgba(26, 26, 26, 0.3);
-    /*background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="25" cy="25" r="1" fill="%23ffffff" opacity="0.02"/><circle cx="75" cy="75" r="1" fill="%23ffffff" opacity="0.02"/><circle cx="50" cy="10" r="0.5" fill="%23ffffff" opacity="0.03"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');*/
+/* O bloco abaixo estiliza o contêiner principal */
+.conteiner {
+    display: flex;                                         /* Layout flexível.                                  */
+    padding-top: 160px;                                    /* Preenchimento superior.                           */
+    flex-grow: 1;                                          /* Ocupa o espaço restante.                          */
+    position: relative;                                    /* Posição relativa.                                 */
+    background: rgba(26, 26, 26, 0.3);                     /* Fundo semitransparente.                           */
 }
 
-/* Menu alfabético */
+/* O bloco abaixo estiliza o menu alfabético lateral */
 .menu-alfabetico {
-    width: 140px;
-    /*background: linear-gradient(180deg, #2a2a2a 0%, #1a1a1a 100%);*/
-    background: linear-gradient(135deg, rgba(26, 26, 26, 0.2) 0%, rgba(51, 51, 51, 0.2) 100%);
-    
-    border-right: 2px solid #d4af37;
-    padding: 20px 10px;
-    box-shadow: 4px 0 15px rgba(0, 0, 0, 0.3);
-    position: fixed;
-    top: 160px;
-    left: 0;
-    bottom: 40px;
-    overflow-y: auto;
-    z-index: 800;
-    flex-shrink: 0;
+    width: 140px;                                          /* Largura fixa.                                     */
+    background: linear-gradient(135deg, rgba(26, 26, 26, 0.2) 0%, rgba(51, 51, 51, 0.2) 100%); /* Fundo semitransparente.                           */
+    border-right: 2px solid #d4af37;                       /* Borda direita dourada.                            */
+    padding: 20px 10px;                                    /* Preenchimento interno.                            */
+    box-shadow: 4px 0 15px rgba(0, 0, 0, 0.3);             /* Sombra para profundidade.                         */
+    position: fixed;                                       /* Posição fixa.                                     */
+    top: 160px;                                            /* Distância do topo.                                */
+    left: 0;                                               /* Alinhamento à esquerda.                           */
+    bottom: 40px;                                          /* Distância da parte inferior.                      */
+    overflow-y: auto;                                      /* Rolagem vertical automática.                      */
+    z-index: 800;                                          /* Ordem de empilhamento.                            */
+    flex-shrink: 0;                                        /* Impede que o menu encolha.                        */
 }
 
+/* O bloco abaixo estiliza a barra de rolagem do menu alfabético */
 .menu-alfabetico::-webkit-scrollbar {
-    width: 12px;
+    width: 12px;                                           /* Largura da barra de rolagem.                      */
 }
 
 .menu-alfabetico::-webkit-scrollbar-track {
-    background: rgba(56, 56, 56, 0.3);
+    background: rgba(56, 56, 56, 0.3);                     /* Cor do trilho da barra de rolagem.                */
 }
 
 .menu-alfabetico::-webkit-scrollbar-thumb {
-    margin: 5px;
-    background: rgba(167, 162, 162, 0.1);
-    border-radius: 10px;
+    margin: 5px;                                           /* Margem do polegar da barra de rolagem.            */
+    background: rgba(167, 162, 162, 0.1);                  /* Cor do polegar da barra de rolagem.               */
+    border-radius: 10px;                                   /* Cantos arredondados do polegar.                   */
 }
 
-.alfabeto-container {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
+/* O bloco abaixo estiliza o contêiner do alfabeto */
+.alfabeto-conteiner {
+    display: flex;                                         /* Layout flexível.                                  */
+    flex-direction: column;                                /* Direção da flexbox para coluna.                   */
+    gap: 8px;                                              /* Espaçamento entre os botões.                      */
 }
 
+/* O bloco abaixo estiliza os botões de letra */
 .letra-btn {
-    background: rgba(58, 58, 58, 0.3);
-    color: #ffffff;
-    border: 2px solid transparent;
-    padding: 12px;
-    border-radius: 8px;
-    cursor: pointer;
-    font-weight: 600;
-    font-size: 1rem;
-    position: relative;
-    transition: all 0.3s ease;
-    text-align: center;
-    min-height: 45px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    background: rgba(58, 58, 58, 0.3);                     /* Fundo semitransparente.                           */
+    color: #ffffff;                                        /* Cor do texto branca.                              */
+    border: 2px solid transparent;                         /* Borda transparente.                               */
+    padding: 12px;                                         /* Preenchimento interno.                            */
+    border-radius: 8px;                                    /* Cantos arredondados.                              */
+    cursor: pointer;                                       /* Cursor de ponteiro.                               */
+    font-weight: 600;                                      /* Peso da fonte.                                    */
+    font-size: 1rem;                                       /* Tamanho da fonte.                                 */
+    position: relative;                                    /* Posição relativa.                                 */
+    transition: all 0.3s ease;                             /* Transição suave.                                  */
+    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
+    min-height: 45px;                                      /* Altura mínima.                                    */
+    display: flex;                                         /* Layout flexível.                                  */
+    align-items: center;                                   /* Alinhamento vertical ao centro.                   */
+    justify-content: center;                               /* Alinhamento horizontal ao centro.                 */
 }
 
+/* O bloco abaixo estiliza o efeito hover dos botões de letra */
 .letra-btn:hover {
-    background: rgba(74, 74, 74, 0.7);
-    border-color: #d4af37;
-    transform: translateX(5px);
-    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);
+    background: rgba(74, 74, 74, 0.7);                     /* Fundo semitransparente mais escuro.               */
+    border-color: #d4af37;                                 /* Cor da borda dourada.                             */
+    transform: translateX(5px);                            /* Move o botão para a direita.                      */
+    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);          /* Sombra dourada.                                   */
 }
 
+/* O bloco abaixo estiliza um botão de letra ativo */
 .letra-btn.active {
-    background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%);
-    color: #1a1a1a;
-    border-color: #d4af37;
-    transform: translateX(5px);
-    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.5);
+    background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%); /* Fundo com gradiente dourado.                      */
+    color: #1a1a1a;                                        /* Cor do texto escura.                              */
+    border-color: #d4af37;                                 /* Cor da borda dourada.                             */
+    transform: translateX(5px);                            /* Move o botão para a direita.                      */
+    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.5);          /* Sombra dourada mais forte.                        */
 }
 
-/* Conteúdo principal */
+/* O bloco abaixo estiliza o conteúdo principal */
 #conteudo-principal {
-    flex: 1;
-    padding: 8px 0;  /* Alterado para remover padding lateral e expandir a largura*/
-    margin-left: 140px;
-    height: calc(100vh - 205px);
-    /* scrollbar-width: none; // Comentado para permitir rolagem*/
-    /* -ms-overflow-style: none; // Comentado para permitir rolagem*/
-    overflow-y: auto; /*/ Alterado para auto para ativar rolagem vertical*/
-    margin-top: 2px;
+    flex: 1;                                               /* Ocupa o espaço restante.                          */
+    gap: 10px; 
+    overflow-y: auto;                                      /* Rolagem vertical automática.                      */
+    scrollbar-width: none;                                 /* Esconde a barra de rolagem no Firefox.            */
+    -ms-overflow-style: none;                              /* Esconde a barra de rolagem no IE e Edge.          */
 }
 
+/* ========================================================= */
+/* CORREÇÃO: Classes específicas para módulos                */
+/* Solução para o problema de margin-top                     */
+/* ========================================================= */
+
+/* Margem específica para o modulo concordancia */
+body.modulo-concordancia #conteudo-principal {
+    margin-top: 170px; /* Valor que ja funciona para concordancia */
+    height: calc(100vh - 230px);
+    padding: 3px 0;
+}
+
+/* Margem específica para o módulo dicionário */
+body.modulo-dicionario #conteudo-principal {
+    margin-top: 5px; /* Valor ajustado para dicionario */
+    padding: 5px 10px; /* AJUSTADO: Removido padding horizontal, mantido vertical */
+    margin-left: 140px; /* Adicionado para compensar a largura do menu alfabético fixo */
+/*padding: 8px 10px;*/
+height: calc(100vh - 80px);
+
+}
+
+/* Margem específica para o módulo sobre */
+body.modulo-sobre #conteudo-principal {
+    margin-top: 20px;  /* Mesmo valor usado na concordância */
+    height: calc(100vh - 220px);
+}
+
+/* O bloco abaixo esconde a barra de rolagem no Chrome, Safari e Opera */
 #conteudo-principal::-webkit-scrollbar {
-    display: none;  /*/ Adicionado para esconder a barra de rolagem no Chrome/Safari*/
+    display: none;                                         /* Esconde a barra de rolagem.                       */
 }
 
-/* Adicionado para esconder scrollbar no Firefox */
-#conteudo-principal {
-    scrollbar-width: none;
-}
-
-/* Adicionado para esconder scrollbar no IE/Edge */
-#conteudo-principal {
-    -ms-overflow-style: none;
-}
-
-#conteudo-principal::-webkit-scrollbar {
-    /* display: none; // Comentado para mostrar a barra de rolagem*/
-}
-
-/* Seções */
+/* O bloco abaixo exibe a seção ativa */
 .secao-ativa {
-    display: block;
+    display: block;                                        /* Exibe o elemento.                                 */
 }
 
+/* O bloco abaixo esconde a seção inativa */
 .secao-inativa {
-    display: none;
+    display: none;                                         /* Esconde o elemento.                               */
 }
 
-/* Mensagem inicial */
+/* O bloco abaixo estiliza a mensagem inicial */
 #mensagem-inicial {
-    text-align: center;
-    padding: 60px 20px;
+    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
+    /*padding: 20px 20px;                                    /* Preenchimento interno.                            */
+
 }
 
 #mensagem-inicial h2 {
-    color: #d4af37;
-    font-size: 2rem;
-    margin-bottom: 20px;
+    color: #d4af37;                                        /* Cor do texto dourada.                             */
+    font-size: 2rem;                                       /* Tamanho da fonte.                                 */
+    /*margin-bottom: 20px;                                   /* Margem inferior.                                  */
 }
 
 #mensagem-inicial p {
-    color: #cccccc;
-    font-size: 1.2rem;
+    color: #cccccc;                                        /* Cor do texto cinza claro.                         */
+    font-size: 1.2rem;                                     /* Tamanho da fonte.                                 */
 }
 
-/* Loading indicator */
-.loading-container {
-    text-align: center;
-    padding: 40px;
+/* O bloco abaixo estiliza o container de carregamento */
+.loading-conteiner {
+    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
+    padding: 20px;                                         /* Preenchimento interno reduzido.                   */
+    position: absolute;                                    /* Posição absoluta para controle preciso.           */
+    top: 280px;                                           /* Posição abaixo dos filtros.                       */
+    left: 0;                                              /* Alinhado à esquerda.                              */
+    right: 0;                                             /* Alinhado à direita.                               */
+    z-index: 1000;                                        /* Garante que fique acima de outros elementos.       */
+    display: flex;                                        /* Layout flexível.                                  */
+    flex-direction: column;                               /* Organiza itens em coluna.                         */
+    align-items: center;                                  /* Centraliza itens horizontalmente.                 */
+    justify-content: center;                              /* Centraliza itens verticalmente.                   */
 }
 
+.loading-conteiner p {
+    color: #d4af37;                                       /* Texto na cor dourada.                            */
+    font-size: 1.1em;                                     /* Tamanho da fonte.                                 */
+    margin-top: 15px;                                     /* Mais espaço entre o spinner e o texto.            */
+}
+
+/* O bloco abaixo estiliza o spinner de carregamento */
 .loading-spinner {
-    width: 40px;
-    height: 40px;
-    border: 4px solid #333;
-    border-top: 4px solid #d4af37;
-    border-radius: 50%;
-    animation: spin 1s linear infinite;
-    margin: 0 auto 20px;
+    width: 40px;                                           /* Largura do spinner.                               */
+    height: 40px;                                          /* Altura do spinner.                                */
+    /*border: 4px solid #333;                                /* Borda cinza.                                      */
+    /*border-top: 4px solid #d4af37;                         /* Borda superior dourada.                           */
+    border-radius: 50%;                                    /* Forma circular.                                   */
+    animation: spin 1s linear infinite;                    /* Animação de rotação.                              */
+    margin: 0 auto 20px;                                   /* Margem automática para centralizar.               */
 }
 
+/* O bloco abaixo define a animação de rotação */
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+    0% { transform: rotate(0deg); }                         /* Rotação inicial.                                  */
+    100% { transform: rotate(360deg); }                       /* Rotação final.                                    */
 }
 
-/* Rodapé */
+/* O bloco abaixo estiliza o rodapé */
 footer {
-    position: fixed;
-    bottom: 0;
-    left: 0px;
-    z-index: 1;
-    width: 100%;
-    height: 40px;
-    background-color: rgba(56, 56, 56, 0.8);
-    color: #d4ac0d;
-    text-align: center;
+    position: fixed;                                       /* Posição fixa.                                     */
+    bottom: 0;                                             /* Alinha na parte inferior.                         */
+    left: 0px;                                             /* Alinha à esquerda.                                */
+    z-index: 1;                                            /* Ordem de empilhamento.                            */
+    width: 100%;                                           /* Largura total.                                    */
+    height: 40px;                                          /* Altura fixa.                                      */
+    background-color: rgba(56, 56, 56, 0.8);               /* Fundo semitransparente.                           */
+    color: #d4ac0d;                                        /* Cor do texto dourada.                             */
+    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
 }
 
 footer p {
-    font-size: 1.3em;
-    line-height: 1.5;
+    font-size: 1.3em;                                      /* Tamanho da fonte.                                 */
+    line-height: 1.5;                                      /* Altura da linha.                                  */
 }
 
-/* Ajustes gerais de layout */
-.dicionario-container {
-    display: flex;
-    align-items: center;
-    padding: 15px;
-    background: rgba(26, 26, 26, 0.5);
-    border-radius: 8px;
-    margin-bottom: 20px;
+/* REMOVIDO: O bloco abaixo estiliza o contêiner do dicionário (Movido para dicionario.css) */
+/* REMOVIDO: O bloco abaixo estiliza a busca do dicionário (Movido para dicionario.css) */
+/* REMOVIDO: O bloco abaixo estiliza o campo de busca do dicionário (Movido para dicionario.css) */
+/* REMOVIDO: O bloco abaixo estiliza as ações do dicionário (Movido para dicionario.css) */
+/* REMOVIDO: O bloco abaixo estiliza os botões de busca e carregar mais (Movido para dicionario.css) */
+/* REMOVIDO: O bloco abaixo estiliza o contador do dicionário (Movido para dicionario.css) */
+/* REMOVIDO: O bloco abaixo estiliza os itens de definição (Movido para dicionario.css) */
+/* REMOVIDO: @keyframes fadeInUp (Movido para dicionario.css) */
+/* REMOVIDO: .definicao-item:nth-child(n) (Movido para dicionario.css) */
+/* REMOVIDO: .definicao-item:hover (Movido para dicionario.css) */
+
+
+/* O bloco abaixo estiliza a imagem de marca d'água */
+.marca-dagua-imagem {
+    position: fixed;                                       /* Posição fixa.                                     */
+    top: 0;                                                /* Alinha no topo.                                   */
+    left: 0;                                               /* Alinha à esquerda.                                */
+    width: 100%;                                           /* Largura total.                                    */
+    height: 120%;                                          /* Altura maior que a tela.                          */
+    z-index: 10;                                           /* Ordem de empilhamento.                            */
+    opacity: 0.3;                                          /* Opacidade.                                        */
+    overflow: hidden;                                      /* Esconde o conteúdo que transborda.                */
+    pointer-events: none;                                  /* Impede eventos de mouse.                          */
+    background-size: cover;                                /* Cobre toda a área.                                */
+    background-repeat: no-repeat;                          /* Não repete a imagem.                              */
+    background-position: center;                           /* Centraliza a imagem.                              */
 }
 
-.dicionario-busca {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    flex: 0 1 auto;  /* Alterado para não expandir automaticamente */
-    max-width: 50%;  /* Define largura máxima de 50% do container pai, ajuste conforme necessário */
-}
-
-.dicionario-busca input {
-    flex: 0 1 auto;
-    width: 300px;  /* Define uma largura fixa para o input, ajuste o valor */
-    padding: 8px 12px;
-    border-radius: 5px;
-    border: 1px solid #333;
-    background: rgba(26, 26, 26, 0.8);
-    color: #ffffff;
-    height: 36px;
-}
-
-.dicionario-acoes {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-.btn-buscar,
-.btn-carregar-mais {
-    background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%);
-    color: #1a1a1a;
-    border: none;
-    padding: 8px 15px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-weight: 600;
-    height: 36px;
-    white-space: nowrap;
-}
-
-.contador-dicionario {
-    color: #d4af37;
-    font-size: 0.9rem;
-    white-space: nowrap;
-    margin-left: 15px;
-}
-
-/* Cartões de resultados */
-.definicao-item {
-    background: rgba(42, 42, 42, 0.9);
-    border: 2px solid #444444;
-    border-radius: 12px;
-    margin-bottom: 25px;
-    overflow: hidden;
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
-    transition: all 0.3s ease;
-    opacity: 0;
-    transform: translateY(20px);
-    animation: fadeInUp 0.5s ease forwards;
-}
-
-@keyframes fadeInUp {
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-.definicao-item:nth-child(1) { animation-delay: 0.1s; }
-.definicao-item:nth-child(2) { animation-delay: 0.2s; }
-.definicao-item:nth-child(3) { animation-delay: 0.3s; }
-.definicao-item:nth-child(4) { animation-delay: 0.4s; }
-.definicao-item:nth-child(5) { animation-delay: 0.5s; }
-
-.definicao-item:hover {
-    border-color: #d4af37;
-    transform: translateY(-3px);
-    box-shadow: 0 10px 30px rgba(212, 175, 55, 0.2);
-}
-
-/* Responsividade */
-@media (max-width: 768px) {
-    .container {
-        flex-direction: column;
-    }
-    
-    .menu-alfabetico {
-        position: static;
-        width: 100%;
-        height: auto;
-        max-height: none;
-        padding: 15px;
-        border-right: none;
-        border-bottom: 2px solid #d4af37;
-        top: 0;
-        left: 0;
-        bottom: auto;
-    }
-    
-    .alfabeto-container {
-        flex-direction: row;
-        flex-wrap: wrap;
-        gap: 5px;
-        justify-content: center;
-    }
-    
-    .letra-btn {
-        min-width: 40px;
-        min-height: 40px;
-        padding: 8px;
-        font-size: 0.9rem;
-    }
-    
-    .titulo-container h1 {
-        font-size: 2rem;
-    }
-    
-    .menu-opcoes {
-        flex-wrap: wrap;
-        gap: 15px;
-        margin-left: 0;
-    }
-    
-    #conteudo-principal {
-        padding: 20px;
-        margin-left: 0;
-        height: auto;
-        overflow-y: auto;
-    }
-}
-
-/* Marca d'água */
-.marcadagua-image {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 120%;
-    z-index: 10;
-    opacity: 0.3;
-    overflow: hidden;
-    pointer-events: none;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
+/* O bloco abaixo remove a margem esquerda das opções do menu */
 .menu-opcoes {
-    margin-left: 0;
+    margin-left: 0;                                        /* Remove a margem à esquerda.                       */
 }
 
-/* Estilos para seção de referências */
+/* O bloco abaixo estiliza a seção de referências */
 .referencias-section {
-    margin-top: 10px;
-    padding: 10px;
-    background: rgba(0, 0, 0, 0.2);
-    border-radius: 5px;
+    margin-top: 10px;                                      /* Margem superior.                                  */
+    padding: 10px;                                         /* Preenchimento interno.                            */
+    background: rgba(0, 0, 0, 0.2);                        /* Fundo semitransparente.                           */
+    border-radius: 5px;                                    /* Cantos arredondados.                              */
 }
 
+/* O bloco abaixo estiliza o título da seção de referências */
 .referencias-titulo {
-    font-weight: bold;
-    margin-bottom: 5px;
-    color: #d4af37;
+    font-weight: bold;                                     /* Peso da fonte em negrito.                         */
+    margin-bottom: 5px;                                    /* Margem inferior.                                  */
+    color: #d4af37;                                        /* Cor do texto dourada.                             */
 }
 
+/* O bloco abaixo estiliza os itens de referência */
 .referencia-item {
-    display: inline-block;
-    margin-right: 10px;
-    color: #cccccc;
+    display: inline-block;                                 /* Exibição como bloco em linha.                     */
+    margin-right: 10px;                                    /* Margem à direita.                                 */
+    color: #cccccc;                                        /* Cor do texto cinza claro.                         */
 }
 
+/* O bloco abaixo adiciona uma vírgula após cada item de referência, exceto o último */
 .referencia-item:not(:last-child)::after {
-    content: ", ";
+    content: ", ";                                          /* Adiciona uma vírgula e um espaço.                 */
+}
+
+
+/* O bloco abaixo estiliza o contêiner da seção "Sobre" */
+.sobre-conteiner {
+    background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%); /* Fundo com gradiente escuro.                       */
+    border-radius: 12px;                                   /* Cantos arredondados.                              */
+    /*padding: 30px;                                         /* Preenchimento interno.                            */
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);             /* Sombra para profundidade.                         */
+ 
+}
+
+/* O bloco abaixo estiliza o título h2 na seção "Sobre" */
+.sobre-conteiner h2 {
+    color: #d4af37;                                        /* Cor do texto dourada.                             */
+    font-size: 2rem;                                       /* Tamanho da fonte.                                 */
+    margin-bottom: 20px;                                   /* Margem inferior.                                  */
+    /*text-align: center;                                    /* Alinhamento do texto ao centro.                   */
+margin-left: 60px;
+}
+
+/* O bloco abaixo estiliza o título h3 na seção "Sobre" */
+.sobre-conteiner h3 {
+    color: #d4af37;                                        /* Cor do texto dourada.                             */
+    font-size: 1.3rem;                                     /* Tamanho da fonte.                                 */
+    margin: 25px 0 15px 60px;                                 /* Margens.                                          */
+}
+
+/* O bloco abaixo estiliza os parágrafos na seção "Sobre" */
+.sobre-conteiner p {
+    color: #cccccc;                                        /* Cor do texto cinza claro.                         */
+    font-size: 1.1rem;                                     /* Tamanho da fonte.                                 */
+    line-height: 1.8;                                      /* Altura da linha.                                  */
+    margin-bottom: 20px;                                   /* Margem inferior.                                  */
+    text-align: justify;                                   /* Texto justificado.                                */
+margin-left: 60px;
+}
+
+/* O bloco abaixo estiliza as listas não ordenadas na seção "Sobre" */
+.sobre-conteiner ul {
+    color: #ffffff;                                        /* Cor do texto branca.                              */
+    margin-left: 120px;                                     /* Margem à esquerda.                                */
+    margin-bottom: 20px;                                   /* Margem inferior.                                  */
+}
+
+/* O bloco abaixo estiliza os itens da lista na seção "Sobre" */
+.sobre-conteiner li {
+    margin-bottom: 10px;                                   /* Margem inferior.                                  */
+    line-height: 1.6;                                      /* Altura da linha.                                  */
 }
