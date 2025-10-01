@@ -1,28 +1,27 @@
 /*===============================================================================*/
-/*        SCRIPT ESPECÍFICO PARA NTHL (Nova Tradução na Linguagem de Hoje)       */
+/*        SCRIPT ESPECÍFICO PARA NTLH (Nova Tradução na Linguagem de Hoje)       */
 /*===============================================================================*/
 /*  Este arquivo contém:                                                         */
-/*                    - Funções para carregar e exibir versículos da versão NTHL */
+/*                    - Funções para carregar e exibir versículos da versão NTLH */
 /*                    - Manipulação de títulos e modo de leitura                 */
 /*===============================================================================*/
 
 // Este bloco definição da versão da Bíblia para este script
-window.BIBLE_VERSION                   = 'nthl';                                                             // Define o identificador da versão
-window.BIBLE_VERSION_FULL_NAME         = 'Nova Tradução na Linguagem de Hoje';                               // Nome completo da versão
+window.BIBLE_VERSION                   = 'ntlh';                                                             // Define o identificador da versão
 window.NOME_VERSAO_COMPLETA_BIBLIA     = 'Nova Tradução na Linguagem de Hoje';                               // Nome completo da versão
-console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para NTHL.`);      // Loga o carregamento do script
+console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para NTLH.`);      // Loga o carregamento do script
 
 // Este bloco cria a função que será chamada por livros_capitulos.js. Obtém a contagem de versículos para um determinado livro e capítulo.
 window.getSpecificVerseCount = function(livro, capitulo) {
     return window.getVerseCount(livro, capitulo);                                                            // Chama a função global para obter a contagem
 };
 
-// Este bloco carrega e exibe um versículo específico da Bíblia NTHL.
+// Este bloco carrega e exibe um versículo específico da Bíblia NTLH.
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
-    console.log(`[NTHL] Carregando: ${livro} ${capitulo}:${versiculo}`);                                     // Loga o carregamento do versículo
-    const content = document.querySelector('.content');                                                      // Seleciona o conteiner principal
+    console.log(`[NTLH] Carregando: ${livro} ${capitulo}:${versiculo}`);                                     // Loga o carregamento do versículo
+    const content = document.querySelector('.conteudo');                                                     // Seleciona o conteiner principal
     if (!content) {                                                                                          // Verifica se o conteiner principal existe
-        console.error("[NTHL] Elemento .content não encontrado.");                                           // Loga erro se não encontrar o conteiner
+        console.error("[NTLH] Elemento .conteudo não encontrado.");                                          // Loga erro se não encontrar o conteiner
         return;                                                                                              // Interrompe a função se o conteiner não existir
     }
 
@@ -37,11 +36,11 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
         versiculoElementDiv.classList.add('modo-leitura');                                                   // Adiciona classe se modo leitura estiver ativo
     }
 
-    // Este bloco inicia um bloco try-catch para lidar com possíveis erros de requisição
+    // Inicia um bloco try-catch para lidar com possíveis erros de requisição
     try {
-        const response = await fetch(`../versao/nthl/${livro}/${capitulo}.json`);                            // Busca o arquivo JSON do capítulo
+        const response = await fetch(`../versao/ntlh/${livro}/${capitulo}.json`);                            // Busca o arquivo JSON do capítulo
         if (!response.ok) {                                                                                  // Verifica se a requisição HTTP foi bem-sucedida
-            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NTHL)`);      // Lança um erro se a resposta não for 'ok'
+            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NTLH)`);      // Lança um erro se a resposta não for 'ok'
         }
         const data = await response.json();                                                                  // Converte a resposta em formato JSON
 
@@ -61,10 +60,10 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
             const textoP = document.createElement('p');                                                      // Cria elemento <p> para mensagem de erro
             textoP.textContent = `Versículo ${versiculo} não encontrado nos dados.`;                         // Define mensagem de erro
             versiculoElementDiv.appendChild(textoP);                                                         // Adiciona o <p> à div do versículo
-            console.warn(`[NTHL] Versículo ${versiculo} não encontrado nos dados de ${livro} ${capitulo}.json (NTHL)`);
+            console.warn(`[NTLH] Versículo ${versiculo} não encontrado nos dados de ${livro} ${capitulo}.json (NTLH)`);
         }
     } catch (error) {                                                                                        // Captura erros que possam ocorrer no bloco try
-        console.error(`[NTHL] Erro ao carregar versículo ${livro} ${capitulo}:${versiculo} (NTHL):`, error); // Loga erro
+        console.error(`[NTLH] Erro ao carregar versículo ${livro} ${capitulo}:${versiculo} (NTLH):`, error); // Loga erro
         const textoP = document.createElement('p');                                                          // Cria elemento <p> para mensagem de erro
         textoP.textContent = `Erro ao carregar versículo ${versiculo}.`;                                     // Define mensagem de erro
         textoP.style.color = "red";                                                                          // Define cor vermelha para o texto
@@ -78,26 +77,28 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
         if (typeof window.getLivroDisplayName === 'function') {                                              // Verifica se a função para obter o nome formatado do livro existe
             nomeLivroDisplay = window.getLivroDisplayName(livro);                                            // Usa a função para obter nome acentuado
         } else {                                                                                             // Caso a função não exista
-            console.warn("[NTHL] Função window.getLivroDisplayName não encontrada. Usando chave do livro em maiúsculas para o título.");
+            console.warn("[NTLH] Função window.getLivroDisplayName não encontrada. Usando chave do livro em maiúsculas para o título.");
         }
         window.titulo.textContent = `${nomeLivroDisplay} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;   // Atualiza o texto do título da página
     } else {                                                                                                 // Caso o elemento do título não seja encontrado
-        console.warn(`[NTHL] Elemento H2 principal (window.titulo) não encontrado para atualizar.`);
+        console.warn(`[NTLH] Elemento H2 principal (window.titulo) não encontrado para atualizar.`);
     }
 };
 
 // Este bloco define a função para obter o título de uma seção.
 window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
-    console.log(`[NTHL] Obtendo título interno para: ${livro} ${capitulo}:${versiculo}`);                    // Loga a busca do título
+    console.log(`[NTLH] Obtendo título interno para: ${livro} ${capitulo}:${versiculo}`);                    // Loga a busca do título
     try {                                                                                                    // Inicia um bloco try-catch para lidar com erros
-        const response = await fetch(`../versao/nthl/${livro}/${capitulo}.json`);                            // Busca o arquivo JSON do capítulo
+        const response = await fetch(`../versao/ntlh/${livro}/${capitulo}.json`);                            // Busca o arquivo JSON do capítulo
         if (!response.ok) {                                                                                  // Verifica se a requisição foi bem-sucedida
-            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NTHL)`);
+            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NTLH)`);
         }
         const data = await response.json();                                                                  // Converte a resposta para JSON
         return data.titulos && data.titulos[versiculo] ? data.titulos[versiculo] : null;                     // Retorna o título se existir, caso contrário retorna null
     } catch (error) {                                                                                        // Captura erros que possam ocorrer
-        console.error(`[NTHL] Erro ao obter título interno para ${livro} ${capitulo}:${versiculo} (NTHL):`, error);// Loga erro
-        return null;                                                                                               // Retorna null em caso de erro
+        console.error(`[NTLH] Erro ao obter título interno para ${livro} ${capitulo}:${versiculo} (NTLH):`, error);// Loga erro
+        return null;                                                                                         // Retorna null em caso de erro
     }
 };
+
+// --- FIM DO SCRIPT ntlh.js ---

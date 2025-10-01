@@ -19,9 +19,9 @@ window.getSpecificVerseCount = function(livro, capitulo) {
 // Este bloco carrega e exibe um versículo específico da Bíblia NAA.
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     console.log(`[NAA] Carregando: ${livro} ${capitulo}:${versiculo}`);                                      // Loga o carregamento do versículo
-    const content = document.querySelector('.content');                                                      // Seleciona o conteiner principal
+    const content = document.querySelector('.conteudo');                                                     // Seleciona o conteiner principal
     if (!content) {                                                                                          // Verifica se o conteiner principal existe
-        console.error("[NAA] Elemento .content não encontrado.");                                            // Loga erro se não encontrar o conteiner
+        console.error("[NAA] Elemento .conteudo não encontrado.");                                           // Loga erro se não encontrar o conteiner
         return;                                                                                              // Interrompe a função se o conteiner não existir
     }
 
@@ -36,8 +36,9 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
         versiculoElementDiv.classList.add('modo-leitura');                                                   // Adiciona classe se modo leitura estiver ativo
     }
 
-    // Este bloco inicia um bloco try-catch para lidar com possíveis erros de requisição
-    try {        const response = await fetch(`../versao/naa/${livro}/${capitulo}.json`);                             // Busca o arquivo JSON do capítulo
+    // Inicia um bloco try-catch para lidar com possíveis erros de requisição
+    try {
+        const response = await fetch(`../versao/naa/${livro}/${capitulo}.json`);                             // Busca o arquivo JSON do capítulo
         if (!response.ok) {                                                                                  // Verifica se a requisição HTTP foi bem-sucedida
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NAA)`);       // Lança um erro se a resposta não for 'ok'
         }
@@ -96,6 +97,8 @@ window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
         return data.titulos && data.titulos[versiculo] ? data.titulos[versiculo] : null;                     // Retorna o título se existir, caso contrário retorna null
     } catch (error) {                                                                                        // Captura erros que possam ocorrer
         console.error(`[NAA] Erro ao obter título interno para ${livro} ${capitulo}:${versiculo} (NAA):`, error);// Loga erro
-        return null;                                                                                             // Retorna null em caso de erro
+        return null;                                                                                         // Retorna null em caso de erro
     }
 };
+
+// --- FIM DO SCRIPT naa.js ---

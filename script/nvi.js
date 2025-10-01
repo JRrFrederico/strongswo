@@ -19,9 +19,9 @@ window.getSpecificVerseCount = function(livro, capitulo) {
 // Este bloco carrega e exibe um versículo específico da Bíblia NVI.
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     console.log(`[NVI] Carregando: ${livro} ${capitulo}:${versiculo}`);                                      // Loga o carregamento do versículo
-    const content = document.querySelector('.content');                                                      // Seleciona o conteiner principal
+    const content = document.querySelector('.conteudo');                                                     // Seleciona o conteiner principal
     if (!content) {                                                                                          // Verifica se o conteiner principal existe
-        console.error("[NVI] Elemento .content não encontrado.");                                            // Loga erro se não encontrar o conteiner
+        console.error("[NVI] Elemento .conteudo não encontrado.");                                           // Loga erro se não encontrar o conteiner
         return;                                                                                              // Interrompe a função se o conteiner não existir
     }
 
@@ -36,7 +36,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
         versiculoElementDiv.classList.add('modo-leitura');                                                   // Adiciona classe se modo leitura estiver ativo
     }
 
-    // Este bloco inicia um bloco try-catch para lidar com possíveis erros de requisição
+    // Inicia um bloco try-catch para lidar com possíveis erros de requisição
     try {
         const response = await fetch(`../versao/nvi/${livro}/${capitulo}.json`);                             // Busca o arquivo JSON do capítulo
         if (!response.ok) {                                                                                  // Verifica se a requisição HTTP foi bem-sucedida
@@ -97,6 +97,8 @@ window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
         return data.titulos && data.titulos[versiculo] ? data.titulos[versiculo] : null;                     // Retorna o título se existir, caso contrário retorna null
     } catch (error) {                                                                                        // Captura erros que possam ocorrer
         console.error(`[NVI] Erro ao obter título interno para ${livro} ${capitulo}:${versiculo} (NVI):`, error);// Loga erro
-        return null;                                                                                             // Retorna null em caso de erro
+        return null;                                                                                         // Retorna null em caso de erro
     }
 };
+
+// --- FIM DO SCRIPT nvi.js ---

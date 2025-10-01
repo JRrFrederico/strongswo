@@ -19,7 +19,7 @@
     window.ultimoVersiculoSelecionado = null;                                                  // Define uma variável global para guardar o último versículo selecionado (inicia como nulo).
 
     // Este bloco define a função principal que carrega e exibe o conteúdo do capítulo.
-    window.carregarCapituloModoLeitura = async function(livro, capitulo, versaoEspecifica) { 
+    window.carregarCapituloModoLeitura = async function(livro, capitulo) { 
         const areaConteudoLeitura = document.querySelector('section.conteudo');                // Busca na página o elemento principal onde o conteúdo será exibido.
         if (!areaConteudoLeitura) {                                                            // Verifica se a área de conteúdo foi encontrada.
             console.error('[Modo Leitura] A área de conteúdo principal não foi encontrada.');  // Exibe um erro no console se a área não for encontrada.
@@ -53,15 +53,7 @@
             
             // Este bloco determina a versão e o formato do arquivo (HTML ou JSON) a ser carregado.
             const versoesQueUsamHtml = ['arc'];                                                                                  // Define uma lista de versões que usam o formato de arquivo HTML.
-            
-            // USAR A VERSÃO ESPECIFICADA OU OBTER A VERSÃO ATUAL
-            const versaoAtual = versaoEspecifica || 
-                               window.BIBLE_VERSION || 
-                               (window.obterPreferencia && window.obterPreferencia('versaoBiblicaSelecionada', 'ara')) || 
-                               'ara';
-            
-            console.log(`[Modo Leitura] Carregando ${livro} ${capitulo} na versão: ${versaoAtual}`);
-            
+            const versaoAtual = window.obterPreferencia && window.obterPreferencia('versaoBiblicaSelecionada', 'ara') || 'ara';  // Busca a versão da Bíblia selecionada.
             const ehVersaoHtml = versoesQueUsamHtml.includes(versaoAtual.toLowerCase());                                         // Verifica se a versão atual da Bíblia é uma das que usam HTML.
             const htmlBotoesNavegacao = await window.gerarHtmlNavegacao(livro, capitulo);                                        // Chama a função que gera o HTML dos botões 'Anterior' e 'Próximo'.
             let htmlParaExibir = '';                                                                                             // Inicia uma variável vazia que guardará o HTML do conteúdo.
@@ -173,12 +165,7 @@
             ).forEach(el => el.remove());                                                                                        // Remove para limpar a tela.
 
             if (window.ultimoLivroSelecionado && window.ultimoCapituloSelecionado) {                                             // Se houver um livro e capítulo selecionados...
-                // OBTER A VERSÃO ATUAL PARA PASSAR AO MODO LEITURA
-                const versaoAtual = window.BIBLE_VERSION || 
-                                   (window.obterPreferencia && window.obterPreferencia('versaoBiblicaSelecionada', 'ara')) || 
-                                   'ara';
-                console.log(`[Modo Leitura] Ativando com versão: ${versaoAtual}`);
-                await window.carregarCapituloModoLeitura(window.ultimoLivroSelecionado, window.ultimoCapituloSelecionado, versaoAtual);
+                await window.carregarCapituloModoLeitura(window.ultimoLivroSelecionado, window.ultimoCapituloSelecionado);       // Carrega o capítulo no novo modo.
             } else {                                                                                                             // Se não, exibe uma mensagem de ajuda.
                 let conteinerLeitura = areaConteudo.querySelector('.modo-leitura-conteudo');                                     // Busca ou cria o conteiner de leitura.
                 if (!conteinerLeitura) {                                                                                         // Se não existe, cria.

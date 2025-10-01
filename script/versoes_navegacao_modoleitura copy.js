@@ -70,14 +70,7 @@
                     const capituloDestino = parseInt(novoBotao.dataset.capitulo);              // Pega o número do capítulo de destino do atributo 'data-capitulo'.
                     window.activeLivro    = livroDestino;                                      // Atualiza a variável global que armazena o livro ativo.
                     window.activeCapitulo = capituloDestino;                                   // Atualiza a variável global que armazena o capítulo ativo.
-                    
-                    // OBTER A VERSÃO ATUAL ANTES DE CARREGAR
-                    const versaoAtual = window.BIBLE_VERSION || 
-                                       (window.obterPreferencia && window.obterPreferencia('versaoBiblicaSelecionada', 'ara')) || 
-                                       'ara';
-                    console.log(`[Navegação] Carregando capítulo na versão: ${versaoAtual}`);
-                    
-                    await window.carregarCapituloModoLeitura(livroDestino, capituloDestino, versaoAtual);
+                    await window.carregarCapituloModoLeitura(livroDestino, capituloDestino);   // Chama a função principal para carregar o novo capítulo.
                 });
             }
         };
