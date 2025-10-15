@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "O Rei da Glória e o seu Reino"
+    },
     "versiculos": {
-        "1": "Do Senhor é a terra e a sua plenitude, o mundo e aqueles que nele habitam.",
+        "1": "DO Senhor é a terra e a sua plenitude, o mundo e aqueles que nele habitam.",
         "2": "Porque ele a fundou sobre os mares, e a firmou sobre os rios.",
         "3": "Quem subirá ao monte do Senhor, ou quem estará no seu lugar santo?",
         "4": "Aquele que é limpo de mãos e puro de coração, que não entrega a sua alma à vaidade, nem jura enganosamente.",

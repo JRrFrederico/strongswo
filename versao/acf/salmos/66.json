@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 66,
-    "titulos": {},
+    "titulos": {
+        "1": "Ofertas de gratidão"
+    },
     "versiculos": {
-        "1": "Celebrai com júbilo a Deus, todas as terras.",
+        "1": "CELEBRAI com júbilo a Deus, todas as terras.",
         "2": "Cantai a glória do seu nome; dai glória ao seu louvor.",
         "3": "Dizei a Deus: Quão tremendo és tu nas tuas obras! Pela grandeza do teu poder se submeterão a ti os teus inimigos.",
         "4": "Todos os moradores da terra te adorarão e te cantarão; cantarão o teu nome. (Selá.)",

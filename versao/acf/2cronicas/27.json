@@ -1,9 +1,11 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "O reinado de Jotão e suas vitórias"
+    },
     "versiculos": {
-        "1": "Tinha Jotão vinte e cinco anos de idade, quando começou a reinar, e reinou dezesseis anos em Jerusalém; e era o nome de sua mãe Jerusa, filha de Zadoque.",
+        "1": "TINHA Jotão vinte e cinco anos de idade, quando começou a reinar, e reinou dezesseis anos em Jerusalém; e era o nome de sua mãe Jerusa, filha de Zadoque.",
         "2": "E fez o que era reto aos olhos do Senhor, conforme a tudo o que fizera Uzias, seu pai, exceto que não entrou no templo do Senhor. E o povo ainda se corrompia.",
         "3": "Ele edificou a porta superior da casa do Senhor, e também edificou muitas obras sobre o muro de Ofel.",
         "4": "Também edificou cidades nas montanhas de Judá, e edificou castelos e torres nos bosques.",

@@ -1,9 +1,13 @@
 {
     "livro": "Efésios",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefácio e saudações",
+        "3": "Deus nos abençoou em Cristo",
+        "15": "Paulo agradece a Deus e ora"
+    },
     "versiculos": {
-        "1": "Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus:",
+        "1": "PAULO, apóstolo de Jesus Cristo, pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus:",
         "2": "A vós graça, e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo!",
         "3": "Bendito o Deus e Pai de nosso Senhor Jesus Cristo, o qual nos abençoou com todas as bênçãos espirituais nos lugares celestiais em Cristo;",
         "4": "Como também nos elegeu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele em amor;",

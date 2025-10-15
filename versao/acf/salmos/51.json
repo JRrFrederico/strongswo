@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 51,
-    "titulos": {},
+    "titulos": {
+        "1": "Contrição e confissão de Davi"
+    },
     "versiculos": {
-        "1": "Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias.",
+        "1": "TEM misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias.",
         "2": "Lava-me completamente da minha iniquidade, e purifica-me do meu pecado.",
         "3": "Porque eu conheço as minhas transgressões, e o meu pecado está sempre diante de mim.",
         "4": "Contra ti, contra ti somente pequei, e fiz o que é mal à tua vista, para que sejas justificado quando falares, e puro quando julgares.",

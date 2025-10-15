@@ -1,9 +1,11 @@
 {
     "livro": "1 Samuel",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi abrigado pelos filisteus"
+    },
     "versiculos": {
-        "1": "Disse, porém, Davi no seu coração: Ora, algum dia ainda perecerei pela mão de Saul; não há coisa melhor para mim do que escapar apressadamente para a terra dos filisteus, para que Saul perca a esperança de mim, e cesse de me buscar por todos os termos de Israel; e assim escaparei da sua mão.",
+        "1": "DISSE, porém, Davi no seu coração: Ora, algum dia ainda perecerei pela mão de Saul; não há coisa melhor para mim do que escapar apressadamente para a terra dos filisteus, para que Saul perca a esperança de mim, e cesse de me buscar por todos os termos de Israel; e assim escaparei da sua mão.",
         "2": "Então Davi se levantou, e passou, com os seiscentos homens que com ele estavam, a Aquis, filho de Maoque, rei de Gate.",
         "3": "E Davi ficou com Aquis em Gate, ele e os seus homens, cada um com a sua casa; Davi com ambas as suas mulheres, Ainoã, a jizreelita, e Abigail, a mulher de Nabal, o carmelita.",
         "4": "E, sendo Saul avisado que Davi tinha fugido para Gate, não cuidou mais de buscá-lo.",

@@ -1,9 +1,14 @@
 {
     "livro": "Êxodo",
     "capitulo": 35,
-    "titulos": {},
+    "titulos": {
+        "1": "A lei do shabbãth, sábado",
+        "4": "Ofertas para o Tabernáculo",
+        "20": "A prontidão do povo em contribuir",
+        "30": "Os construtores do Tabernáculo"
+    },
     "versiculos": {
-        "1": "Então Moisés convocou toda a congregação dos filhos de Israel, e disse-lhes: Estas são as palavras que o Senhor ordenou que se cumprissem.",
+        "1": "ENTÃO Moisés convocou toda a congregação dos filhos de Israel, e disse-lhes: Estas são as palavras que o Senhor ordenou que se cumprissem.",
         "2": "Seis dias se trabalhará, mas o sétimo dia vos será santo, o sábado do repouso ao Senhor; todo aquele que nele fizer qualquer trabalho morrerá.",
         "3": "Não acendereis fogo em nenhuma das vossas moradas no dia do sábado.",
         "4": "Falou mais Moisés a toda a congregação dos filhos de Israel, dizendo: Esta é a palavra que o Senhor ordenou, dizendo:",

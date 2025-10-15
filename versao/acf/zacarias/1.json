@@ -1,9 +1,13 @@
 {
     "livro": "Zacarias",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus convoca ao arrependimento",
+        "7": "Primeira Visão: Os cavalos",
+        "18": "Segunda visão: Chifres e Artesãos"
+    },
     "versiculos": {
-        "1": "No oitavo mês do segundo ano de Dario veio a palavra do Senhor ao profeta Zacarias, filho de Baraquias, filho de Ido, dizendo:",
+        "1": "NO oitavo mês do segundo ano de Dario veio a palavra do Senhor ao profeta Zacarias, filho de Baraquias, filho de Ido, dizendo:",
         "2": "O Senhor se irou fortemente contra vossos pais.",
         "3": "Portanto dize-lhes: Assim diz o Senhor dos Exércitos: Tornai-vos para mim, diz o Senhor dos Exércitos, e eu me tornarei para vós, diz o Senhor dos Exércitos.",
         "4": "E não sejais como vossos pais, aos quais clamavam os primeiros profetas, dizendo: Assim diz o Senhor dos Exércitos: Convertei-vos agora dos vossos maus caminhos e das vossas más obras; mas não ouviram, nem me escutaram, diz o Senhor.",

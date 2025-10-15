@@ -1,9 +1,13 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Joás é proclamado rei de Judá",
+        "12": "O governo de Acazias, rei de JudáA morte de Atalia",
+        "16": "A aliança de Joiada"
+    },
     "versiculos": {
-        "1": "Porém no sétimo ano Joiada se animou, e tomou consigo em aliança os chefes de cem, a Azarias, filho de Jeroão, a Ismael, filho de Joanã, a Azarias, filho de Obede, a Maaseias, filho de Adaías, e a Elisafate, filho de Zicri.",
+        "1": "PORÉM no sétimo ano Joiada se animou, e tomou consigo em aliança os chefes de cem, a Azarias, filho de Jeroão, a Ismael, filho de Joanã, a Azarias, filho de Obede, a Maaseias, filho de Adaías, e a Elisafate, filho de Zicri.",
         "2": "Estes percorreram a Judá e ajuntaram os levitas de todas as cidades de Judá e os chefes dos pais de Israel, e vieram para Jerusalém.",
         "3": "E toda aquela congregação fez aliança com o rei na casa de Deus; e Joiada lhes disse: Eis que o filho do rei reinará, como o Senhor falou a respeito dos filhos de Davi.",
         "4": "Isto é o que haveis de fazer; uma terça parte de vós, ou seja, dos sacerdotes e dos levitas que entram no sábado, serão guardas das portas;",

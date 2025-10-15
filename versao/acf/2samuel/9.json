@@ -1,9 +1,11 @@
 {
     "livro": "2 Samuel",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "A lealdade de Davi"
+    },
     "versiculos": {
-        "1": "E disse Davi: Há ainda alguém que tenha ficado da casa de Saul, para que lhe faça benevolência por amor de Jônatas?",
+        "1": "E DISSE Davi: Há ainda alguém que tenha ficado da casa de Saul, para que lhe faça benevolência por amor de Jônatas?",
         "2": "E havia um servo na casa de Saul cujo nome era Ziba; e o chamaram à presença de Davi. Disse-lhe o rei: És tu Ziba? E ele disse: Servo teu.",
         "3": "E disse o rei: Não há ainda alguém da casa de Saul para que eu use com ele da benevolência de Deus? Então disse Ziba ao rei: Ainda há um filho de Jônatas, aleijado de ambos os pés.",
         "4": "E disse-lhe o rei: Onde está? E disse Ziba ao rei: Eis que está em casa de Maquir, filho de Amiel, em Lo-Debar.",

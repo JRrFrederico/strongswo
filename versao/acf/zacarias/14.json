@@ -1,9 +1,13 @@
 {
     "livro": "Zacarias",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "A vinda do Reino do SENHOR",
+        "9": "O Reino universal de Yahweh",
+        "16": "Yahweh será adorado em Jerusalém"
+    },
     "versiculos": {
-        "1": "Eis que vem o dia do Senhor, em que teus despojos se repartirão no meio de ti.",
+        "1": "EIS que vem o dia do Senhor, em que teus despojos se repartirão no meio de ti.",
         "2": "Porque eu ajuntarei todas as nações para a peleja contra Jerusalém; e a cidade será tomada, e as casas serão saqueadas, e as mulheres forçadas; e metade da cidade sairá para o cativeiro, mas o restante do povo não será extirpado da cidade.",
         "3": "E o Senhor sairá, e pelejará contra estas nações, como pelejou, sim, no dia da batalha.",
         "4": "E naquele dia estarão os seus pés sobre o monte das Oliveiras, que está defronte de Jerusalém para o oriente; e o monte das Oliveiras será fendido pelo meio, para o oriente e para o ocidente, e haverá um vale muito grande; e metade do monte se apartará para o norte, e a outra metade dele para o sul.",

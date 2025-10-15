@@ -1,9 +1,15 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "A ressurreição de Cristo é real",
+        "12": "Nós também ressuscitaremos",
+        "20": "A ressurreição dos crentes",
+        "35": "Os novos corpos dos ressuscitados",
+        "50": "Todos seremos transformados"
+    },
     "versiculos": {
-        "1": "Também vos notifico, irmãos, o evangelho que já vos tenho anunciado; o qual também recebestes, e no qual também permaneceis.",
+        "1": "TAMBÉM vos notifico, irmãos, o evangelho que já vos tenho anunciado; o qual também recebestes, e no qual também permaneceis.",
         "2": "Pelo qual também sois salvos se o retiverdes tal como vo-lo tenho anunciado; se não é que crestes em vão.",
         "3": "Porque primeiramente vos entreguei o que também recebi: que Cristo morreu por nossos pecados, segundo as Escrituras,",
         "4": "E que foi sepultado, e que ressuscitou ao terceiro dia, segundo as Escrituras.",

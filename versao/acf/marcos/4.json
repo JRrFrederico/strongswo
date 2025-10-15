@@ -1,9 +1,17 @@
 {
     "livro": "Marcos",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "A parábola do semeador",
+        "10": "Jesus explica a parábola",
+        "21": "A parábola da luz encoberta",
+        "26": "A parábola do Reino",
+        "30": "A parábola do grão de mostarda",
+        "33": "O ensino parabólico de Jesus",
+        "35": "A tempestade se submete a Jesus"
+    },
     "versiculos": {
-        "1": "E outra vez começou a ensinar junto do mar, e ajuntou-se a ele grande multidão, de sorte que ele entrou e assentou-se num barco, sobre o mar; e toda a multidão estava em terra junto do mar.",
+        "1": "E OUTRA vez começou a ensinar junto do mar, e ajuntou-se a ele grande multidão, de sorte que ele entrou e assentou-se num barco, sobre o mar; e toda a multidão estava em terra junto do mar.",
         "2": "E ensinava-lhes muitas coisas por parábolas, e lhes dizia na sua doutrina:",
         "3": "Ouvi: Eis que saiu o semeador a semear.",
         "4": "E aconteceu que semeando ele, uma parte da semente caiu junto do caminho, e vieram as aves do céu, e a comeram;",

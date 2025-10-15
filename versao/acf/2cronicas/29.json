@@ -1,9 +1,15 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 29,
-    "titulos": {},
+    "titulos": {
+        "1": "O avivamento de Judá por Ezequias",
+        "3": "A purificação do templo",
+        "12": "Os levitas purificam a Casa de Deus",
+        "20": "Ezequias restabelece o culto a Deus",
+        "31": "Sacrifícios e Ofertas a Yahweh"
+    },
     "versiculos": {
-        "1": "Tinha Ezequias vinte e cinco anos de idade, quando começou a reinar, e reinou vinte e nove anos em Jerusalém; e era o nome de sua mãe Abia, filha de Zacarias.",
+        "1": "TINHA Ezequias vinte e cinco anos de idade, quando começou a reinar, e reinou vinte e nove anos em Jerusalém; e era o nome de sua mãe Abia, filha de Zacarias.",
         "2": "E fez o que era reto aos olhos do Senhor, conforme a tudo quanto fizera Davi, seu pai.",
         "3": "Ele, no primeiro ano do seu reinado, no primeiro mês, abriu as portas da casa do Senhor, e as reparou.",
         "4": "E trouxe os sacerdotes, e os levitas, e ajuntou-os na praça oriental,",

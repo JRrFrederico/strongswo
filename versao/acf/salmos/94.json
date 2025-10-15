@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 94,
-    "titulos": {},
+    "titulos": {
+        "1": "Apelo à justiça divina"
+    },
     "versiculos": {
         "1": "Ó Senhor Deus, a quem a vingança pertence, ó Deus, a quem a vingança pertence, mostra-te resplandecente.",
         "2": "Exalta-te, tu, que és juiz da terra; dá a paga aos soberbos.",

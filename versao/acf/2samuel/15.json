@@ -1,9 +1,15 @@
 {
     "livro": "2 Samuel",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "A conspiração de Absalão",
+        "7": "A rebelião de Absalão",
+        "13": "Davi foge de Jerusalém",
+        "24": "O destino da Arca da Aliança",
+        "30": "Um amigo de Davi no palácio"
+    },
     "versiculos": {
-        "1": "E aconteceu depois disto que Absalão fez aparelhar carros e cavalos, e cinquenta homens que corressem adiante dele.",
+        "1": "E ACONTECEU depois disto que Absalão fez aparelhar carros e cavalos, e cinquenta homens que corressem adiante dele.",
         "2": "Também Absalão se levantou pela manhã, e parava a um lado do caminho da porta. E sucedia que a todo o homem que tinha alguma demanda para vir ao rei a juízo, o chamava Absalão a si, e lhe dizia: De que cidade és tu? E, dizendo ele: De uma das tribos de Israel é teu servo;",
         "3": "Então Absalão lhe dizia: Olha, os teus negócios são bons e retos, porém não tens quem te ouça da parte do rei.",
         "4": "Dizia mais Absalão: Ah, quem me dera ser juiz na terra, para que viesse a mim todo o homem que tivesse demanda ou questão, para que lhe fizesse justiça!",

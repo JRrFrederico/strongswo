@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 53,
-    "titulos": {},
+    "titulos": {
+        "1": "E o mundo despreza o Servo"
+    },
     "versiculos": {
-        "1": "Quem deu crédito à nossa pregação? E a quem se manifestou o braço do Senhor?",
+        "1": "QUEM deu crédito à nossa pregação? E a quem se manifestou o braço do Senhor?",
         "2": "Porque foi subindo como renovo perante ele, e como raiz de uma terra seca; não tinha beleza nem formosura e, olhando nós para ele, não havia boa aparência nele, para que o desejássemos.",
         "3": "Era desprezado, e o mais rejeitado entre os homens, homem de dores, e experimentado nos sofrimentos; e, como um de quem os homens escondiam o rosto, era desprezado, e não fizemos dele caso algum.",
         "4": "Verdadeiramente ele tomou sobre si as nossas enfermidades, e as nossas dores levou sobre si; e nós o reputávamos por aflito, ferido de Deus, e oprimido.",

@@ -1,9 +1,11 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 34,
-    "titulos": {},
+    "titulos": {
+        "1": "Moisés contempla Canaã e morre"
+    },
     "versiculos": {
-        "1": "Então subiu Moisés das campinas de Moabe ao monte Nebo, ao cume de Pisga, que está em frente a Jericó e o Senhor mostrou-lhe toda a terra desde Gileade até Dã;",
+        "1": "ENTÃO subiu Moisés das campinas de Moabe ao monte Nebo, ao cume de Pisga, que está em frente a Jericó e o Senhor mostrou-lhe toda a terra desde Gileade até Dã;",
         "2": "E todo Naftali, e a terra de Efraim, e Manassés e toda a terra de Judá, até ao mar ocidental;",
         "3": "E o sul, e a campina do vale de Jericó, a cidade das palmeiras, até Zoar.",
         "4": "E disse-lhe o Senhor: Esta é a terra que jurei a Abraão, Isaque, e Jacó, dizendo: À tua descendência a darei; eu te faço vê-la com os teus olhos, porém lá não passarás.",

@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "A sedução e a cilada do adultério"
+    },
     "versiculos": {
-        "1": "Filho meu, guarda as minhas palavras, e esconde dentro de ti os meus mandamentos.",
+        "1": "FILHO meu, guarda as minhas palavras, e esconde dentro de ti os meus mandamentos.",
         "2": "Guarda os meus mandamentos e vive; e a minha lei, como a menina dos teus olhos.",
         "3": "Ata-os aos teus dedos, escreve-os na tábua do teu coração.",
         "4": "Dize à sabedoria: Tu és minha irmã; e à prudência chama de tua parenta,",

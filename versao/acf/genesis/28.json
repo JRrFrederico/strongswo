@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "Jacó parte para a Mesopotâmia",
+        "10": "Jacó recebe uma visão divina"
+    },
     "versiculos": {
-        "1": "E Isaque chamou a Jacó, e abençoou-o, e ordenou-lhe, e disse-lhe: Não tomes mulher de entre as filhas de Canaã;",
+        "1": "E ISAQUE chamou a Jacó, e abençoou-o, e ordenou-lhe, e disse-lhe: Não tomes mulher de entre as filhas de Canaã;",
         "2": "Levanta-te, vai a Padã-Arã, à casa de Betuel, pai de tua mãe, e toma de lá uma mulher das filhas de Labão, irmão de tua mãe;",
         "3": "E Deus Todo-Poderoso te abençoe, e te faça frutificar, e te multiplique, para que sejas uma multidão de povos;",
         "4": "E te dê a bênção de Abraão, a ti e à tua descendência contigo, para que em herança possuas a terra de tuas peregrinações, que Deus deu a Abraão.",

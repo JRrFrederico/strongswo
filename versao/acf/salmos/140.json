@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 140,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração contra os caluniadores"
+    },
     "versiculos": {
-        "1": "Livra-me, ó Senhor, do homem mau; guarda-me do homem violento,",
+        "1": "LIVRA-ME, Ó Senhor, do homem mau; guarda-me do homem violento,",
         "2": "Que pensa o mal no coração; continuamente se ajuntam para a guerra.",
         "3": "Aguçaram as línguas como a serpente; o veneno das víboras está debaixo dos seus lábios. (Selá.)",
         "4": "Guarda-me, ó Senhor, das mãos do ímpio; guarda-me do homem violento; os quais se propuseram transtornar os meus passos.",

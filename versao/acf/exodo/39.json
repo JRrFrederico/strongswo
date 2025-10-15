@@ -1,9 +1,17 @@
 {
     "livro": "Êxodo",
     "capitulo": 39,
-    "titulos": {},
+    "titulos": {
+        "1": "As roupas sagradas dos sacerdotes",
+        "2": "O efod, a estola sacerdotal",
+        "8": "O peitoral",
+        "22": "O manto sacerdotal",
+        "27": "Vestimentas para os sacerdotes",
+        "30": "O símbolo da consagração total",
+        "32": "O final e a entrega das obras"
+    },
     "versiculos": {
-        "1": "Fizeram também as vestes do ministério, para ministrar no santuário, de azul, e de púrpura e de carmesim; também fizeram as vestes santas, para Arão, como o Senhor ordenara a Moisés.",
+        "1": "FIZERAM também as vestes do ministério, para ministrar no santuário, de azul, e de púrpura e de carmesim; também fizeram as vestes santas, para Arão, como o Senhor ordenara a Moisés.",
         "2": "Assim se fez o éfode de ouro, de azul, e de púrpura, e de carmesim e de linho fino torcido.",
         "3": "E estenderam as lâminas de ouro, e as cortaram em fios, para tecê-los entre o azul, e entre a púrpura, e entre o carmesim, e entre o linho fino com trabalho esmerado.",
         "4": "Fizeram-lhe ombreiras que se ajuntavam; e uniam-se em suas duas pontas.",

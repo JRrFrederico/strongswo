@@ -1,21 +1,23 @@
 {
     "livro": "Jó",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó exalta a soberania de Deus"
+    },
     "versiculos": {
-        "1": "Mas Jó respondeu e disse:",
-        "2": "Como ajudaste aquele que está sem poder? Como salvas o braço que não tem força?",
-        "3": "Como aconselhaste aquele que não tem sabedoria; e como plenamente declaraste a coisa como ela é?",
-        "4": "A quem proferiste palavras, e de quem é o espírito que veio de ti?",
-        "5": "Coisas mortas são formadas debaixo das águas, e dos seus habitantes.",
-        "6": "O inferno está nu perante ele, e a destruição não tem cobertura.",
-        "7": "Ele estende o norte sobre o lugar vazio; e suspende a terra sobre o nada.",
-        "8": "Ele prende as águas em suas nuvens espessas, e a nuvem não se rasga debaixo delas.",
-        "9": "Ele retém a face do seu trono, e sobre ele estende a sua nuvem.",
-        "10": "Cercou as águas com fronteiras, até que o dia e a noite cheguem ao fim.",
-        "11": "Os pilares do céu tremem e se espantam com sua reprovação",
-        "12": "Ele divide o mar com o seu poder, e com seu entendimento abate o orgulhoso.",
-        "13": "Pelo seu Espírito ele ornou os céus; a sua mão formou a serpente torta.",
-        "14": "Eis que estas são partes dos seus caminhos; e quão pouca é a porção do que se ouve dele? Porém o trovão do seu poder, quem consegue entender?"
+        "1": "Então Jó tomou a palavra e contestou:",
+        "2": "“Como sabes ajudar ao desfalecido e frágil; como emprestas forças ao braço enfraquecido!",
+        "3": "Como tens aconselhado o que não tem sabedoria! E como tens revelado o verdadeiro conhecimento em toda sua plenitude!",
+        "4": "Quem o teria ajudado a proferir palavras tão maravilhosas? E de quem é o espírito que fala em ti?",
+        "5": "As almas dos mortos tremem debaixo das águas com seus habitantes.",
+        "6": "O Sheol , o além, está desnudo diante de Deus, e o Abadom , o abismo da destruição, não está oculto aos seus olhos.",
+        "7": "É Deus que estende os céus do Norte sobre o espaço vazio; suspende e equilibra a terra sobre o nada.",
+        "8": "Retém as águas em suas densas nuvens, e as nuvens não se rompem sob o imenso peso delas.",
+        "9": "É Deus que cobre a face da lua cheia estendendo sobre ela as suas nuvens.",
+        "10": "Determina o horizonte sobre a superfície das águas para que sirva de limite entre luz e trevas.",
+        "11": "As colunas dos céus se abalam e ficam atônitas perante sua repreensão.",
+        "12": "Fende o mar mediante a expressão do seu poder e com sua sabedoria despedaça Raabe , o Monstro dos Mares.",
+        "13": "Com seu sopro os céus ficaram límpidos e com o toque de sua mão fere a poderosa e veloz serpente.",
+        "14": "E isso tudo representa apenas a ínfima parte de todo o seu poder e das maravilhas de suas obras! Um suave sussurro é o que ouvimos de Deus. Todavia, quem será capaz de compreender o trovão e a luz do seu poder?”"
     }
 }

@@ -1,9 +1,12 @@
 {
     "livro": "2 Samuel",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "A volta de Absalão a Jerusalém",
+        "25": "Absalão e o perdão do rei"
+    },
     "versiculos": {
-        "1": "Conhecendo, pois, Joabe, filho de Zeruia, que o coração do rei estava inclinado para Absalão,",
+        "1": "CONHECENDO, pois, Joabe, filho de Zeruia, que o coração do rei estava inclinado para Absalão,",
         "2": "Enviou Joabe a Tecoa, e tomou de lá uma mulher sábia e disse-lhe: Ora, finge que estás de luto; veste roupas de luto, e não te unjas com óleo, e sê como uma mulher que há já muitos dias está de luto por algum morto.",
         "3": "E vai ao rei, e fala-lhe conforme a esta palavra. E Joabe lhe pôs as palavras na boca.",
         "4": "E a mulher tecoíta falou ao rei, e, deitando-se com o rosto em terra, se prostrou e disse: Salva-me, ó rei.",

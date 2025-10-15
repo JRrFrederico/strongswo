@@ -1,9 +1,13 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "O crente infantil e as dissensões",
+        "10": "O dever dos ministros de Cristo",
+        "18": "A sabedoria humana é loucura"
+    },
     "versiculos": {
-        "1": "E eu, irmãos, não vos pude falar como a espirituais, mas como a carnais, como a meninos em Cristo.",
+        "1": "E EU, irmãos, não vos pude falar como a espirituais, mas como a carnais, como a meninos em Cristo.",
         "2": "Com leite vos criei, e não com carne, porque ainda não podíeis, nem tampouco ainda agora podeis,",
         "3": "Porque ainda sois carnais; pois, havendo entre vós inveja, contendas e dissensões, não sois porventura carnais, e não andais segundo os homens?",
         "4": "Porque, dizendo um: Eu sou de Paulo; e outro: Eu de Apolo; porventura não sois carnais?",

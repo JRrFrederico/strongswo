@@ -1,9 +1,14 @@
 {
     "livro": "Levítico",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Ofertas pelos pecados",
+        "13": "Os sacrifícios pela congregação",
+        "22": "O sacrifício pelo erro de um líder",
+        "27": "O pecado de uma pessoa do povo"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés, dizendo:",
         "2": "Fala aos filhos de Israel, dizendo: Quando uma alma pecar, por ignorância, contra alguns dos mandamentos do Senhor, acerca do que não se deve fazer, e proceder contra algum deles;",
         "3": "Se o sacerdote ungido pecar para escândalo do povo, oferecerá ao Senhor, pelo seu pecado, que cometeu, um novilho sem defeito, por expiação do pecado.",
         "4": "E trará o novilho à porta da tenda da congregação, perante o Senhor, e porá a sua mão sobre a cabeça do novilho, e degolará o novilho perante o Senhor.",

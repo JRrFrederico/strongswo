@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 33,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvai o Criador do Universo"
+    },
     "versiculos": {
-        "1": "Regozijai-vos no Senhor, vós justos, pois aos retos convém o louvor.",
+        "1": "REGOZIJAI-VOS no Senhor, vós justos, pois aos retos convém o louvor.",
         "2": "Louvai ao Senhor com harpa, cantai a ele com o saltério e um instrumento de dez cordas.",
         "3": "Cantai-lhe um cântico novo; tocai bem e com júbilo.",
         "4": "Porque a palavra do Senhor é reta, e todas as suas obras são fiéis.",

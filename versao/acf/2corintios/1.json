@@ -1,9 +1,13 @@
 {
     "livro": "2 Coríntios",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Saudações de Paz e Graça",
+        "3": "Consolados para consolar",
+        "12": "Mudanças por amor à igreja"
+    },
     "versiculos": {
-        "1": "Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo, à igreja de Deus, que está em Corinto, com todos os santos que estão em toda a Acaia.",
+        "1": "PAULO, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo, à igreja de Deus, que está em Corinto, com todos os santos que estão em toda a Acaia.",
         "2": "Graça a vós e paz da parte de Deus nosso Pai, e da do Senhor Jesus Cristo.",
         "3": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de toda a consolação;",
         "4": "Que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados por Deus.",
@@ -13,7 +17,7 @@
         "8": "Porque não queremos, irmãos, que ignoreis a nossa tribulação que nos sobreveio na Ásia, pois que fomos sobremaneira agravados mais do que podíamos suportar, de modo tal que até da vida desesperamos.",
         "9": "Mas já em nós mesmos tínhamos a sentença de morte, para que não confiássemos em nós, mas em Deus, que ressuscita os mortos;",
         "10": "O qual nos livrou de tão grande morte, e livra; em quem esperamos que também nos livrará ainda,",
-        "11": "Ajudando-nos também vós com orações por nós, para que pelo benefício, que por muitas pessoas nos foi feito, por muitas também sejam dadas graças a nosso respeito.",
+        "11": "Ajudando-nos também vós com orações por nós, para que pelo benefício, que por muitas pessoas nos foi feita, por muitas também sejam dadas graças a nosso respeito.",
         "12": "Porque a nossa glória é esta: o testemunho da nossa consciência, de que com simplicidade e sinceridade de Deus, não com sabedoria carnal, mas na graça de Deus, temos vivido no mundo, e de modo particular convosco.",
         "13": "Porque nenhumas outras coisas vos escrevemos, senão as que já sabeis ou também reconheceis; e espero que também até ao fim as reconhecereis.",
         "14": "Como também já em parte reconhecestes em nós, que somos a vossa glória, como também vós sereis a nossa no dia do Senhor Jesus.",

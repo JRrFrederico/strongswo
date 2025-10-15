@@ -1,9 +1,11 @@
 {
     "livro": "Levítico",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Os holocaustos"
+    },
     "versiculos": {
-        "1": "E chamou o Senhor a Moisés, e falou com ele da tenda da congregação, dizendo:",
+        "1": "E CHAMOU o Senhor a Moisés, e falou com ele da tenda da congregação, dizendo:",
         "2": "Fala aos filhos de Israel, e dize-lhes: Quando algum de vós oferecer oferta ao Senhor, oferecerá a sua oferta de gado, isto é, de rebanho e de ovelha.",
         "3": "Se a sua oferta for holocausto de gado, oferecerá macho sem defeito; à porta da tenda da congregação a oferecerá, de sua própria vontade, perante o Senhor.",
         "4": "E porá a sua mão sobre a cabeça do holocausto, para que seja aceito a favor dele, para a sua expiação.",

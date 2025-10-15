@@ -1,9 +1,14 @@
 {
     "livro": "Jeremias",
     "capitulo": 32,
-    "titulos": {},
+    "titulos": {
+        "1": "Zedequias prendeu Jeremias",
+        "6": "O profeta compra um terreno",
+        "16": "Oração ao Deus do impossível",
+        "26": "O exílio é fruto da desobediência"
+    },
     "versiculos": {
-        "1": "A palavra que veio a Jeremias da parte do Senhor, no ano décimo de Zedequias, rei de Judá, o qual foi o décimo oitavo ano de Nabucodonosor.",
+        "1": "A PALAVRA que veio a Jeremias da parte do Senhor, no ano décimo de Zedequias, rei de Judá, o qual foi o décimo oitavo ano de Nabucodonosor.",
         "2": "Ora, nesse tempo o exército do rei de Babilônia cercava Jerusalém; e Jeremias, o profeta, estava encerrado no pátio da guarda que estava na casa do rei de Judá;",
         "3": "Porque Zedequias, rei de Judá, o tinha encerrado, dizendo: Por que profetizas tu, dizendo: Assim diz o Senhor: Eis que entrego esta cidade na mão do rei de Babilônia, e ele a tomará;",
         "4": "E Zedequias, rei de Judá, não escapará das mãos dos caldeus; mas certamente será entregue na mão do rei de Babilônia, e com ele falará boca a boca, e os seus olhos verão os dele;",

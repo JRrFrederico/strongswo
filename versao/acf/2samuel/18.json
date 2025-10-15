@@ -1,9 +1,13 @@
 {
     "livro": "2 Samuel",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "Absalão é derrotado e morto",
+        "9": "A morte de Absalão",
+        "19": "O pranto e a dor de Davi"
+    },
     "versiculos": {
-        "1": "E Davi contou o povo que tinha consigo, e pôs sobre eles capitães de mil e capitães de cem.",
+        "1": "E DAVI contou o povo que tinha consigo, e pôs sobre eles capitães de mil e capitães de cem.",
         "2": "E Davi enviou o povo, um terço sob o mando de Joabe, e outro terço sob o mando de Abisai, filho de Zeruia, irmão de Joabe, e outro terço sob o mando de Itai, o giteu; e disse o rei ao povo: Eu também sairei convosco.",
         "3": "Porém o povo disse: Não sairás, porque, se formos obrigados a fugir, não se importarão conosco; e, ainda que metade de nós morra, não farão caso de nós, porque tu és do valor de dez mil de nós; melhor será, pois, que da cidade nos sirvas de socorro.",
         "4": "Então disse-lhe Davi: O que bem parecer aos vossos olhos, farei. E o rei se pôs do lado da porta, e todo o povo saiu em centenas e em milhares.",

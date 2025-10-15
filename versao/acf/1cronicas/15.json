@@ -1,7 +1,10 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "A Arca é levada para Jerusalém",
+        "25": "A festa de traslado da Arca de Deus"
+    },
     "versiculos": {
         "1": "Davi também fez casa para si na cidade de Davi; e preparou um lugar para a arca de Deus, e armou-lhe uma tenda.",
         "2": "Então disse Davi: Ninguém pode levar a arca de Deus, senão os levitas; porque o Senhor os escolheu, para levar a arca de Deus, e para o servirem eternamente.",

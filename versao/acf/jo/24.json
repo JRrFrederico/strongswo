@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "Por que Deus não julga todos já?"
+    },
     "versiculos": {
-        "1": "Visto que do Todo-Poderoso não se encobriram os tempos, por que, os que o conhecem, não veem os seus dias?",
+        "1": "VISTO que do Todo-Poderoso não se encobriram os tempos, por que, os que o conhecem, não veem os seus dias?",
         "2": "Até os limites removem; roubam os rebanhos, e os apascentam.",
         "3": "Do órfão levam o jumento; tomam em penhor o boi da viúva.",
         "4": "Desviam do caminho os necessitados; e os pobres da terra juntos se escondem.",

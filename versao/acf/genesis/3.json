@@ -1,9 +1,11 @@
 {
     "livro": "Gênesis",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "A Queda do ser humano"
+    },
     "versiculos": {
-        "1": "Ora, a serpente era mais astuta que todos os animais do campo que o Senhor Deus tinha feito. E esta disse à mulher: É assim que Deus disse: Não comereis de toda a árvore do jardim?",
+        "1": "ORA, a serpente era mais astuta que todos os animais do campo que o Senhor Deus tinha feito. E esta disse à mulher: É assim que Deus disse: Não comereis de toda a árvore do jardim?",
         "2": "E disse a mulher à serpente: Do fruto das árvores do jardim comeremos,",
         "3": "Mas do fruto da árvore que está no meio do jardim, disse Deus: Não comereis dele, nem nele tocareis para que não morrais.",
         "4": "Então a serpente disse à mulher: Certamente não morrereis.",

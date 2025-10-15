@@ -2,21 +2,26 @@
     "livro": "Cânticos",
     "capitulo": 6,
     "titulos": {
-        "1": "A busca da amada"
+        "1": "Coro",
+        "2": "Esposa",
+        "4": "Quinto cânticoEsposo",
+        "10": "Coro",
+        "11": "Esposa",
+        "13": "Coro"
     },
     "versiculos": {
-        "1": "Para onde se foi o teu amado, ó mais formosa entre as mulheres? Para onde se virou o teu amado, para que o busquemos contigo?",
-        "2": "O meu amado desceu ao seu jardim, aos canteiros de especiarias, para apascentar nos jardins e para colher os lírios.",
-        "3": "Eu sou do meu amado, e o meu amado é meu; ele apascenta entre os lírios.",
-        "4": "Formosa és, ó amada minha, como Tirza, aprazível como Jerusalém, imponente como um exército com bandeiras.",
-        "5": "Desvia de mim os teus olhos, porque eles me vencem. Os teus cabelos são como o rebanho de cabras que aparecem em Gileade.",
-        "6": "Os teus dentes são como o rebanho de ovelhas que sobem do lavadouro, e das quais cada uma tem gêmeos, e nenhuma delas está desfilhada.",
-        "7": "As tuas faces são como o pedaço de uma romã por detrás do teu véu.",
-        "8": "Sessenta são as rainhas, e oitenta as concubinas, e as virgens não têm número.",
-        "9": "Mas uma só é a minha pomba, a minha imaculada; ela é a única de sua mãe, a escolhida daquela que a deu à luz. As filhas a viram e lhe chamaram bem-aventurada, as rainhas e as concubinas a louvaram.",
-        "10": "Quem é esta que aparece como a alva do dia, formosa como a lua, brilhante como o sol, imponente como um exército com bandeiras?",
-        "11": "Desci ao jardim das nogueiras, para ver os renovos do vale, para ver se floresciam as vides e brotavam as romeiras.",
-        "12": "Antes que eu o soubesse, pôs-me a minha alma nos carros do meu nobre povo.",
-        "13": "Volta, volta, ó Sulamita; volta, volta, para que te contemplemos. Que haveis de contemplar na Sulamita? Como a dança de dois exércitos."
+        "1": "Para onde foi o seu amado, ó mais bela das mulheres? Que rumo tomou o seu amado, para que a ajudemos a encontrá-lo?",
+        "2": "O meu amado desceu ao seu jardim, aos canteiros de bálsamo, para pastorear nos jardins e para colher os lírios.",
+        "3": "Eu sou do meu amado, e o meu amado é meu; ele apascenta o seu rebanho entre os lírios. k",
+        "4": "Minha querida, você é bonita como Tirza, encantadora como Jerusalém, impressionante como um exército com bandeiras.",
+        "5": "Desvie de mim os seus olhos, porque eles me perturbam. Os seus cabelos são como um rebanho de cabras que descem ondeantes de Gileade. l",
+        "6": "Os seus dentes são como um rebanho de ovelhas que sobem do lavadouro; cada uma tem o seu par, e nenhuma está faltando. m",
+        "7": "As suas faces, como romã partida, brilham através do véu. n",
+        "8": "Sessenta são as rainhas, oitenta, as concubinas, e as virgens, sem número;",
+        "9": "mas uma só é a minha pombinha sem defeito, o a mais querida da sua mãe, a predileta daquela que a deu à luz. As outras mulheres a veem e dizem que ela é feliz; as rainhas e as concubinas a louvam.",
+        "10": "Quem é esta que aparece como a alva do dia, bonita como a lua, pura como o sol, impressionante como um exército com bandeiras?",
+        "11": "Desci ao jardim das nogueiras, para ver os renovos do vale, para ver se brotavam as videiras, se as romãzeiras estavam em flor.",
+        "12": "Não sei como, imaginei-me no carro do meu nobre povo!",
+        "13": "Volte, volte, sulamita! Volte, volte, para que nós a contemplemos. Por que vocês querem contemplar a sulamita na dança de Maanaim?"
     }
-} 
+}

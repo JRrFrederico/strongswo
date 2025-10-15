@@ -1,9 +1,17 @@
 {
     "livro": "Apocalipse",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "O primeiro dos sete flagelos",
+        "3": "O anjo e o segundo flagelo",
+        "4": "O terceiro flagelo é derramado",
+        "8": "O quarto flagelo",
+        "10": "O quinto flagelo",
+        "12": "O sexto flagelo",
+        "17": "O sétimo e último flagelo"
+    },
     "versiculos": {
-        "1": "E ouvi, vinda do templo, uma grande voz, que dizia aos sete anjos: Ide, e derramai sobre a terra as sete taças da ira de Deus.",
+        "1": "E OUVI, vinda do templo, uma grande voz, que dizia aos sete anjos: Ide, e derramai sobre a terra as sete taças da ira de Deus.",
         "2": "E foi o primeiro, e derramou a sua taça sobre a terra, e fez-se uma chaga má e maligna nos homens que tinham o sinal da besta e que adoravam a sua imagem.",
         "3": "E o segundo anjo derramou a sua taça no mar, que se tornou em sangue como de um morto, e morreu no mar toda a alma vivente.",
         "4": "E o terceiro anjo derramou a sua taça nos rios e nas fontes das águas, e se tornaram em sangue.",

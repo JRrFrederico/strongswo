@@ -1,9 +1,11 @@
 {
     "livro": "Levítico",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "Leis em relação aos sacrifícios"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés, dizendo:",
         "2": "Fala a Arão e aos seus filhos, e a todos os filhos de Israel, e dize-lhes: Esta é a palavra que o Senhor ordenou, dizendo:",
         "3": "Qualquer homem da casa de Israel que degolar boi, ou cordeiro, ou cabra, no arraial, ou quem os degolar fora do arraial,",
         "4": "E não os trouxer à porta da tenda da congregação, para oferecer oferta ao Senhor diante do tabernáculo do Senhor, a esse homem será imputado o sangue; derramou sangue; por isso aquele homem será extirpado do seu povo;",

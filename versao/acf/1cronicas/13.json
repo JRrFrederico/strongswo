@@ -1,9 +1,11 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "O retorno da Arca da Aliança"
+    },
     "versiculos": {
-        "1": "E Davi tomou conselho com os capitães dos milhares, e das centenas, e com todos os líderes.",
+        "1": "E DAVI tomou conselho com os capitães dos milhares, e das centenas, e com todos os líderes.",
         "2": "E disse Davi a toda a congregação de Israel: Se bem vos parece, e se isto vem do Senhor nosso Deus, enviemos depressa mensageiros a todos os nossos outros irmãos em todas as terras de Israel, e aos sacerdotes, e aos levitas nas suas cidades e nos seus arrabaldes, para que se reúnam conosco;",
         "3": "E tornemos a trazer para nós a arca do nosso Deus; porque não a buscamos nos dias de Saul.",
         "4": "Então disse toda a congregação que se fizesse assim; porque este negócio pareceu reto aos olhos de todo o povo.",

@@ -1,9 +1,13 @@
 {
     "livro": "Filipenses",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Unidade e alegria em oração",
+        "10": "Paulo é grato à Igreja em Filipos",
+        "21": "Saudações e bênção apostólica"
+    },
     "versiculos": {
-        "1": "Portanto, meus amados e mui queridos irmãos, minha alegria e coroa, estai assim firmes no Senhor, amados.",
+        "1": "PORTANTO, meus amados e mui queridos irmãos, minha alegria e coroa, estai assim firmes no Senhor, amados.",
         "2": "Rogo a Evódia, e rogo a Síntique, que sintam o mesmo no Senhor.",
         "3": "E peço-te também a ti, meu verdadeiro companheiro, que ajudes essas mulheres que trabalharam comigo no evangelho, e com Clemente, e com os meus outros cooperadores, cujos nomes estão no livro da vida.",
         "4": "Regozijai-vos sempre no Senhor; outra vez digo, regozijai-vos.",

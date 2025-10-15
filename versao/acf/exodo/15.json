@@ -1,9 +1,13 @@
 {
     "livro": "Êxodo",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "O cântico de louvor de Moisés",
+        "19": "O cântico de louvor de Miriam",
+        "22": "As águas de Mara e de Elim"
+    },
     "versiculos": {
-        "1": "Então cantou Moisés e os filhos de Israel este cântico ao Senhor, e falaram, dizendo: Cantarei ao Senhor, porque gloriosamente triunfou; lançou no mar o cavalo e o seu cavaleiro.",
+        "1": "ENTÃO cantou Moisés e os filhos de Israel este cântico ao Senhor, e falaram, dizendo: Cantarei ao Senhor, porque gloriosamente triunfou; lançou no mar o cavalo e o seu cavaleiro.",
         "2": "O Senhor é a minha força, e o meu cântico; ele me foi por salvação; este é o meu Deus, portanto lhe farei uma habitação; ele é o Deus de meu pai, por isso o exaltarei.",
         "3": "O Senhor é homem de guerra; o Senhor é o seu nome.",
         "4": "Lançou no mar os carros de Faraó e o seu exército; e os seus escolhidos príncipes afogaram-se no Mar Vermelho.",

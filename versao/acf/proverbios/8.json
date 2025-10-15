@@ -1,9 +1,12 @@
 {
     "livro": "Provérbios",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "A primazia absoluta da sabedoria",
+        "22": "A Sabedoria vive para sempre"
+    },
     "versiculos": {
-        "1": "Não clama porventura a sabedoria, e a inteligência não faz ouvir a sua voz?",
+        "1": "NÃO clama porventura a sabedoria, e a inteligência não faz ouvir a sua voz?",
         "2": "No cume das alturas, junto ao caminho, nas encruzilhadas das veredas se posta.",
         "3": "Do lado das portas da cidade, à entrada da cidade, e à entrada das portas está gritando:",
         "4": "A vós, ó homens, clamo; e a minha voz se dirige aos filhos dos homens.",

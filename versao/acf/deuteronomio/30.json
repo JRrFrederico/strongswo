@@ -1,9 +1,12 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 30,
-    "titulos": {},
+    "titulos": {
+        "1": "O perdão a Israel arrependido",
+        "15": "Atenção para os dois caminhos"
+    },
     "versiculos": {
-        "1": "E será que, sobrevindo-te todas estas coisas, a bênção ou a maldição, que tenho posto diante de ti, e te recordares delas entre todas as nações, para onde te lançar o Senhor teu Deus,",
+        "1": "E SERÁ que, sobrevindo-te todas estas coisas, a bênção ou a maldição, que tenho posto diante de ti, e te recordares delas entre todas as nações, para onde te lançar o Senhor teu Deus,",
         "2": "E te converteres ao Senhor teu Deus, e deres ouvidos à sua voz, conforme a tudo o que eu te ordeno hoje, tu e teus filhos, com todo o teu coração, e com toda a tua alma,",
         "3": "Então o Senhor teu Deus te fará voltar do teu cativeiro, e se compadecerá de ti, e tornará a ajuntar-te dentre todas as nações entre as quais te espalhou o Senhor teu Deus.",
         "4": "Ainda que os teus desterrados estejam na extremidade do céu, desde ali te ajuntará o Senhor teu Deus, e te tomará dali;",

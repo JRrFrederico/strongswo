@@ -1,16 +1,18 @@
 {
     "livro": "Salmos",
     "capitulo": 113,
-    "titulos": {},
+    "titulos": {
+        "1": "Só Deus é digno de todo louvor"
+    },
     "versiculos": {
-        "1": "Louvai o SENHOR. Louvai, ó vós, servos do SENHOR, louvai o nome do SENHOR.",
-        "2": "Bendito seja o nome do SENHOR desde este tempo em diante e para sempre.",
-        "3": "Desde o nascer até o pôr do sol, o nome do SENHOR é para ser louvado.",
-        "4": "O SENHOR está no alto sobre todas as nações, e a sua glória sobre os céus.",
-        "5": "Quem é como o SENHOR nosso Deus, que habita no alto;",
-        "6": "Que se humilha para contemplar as coisas que estão no céu e na terra?",
-        "7": "Ele levanta o pobre da poeira, e eleva o necessitado do monturo;",
-        "8": "para que ele o possa pôr com príncipes, até mesmo os príncipes do seu povo.",
-        "9": "Ele faz com que a mulher estéril mantenha a casa, e seja uma alegre mãe de filhos. Louvai ao SENHOR."
+        "1": "Aleluia! Louvai, servos do S ENHOR , louvai o Nome do Eterno!",
+        "2": "Bendito seja o Nome do S ENHOR , desde agora e para sempre!",
+        "3": "Desde o romper da aurora até o pôr do sol, louvado seja o Nome do Eterno!",
+        "4": "Excelso é o S ENHOR , acima de todas as nações, e sua glória, acima dos céus.",
+        "5": "Quem é como o Eterno, nosso Deus, que reina nas mais elevadas alturas,",
+        "6": "mas se inclina bondosamente para contemplar o que se passa nos céus e na terra?",
+        "7": "Ele levanta do pó o necessitado e ergue do lixo o pobre,",
+        "8": "a fim de estabelecê-los como príncipes do seu povo.",
+        "9": "Oferece uma família à estéril, e dela faz uma feliz mãe de filhos. Aleluia!"
     }
 }

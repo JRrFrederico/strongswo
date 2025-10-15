@@ -1,9 +1,14 @@
 {
     "livro": "Hebreus",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "A essência e o sentido da fé",
+        "4": "Os primeiros heróis da fé",
+        "8": "O exemplo dos patriarcas",
+        "23": "A fé heróica de Moisés"
+    },
     "versiculos": {
-        "1": "Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que não se veem.",
+        "1": "ORA, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que não se veem.",
         "2": "Porque por ela os antigos alcançaram testemunho.",
         "3": "Pela fé entendemos que os mundos pela palavra de Deus foram criados; de maneira que aquilo que se vê não foi feito do que é aparente.",
         "4": "Pela fé Abel ofereceu a Deus maior sacrifício do que Caim, pelo qual alcançou testemunho de que era justo, dando Deus testemunho dos seus dons, e por ela, depois de morto, ainda fala.",

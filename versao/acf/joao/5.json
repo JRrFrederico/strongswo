@@ -1,9 +1,12 @@
 {
     "livro": "João",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "A cura do homem de Betesda",
+        "16": "Honra o Pai e o Filho"
+    },
     "versiculos": {
-        "1": "Depois disto havia uma festa entre os judeus, e Jesus subiu a Jerusalém.",
+        "1": "DEPOIS disto havia uma festa entre os judeus, e Jesus subiu a Jerusalém.",
         "2": "Ora, em Jerusalém há, próximo à porta das ovelhas, um tanque, chamado em hebreu Betesda, o qual tem cinco alpendres.",
         "3": "Nestes jazia grande multidão de enfermos, cegos, mancos e ressecados, esperando o movimento da água.",
         "4": "Porquanto um anjo descia em certo tempo ao tanque, e agitava a água; e o primeiro que ali descia, depois do movimento da água, sarava de qualquer enfermidade que tivesse.",

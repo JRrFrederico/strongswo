@@ -1,9 +1,13 @@
 {
     "livro": "2 Timóteo",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "3": "Encorajamento à fidelidade",
+        "15": "Paulo é abandonado por muitos"
+    },
     "versiculos": {
-        "1": "Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,",
+        "1": "PAULO, apóstolo de Jesus Cristo, pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,",
         "2": "A Timóteo, meu amado filho: Graça, misericórdia, e paz da parte de Deus Pai, e da de Cristo Jesus, Senhor nosso.",
         "3": "Dou graças a Deus, a quem desde os meus antepassados sirvo com uma consciência pura, de que sem cessar faço memória de ti nas minhas orações noite e dia;",
         "4": "Desejando muito ver-te, lembrando-me das tuas lágrimas, para me encher de gozo;",

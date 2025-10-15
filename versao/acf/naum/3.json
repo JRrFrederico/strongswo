@@ -1,9 +1,11 @@
 {
     "livro": "Naum",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "O castigo de Nínive e seu fim"
+    },
     "versiculos": {
-        "1": "Ai da cidade ensanguentada! Ela está toda cheia de mentiras e de rapina; não se aparta dela o roubo.",
+        "1": "AI da cidade ensanguentada! Ela está toda cheia de mentiras e de rapina; não se aparta dela o roubo.",
         "2": "Estrépito de açoite há, e o barulho do ruído das rodas; e os cavalos atropelam, e carros vão saltando.",
         "3": "O cavaleiro levanta a espada flamejante, como a lança relampejante, e ali haverá uma multidão de mortos, e abundância de cadáveres, e não terão fim os defuntos; tropeçarão nos seus corpos;",
         "4": "Por causa da multidão dos pecados da meretriz mui graciosa, da mestra das feitiçarias, que vendeu as nações com as suas fornicações, e as famílias pelas suas feitiçarias.",

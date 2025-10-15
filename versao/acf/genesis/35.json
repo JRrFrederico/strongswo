@@ -1,9 +1,14 @@
 {
     "livro": "Gênesis",
     "capitulo": 35,
-    "titulos": {},
+    "titulos": {
+        "1": "Jacó volta a bêt El, casa de Deus",
+        "16": "A morte de Raquel",
+        "22": "Os filhos de Jacó",
+        "27": "A morte de Isaque"
+    },
     "versiculos": {
-        "1": "Depois disse Deus a Jacó: Levanta-te, sobe a Betel, e habita ali; e faze ali um altar ao Deus que te apareceu, quando fugiste da face de Esaú teu irmão.",
+        "1": "DEPOIS disse Deus a Jacó: Levanta-te, sobe a Betel, e habita ali; e faze ali um altar ao Deus que te apareceu, quando fugiste da face de Esaú teu irmão.",
         "2": "Então disse Jacó à sua família, e a todos os que com ele estavam: Tirai os deuses estranhos, que há no meio de vós, e purificai-vos, e mudai as vossas vestes.",
         "3": "E levantemo-nos, e subamos a Betel; e ali farei um altar ao Deus que me respondeu no dia da minha angústia, e que foi comigo no caminho que tenho andado.",
         "4": "Então deram a Jacó todos os deuses estranhos, que tinham em suas mãos, e os brincos, que estavam em suas orelhas; e Jacó os escondeu debaixo do carvalho que está junto a Siquém.",

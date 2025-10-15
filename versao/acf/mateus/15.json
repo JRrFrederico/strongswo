@@ -1,9 +1,13 @@
 {
     "livro": "Mateus",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus, as tradições e a Lei",
+        "21": "Jesus atende ao clamor dos gentios",
+        "29": "Outra multiplicação de pães"
+    },
     "versiculos": {
-        "1": "Então chegaram a Jesus uns escribas e fariseus de Jerusalém, dizendo:",
+        "1": "ENTÃO chegaram a Jesus uns escribas e fariseus de Jerusalém, dizendo:",
         "2": "Por que transgridem os teus discípulos a tradição dos anciãos? Pois não lavam as mãos quando comem pão.",
         "3": "Ele, porém, respondendo, disse-lhes: Por que transgredis vós, também, o mandamento de Deus pela vossa tradição?",
         "4": "Porque Deus ordenou, dizendo: Honra a teu pai e a tua mãe; e: Quem maldisser ao pai ou à mãe, certamente morrerá.",

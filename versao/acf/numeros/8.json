@@ -1,9 +1,13 @@
 {
     "livro": "Números",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "As sete lâmpadas do candelabro",
+        "5": "Os levitas são consagrados a Deus",
+        "23": "O tempo de ministério dos levitas"
+    },
     "versiculos": {
-        "1": "E falou o Senhor a Moisés, dizendo:",
+        "1": "E FALOU o Senhor a Moisés, dizendo:",
         "2": "Fala a Arão, e dize-lhe: Quando acenderes as lâmpadas, as sete lâmpadas iluminarão o espaço em frente do candelabro.",
         "3": "E Arão fez assim: Acendeu as lâmpadas do candelabro para iluminar o espaço em frente, como o Senhor ordenara a Moisés.",
         "4": "E era esta a obra do candelabro, obra de ouro batido; desde o seu pé até às suas flores era ele de ouro batido; conforme ao modelo que o Senhor mostrara a Moisés, assim ele fez o candelabro.",

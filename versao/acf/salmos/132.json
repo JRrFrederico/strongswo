@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 132,
-    "titulos": {},
+    "titulos": {
+        "1": "A promessa de Deus a Davi"
+    },
     "versiculos": {
-        "1": "Lembra-te, Senhor, de Davi, e de todas as suas aflições.",
+        "1": "LEMBRA-TE, Senhor, de Davi, e de todas as suas aflições.",
         "2": "Como jurou ao Senhor, e fez votos ao poderoso Deus de Jacó, dizendo:",
         "3": "Certamente que não entrarei na tenda de minha casa, nem subirei à minha cama,",
         "4": "Não darei sono aos meus olhos, nem repouso às minhas pálpebras,",

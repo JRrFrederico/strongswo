@@ -1,9 +1,11 @@
 {
     "livro": "Ester",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Hamã acaba honrando Mardoqueu"
+    },
     "versiculos": {
-        "1": "Naquela mesma noite fugiu o sono do rei; então mandou trazer o livro de registro das crônicas, as quais se leram diante do rei.",
+        "1": "NAQUELA mesma noite fugiu o sono do rei; então mandou trazer o livro de registro das crônicas, as quais se leram diante do rei.",
         "2": "E achou-se escrito que Mardoqueu tinha denunciado Bigtã e Teres, dois dos camareiros do rei, da guarda da porta, que tinham procurado lançar mão do rei Assuero.",
         "3": "Então disse o rei: Que honra e distinção se deu por isso a Mardoqueu? E os servos do rei, que ministravam junto a ele, disseram: Coisa nenhuma se lhe fez.",
         "4": "Então disse o rei: Quem está no pátio? E Hamã tinha entrado no pátio exterior da casa do rei, para dizer ao rei que enforcassem a Mardoqueu na forca que lhe tinha preparado.",

@@ -1,19 +1,21 @@
 {
     "livro": "Salmos",
     "capitulo": 30,
-    "titulos": {},
+    "titulos": {
+        "1": "A restauração vem do Senhor"
+    },
     "versiculos": {
-        "1": "Salmo e Canção à dedicação da casa de Davi. Eu te exaltarei, ó SENHOR; porque tu me elevaste e não fizeste com que meus inimigos se regozijassem sobre mim.",
-        "2": "Ó SENHOR, meu Deus, eu clamei a ti e tu me curaste.",
-        "3": "Ó SENHOR, tu levantaste minha alma do túmulo; tu me mantiveste vivo, para que eu não descesse à cova.",
-        "4": "Cantai ao SENHOR, ó vós seus santos, e dai graças à lembrança de sua santidade.",
-        "5": "Porque a sua ira não dura mais que um momento; em seu favor está a vida; o choro pode durar uma noite, mas a alegria vem de manhã.",
-        "6": "E na minha prosperidade eu disse: Nunca serei abalado.",
-        "7": "SENHOR, pelo teu favor tu fizeste com que o monte permanecesse firme; tu escondeste a tua face, e eu fiquei perturbado.",
-        "8": "Eu clamei a ti, ó SENHOR; e ao SENHOR eu fiz súplicas.",
-        "9": "Que lucro há em meu sangue, quando eu desço à cova? Irá o pó te louvar? Declarará ele a tua verdade?",
-        "10": "Ouve, ó SENHOR, e tem misericórdia de mim; SENHOR, sê tu o meu ajudador.",
-        "11": "Tu transformaste meu pranto em dança; tu tiraste meu pano de saco, e me cingiste com alegria.",
-        "12": "A fim de que a minha glória possa cantar louvores a ti, e não se silenciar. Ó SENHOR, meu Deus, eu darei graças a ti para sempre."
+        "1": "Eu te exalto, ó S ENHOR , pois que me reergueste e não permitiste que meus inimigos escarnecessem de mim.",
+        "2": "S ENHOR meu Deus, a ti clamei por livramento e tu me curaste.",
+        "3": "Ó S ENHOR , tiraste-me do fosso da morte; pouco antes de descer à cova, devolveste-me a vida.",
+        "4": "Cantai louvores ao Senhor, vós que sois seus servos,e dai graças ao seu santo nome.",
+        "5": "Pois sua fúria dura um só instante, mas sua misericórdia prolonga-se através da vida. O pranto pode durar uma noite, mas a alegria nasce ao romper do dia.",
+        "6": "Em meio a prosperidade, afirmei: Jamais serei abalado!",
+        "7": "Foste tu, ó S ENHOR , que por tua mercê, estabeleceste a minha força como uma montanha; contudo, ao encobrires a tua face, fiquei aterrorizado.",
+        "8": "A ti, ó meu Deus, clamei. Ao S ENHOR supliquei misericórdia:",
+        "9": "Que proveito haverá em meu sangue, se me fizeres descer à sepultura? Acaso louvar-te-á o pó? Poderá ele proclamar a tua fidelidade?",
+        "10": "Ouve, S ENHOR , e tem misericórdia de mim; S ENHOR , sê tu o meu socorro.",
+        "11": "Converteste o meu pranto em dança; substituíste meu traje de luto por roupas de alegria.",
+        "12": "Para que todo o meu ser cante louvores a ti e não se cale. Ó S ENHOR , Deus meu, ações de graças te dedicarei por todo o sempre."
     }
 }

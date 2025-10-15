@@ -1,9 +1,13 @@
 {
     "livro": "Malaquias",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus adverte e pune os sacerdotes",
+        "10": "A infidelidade e o divórcio",
+        "17": "O tempo do fim está chegando"
+    },
     "versiculos": {
-        "1": "Agora, ó sacerdotes, este mandamento é para vós.",
+        "1": "AGORA, ó sacerdotes, este mandamento é para vós.",
         "2": "Se não ouvirdes e se não propuserdes, no vosso coração, dar honra ao meu nome, diz o Senhor dos Exércitos, enviarei a maldição contra vós, e amaldiçoarei as vossas bênçãos; e também já as tenho amaldiçoado, porque não aplicais a isso o coração.",
         "3": "Eis que reprovarei a vossa semente, e espalharei esterco sobre os vossos rostos, o esterco das vossas festas solenes; e para junto deste sereis levados.",
         "4": "Então sabereis que eu vos enviei este mandamento, para que a minha aliança fosse com Levi, diz o Senhor dos Exércitos.",

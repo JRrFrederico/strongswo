@@ -1,9 +1,14 @@
 {
     "livro": "Romanos",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "O Espírito guia os filhos de Deus",
+        "18": "O sofrimento e a glória futura",
+        "28": "Somos mais que vencedores",
+        "31": "Hino de vitória: Deus é por nós"
+    },
     "versiculos": {
-        "1": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus, que não andam segundo a carne, mas segundo o Espírito.",
+        "1": "PORTANTO, agora nenhuma condenação há para os que estão em Cristo Jesus, que não andam segundo a carne, mas segundo o Espírito.",
         "2": "Porque a lei do Espírito de vida, em Cristo Jesus, me livrou da lei do pecado e da morte.",
         "3": "Porquanto o que era impossível à lei, visto como estava enferma pela carne, Deus, enviando o seu Filho em semelhança da carne do pecado, pelo pecado condenou o pecado na carne;",
         "4": "Para que a justiça da lei se cumprisse em nós, que não andamos segundo a carne, mas segundo o Espírito.",

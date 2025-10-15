@@ -1,9 +1,12 @@
 {
     "livro": "Levítico",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Os outros casos de oferta pelo pecado",
+        "14": "O sacrifício de reparação"
+    },
     "versiculos": {
-        "1": "E quando alguma pessoa pecar, ouvindo uma voz de blasfêmia, de que for testemunha, seja porque viu, ou porque soube, se o não denunciar, então levará a sua iniquidade.",
+        "1": "E QUANDO alguma pessoa pecar, ouvindo uma voz de blasfêmia, de que for testemunha, seja porque viu, ou porque soube, se o não denunciar, então levará a sua iniquidade.",
         "2": "Ou, quando alguma pessoa tocar em alguma coisa imunda, seja corpo morto de fera imunda, seja corpo morto de animal imundo, seja corpo morto de réptil imundo, ainda que não soubesse, contudo será ele imundo e culpado.",
         "3": "Ou, quando tocar a imundícia de um homem, seja qualquer que for a sua imundícia, com que se faça imundo, e lhe for oculto, e o souber depois, será culpado.",
         "4": "Ou, quando alguma pessoa jurar, pronunciando temerariamente com os seus lábios, para fazer mal, ou para fazer bem, em tudo o que o homem pronuncia temerariamente com juramento, e lhe for oculto, e o souber depois, culpado será numa destas coisas.",

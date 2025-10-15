@@ -1,9 +1,11 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Morre Josafá e Jeorão torna-se rei"
+    },
     "versiculos": {
-        "1": "Depois Jeosafá dormiu com seus pais, e foi sepultado com seus pais na cidade de Davi; e Jeorão, seu filho, reinou em seu lugar.",
+        "1": "DEPOIS Jeosafá dormiu com seus pais, e foi sepultado com seus pais na cidade de Davi; e Jeorão, seu filho, reinou em seu lugar.",
         "2": "E teve irmãos, filhos de Jeosafá: Azarias, Jeiel, Zacarias, Asarias, Micael e Sefatias; todos estes foram filhos de Jeosafá, rei de Israel.",
         "3": "E seu pai lhes deu muitos presentes de prata, de ouro e de coisas preciosíssimas, juntamente com cidades fortificadas em Judá; porém, o reino, deu a Jeorão, porquanto era o primogênito.",
         "4": "E, subindo Jeorão ao reino de seu pai, e havendo-se fortificado, matou a todos os seus irmãos à espada, como também a alguns dos príncipes de Israel.",

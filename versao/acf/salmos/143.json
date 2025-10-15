@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 143,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração por livramento e salvação"
+    },
     "versiculos": {
-        "1": "Ó Senhor, ouve a minha oração, inclina os ouvidos às minhas súplicas; escuta-me segundo a tua verdade, e segundo a tua justiça.",
+        "1": "Ó SENHOR, ouve a minha oração, inclina os ouvidos às minhas súplicas; escuta-me segundo a tua verdade, e segundo a tua justiça.",
         "2": "E não entres em juízo com o teu servo, porque à tua vista não se achará justo nenhum vivente.",
         "3": "Pois o inimigo perseguiu a minha alma; atropelou-me até ao chão; fez-me habitar na escuridão, como aqueles que morreram há muito.",
         "4": "Pois que o meu espírito se angustia em mim; e o meu coração em mim está desolado.",

@@ -1,0 +1,249 @@
+{
+  "livro": "Gênesis",
+  "capitulo": 9,
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E abençoou Deus a Noé e a seus filhos, e disse-lhes: Frutificai e multiplicai-vos, e enchei a terra.",
+      "palavras": [
+        { "hebraico": "וַיְבָרֶךְ אֱלֹהִים אֶת נֹחַ", "transliteral": "VAYVARACH ELOHIM ET NOACH", "traducao_palavra": "E abençoou Deus a Noé" },
+        { "hebraico": "וְאֶת בָּנָיו", "transliteral": "VE'ET BANAV", "traducao_palavra": "e a seus filhos" },
+        { "hebraico": "וַיֹּאמֶר לָהֶם", "transliteral": "VAYOMER LAHEM", "traducao_palavra": "e disse-lhes" },
+        { "hebraico": "פְּרוּ וּרְבוּ וּמִלְאוּ אֶת הָאָרֶץ", "transliteral": "PERU URVU UMIL'U ET HA'ARETZ", "traducao_palavra": "Frutificai e multiplicai-vos, e enchei a terra" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E o temor e o medo de vós virão sobre todo animal da terra, e sobre toda ave dos céus; tudo o que se move sobre a terra, e todos os peixes do mar, sob o domínio vos são entregues.",
+      "palavras": [
+        { "hebraico": "וּמוֹרַאכֶם וְחִתְּכֶם", "transliteral": "UMORACCHEM VECHITCHEM", "traducao_palavra": "E o temor e o medo de vós" },
+        { "hebraico": "יִהְיֶה עַל כָּל חַיַּת הָאָרֶץ", "transliteral": "YIH'YEH AL KOL CHAYYAT HA'ARETZ", "traducao_palavra": "virão sobre todo animal da terra" },
+        { "hebraico": "וְעַל כָּל עוֹף הַשָּׁמַיִם", "transliteral": "VE'AL KOL OF HASHAMAYIM", "traducao_palavra": "e sobre toda ave dos céus" },
+        { "hebraico": "בְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה", "transliteral": "BECHOL ASHER TIRMOS HA'ADAMAH", "traducao_palavra": "tudo o que se move sobre a terra" },
+        { "hebraico": "וּבְכָל דְּגֵי הַיָּם", "transliteral": "UVCHOL DEGEI HAYYAM", "traducao_palavra": "e todos os peixes do mar" },
+        { "hebraico": "בְּיֶדְכֶם נִתָּנוּ", "transliteral": "BEYEDCHEM NITTANU", "traducao_palavra": "sob o domínio vos são entregues" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "Todo o animal que se move, que é vivo, vos será por mantimento; como as ervas verdes, tudo vos tenho dado.",
+      "palavras": [
+        { "hebraico": "כָּל רֶמֶשׂ אֲשֶׁר הוּא חַי", "transliteral": "KOL REMES ASHER HU CHAY", "traducao_palavra": "Todo o animal que se move, que é vivo" },
+        { "hebraico": "לָכֶם יִהְיֶה לְאָכְלָה", "transliteral": "LACHEM YIH'YEH LE'OCHLAH", "traducao_palavra": "vos será por mantimento" },
+        { "hebraico": "כְּיֶרֶק עֵשֶׂב נָתַתִּי לָכֶם אֶת כֹּל", "transliteral": "KEYEREQ ESEV NATATI LACHEM ET KOL", "traducao_palavra": "como as ervas verdes, tudo vos tenho dado" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "Mas não comereis carne com sua vida, isto é, com seu sangue.",
+      "palavras": [
+        { "hebraico": "אַךְ בָּשָׂר בְּנַפְשׁוֹ", "transliteral": "AKH BASAR BENAFCHO", "traducao_palavra": "Mas não comereis carne com sua vida" },
+        { "hebraico": "דָּמוֹ לֹא תֹאכֵלוּ", "transliteral": "DAMO LO TOCHELU", "traducao_palavra": "isto é, com seu sangue" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E certamente o sangue de vós, o sangue de vossas vidas, requererei; de mão de todo animal o requererei, e das mãos do homem; da mão de cada homem, seu irmão, requererei a vida do homem.",
+      "palavras": [
+        { "hebraico": "וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם", "transliteral": "VE'AKH ET DIMCHEM LENAFSHOTICHEM", "traducao_palavra": "E certamente o sangue de vós, o sangue de vossas vidas" },
+        { "hebraico": "אֶדְרֹשׁ", "transliteral": "EDROSH", "traducao_palavra": "requererei" },
+        { "hebraico": "מִיַּד כָּל חַיָּה אֶדְרְשֶׁנּוּ", "transliteral": "MIYAD KOL CHAYYAH EDRESHENU", "traducao_palavra": "de mão de todo animal o requererei" },
+        { "hebraico": "וּמִיַּד הָאָדָם", "transliteral": "UMIYYAD HA'ADAM", "traducao_palavra": "e das mãos do homem" },
+        { "hebraico": "מִיַּד אִישׁ אָחִיו", "transliteral": "MIYAD ISH ACHIV", "traducao_palavra": "da mão de cada homem, seu irmão" },
+        { "hebraico": "אֶדְרֹשׁ אֶת נֶפֶשׁ הָאָדָם", "transliteral": "EDROSH ET NEFESH HA'ADAM", "traducao_palavra": "requererei a vida do homem" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "Quem derramar sangue do homem, pelo homem será derramado o seu sangue; porque à imagem de Deus fez ele ao homem.",
+      "palavras": [
+        { "hebraico": "שֹׁפֵךְ דַּם הָאָדָם", "transliteral": "SHOFECH DAM HA'ADAM", "traducao_palavra": "Quem derramar sangue do homem" },
+        { "hebraico": "בָּאָדָם דָּמוֹ יִשָּׁפֵךְ", "transliteral": "BA'ADAM DAMO YISHSAFECH", "traducao_palavra": "pelo homem será derramado o seu sangue" },
+        { "hebraico": "כִּי בְּצֶלֶם אֱלֹהִים", "transliteral": "KI BETZELM ELOHIM", "traducao_palavra": "porque à imagem de Deus" },
+        { "hebraico": "עָשָׂה אֶת הָאָדָם", "transliteral": "ASAH ET HA'ADAM", "traducao_palavra": "fez ele ao homem" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E vós, frutificai e multiplicai-vos; e povoai abundantemente a terra, e multiplicai-vos nela.",
+      "palavras": [
+        { "hebraico": "וְאַתֶּם פְּרוּ וּרְבוּ", "transliteral": "VE'ATEM PERU URVU", "traducao_palavra": "E vós, frutificai e multiplicai-vos" },
+        { "hebraico": "שִׁרְצוּ בָאָרֶץ וּרְבוּ בָּהּ", "transliteral": "SHIRTZU BA'ARETZ URVU BAH", "traducao_palavra": "e povoai abundantemente a terra, e multiplicai-vos nela" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E disse Deus a Noé, e a seus filhos com ele, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר אֱלֹהִים אֶל נֹחַ", "transliteral": "VAYOMER ELOHIM EL NOACH", "traducao_palavra": "E disse Deus a Noé" },
+        { "hebraico": "וְאֶל בָּנָיו אִתּוֹ", "transliteral": "VE'EL BANAV ITTO", "traducao_palavra": "e a seus filhos com ele" },
+        { "hebraico": "לֵאמֹר", "transliteral": "LEMOR", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E eu, eis que estabeleço meu pacto convosco, e com vossa descendência depois de vós;",
+      "palavras": [
+        { "hebraico": "וַאֲנִי הִנְנִי מֵקִים אֶת בְּרִיתִי אִתְּכֶם", "transliteral": "VEANI HINNI MEQIM ET BERITI ITTCHEM", "traducao_palavra": "E eu, eis que estabeleço meu pacto convosco" },
+        { "hebraico": "וְאֶת זַרְעֲכֶם אַחֲרֵיכֶם", "transliteral": "VE'ET ZAR'ACHEM ACHARICHEM", "traducao_palavra": "e com vossa descendência depois de vós" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E com todo ser vivente que está convosco, das aves, do gado, e de todo animal da terra convosco; desde todos os que saíram da arca até todo animal da terra.",
+      "palavras": [
+        { "hebraico": "וְאֵת כָּל נֶפֶשׁ הַחַיָּה", "transliteral": "VE'ET KOL NEFESH HACHAYYAH", "traducao_palavra": "E com todo ser vivente que está convosco" },
+        { "hebraico": "אֲשֶׁר אִתְּכֶם בָּעוֹף", "transliteral": "ASHER ITTCHEM BA'OF", "traducao_palavra": "das aves" },
+        { "hebraico": "בַּבְּהֵמָה וּבְכָל חַיַּת הָאָרֶץ אִתְּכֶם", "transliteral": "BABHEMAH UVECHOL CHAYYAT HA'ARETZ ITTCHEM", "traducao_palavra": "do gado, e de todo animal da terra convosco" },
+        { "hebraico": "מִכֹּל יֹצְאֵי הַתֵּבָה", "transliteral": "MIKOL YOTZEI HATEVAH", "traducao_palavra": "desde todos os que saíram da arca" },
+        { "hebraico": "עַד כָּל חַיַּת הָאָרֶץ", "transliteral": "AD KOL CHAYYAT HA'ARETZ", "traducao_palavra": "até todo animal da terra" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E estabeleço meu pacto convosco, que não será mais destruída toda carne por águas de dilúvio, e que não haverá mais dilúvio para destruir a terra.",
+      "palavras": [
+        { "hebraico": "וַהֲקִמֹתִי אֶת בְּרִיתִי אִתְּכֶם", "transliteral": "VEHAQIMOTI ET BERITI ITTCHEM", "traducao_palavra": "E estabeleço meu pacto convosco" },
+        { "hebraico": "וְלֹא יִכָּרֵת כָּל בָּשָׂר", "transliteral": "VELO YIKKARET KOL BASAR", "traducao_palavra": "que não será mais destruída toda carne" },
+        { "hebraico": "מִמֵּי הַמַּבּוּל", "transliteral": "MIMMEI HAMABBUL", "traducao_palavra": "por águas de dilúvio" },
+        { "hebraico": "וְלֹא יִהְיֶה עוֹד מַבּוּל לְשַׁחֵת הָאָרֶץ", "transliteral": "VELO YIH'YEH OD MABBUL LESHACHET HA'ARETZ", "traducao_palavra": "e que não haverá mais dilúvio para destruir a terra" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E disse Deus: Este é o sinal do pacto que eu estabeleço entre mim e vós, e todo ser vivente que está convosco, por gerações eternas:",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר אֱלֹהִים", "transliteral": "VAYOMER ELOHIM", "traducao_palavra": "E disse Deus" },
+        { "hebraico": "זֹאת אוֹת הַבְּרִית אֲשֶׁר אֲנִי נֹתֵן בֵּינִי וּבֵינֵיכֶם", "transliteral": "ZOT OT HABERIT ASHER ANI NOTEN BEINI UVEINEICHEM", "traducao_palavra": "Este é o sinal do pacto que eu estabeleço entre mim e vós" },
+        { "hebraico": "וּבֵין כָּל נֶפֶשׁ חַיָּה אֲשֶׁר אִתְּכֶם", "transliteral": "UVEIN KOL NEFESH CHAYYAH ASHER ITTCHEM", "traducao_palavra": "e todo ser vivente que está convosco" },
+        { "hebraico": "לְדֹרֹת עוֹלָם", "transliteral": "LEDOROT OLAM", "traducao_palavra": "por gerações eternas" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "O meu arco pus nas nuvens, o qual será por sinal do pacto entre mim e a terra.",
+      "palavras": [
+        { "hebraico": "אֶת קַשְׁתִּי נָתַתִּי בֶּעָנָן", "transliteral": "ET QASH'TI NATATI BE'ANAN", "traducao_palavra": "O meu arco pus nas nuvens" },
+        { "hebraico": "וְהָיְתָה לְאוֹת בְּרִית", "transliteral": "VEHAYTAH LE'OT BERIT", "traducao_palavra": "o qual será por sinal do pacto" },
+        { "hebraico": "בֵּינִי וּבֵין הָאָרֶץ", "transliteral": "BEINI UVEIN HA'ARETZ", "traducao_palavra": "entre mim e a terra" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E acontecerá que, quando eu trouxer nuvens sobre a terra, aparecerá o arco nas nuvens;",
+      "palavras": [
+        { "hebraico": "וְהָיָה בְּעַנְנִי עָנָן עַל הָאָרֶץ", "transliteral": "VEHAYA BE'ANNI ANAN AL HA'ARETZ", "traducao_palavra": "E acontecerá que, quando eu trouxer nuvens sobre a terra" },
+        { "hebraico": "וְנִרְאָה הַקֶּשֶׁת בֶּעָנָן", "transliteral": "VENIRAHA HAQESBET BE'ANAN", "traducao_palavra": "aparecerá o arco nas nuvens" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "E me lembrarei do meu pacto, que está entre mim e vós, e entre todo ser vivente de toda carne; e as águas não se tornarão mais em dilúvio para destruir toda carne.",
+      "palavras": [
+        { "hebraico": "וְזָכַרְתִּי אֶת בְּרִיתִי", "transliteral": "VEZACHARTI ET BERITI", "traducao_palavra": "E me lembrarei do meu pacto" },
+        { "hebraico": "אֲשֶׁר בֵּינִי וּבֵינֵיכֶם", "transliteral": "ASHER BEINI UVEINEICHEM", "traducao_palavra": "que está entre mim e vós" },
+        { "hebraico": "וּבֵין כָּל נֶפֶשׁ חַיָּה בְּכָל בָּשָׂר", "transliteral": "UVEIN KOL NEFESH CHAYYAH BECHOL BASAR", "traducao_palavra": "e entre todo ser vivente de toda carne" },
+        { "hebraico": "וְלֹא יִהְיֶה עוֹד הַמַּיִם לְמַבּוּל", "transliteral": "VELO YIH'YEH OD HAMAYIM LEMABBUL", "traducao_palavra": "e as águas não se tornarão mais em dilúvio" },
+        { "hebraico": "לְשַׁחֵת כָּל בָּשָׂר", "transliteral": "LESHACHET KOL BASAR", "traducao_palavra": "para destruir toda carne" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Estará o arco nas nuvens, e eu o verei, para me lembrar do pacto eterno entre Deus e todo ser vivente de toda carne que está sobre a terra.",
+      "palavras": [
+        { "hebraico": "וְהָיְתָה הַקֶּשֶׁת בֶּעָנָן", "transliteral": "VEHAYTAH HAQESBET BE'ANAN", "traducao_palavra": "Estará o arco nas nuvens" },
+        { "hebraico": "וּרְאִיתִיהָ", "transliteral": "UR'ITIHA", "traducao_palavra": "e eu o verei" },
+        { "hebraico": "לִזְכֹּר בְּרִית עוֹלָם", "transliteral": "LIZKOR BERIT OLAM", "traducao_palavra": "para me lembrar do pacto eterno" },
+        { "hebraico": "בֵּין אֱלֹהִים וּבֵין כָּל נֶפֶשׁ חַיָּה", "transliteral": "BEIN ELOHIM UVEIN KOL NEFESH CHAYYAH", "traducao_palavra": "entre Deus e todo ser vivente" },
+        { "hebraico": "בְּכָל בָּשָׂר אֲשֶׁר עַל הָאָרֶץ", "transliteral": "BECHOL BASAR ASHER AL HA'ARETZ", "traducao_palavra": "de toda carne que está sobre a terra" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "E disse Deus a Noé: Este é o sinal do pacto que estabeleci entre mim e toda carne que está sobre a terra.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר אֱלֹהִים אֶל נֹחַ", "transliteral": "VAYOMER ELOHIM EL NOACH", "traducao_palavra": "E disse Deus a Noé" },
+        { "hebraico": "זֹאת אוֹת הַבְּרִית אֲשֶׁר הֲקִמֹתִי", "transliteral": "ZOT OT HABERIT ASHER HAQIMOTI", "traducao_palavra": "Este é o sinal do pacto que estabeleci" },
+        { "hebraico": "בֵּינִי וּבֵין כָּל בָּשָׂר אֲשֶׁר עַל הָאָרֶץ", "transliteral": "BEINI UVEIN KOL BASAR ASHER AL HA'ARETZ", "traducao_palavra": "entre mim e toda carne que está sobre a terra" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E foram os filhos de Noé, que saíram da arca, Sem, Cam e Jafé; e Cam é o pai de Canaã.",
+      "palavras": [
+        { "hebraico": "וַיִּהְיוּ בְּנֵי נֹחַ הַיֹּצְאִים מִן הַתֵּבָה", "transliteral": "VAYYIH'YU BENEI NOACH HAYOTZIM MIN HATEVAH", "traducao_palavra": "E foram os filhos de Noé, que saíram da arca" },
+        { "hebraico": "שֵׁם וְחָם וָיָפֶת", "transliteral": "SHEM VCHAM VAYAFET", "traducao_palavra": "Sem, Cam e Jafé" },
+        { "hebraico": "וְחָם הוּא אֲבִי כְנָעַן", "transliteral": "VCHAM HU AVI KENA'AN", "traducao_palavra": "e Cam é o pai de Canaã" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Estes três foram os filhos de Noé; e destes foi toda a terra povoada.",
+      "palavras": [
+        { "hebraico": "שְׁלֹשָׁה אֵלֶּה בְּנֵי נֹחַ", "transliteral": "SHELOSHAH EILEH BENEI NOACH", "traducao_palavra": "Estes três foram os filhos de Noé" },
+        { "hebraico": "וּמֵאֵלֶּה נָפְצָה כָּל הָאָרֶץ", "transliteral": "UME'EILEH NAFETZAH KOL HA'ARETZ", "traducao_palavra": "e destes foi toda a terra povoada" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "E começou Noé a ser lavrador, e plantou uma vinha;",
+      "palavras": [
+        { "hebraico": "וַיָּחֶל נֹחַ אִישׁ הָאֲדָמָה", "transliteral": "VAYYACHEL NOACH ISH HA'ADAMAH", "traducao_palavra": "E começou Noé a ser lavrador" },
+        { "hebraico": "וַיִּטַּע כָּרֶם", "transliteral": "VAYITT'A KAREM", "traducao_palavra": "e plantou uma vinha" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "E bebeu do vinho, e embebedou-se; e descobriu-se no meio de sua tenda.",
+      "palavras": [
+        { "hebraico": "וַיֵּשְׁתְּ מִן הַיַּיִן", "transliteral": "VAYYESHT MIN HAYAYIN", "traducao_palavra": "E bebeu do vinho" },
+        { "hebraico": "וַיִּשְׁכַּר", "transliteral": "VAYYISHKAR", "traducao_palavra": "e embebedou-se" },
+        { "hebraico": "וַיִּתְגַּל בְּתוֹךְ אָהֳלֹה", "transliteral": "VAYYITGAL BETOCH AHOLO", "traducao_palavra": "e descobriu-se no meio de sua tenda" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E viu Cam, o pai de Canaã, a nudez de seu pai, e o contou a seus dois irmãos fora.",
+      "palavras": [
+        { "hebraico": "וַיַּרְא חָם אֲבִי כְנַעַן", "transliteral": "VAYYAR CHAM AVI KENA'AN", "traducao_palavra": "E viu Cam, o pai de Canaã" },
+        { "hebraico": "אֵת עֶרְוַת אָבִיו", "transliteral": "ET ERVAT AVIV", "traducao_palavra": "a nudez de seu pai" },
+        { "hebraico": "וַיַּגֵּד לִשְׁנֵי אֶחָיו בַּחוּץ", "transliteral": "VAYYAGED LISHNEI ECHAV BACHUTZ", "traducao_palavra": "e o contou a seus dois irmãos fora" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "E tomou Sem e Jafé uma capa, e puseram-na sobre os seus ombros, e andando de costas, cobriram a nudez de seu pai; e os seus rostos estavam virados, e não viram a nudez de seu pai.",
+      "palavras": [
+        { "hebraico": "וַיִּקַּח שֵׁם וָיֶפֶת אֶת הַשִּׂמְלָה", "transliteral": "VAYYIQQACH SHEM VAYEFET ET HASIMLAH", "traducao_palavra": "E tomou Sem e Jafé uma capa" },
+        { "hebraico": "וַיָּשִׂימוּ עַל שְׁכֶם שְׁנֵיהֶם", "transliteral": "VAYYASIMU AL SHECHEM SHENEIHEM", "traducao_palavra": "e puseram-na sobre os seus ombros" },
+        { "hebraico": "וַיֵּלְכוּ אֲחֹרַנִּית", "transliteral": "VAYYELCHU ACHORANIT", "traducao_palavra": "e andando de costas" },
+        { "hebraico": "וַיְכַסּוּ אֵת עֶרְוַת אֲבִיהֶם", "transliteral": "VAYCHASU ET ERVAT AVIHEM", "traducao_palavra": "cobriram a nudez de seu pai" },
+        { "hebraico": "וּפְנֵיהֶם אֲחֹרַנִּית", "transliteral": "UFNEIHEM ACHORANIT", "traducao_palavra": "e os seus rostos estavam virados" },
+        { "hebraico": "וְעֶרְוַת אֲבִיהֶם לֹא רָאוּ", "transliteral": "VE'ERVAT AVIHEM LO RA'U", "traducao_palavra": "e não viram a nudez de seu pai" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "E despertou Noé do seu vinho, e soube o que seu filho menor lhe fizera.",
+      "palavras": [
+        { "hebraico": "וַיִּיקֶץ נֹחַ מִיֵּינוֹ", "transliteral": "VAYYIQTZ NOACH MIYEINO", "traducao_palavra": "E despertou Noé do seu vinho" },
+        { "hebraico": "וַיֵּדַע אֵת אֲשֶׁר עָשָׂה לוֹ בְּנוֹ הַקָּטָן", "transliteral": "VAYEDA ET ASHER ASAH LO BENO HAQATAN", "traducao_palavra": "e soube o que seu filho menor lhe fizera" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "E disse: Maldito seja Canaã; servo de servos será aos seus irmãos.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "VAYOMER", "traducao_palavra": "E disse" },
+        { "hebraico": "אָרוּר כְּנָעַן", "transliteral": "ARUR KENA'AN", "traducao_palavra": "Maldito seja Canaã" },
+        { "hebraico": "עֶבֶד עֲבָדִים יִהְיֶה לְאֶחָיו", "transliteral": "EVED AVADIM YIH'YEH LE'ECHAV", "traducao_palavra": "servo de servos será aos seus irmãos" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "E disse: Bendito seja o SENHOR Deus de Sem; e seja Canaã seu servo.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "VAYOMER", "traducao_palavra": "E disse" },
+        { "hebraico": "בָּרוּךְ יְהוָה אֱלֹהֵי שֵׁם", "transliteral": "BARUCH YHVH ELOHEI SHEM", "traducao_palavra": "Bendito seja o SENHOR Deus de Sem" },
+        { "hebraico": "וִיהִי כְנַעַן עֶבֶד לוֹ", "transliteral": "VIHI KENA'AN EVED LO", "traducao_palavra": "e seja Canaã seu servo" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "Enlarge Japheth, and let him dwell in the tents of Shem; and let Canaan be his servant.",
+      "palavras": [
+        { "hebraico": "יַפְתְּ אֵלֹהִים לְיֶפֶת", "transliteral": "YAFET ELOHIM LEYEFET", "traducao_palavra": "Enlarge Japheth" },
+        { "hebraico": "וְיִשְׁכֹּן בְּאָהֳלֵי שֵׁם", "transliteral": "VEYISHKON BE'AHOLEI SHEM", "traducao_palavra": "and let him dwell in the tents of Shem" },
+        { "hebraico": "וִיהִי כְנַעַן עֶבֶד לוֹ", "transliteral": "VIHI KENA'AN EVED LO", "traducao_palavra": "and let Canaan be his servant" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "E viveu Noé, depois do dilúvio, trezentos e cinquenta anos.",
+      "palavras": [
+        { "hebraico": "וַיְחִי נֹחַ אַחֲרֵי הַמַּבּוּל", "transliteral": "VAYCHI NOACH ACHARAI HAMABBUL", "traducao_palavra": "E viveu Noé, depois do dilúvio" },
+        { "hebraico": "שְׁלֹשׁ מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה", "transliteral": "SHELOSH ME'OT SHANAH VACHAMISHIM SHANAH", "traducao_palavra": "trezentos e cinquenta anos" }
+      ]
+    },
+    "29": {
+      "traducao_completa": "E foram todos os dias de Noé novecentos e cinquenta anos; e morreu.",
+      "palavras": [
+        { "hebraico": "וַיִּהְיוּ כָּל יְמֵי נֹחַ", "transliteral": "VAYYIH'YU KOL YMEI NOACH", "traducao_palavra": "E foram todos os dias de Noé" },
+        { "hebraico": "תְּשַׁע מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה", "transliteral": "TASHA ME'OT SHANAH VACHAMISHIM SHANAH", "traducao_palavra": "novecentos e cinquenta anos" },
+        { "hebraico": "וַיָּמֹת", "transliteral": "VAYYAMOT", "traducao_palavra": "e morreu" }
+      ]
+    }
+  }
+}

@@ -1,9 +1,13 @@
 {
     "livro": "Gênesis",
     "capitulo": 41,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus não se esqueceu de José",
+        "37": "José é feito governador do Egito",
+        "50": "Os filhos de José"
+    },
     "versiculos": {
-        "1": "E aconteceu que, ao fim de dois anos inteiros, Faraó sonhou, e eis que estava em pé junto ao rio.",
+        "1": "E ACONTECEU que, ao fim de dois anos inteiros, Faraó sonhou, e eis que estava em pé junto ao rio.",
         "2": "E eis que subiam do rio sete vacas, formosas à vista e gordas de carne, e pastavam no prado.",
         "3": "E eis que subiam do rio após elas outras sete vacas, feias à vista e magras de carne; e paravam junto às outras vacas na praia do rio.",
         "4": "E as vacas feias à vista e magras de carne, comiam as sete vacas formosas à vista e gordas. Então acordou Faraó.",
@@ -31,7 +35,7 @@
         "26": "As sete vacas formosas são sete anos, as sete espigas formosas também são sete anos, o sonho é um só.",
         "27": "E as sete vacas feias à vista e magras, que subiam depois delas, são sete anos, e as sete espigas miúdas e queimadas do vento oriental, serão sete anos de fome.",
         "28": "Esta é a palavra que tenho dito a Faraó; o que Deus há de fazer, mostrou-o a Faraó.",
-        "29": "E eis que vem sete anos, e haverá grande fartura em toda a terra do Egito.",
+        "29": "E eis que vêm sete anos, e haverá grande fartura em toda a terra do Egito.",
         "30": "E depois deles levantar-se-ão sete anos de fome, e toda aquela fartura será esquecida na terra do Egito, e a fome consumirá a terra;",
         "31": "E não será conhecida a abundância na terra, por causa daquela fome que haverá depois; porquanto será gravíssima.",
         "32": "E que o sonho foi repetido duas vezes a Faraó, é porque esta coisa é determinada por Deus, e Deus se apressa em fazê-la.",

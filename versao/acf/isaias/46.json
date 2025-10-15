@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 46,
-    "titulos": {},
+    "titulos": {
+        "1": "Caem os deuses da Babilônia"
+    },
     "versiculos": {
-        "1": "Bel está abatido, Nebo se encurvou, os seus ídolos são postos sobre os animais e sobre as feras; as cargas dos vossos fardos são canseiras para as feras já cansadas.",
+        "1": "BEL está abatido, Nebo se encurvou, os seus ídolos são postos sobre os animais e sobre as feras; as cargas dos vossos fardos são canseiras para as feras já cansadas.",
         "2": "Juntamente se encurvaram e se abateram; não puderam livrar-se da carga, mas a sua alma entrou em cativeiro.",
         "3": "Ouvi-me, ó casa de Jacó, e todo o restante da casa de Israel; vós a quem trouxe nos braços desde o ventre, e sois levados desde a madre.",
         "4": "E até à velhice eu serei o mesmo, e ainda até aos cabelos brancos eu vos carregarei; eu vos fiz, e eu vos levarei, e eu vos trarei, e vos livrarei.",

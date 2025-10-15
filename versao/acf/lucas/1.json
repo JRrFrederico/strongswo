@@ -1,9 +1,17 @@
 {
     "livro": "Lucas",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefácio e dedicatória a Teófilo",
+        "5": "Gabriel anuncia o nascimento de João",
+        "26": "Gabriel anuncia o nascimento de Jesus",
+        "39": "O encontro de Maria com Isabel",
+        "46": "Magnificat, o cântico de Maria",
+        "57": "Nasce João Batista",
+        "67": "Benedictus, o cântico de Zacarias"
+    },
     "versiculos": {
-        "1": "Tendo, pois, muitos empreendido pôr em ordem a narração dos fatos que entre nós se cumpriram,",
+        "1": "TENDO, pois, muitos empreendido pôr em ordem a narração dos fatos que entre nós se cumpriram,",
         "2": "Segundo nos transmitiram os mesmos que os presenciaram desde o princípio, e foram ministros da palavra,",
         "3": "Pareceu-me também a mim conveniente descrevê-los a ti, ó excelente Teófilo, por sua ordem, havendo-me já informado minuciosamente de tudo desde o princípio;",
         "4": "Para que conheças a certeza das coisas de que já estás informado.",
@@ -53,8 +61,8 @@
         "48": "Porque atentou na baixeza de sua serva; pois eis que desde agora todas as gerações me chamarão bem-aventurada,",
         "49": "Porque me fez grandes coisas o Poderoso; e santo é seu nome.",
         "50": "E a sua misericórdia é de geração em geração sobre os que o temem.",
-        "51": "Com o seu braço agiu valorosamente; dissipou os soberbos no pensamento de seus corações.",
-        "52": "Depôs dos tronos os poderosos, e elevou os humildes.",
+        "51": "Com o seu braço agiu  valorosamente; dissipou os soberbos no pensamento de seus corações.",
+        "52": "Depôs dos tronos os  poderosos, e elevou os humildes.",
         "53": "Encheu de bens os famintos, e despediu vazios os ricos.",
         "54": "Auxiliou a Israel seu servo, recordando-se da sua misericórdia;",
         "55": "Como falou a nossos pais, para com Abraão e a sua posteridade, para sempre.",

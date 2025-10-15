@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "Ditos de sabedoria em antíteses"
+    },
     "versiculos": {
-        "1": "Os ímpios fogem sem que haja ninguém a persegui-los; mas os justos são ousados como um leão.",
+        "1": "OS ímpios fogem sem que haja ninguém a persegui-los; mas os justos são ousados como um leão.",
         "2": "Pela transgressão da terra muitos são os seus príncipes, mas por homem prudente e entendido a sua continuidade será prolongada.",
         "3": "O homem pobre que oprime os pobres é como a chuva impetuosa, que causa a falta de alimento.",
         "4": "Os que deixam a lei louvam o ímpio; porém os que guardam a lei contendem com eles.",

@@ -1,9 +1,13 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "A rainha de Sabá visita Salomão",
+        "13": "O esplendor do reino de Salomão",
+        "29": "A morte do rei Salomão"
+    },
     "versiculos": {
-        "1": "E ouvindo a rainha de Sabá a fama de Salomão, veio a Jerusalém, para provar Salomão com questões difíceis, com um grande séquito, e com camelos carregados de especiarias; ouro em abundância e pedras preciosas; e foi a Salomão, e falou com ele de tudo o que tinha no seu coração.",
+        "1": "E OUVINDO a rainha de Sabá a fama de Salomão, veio a Jerusalém, para provar Salomão com questões difíceis, com um grande séquito, e com camelos carregados de especiarias; ouro em abundância e pedras preciosas; e foi a Salomão, e falou com ele de tudo o que tinha no seu coração.",
         "2": "E Salomão lhe respondeu a todas as suas questões; e não houve nada que Salomão não lhe pudesse esclarecer.",
         "3": "Vendo, pois, a rainha de Sabá a sabedoria de Salomão, e a casa que edificara;",
         "4": "E as iguarias da sua mesa, o assentar dos seus servos, o estar dos seus criados, e as vestes deles; e os seus copeiros e as vestes deles; e a sua subida pela qual ele chegava à casa do Senhor, ela ficou como fora de si.",

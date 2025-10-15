@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 52,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus vem em socorro de Jerusalém",
+        "13": "Dor e glória do Servo do SENHOR"
+    },
     "versiculos": {
-        "1": "Desperta, desperta, veste-te da tua fortaleza, ó Sião; veste-te das tuas roupas formosas, ó Jerusalém, cidade santa, porque nunca mais entrará em ti nem incircunciso nem imundo.",
+        "1": "DESPERTA, desperta, veste-te da tua fortaleza, ó Sião; veste-te das tuas roupas formosas, ó Jerusalém, cidade santa, porque nunca mais entrará em ti nem incircunciso nem imundo.",
         "2": "Sacode-te do pó, levanta-te, e assenta-te, ó Jerusalém: solta-te das cadeias de teu pescoço, ó cativa filha de Sião.",
         "3": "Porque assim diz o Senhor: Por nada fostes vendidos; também sem dinheiro sereis resgatados.",
         "4": "Porque assim diz o Senhor Deus: O meu povo em tempos passados desceu ao Egito, para peregrinar lá, e a Assíria sem razão o oprimiu.",

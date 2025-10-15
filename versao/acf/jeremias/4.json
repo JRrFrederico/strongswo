@@ -1,9 +1,13 @@
 {
     "livro": "Jeremias",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "A volta de Israel ao amor de Deus",
+        "5": "A invasão que vem do Norte",
+        "23": "A grande destruição futura"
+    },
     "versiculos": {
-        "1": "Se voltares, ó Israel, diz o Senhor, volta para mim; e se tirares as tuas abominações de diante de mim, não andarás mais vagueando,",
+        "1": "SE voltares, ó Israel, diz o Senhor, volta para mim; e se tirares as tuas abominações de diante de mim, não andarás mais vagueando,",
         "2": "E jurarás: Vive o Senhor na verdade, no juízo e na justiça; e nele se bendirão as nações, e nele se gloriarão.",
         "3": "Porque assim diz o Senhor aos homens de Judá e a Jerusalém: Preparai para vós o campo de lavoura, e não semeeis entre espinhos.",
         "4": "Circuncidai-vos ao Senhor, e tirai os prepúcios do vosso coração, ó homens de Judá e habitantes de Jerusalém, para que o meu furor não venha a sair como fogo, e arda de modo que não haja quem o apague, por causa da malícia das vossas obras.",

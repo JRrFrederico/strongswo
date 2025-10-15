@@ -1,9 +1,13 @@
 {
     "livro": "Josué",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "A conquista da cidade de Jericó",
+        "22": "A família de Raabe foi salva",
+        "26": "Maldito quem reedificar Jericó"
+    },
     "versiculos": {
-        "1": "Ora Jericó estava rigorosamente fechada por causa dos filhos de Israel; ninguém saía nem entrava.",
+        "1": "ORA Jericó estava rigorosamente fechada por causa dos filhos de Israel; ninguém saía nem entrava.",
         "2": "Então disse o Senhor a Josué: Olha, tenho dado na tua mão a Jericó, ao seu rei e aos seus homens valorosos.",
         "3": "Vós, pois, todos os homens de guerra, rodeareis a cidade, cercando-a uma vez; assim fareis por seis dias.",
         "4": "E sete sacerdotes levarão sete trombetas de chifres de carneiros adiante da arca, e no sétimo dia rodeareis a cidade sete vezes, e os sacerdotes tocarão as trombetas.",

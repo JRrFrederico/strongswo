@@ -1,9 +1,16 @@
 {
     "livro": "Juízes",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "As últimas realizações de Gideão",
+        "10": "A derrota de Zeba e Zalmuna",
+        "13": "As vinganças de Gideão",
+        "22": "O povo de Israel aclama Gideão",
+        "28": "A morte de Gideão",
+        "33": "Nova queda de Israel"
+    },
     "versiculos": {
-        "1": "Então os homens de Efraim lhe disseram: Que é isto que nos fizeste, que não nos chamaste, quando foste pelejar contra os midianitas? E contenderam com ele fortemente.",
+        "1": "ENTÃO os homens de Efraim lhe disseram: Que é isto que nos fizeste, que não nos chamaste, quando foste pelejar contra os midianitas? E contenderam com ele fortemente.",
         "2": "Porém ele lhes disse: Que mais fiz eu agora do que vós? Não são porventura os rabiscos de Efraim melhores do que a vindima de Abiezer?",
         "3": "Deus vos deu na vossa mão os príncipes dos midianitas, Orebe e Zeebe; que mais pude eu fazer do que vós? Então a sua ira se abrandou para com ele, quando falou esta palavra.",
         "4": "E, como Gideão veio ao Jordão, passou com os trezentos homens que com ele estavam, já cansados, mas ainda perseguindo.",

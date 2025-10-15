@@ -1,9 +1,13 @@
 {
     "livro": "1 Samuel",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "A amizade de Jônatas e Davi",
+        "6": "A origem da inveja de Saul",
+        "17": "O casamento de Davi"
+    },
     "versiculos": {
-        "1": "E sucedeu que, acabando ele de falar com Saul, a alma de Jônatas se ligou com a alma de Davi; e Jônatas o amou, como à sua própria alma.",
+        "1": "E SUCEDEU que, acabando ele de falar com Saul, a alma de Jônatas se ligou com a alma de Davi; e Jônatas o amou, como à sua própria alma.",
         "2": "E Saul naquele dia o tomou, e não lhe permitiu que voltasse para casa de seu pai.",
         "3": "E Jônatas e Davi fizeram aliança; porque Jônatas o amava como à sua própria alma.",
         "4": "E Jônatas se despojou da capa que trazia sobre si, e a deu a Davi, como também as suas vestes, até a sua espada, e o seu arco, e o seu cinto.",

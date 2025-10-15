@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 72,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefiguração do reino de Cristo"
+    },
     "versiculos": {
-        "1": "Ó Deus, dá ao rei os teus juízos, e a tua justiça ao filho do rei.",
+        "1": "Ó DEUS, dá ao rei os teus juízos, e a tua justiça ao filho do rei.",
         "2": "Ele julgará ao teu povo com justiça, e aos teus pobres com juízo.",
         "3": "Os montes trarão paz ao povo, e os outeiros, justiça.",
         "4": "Julgará os aflitos do povo, salvará os filhos do necessitado, e quebrantará o opressor.",

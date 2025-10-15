@@ -1,9 +1,12 @@
 {
     "livro": "Neemias",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Lista dos repatriados a Jerusalém",
+        "70": "Contribuições financeiras de todos"
+    },
     "versiculos": {
-        "1": "Sucedeu que, depois que o muro foi edificado, eu levantei as portas; e foram estabelecidos os porteiros, os cantores e os levitas.",
+        "1": "SUCEDEU que, depois que o muro foi edificado, eu levantei as portas; e foram estabelecidos os porteiros, os cantores e os levitas.",
         "2": "Eu nomeei a Hanani, meu irmão, e a Hananias, líder da fortaleza, sobre Jerusalém; porque ele era homem fiel e temente a Deus, mais do que muitos.",
         "3": "E disse-lhes: Não se abram as portas de Jerusalém até que o sol aqueça, e enquanto os que assistirem ali permanecerem, fechem as portas, e vós trancai-as; e ponham-se guardas dos moradores de Jerusalém, cada um na sua guarda, e cada um diante da sua casa.",
         "4": "E era a cidade larga de espaço, e grande, porém pouco povo havia dentro dela; e ainda as casas não estavam edificadas.",

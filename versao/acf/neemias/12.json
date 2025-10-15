@@ -1,9 +1,13 @@
 {
     "livro": "Neemias",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Zorobabel volta com os ministros",
+        "27": "A santificação dos muros da Cidade",
+        "44": "O ministério na Casa de Deus"
+    },
     "versiculos": {
-        "1": "Estes são sacerdotes e levitas que subiram com Zorobabel, filho de Sealtiel, e com Jesuá: Seraías, Jeremias, Esdras,",
+        "1": "ESTES são sacerdotes e levitas que subiram com Zorobabel, filho de Sealtiel, e com Jesuá: Seraías, Jeremias, Esdras,",
         "2": "Amarias, Maluque, Hatus,",
         "3": "Secanias, Reum, Meremote,",
         "4": "Ido, Ginetoi, Abias,",

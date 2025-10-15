@@ -2,7 +2,8 @@
     "livro": "Êxodo",
     "capitulo": 40,
     "titulos": {
-        "1": "A consagração da Tenda da Presença de Deus"
+        "1": "A consagração da Tenda da Presença de Deus",
+        "34": "A nuvem cobre a Tenda(A)"
     },
     "versiculos": {
         "1": "O Senhor Deus disse a Moisés:",
@@ -27,9 +28,9 @@
         "20": "Depois pegou as duas placas de pedra e as colocou dentro da arca da aliança. Enfiou os cabos nas argolas da arca e colocou a tampa nela.",
         "21": "Então pôs a arca na Tenda e, como o Senhor havia ordenado, pendurou a cortina entre o Lugar Santo e o Lugar Santíssimo para que ninguém pudesse ver a arca.",
         "22": "Moisés pôs a mesa na Tenda, no lado norte, do lado de fora da cortina,",
-        "23": "e colocou sobre ela os pães oferecidos a Deus, o Senhor, como ele havia ordenado.",
+        "23": "e colocou sobre ela os pães oferecidos a Deus, o Senhor , como ele havia ordenado.",
         "24": "Moisés pôs o candelabro na Tenda, no lado sul, em frente da mesa",
-        "25": "e ali, na presença do Senhor, ele acendeu as lamparinas, como o Senhor havia ordenado.",
+        "25": "e ali, na presença do Senhor , ele acendeu as lamparinas, como o Senhor havia ordenado.",
         "26": "Pôs o altar de ouro na Tenda, em frente da cortina,",
         "27": "e queimou o incenso cheiroso, como o Senhor havia ordenado.",
         "28": "Pendurou a cortina na entrada da Tenda",
@@ -37,6 +38,11 @@
         "30": "Pôs a pia entre a Tenda e o altar e a encheu com água.",
         "31": "Nela Moisés, Arão e os filhos de Arão lavavam os pés",
         "32": "todas as vezes que entravam na Tenda ou iam até o altar, como o Senhor havia ordenado.",
-        "33": "Moisés armou o pátio em volta da Tenda e do altar e pendurou a cortina na entrada do pátio. E assim ele terminou todo o trabalho."
+        "33": "Moisés armou o pátio em volta da Tenda e do altar e pendurou a cortina na entrada do pátio. E assim ele terminou todo o trabalho.",
+        "34": "Então a nuvem cobriu a Tenda, e ela ficou cheia da glória de Deus, o Senhor ;",
+        "35": "por isso Moisés não pôde entrar nela.",
+        "36": "Os israelitas levavam o seu acampamento de um lugar para outro somente quando a nuvem se levantava de cima da Tenda.",
+        "37": "Mas, se a nuvem não se levantava, os israelitas não saíam dali até o dia em que ela se levantava.",
+        "38": "Em todas as suas viagens, eles podiam ver, durante o dia, a nuvem da presença do Senhor em cima da Tenda; e, durante a noite, viam o fogo queimando em cima dela. end of crossrefs"
     }
 }

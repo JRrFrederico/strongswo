@@ -1,18 +1,20 @@
 {
     "livro": "Salmos",
     "capitulo": 63,
-    "titulos": {},
+    "titulos": {
+        "1": "Anseio da alma por Deus"
+    },
     "versiculos": {
-        "1": "Salmo de Davi, quando ele estava no deserto de Judá. Ó Deus, tu és o meu Deus; cedo te buscarei. Minha alma tem sede de ti, minha carne anseia por ti em uma terra seca e sedenta, onde não há água;",
-        "2": "Para ver o teu poder e a tua glória, assim como te vi no santuário.",
-        "3": "Porque a tua benignidade é melhor do que a vida, os meus lábios te louvarão.",
-        "4": "Assim eu te bendirei enquanto eu viver. Levantarei as minhas mãos em teu nome.",
-        "5": "Minha alma ficará satisfeita com tutano e gordura; e a minha boca te louvará com lábios alegres.",
-        "6": "Quando eu me lembrar de ti sobre a minha cama, e meditar sobre ti nas vigílias da noite.",
-        "7": "Porque tu tens sido meu socorro, portanto, na sombra das tuas asas eu me regozijarei.",
-        "8": "Minha alma te segue de perto; tua mão direita me sustém.",
-        "9": "Mas aqueles que buscam a minha alma, para destruí-la, irão para as partes mais baixas da terra.",
-        "10": "Eles cairão pela espada; eles serão uma porção para as raposas.",
-        "11": "Mas o rei se regozijará em Deus; todo aquele que jura por ele se gloriará; mas a boca daqueles que falam mentiras será parada."
+        "1": "Ó Eterno, tu és o meu Deus e a ti eu busco dia e noite; a minha alma tem sede de ti! Todo o meu ser anela pelo refrigério da tua presença numa terra árida, exausta e sem água.",
+        "2": "Recordo-me dos dias em que te contemplei no santuário, para me embeber de teu poder e de tua glória.",
+        "3": "Porquanto melhor que a própria vida é o teu amor leal e misericordioso! Por isso, os meus lábios te exaltarão sobremaneira.",
+        "4": "Sim, por toda a minha vida eu Te bendirei e erguerei meus braços invocando o teu Nome.",
+        "5": "Como num rico banquete, assim minha alma ficará plenamente satisfeita e, com alegria nos lábios, te louvará minha boca.",
+        "6": "Em meu leito, durante as noites de vigília, lembrar-me-ei de ti e meditarei sobre a tua bondade.",
+        "7": "Porque tens sido meu socorro, e à sombra das tuas asas canto louvores de alegria.",
+        "8": "Minha alma a ti se une, e tua destra me sustenta.",
+        "9": "Aqueles que procuram a minha destruição serão lançados às profundezas da terra!",
+        "10": "A espada os ferirá e se tornarão pasto para os chacais.",
+        "11": "O rei, porém, se alegrará em Deus; todos os que juram pelo Nome de Deus o louvarão, todavia, as bocas dos mentirosos serão lacradas."
     }
 }

@@ -1,9 +1,14 @@
 {
     "livro": "Juízes",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "A vingança de Israel",
+        "12": "Obstinação dos benjamitas",
+        "18": "Irmãos em guerra em Israel",
+        "29": "A derrota da tribo de Benjamim"
+    },
     "versiculos": {
-        "1": "Então todos os filhos de Israel saíram, e a congregação se ajuntou, perante o Senhor em Mizpá, como se fora um só homem, desde Dã até Berseba, como também a terra de Gileade.",
+        "1": "ENTÃO todos os filhos de Israel saíram, e a congregação se ajuntou, perante o Senhor em Mizpá, como se fora um só homem, desde Dã até Berseba, como também a terra de Gileade.",
         "2": "E os principais de todo o povo, de todas as tribos de Israel, se apresentaram na congregação do povo de Deus; quatrocentos mil homens de pé que tiravam a espada",
         "3": "(Ouviram, pois, os filhos de Benjamim que os filhos de Israel haviam subido a Mizpá). E disseram os filhos de Israel: Falai, como sucedeu esta maldade?",
         "4": "Então respondeu o homem levita, marido da mulher que fora morta, e disse: Cheguei com a minha concubina a Gibeá, cidade de Benjamim, para passar a noite.",

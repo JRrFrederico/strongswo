@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 34,
-    "titulos": {},
+    "titulos": {
+        "1": "Graças pelo livramento"
+    },
     "versiculos": {
-        "1": "Louvarei ao Senhor em todo o tempo; o seu louvor estará continuamente na minha boca.",
+        "1": "LOUVAREI ao Senhor em todo o tempo; o seu louvor estará continuamente na minha boca.",
         "2": "A minha alma se gloriará no Senhor; os mansos o ouvirão e se alegrarão.",
         "3": "Engrandecei ao Senhor comigo; e juntos exaltemos o seu nome.",
         "4": "Busquei ao Senhor, e ele me respondeu; livrou-me de todos os meus temores.",

@@ -1,9 +1,13 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Conclusão: Término das obras",
+        "7": "A tarefa dos estrangeiros e israelitas",
+        "12": "Salomão consagra tudo a Yahweh"
+    },
     "versiculos": {
-        "1": "E sucedeu, ao fim de vinte anos, nos quais Salomão edificou a casa do Senhor, e a sua própria casa,",
+        "1": "E SUCEDEU, ao fim de vinte anos, nos quais Salomão edificou a casa do Senhor, e a sua própria casa,",
         "2": "Que Salomão edificou as cidades que Hirão lhe tinha dado; e fez habitar nelas os filhos de Israel.",
         "3": "Depois foi Salomão a Hamate-Zobá, e a tomou.",
         "4": "Também edificou a Tadmor no deserto, e todas as cidades de provisões, que edificou em Hamate.",

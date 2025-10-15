@@ -1,9 +1,19 @@
 {
     "livro": "Levítico",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Procedimentos quanto às lepras",
+        "9": "Lepra ou câncer crônico de pele",
+        "18": "Úlceras e furúnculos",
+        "24": "Queimaduras",
+        "29": "Doenças na cabeça e no queixo",
+        "38": "Eczemas e impigens",
+        "40": "Calvície",
+        "45": "Lei sobre como agir com o leproso",
+        "47": "O mofo e a lepra nos objetos"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés e a Arão, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés e a Arão, dizendo:",
         "2": "Quando um homem tiver na pele da sua carne, inchação, ou pústula, ou mancha lustrosa, na pele de sua carne como praga da lepra, então será levado a Arão, o sacerdote, ou a um de seus filhos, os sacerdotes.",
         "3": "E o sacerdote examinará a praga na pele da carne; se o pelo na praga se tornou branco, e a praga parecer mais profunda do que a pele da sua carne, é praga de lepra; o sacerdote o examinará, e o declarará por imundo.",
         "4": "Mas, se a mancha na pele de sua carne for branca, e não parecer mais profunda do que a pele, e o pelo não se tornou branco, então o sacerdote encerrará o que tem a praga por sete dias;",

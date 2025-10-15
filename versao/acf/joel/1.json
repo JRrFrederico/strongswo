@@ -1,9 +1,12 @@
 {
     "livro": "Joel",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "A praga dos gafanhotos e a seca",
+        "13": "Convocação ao arrependimento"
+    },
     "versiculos": {
-        "1": "Palavra do Senhor, que foi dirigida a Joel, filho de Petuel.",
+        "1": "PALAVRA do Senhor, que foi dirigida a Joel, filho de Petuel.",
         "2": "Ouvi isto, vós anciãos, e escutai, todos os moradores da terra: Porventura isto aconteceu em vossos dias, ou nos dias de vossos pais?",
         "3": "Fazei sobre isto uma narração a vossos filhos, e vossos filhos a seus filhos, e os filhos destes à outra geração.",
         "4": "O que ficou da lagarta, o gafanhoto o comeu, e o que ficou do gafanhoto, a locusta o comeu, e o que ficou da locusta, o pulgão o comeu.",

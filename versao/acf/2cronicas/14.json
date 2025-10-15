@@ -1,9 +1,12 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "O governo de Asa, rei de Judá",
+        "9": "Asa vence Zerá, o etíope"
+    },
     "versiculos": {
-        "1": "E Abias dormiu com seus pais, e o sepultaram na cidade de Davi, e Asa, seu filho, reinou em seu lugar; nos seus dias esteve a terra em paz dez anos.",
+        "1": "E ABIAS dormiu com seus pais, e o sepultaram na cidade de Davi, e Asa, seu filho, reinou em seu lugar; nos seus dias esteve a terra em paz dez anos.",
         "2": "E Asa fez o que era bom e reto aos olhos do Senhor seu Deus.",
         "3": "Porque tirou os altares dos deuses estranhos, e os altos; e quebrou as imagens, e cortou os bosques.",
         "4": "E mandou a Judá que buscasse ao Senhor Deus de seus pais, e que observasse a lei e o mandamento.",

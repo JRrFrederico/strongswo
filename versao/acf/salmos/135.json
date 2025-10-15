@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 135,
-    "titulos": {},
+    "titulos": {
+        "1": "Cantai louvores ao Senhor"
+    },
     "versiculos": {
-        "1": "Louvai ao Senhor. Louvai o nome do Senhor; louvai-o, servos do Senhor.",
+        "1": "LOUVAI ao Senhor. Louvai o nome do Senhor; louvai-o, servos do Senhor.",
         "2": "Vós que assistis na casa do Senhor, nos átrios da casa do nosso Deus.",
         "3": "Louvai ao Senhor, porque o Senhor é bom; cantai louvores ao seu nome, porque é agradável.",
         "4": "Porque o Senhor escolheu para si a Jacó, e a Israel para seu próprio tesouro.",

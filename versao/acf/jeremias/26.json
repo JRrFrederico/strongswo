@@ -1,9 +1,13 @@
 {
     "livro": "Jeremias",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecia sobre a queda do Templo",
+        "7": "A revolta contra o profeta de Deus",
+        "16": "A conspiração fracassa"
+    },
     "versiculos": {
-        "1": "No princípio do reinado de Jeoiaquim, filho de Josias, rei de Judá, veio esta palavra do Senhor, dizendo:",
+        "1": "NO princípio do reinado de Jeoiaquim, filho de Josias, rei de Judá, veio esta palavra do Senhor, dizendo:",
         "2": "Assim diz o Senhor: Põe-te no átrio da casa do Senhor e dize a todas as cidades de Judá, que vêm adorar na casa do Senhor, todas as palavras que te mandei que lhes dissesses; não omitas nenhuma palavra.",
         "3": "Bem pode ser que ouçam, e se convertam cada um do seu mau caminho, e eu me arrependa do mal que intento fazer-lhes por causa da maldade das suas ações.",
         "4": "Dize-lhes pois: Assim diz o Senhor: Se não me derdes ouvidos para andardes na minha lei, que pus diante de vós,",

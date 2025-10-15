@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Advertências contra Israel",
+        "10": "A promessa do Emanuel"
+    },
     "versiculos": {
-        "1": "Sucedeu, pois, nos dias de Acaz, filho de Jotão, filho de Uzias, rei de Judá, que Rezim, rei da Síria, e Peca, filho de Remalias, rei de Israel, subiram a Jerusalém, para pelejarem contra ela, mas nada puderam contra ela.",
+        "1": "SUCEDEU, pois, nos dias de Acaz, filho de Jotão, filho de Uzias, rei de Judá, que Rezim, rei da Síria, e Peca, filho de Remalias, rei de Israel, subiram a Jerusalém, para pelejarem contra ela, mas nada puderam contra ela.",
         "2": "E deram aviso à casa de Davi, dizendo: A Síria fez aliança com Efraim. Então se moveu o seu coração, e o coração do seu povo, como se movem as árvores do bosque com o vento.",
         "3": "Então disse o Senhor a Isaías: Agora, tu e teu filho Sear-Jasube, saí ao encontro de Acaz, ao fim do canal do tanque superior, no caminho do campo do lavandeiro.",
         "4": "E dize-lhe: Acautela-te, e aquieta-te; não temas, nem se desanime o teu coração por causa destes dois pedaços de tições fumegantes; por causa do ardor da ira de Rezim, e da Síria, e do filho de Remalias.",

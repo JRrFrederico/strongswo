@@ -1,9 +1,12 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Os males e as injustiças da vida",
+        "13": "O poder é ilusório e fugaz"
+    },
     "versiculos": {
-        "1": "Depois voltei-me, e atentei para todas as opressões que se fazem debaixo do sol; e eis que vi as lágrimas dos que foram oprimidos e dos que não têm consolador, e a força estava do lado dos seus opressores; mas eles não tinham consolador.",
+        "1": "DEPOIS voltei-me, e atentei para todas as opressões que se fazem debaixo do sol; e eis que vi as lágrimas dos que foram oprimidos e dos que não têm consolador, e a força estava do lado dos seus opressores; mas eles não tinham consolador.",
         "2": "Por isso eu louvei os que já morreram, mais do que os que vivem ainda.",
         "3": "E melhor que uns e outros é aquele que ainda não é; que não viu as más obras que se fazem debaixo do sol.",
         "4": "Também vi eu que todo o trabalho, e toda a destreza em obras, traz ao homem a inveja do seu próximo. Também isto é vaidade e aflição de espírito.",

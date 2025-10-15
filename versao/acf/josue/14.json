@@ -1,9 +1,12 @@
 {
     "livro": "Josué",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "As terras das tribos a oeste do Jordão",
+        "6": "A parte entregue a Calebe: Hebrom"
+    },
     "versiculos": {
-        "1": "Isto, pois, é o que os filhos de Israel tiveram em herança, na terra de Canaã, o que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das tribos dos filhos de Israel lhes fizeram repartir,",
+        "1": "ISTO, pois, é o que os filhos de Israel tiveram em herança, na terra de Canaã, o que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das tribos dos filhos de Israel lhes fizeram repartir,",
         "2": "Por sorte da sua herança, como o Senhor ordenara, pelo ministério de Moisés, acerca das nove tribos e da meia tribo.",
         "3": "Porquanto às duas tribos e à meia tribo já dera Moisés herança além do Jordão; mas aos levitas não tinha dado herança entre eles.",
         "4": "Porque os filhos de José eram duas tribos, Manassés e Efraim, e aos levitas não se deu herança na terra, senão cidades em que habitassem, e os seus arrabaldes para seu gado e para seus bens.",

@@ -1,9 +1,13 @@
 {
     "livro": "João",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus cura um homem cego",
+        "13": "O homem curado é expulso",
+        "35": "Os cegos receberão a visão"
+    },
     "versiculos": {
-        "1": "E, passando Jesus, viu um homem cego de nascença.",
+        "1": "E, PASSANDO Jesus, viu um homem cego de nascença.",
         "2": "E os seus discípulos lhe perguntaram, dizendo: Rabi, quem pecou, este ou seus pais, para que nascesse cego?",
         "3": "Jesus respondeu: Nem ele pecou nem seus pais; mas foi assim para que se manifestem nele as obras de Deus.",
         "4": "Convém que eu faça as obras daquele que me enviou, enquanto é dia; a noite vem, quando ninguém pode trabalhar.",

@@ -1,9 +1,12 @@
 {
     "livro": "Mateus",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus envia seus apóstolos",
+        "27": "A entrega do temor a Deus"
+    },
     "versiculos": {
-        "1": "E, chamando os seus doze discípulos, deu-lhes poder sobre os espíritos imundos, para os expulsarem, e para curarem toda a enfermidade e todo o mal.",
+        "1": "E, CHAMANDO os seus doze discípulos, deu-lhes poder sobre os espíritos imundos, para os expulsarem, e para curarem toda a enfermidade e todo o mal.",
         "2": "Ora, os nomes dos doze apóstolos são estes: O primeiro, Simão, chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;",
         "3": "Filipe e Bartolomeu; Tomé e Mateus, o publicano; Tiago, filho de Alfeu, e Lebeu, apelidado Tadeu;",
         "4": "Simão, o Cananita, e Judas Iscariotes, aquele que o traiu.",

@@ -1,9 +1,12 @@
 {
     "livro": "Mateus",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus é tentado pelo Diabo",
+        "12": "Jesus inicia seu ministério"
+    },
     "versiculos": {
-        "1": "Então foi conduzido Jesus pelo Espírito ao deserto, para ser tentado pelo diabo.",
+        "1": "ENTÃO foi conduzido Jesus pelo Espírito ao deserto, para ser tentado pelo diabo.",
         "2": "E, tendo jejuado quarenta dias e quarenta noites, depois teve fome;",
         "3": "E, chegando-se a ele o tentador, disse: Se tu és o Filho de Deus, manda que estas pedras se tornem em pães.",
         "4": "Ele, porém, respondendo, disse: Está escrito: Nem só de pão viverá o homem, mas de toda a palavra que sai da boca de Deus.",

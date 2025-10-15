@@ -1,9 +1,14 @@
 {
     "livro": "Números",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Os clãs dos levitas",
+        "21": "Os gersonitas",
+        "29": "Os meraritas",
+        "34": "Recenseamento dos levitas"
+    },
     "versiculos": {
-        "1": "E falou o Senhor a Moisés e a Arão, dizendo:",
+        "1": "E FALOU o Senhor a Moisés e a Arão, dizendo:",
         "2": "Fazei a soma dos filhos de Coate, dentre os filhos de Levi, pelas suas famílias, segundo a casa de seus pais;",
         "3": "Da idade de trinta anos para cima até aos cinquenta anos, será todo aquele que entrar neste serviço, para fazer o trabalho na tenda da congregação.",
         "4": "Este será o ministério dos filhos de Coate na tenda da congregação, nas coisas santíssimas.",

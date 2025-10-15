@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 142,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração por libertação"
+    },
     "versiculos": {
-        "1": "Com a minha voz clamei ao Senhor; com a minha voz supliquei ao Senhor.",
+        "1": "COM a minha voz clamei ao Senhor; com a minha voz supliquei ao Senhor.",
         "2": "Derramei a minha queixa perante a sua face; expus-lhe a minha angústia.",
         "3": "Quando o meu espírito estava angustiado em mim, então conheceste a minha vereda. No caminho em que eu andava, esconderam-me um laço.",
         "4": "Olhei para a minha direita, e vi; mas não havia quem me conhecesse. Refúgio me faltou; ninguém cuidou da minha alma.",

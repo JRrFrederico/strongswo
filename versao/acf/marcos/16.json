@@ -1,9 +1,15 @@
 {
     "livro": "Marcos",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus é ressuscitado",
+        "9": "Jesus aparece primeiro a Madalena",
+        "12": "Jesus aparece a outros dois discípulos",
+        "14": "Jesus aparece e ordena aos discípulos",
+        "19": "Jesus sobe à direita do Pai"
+    },
     "versiculos": {
-        "1": "E, passado o sábado, Maria Madalena, e Maria, mãe de Tiago, e Salomé, compraram aromas para irem ungi-lo.",
+        "1": "E, PASSADO o sábado, Maria Madalena, e Maria, mãe de Tiago, e Salomé, compraram aromas para irem ungi-lo.",
         "2": "E, no primeiro dia da semana, foram ao sepulcro, de manhã bem cedo, ao nascer do sol.",
         "3": "E diziam umas às outras: Quem nos revolverá a pedra da porta do sepulcro?",
         "4": "E, olhando, viram que já a pedra estava revolvida; e era ela muito grande.",

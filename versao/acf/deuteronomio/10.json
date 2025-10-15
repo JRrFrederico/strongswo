@@ -1,9 +1,12 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus talha a Lei na rocha de novo",
+        "12": "A circuncisão espiritual do coração"
+    },
     "versiculos": {
-        "1": "Naquele mesmo tempo me disse o Senhor: Alisa duas tábuas de pedra, como as primeiras, e sobe a mim ao monte, e faze-te uma arca de madeira;",
+        "1": "NAQUELE mesmo tempo me disse o Senhor: Alisa duas tábuas de pedra, como as primeiras, e sobe a mim ao monte, e faze-te uma arca de madeira;",
         "2": "E naquelas tábuas escreverei as palavras que estavam nas primeiras tábuas, que quebraste, e as porás na arca.",
         "3": "Assim, fiz uma arca de madeira de acácia, e alisei duas tábuas de pedra, como as primeiras; e subi ao monte com as duas tábuas na minha mão.",
         "4": "Então escreveu nas tábuas, conforme à primeira escritura, os dez mandamentos, que o Senhor vos falara no dia da assembleia, no monte, do meio do fogo; e o Senhor mas deu a mim;",

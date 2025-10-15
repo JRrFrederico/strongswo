@@ -1,14 +1,16 @@
 {
     "livro": "Jeremias",
     "capitulo": 47,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecia acerca dos filisteus"
+    },
     "versiculos": {
-        "1": "A palavra do SENHOR que veio a Jeremias, o profeta, contra os filisteus, antes que Faraó afligisse Gaza.",
-        "2": "Assim diz o SENHOR: Eis que águas levantam-se do norte, e será uma inundação transbordante, e inundará a terra e tudo o que nela há, a cidade, e aqueles que nela habitam. Então os homens clamarão, e todos os habitantes da terra gemerão.",
-        "3": "Ao barulho estrepitoso dos cascos dos seus fortes cavalos, ao correr das suas carruagens, e ao estrondo de suas rodas, os pais não olharão para trás para suas crianças, pela fraqueza das mãos.",
-        "4": "Por causa do dia que vem para despojar todos os filisteus, e para cortar de Tiro e Sidom todo ajudador que restou, pois o SENHOR despojará os filisteus, o remanescente da região de Caftor.",
-        "5": "A calvície virá sobre Gaza; Asquelom será cortada com o remanescente do seu vale. Até quando cortarás a ti mesmo?",
-        "6": "Ó tu, espada do SENHOR, até quando não descansarás? Acomoda-te em tua bainha, descansa, e aquieta-te.",
-        "7": "Como pode estar quieta, visto que o SENHOR lhe deu uma ordem contra Asquelom, e contra a costa marítima? Lá ele o determinou."
+        "1": "Esta, pois é a mensagem de Yahweh que veio ao profeta Jeremias, acerca dos filisteus, antes que o Faraó investisse contra a cidade de Gaza:",
+        "2": "Assim diz o S ENHOR : “Eis que do Norte se elevam as águas, que se transformarão em torrente transbordante. Inundarão esta terra e tudo o que nela existe; as cidades e os seus habitantes. O povo clamará, gritarão todos os moradores desta terra,",
+        "3": "ao ouvirem o forte ruído dos cascos dos seus cavalos galopando, ao barulho das suas carruagens de guerra e ao estampido de suas rodas. Os pais não se voltarão para acudir os filhos, por causa da fraqueza das mãos.",
+        "4": "Porquanto chegou o dia de destruir todos os filisteus e de exterminar todos os sobreviventes que poderiam prestar alguma ajuda a Tiro e Sidom. Assim, Yahweh destruirá os filisteus, o remanescente da ilha de Caftor , Creta.",
+        "5": "Os moradores de Gaza raparam a cabeça; Ascalom está em silêncio mortal. Ó remanescente da planície, até quando retalharás o próprio corpo?",
+        "6": "‘Ah, espada de Yahweh , quando acalmarás? Quando repousarás? Retorna, pois, à tua bainha, descansa e aquieta-te!’",
+        "7": "Mas como poderá ela se tranquilizar quando o próprio Yahweh lhe deu ordens, quando determinou que ataque violentamente Ascalom e o litoral?”"
     }
 }

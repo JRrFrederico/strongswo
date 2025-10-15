@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus defende o justo"
+    },
     "versiculos": {
         "1": "Senhor meu Deus, em ti confio; salva-me de todos os que me perseguem, e livra-me;",
         "2": "Para que ele não arrebate a minha alma, como leão, despedaçando-a, sem que haja quem a livre.",

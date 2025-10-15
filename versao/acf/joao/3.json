@@ -1,9 +1,12 @@
 {
     "livro": "João",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "O novo nascimento",
+        "22": "João Batista exalta Jesus"
+    },
     "versiculos": {
-        "1": "E havia entre os fariseus um homem, chamado Nicodemos, príncipe dos judeus.",
+        "1": "E HAVIA entre os fariseus um homem, chamado Nicodemos, príncipe dos judeus.",
         "2": "Este foi ter de noite com Jesus, e disse-lhe: Rabi, bem sabemos que és Mestre, vindo de Deus; porque ninguém pode fazer estes sinais que tu fazes, se Deus não for com ele.",
         "3": "Jesus respondeu, e disse-lhe: Na verdade, na verdade te digo que aquele que não nascer de novo, não pode ver o reino de Deus.",
         "4": "Disse-lhe Nicodemos: Como pode um homem nascer, sendo velho? Pode, porventura, tornar a entrar no ventre de sua mãe, e nascer?",

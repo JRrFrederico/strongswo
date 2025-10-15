@@ -1,9 +1,13 @@
 {
     "livro": "2 Reis",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Elizeu faz flutuar um machado",
+        "8": "Eliseu cega os arameus",
+        "24": "O rei da Síria cerca Samaria"
+    },
     "versiculos": {
-        "1": "E disseram os filhos dos profetas a Eliseu: Eis que o lugar em que habitamos diante da tua face, nos é estreito.",
+        "1": "E DISSERAM os filhos dos profetas a Eliseu: Eis que o lugar em que habitamos diante da tua face, nos é estreito.",
         "2": "Vamos, pois, até ao Jordão e tomemos de lá, cada um de nós, uma viga, e façamo-nos ali um lugar para habitar. E disse ele: Ide.",
         "3": "E disse um: Serve-te de ires com os teus servos. E disse: Eu irei.",
         "4": "E foi com eles; e, chegando eles ao Jordão, cortaram madeira.",

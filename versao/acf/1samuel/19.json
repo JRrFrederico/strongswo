@@ -1,9 +1,12 @@
 {
     "livro": "1 Samuel",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "Saul tenta matar Davi",
+        "18": "Saul diante de Samuel e Davi"
+    },
     "versiculos": {
-        "1": "E falou Saul a Jônatas, seu filho, e a todos os seus servos, para que matassem a Davi. Porém Jônatas, filho de Saul, estava mui afeiçoado a Davi.",
+        "1": "E FALOU Saul a Jônatas, seu filho, e a todos os seus servos, para que matassem a Davi. Porém Jônatas, filho de Saul, estava mui afeiçoado a Davi.",
         "2": "E Jônatas o anunciou a Davi, dizendo: Meu pai, Saul, procura matar-te, pelo que agora guarda-te pela manhã, e fica-te em oculto, e esconde-te.",
         "3": "E sairei eu, e estarei à mão de meu pai no campo em que estiverdes, e eu falarei de ti a meu pai, e verei o que há, e to anunciarei.",
         "4": "Então Jônatas falou bem de Davi a Saul, seu pai, e disse-lhe: Não peque o rei contra seu servo Davi, porque ele não pecou contra ti, e porque os seus feitos te são muito bons.",

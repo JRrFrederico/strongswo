@@ -1,9 +1,12 @@
 {
     "livro": "Romanos",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Libertos do poder do pecado",
+        "15": "Súditos da Justiça pela Graça"
+    },
     "versiculos": {
-        "1": "Que diremos pois? Permaneceremos no pecado, para que a graça abunde?",
+        "1": "QUE diremos pois? Permaneceremos no pecado, para que a graça abunde?",
         "2": "De modo nenhum. Nós, que estamos mortos para o pecado, como viveremos ainda nele?",
         "3": "Ou não sabeis que todos quantos fomos batizados em Jesus Cristo fomos batizados na sua morte?",
         "4": "De sorte que fomos sepultados com ele pelo batismo na morte; para que, como Cristo foi ressuscitado dentre os mortos, pela glória do Pai, assim andemos nós também em novidade de vida.",

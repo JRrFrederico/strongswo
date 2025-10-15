@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "O socorro vem do Senhor"
+    },
     "versiculos": {
         "1": "Senhor, como se têm multiplicado os meus adversários! São muitos os que se levantam contra mim.",
         "2": "Muitos dizem da minha alma: Não há salvação para ele em Deus. (Selá.)",

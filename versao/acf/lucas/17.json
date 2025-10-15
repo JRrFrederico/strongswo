@@ -1,9 +1,14 @@
 {
     "livro": "Lucas",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "Aviso quanto aos escândalos",
+        "3": "Repreender e perdoar os irmãos",
+        "11": "Jesus cura dez leprosos",
+        "20": "A chegada do Reino de Deus"
+    },
     "versiculos": {
-        "1": "E disse aos discípulos: É impossível que não venham escândalos, mas ai daquele por quem vierem!",
+        "1": "E DISSE aos discípulos: É impossível que não venham escândalos, mas ai daquele por quem vierem!",
         "2": "Melhor lhe fora que lhe pusessem ao pescoço uma mó de atafona, e fosse lançado ao mar, do que fazer tropeçar um destes pequenos.",
         "3": "Olhai por vós mesmos. E, se teu irmão pecar contra ti, repreende-o e, se ele se arrepender, perdoa-lhe.",
         "4": "E, se pecar contra ti sete vezes no dia, e sete vezes no dia vier ter contigo, dizendo: Arrependo-me; perdoa-lhe.",

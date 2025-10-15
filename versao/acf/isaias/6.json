@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "A visão e o chamado de Isaías"
+    },
     "versiculos": {
-        "1": "No ano em que morreu o rei Uzias, eu vi também ao Senhor assentado sobre um alto e sublime trono; e a cauda do seu manto enchia o templo.",
+        "1": "NO ano em que morreu o rei Uzias, eu vi também ao Senhor assentado sobre um alto e sublime trono; e a cauda do seu manto enchia o templo.",
         "2": "Serafins estavam por cima dele; cada um tinha seis asas; com duas cobriam os seus rostos, e com duas cobriam os seus pés, e com duas voavam.",
         "3": "E clamavam uns aos outros, dizendo: Santo, Santo, Santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória.",
         "4": "E os umbrais das portas se moveram à voz do que clamava, e a casa se encheu de fumaça.",

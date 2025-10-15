@@ -1,9 +1,11 @@
 {
     "livro": "Jeremias",
     "capitulo": 30,
-    "titulos": {},
+    "titulos": {
+        "1": "Promessa de restauração de Israel"
+    },
     "versiculos": {
-        "1": "A palavra que do Senhor veio a Jeremias, dizendo:",
+        "1": "A PALAVRA que do Senhor veio a Jeremias, dizendo:",
         "2": "Assim falou o Senhor Deus de Israel, dizendo: Escreve num livro todas as palavras que te tenho falado.",
         "3": "Porque eis que vêm dias, diz o Senhor, em que farei voltar do cativeiro o meu povo Israel, e de Judá, diz o Senhor; e tornarei a trazê-los à terra que dei a seus pais, e a possuirão.",
         "4": "E estas são as palavras que disse o Senhor, acerca de Israel e de Judá.",

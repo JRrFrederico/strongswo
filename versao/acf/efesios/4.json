@@ -1,9 +1,12 @@
 {
     "livro": "Efésios",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "A unidade da Igreja",
+        "17": "Como devem agir os crentes"
+    },
     "versiculos": {
-        "1": "Rogo-vos, pois, eu, o preso do Senhor, que andeis como é digno da vocação com que fostes chamados,",
+        "1": "ROGO-VOS, pois, eu, o preso do Senhor, que andeis como é digno da vocação com que fostes chamados,",
         "2": "Com toda a humildade e mansidão, com longanimidade, suportando-vos uns aos outros em amor,",
         "3": "Procurando guardar a unidade do Espírito pelo vínculo da paz.",
         "4": "Há um só corpo e um só Espírito, como também fostes chamados em uma só esperança da vossa vocação;",
@@ -11,7 +14,7 @@
         "6": "Um só Deus e Pai de todos, o qual é sobre todos, e por todos e em todos vós.",
         "7": "Mas a graça foi dada a cada um de nós segundo a medida do dom de Cristo.",
         "8": "Por isso diz: Subindo ao alto, levou cativo o cativeiro, e deu dons aos homens.",
-        "9": "Ora, isto ele subiu que é, senão que também antes tinha descido às partes mais baixas da terra?",
+        "9": "Ora, isto—ele subiu—que é, senão que também antes tinha descido às partes mais baixas da terra?",
         "10": "Aquele que desceu é também o mesmo que subiu acima de todos os céus, para cumprir todas as coisas.",
         "11": "E ele mesmo deu uns para apóstolos, e outros para profetas, e outros para evangelistas, e outros para pastores e doutores,",
         "12": "Querendo o aperfeiçoamento dos santos, para a obra do ministério, para edificação do corpo de Cristo;",

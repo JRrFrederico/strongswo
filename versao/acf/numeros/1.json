@@ -1,9 +1,13 @@
 {
     "livro": "Números",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "No deserto Deus ordenou o censo",
+        "20": "Os primeiros resultados do censo",
+        "47": "O ministério especial dos levitas"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés no deserto de Sinai, na tenda da congregação, no primeiro dia do segundo mês, no segundo ano da sua saída da terra do Egito, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés no deserto de Sinai, na tenda da congregação, no primeiro dia do segundo mês, no segundo ano da sua saída da terra do Egito, dizendo:",
         "2": "Tomai a soma de toda a congregação dos filhos de Israel, segundo as suas famílias, segundo a casa de seus pais, conforme o número dos nomes de todo o homem, cabeça por cabeça;",
         "3": "Da idade de vinte anos para cima, todos os que em Israel podem sair à guerra, a estes contareis segundo os seus exércitos, tu e Arão.",
         "4": "Estará convosco, de cada tribo, um homem que seja cabeça da casa de seus pais.",

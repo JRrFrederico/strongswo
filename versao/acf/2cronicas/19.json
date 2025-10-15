@@ -1,9 +1,12 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "O profeta Jeú repreende Josafá",
+        "4": "O rei lidera a obra reformadora"
+    },
     "versiculos": {
-        "1": "E Jeosafá, rei de Judá, voltou em paz à sua casa em Jerusalém.",
+        "1": "E JEOSAFÁ, rei de Judá, voltou em paz à sua casa em Jerusalém.",
         "2": "E Jeú, filho de Hanani, o vidente, saiu ao encontro do rei Jeosafá e lhe disse: Devias tu ajudar ao ímpio, e amar aqueles que odeiam ao Senhor? Por isso virá sobre ti grande ira da parte do Senhor.",
         "3": "Boas coisas contudo se acharam em ti; porque tiraste os bosques da terra, e preparaste o teu coração para buscar a Deus.",
         "4": "Habitou, pois, Jeosafá em Jerusalém; e tornou a passar pelo povo desde Berseba até as montanhas de Efraim, e fez com que tornassem ao Senhor Deus de seus pais.",

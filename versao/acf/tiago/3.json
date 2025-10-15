@@ -1,9 +1,12 @@
 {
     "livro": "Tiago",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Sábio é quem domina o seu falar",
+        "13": "Cultivemos a sabedoria dos céus"
+    },
     "versiculos": {
-        "1": "Meus irmãos, muitos de vós não sejam mestres, sabendo que receberemos mais duro juízo.",
+        "1": "MEUS irmãos, muitos de vós não sejam mestres, sabendo que receberemos mais duro juízo.",
         "2": "Porque todos tropeçamos em muitas coisas. Se alguém não tropeça em palavra, o tal é perfeito, e poderoso para também refrear todo o corpo.",
         "3": "Ora, nós pomos freio nas bocas dos cavalos, para que nos obedeçam; e conseguimos dirigir todo o seu corpo.",
         "4": "Vede também as naus que, sendo tão grandes, e levadas de impetuosos ventos, se viram com um bem pequeno leme para onde quer a vontade daquele que as governa.",

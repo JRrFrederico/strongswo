@@ -1,9 +1,13 @@
 {
     "livro": "Levítico",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "O candelabro e os santos pães",
+        "5": "Os pães sobre a mesa de ouro",
+        "10": "Blasfêmia e lei de talião"
+    },
     "versiculos": {
-        "1": "E falou o Senhor a Moisés, dizendo:",
+        "1": "E FALOU o Senhor a Moisés, dizendo:",
         "2": "Ordena aos filhos de Israel que te tragam azeite de oliveira, puro, batido, para a luminária, para manter as lâmpadas acesas continuamente.",
         "3": "Arão as porá em ordem perante o Senhor continuamente, desde a tarde até à manhã, fora do véu do testemunho, na tenda da congregação; estatuto perpétuo é pelas vossas gerações.",
         "4": "Sobre o candelabro de ouro puro porá em ordem as lâmpadas perante o Senhor continuamente.",

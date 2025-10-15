@@ -1,9 +1,14 @@
 {
     "livro": "2 Reis",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Reinado de Acaz em Judá",
+        "5": "Acaz pede ajuda aos assírios",
+        "10": "A idolatria de Acaz",
+        "19": "A morte de Acaz"
+    },
     "versiculos": {
-        "1": "No ano dezessete de Peca, filho de Remalias, começou a reinar Acaz, filho de Jotão, rei de Judá.",
+        "1": "NO ano dezessete de Peca, filho de Remalias, começou a reinar Acaz, filho de Jotão, rei de Judá.",
         "2": "Tinha Acaz vinte anos de idade quando começou a reinar, e reinou dezesseis anos em Jerusalém, e não fez o que era reto aos olhos do Senhor seu Deus, como Davi, seu pai.",
         "3": "Porque andou no caminho dos reis de Israel, e até a seu filho fez passar pelo fogo, segundo as abominações dos gentios que o Senhor lançara fora de diante dos filhos de Israel.",
         "4": "Também sacrificou, e queimou incenso nos altos e nos outeiros, como também debaixo de todo o arvoredo.",

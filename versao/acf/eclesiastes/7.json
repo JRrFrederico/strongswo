@@ -1,9 +1,11 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "A felicidade habita na sabedoria"
+    },
     "versiculos": {
-        "1": "Melhor é a boa fama do que o melhor unguento, e o dia da morte do que o dia do nascimento de alguém.",
+        "1": "MELHOR é a boa fama do que o melhor unguento, e o dia da morte do que o dia do nascimento de alguém.",
         "2": "Melhor é ir à casa onde há luto do que ir à casa onde há banquete, porque naquela está o fim de todos os homens, e os vivos o aplicam ao seu coração.",
         "3": "Melhor é a mágoa do que o riso, porque com a tristeza do rosto se faz melhor o coração.",
         "4": "O coração dos sábios está na casa do luto, mas o coração dos tolos na casa da alegria.",

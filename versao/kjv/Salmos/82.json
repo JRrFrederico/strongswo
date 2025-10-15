@@ -1,15 +1,17 @@
 {
     "livro": "Salmos",
     "capitulo": 82,
-    "titulos": {},
+    "titulos": {
+        "1": "Os juízes devem agir com justiça"
+    },
     "versiculos": {
-        "1": "Salmo de Asafe. Deus se encontra na congregação dos poderosos; ele julga entre os deuses.",
-        "2": "Por quanto tempo julgareis injustamente, e aceitareis as pessoas dos perversos? Selá.",
-        "3": "Defendei os pobres e os órfãos; fazei justiça ao aflito e ao necessitado.",
-        "4": "Livrai o pobre e o necessitado; liberte-os da mão dos perversos.",
-        "5": "Eles não conhecem, nem entendem; eles caminham na escuridão; todos os fundamentos da terra estão fora de curso.",
-        "6": "Eu disse: Vós sois deuses, e todos vós sois filhos do Altíssimo.",
-        "7": "Todavia morrereis como homens, e caireis como um dos príncipes.",
-        "8": "Levanta-te, ó Deus, julga a terra. Pois tu herdarás todas as nações."
+        "1": "Deus, o supremo Juiz, levantou-se na assembleia divina, no meio dos poderosos abre o julgamento:",
+        "2": "“Até quando dareis sentenças injustas, favorecendo os ímpios?",
+        "3": "Sede juízes para o desvalido e órfão, fazei justiça ao mísero e ao indigente;",
+        "4": "libertai o fraco e o pobre, livrai-os das garras dos ímpios!",
+        "5": "Eles nada compreendem, nem percebem que vagueiam pelas trevas da ignorância e da insensibilidade; abalam assim as bases que sustentam a própria terra.",
+        "6": "Eu declarei: vós, ó juízes, sois como os deuses; todos vós sois filhos do Altíssimo!",
+        "7": "No entanto, como seres humanos, morrereis e, como qualquer outro governante, caireis”.",
+        "8": "Levanta-te, ó Eterno, e julga tua terra, porquanto a ti pertencem todas as nações!"
     }
 }

@@ -1,12 +1,14 @@
 {
     "livro": "Salmos",
     "capitulo": 93,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvor à majestade do Senhor"
+    },
     "versiculos": {
-        "1": "O ­SENHOR reina, ele está vestido de majestade; o ­SENHOR é vestido de força, com a qual ele se cingiu; o mundo também está estabelecido, de modo que não pode ser movido.",
-        "2": "Teu trono está estabelecido desde a antiguidade; tu és desde a eternidade.",
-        "3": "As enchentes te elevaram, ó ­SENHOR, as enchentes levantaram a sua voz; as enchentes levantaram as suas ondas.",
-        "4": "O ­SENHOR no alto é mais poderoso do que o barulho de muitas águas; sim, do que as poderosas ondas do mar.",
-        "5": "Teus testemunhos são mui certos; a santidade é própria de tua casa, ó ­SENHOR, para sempre."
+        "1": "Reina o Eterno, vestido de soberana majestade; sim, toda a força e poder o revestem! O Universo está seguro e não se abalará.",
+        "2": "Desde a antigüidade, o teu trono está firme: tu existes desde a eternidade!",
+        "3": "Levantam os rios, ó S ENHOR , levantam a voz de suas águas fragorosas; levantam os rios o seu bramido.",
+        "4": "Entretanto, o S ENHOR nas alturas é mais poderoso do que a força das grandes águas, do que os poderosos vagalhões do mar.",
+        "5": "Os teus mandamentos permanecem inalterados, e a tua fidelidade dura para sempre; a santidade é o ornamento eterno da tua Casa."
     }
 }

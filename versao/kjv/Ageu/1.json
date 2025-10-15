@@ -1,22 +1,24 @@
 {
     "livro": "Ageu",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus manda reedificar o Templo"
+    },
     "versiculos": {
-        "1": "No segundo ano do rei Dario, no sexto mês, no primeiro dia do mês, veio a palavra do ­SENHOR por meio do profeta Ageu, a Zorobabel, filho de Sealtiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, dizendo:",
-        "2": "Assim fala o ­SENHOR dos Exércitos, dizendo: Este povo diz: O tempo ainda não é chegado, o tempo em que a casa do ­SENHOR deve ser edificada.",
-        "3": "Então veio a palavra do ­SENHOR por meio do profeta Ageu, dizendo:",
-        "4": "Acaso é tempo para vós habitardes nas vossas casas forradas, e esta casa fica deserta?",
-        "5": "Agora portanto, assim diz o ­SENHOR dos Exércitos: Considerai os vossos ­caminhos.",
-        "6": "Tendes semeado muito, e recolhido pouco; vós comeis, mas não tens o suficiente; bebeis, mas não estais cheios de bebidas; vestis-vos, mas ninguém se aquece; e o que recebe salário, recebe-o para colocá-lo em um saco furado.",
-        "7": "Assim diz o Senhor dos Exércitos: Considerai os vossos caminhos.",
-        "8": "Subi ao monte, e trazei madeira, e edificai a casa; e me agradarei nisso, e serei glorificado, diz o ­SENHOR.",
-        "9": "Vós esperastes o muito, e eis que veio a ser pouco; e quando o trouxestes para casa, eu dissipei com um sopro. Por quê? Disse o ­SENHOR dos Exércitos. Por causa da minha casa, que está deserta, e cada homem corre à sua própria casa.",
-        "10": "Portanto o céu sobre vós retém o orvalho, e a terra detém os seus frutos.",
-        "11": "E chamei uma seca sobre a terra, e sobre as montanhas, e sobre o trigo, e sobre o vinho novo, e sobre o azeite, e sobre o que a terra produz; e sobre os homens, sobre o gado, e sobre todo o trabalho das mãos.",
-        "12": "Então Zorobabel, filho de Sealtiel, e Josué, filho de Jozadaque, sumo sacerdote, e todo o restante do povo obedeceram à voz do ­SENHOR seu Deus, e às palavras do profeta Ageu, assim como o ­SENHOR seu Deus o enviara; e o povo temeu diante do ­SENHOR.",
-        "13": "Então falou Ageu, o mensageiro do ­SENHOR, a mensagem do ­SENHOR ao povo, dizendo: Eu sou convosco, diz o ­SENHOR.",
-        "14": "E o ­SENHOR suscitou o espírito de Zorobabel, filho de Sealtiel, governador de Judá, e o espírito de Josué, filho de Jozadaque, sumo sacerdote, e o espírito de todo o restante do povo, e eles vieram, e fizeram a obra na casa do ­SENHOR dos Exércitos, seu Deus,",
-        "15": "No vigésimo quarto dia do sexto mês, no segundo ano do rei Dario."
+        "1": "No primeiro dia do sexto mês do segundo ano do reinado de Dario, eis que a Palavra de Yahweh foi anunciada por intermédio do profeta Hägai , Ageu, Festivo, ao governador de Judá, Zeruba vel ben Shealtiel , Zorobabel filho de Sealtiel, e ao Grande sacerdote Josué, filho de Jeozadaque, nos seguintes termos:",
+        "2": "“Assim diz Yahweh , o S ENHOR dos Exércitos: Este povo murmura: ‘Não chegou ainda o momento certo, o tempo para se reconstruir a Casa de Yahweh !’”",
+        "3": "Por este motivo a Palavra do S ENHOR foi uma vez mais comunicada por meio do seu profeta Ageu, dizendo:",
+        "4": "“Porventura é tempo de habitardes em casas com luxuoso acabamento, enquanto a minha Casa continua em ruínas?”",
+        "5": "Assim ordena Yahweh Tsâbâ’ , o S ENHOR dos Exércitos: “Considerai, pois, o vosso passado!",
+        "6": "Semeastes muito, mas colhestes pouco! Comeis, mas não vos satisfazeis; bebeis, mas não conseguis matar a sede; vesti-vos, mas ninguém se sente aquecido e confortável; e o que recebe salário, recebe-o para depositá-lo numa bolsa furada!”",
+        "7": "Assim, pois, declara o Eterno dos Exércitos: “Considerai o vosso passado; refleti sobre o que tens feito!",
+        "8": "Portanto, subi sem demora o monte, trazei boa madeira e edificai o Bayith , a Casa, para que Eu me alegre dela e nela seja glorificado!” Exorta Yahweh .",
+        "9": "“De fato, esperastes muito, mas veio pouco; e esse pouco, quando o levastes para casa, Eu ainda o dissipei com um só sopro. E agi deste modo por que motivo?” Questiona o S ENHOR dos Exércitos. “Ora, porque deixastes a minha Casa sob escombros, ao passo que cada um de vós só dá atenção à sua própria casa e bens!",
+        "10": "Por esta razão, por causa de vós mesmos, o céu reteve o orvalho e cessou de dar o seu fruto costumeiro.",
+        "11": "Nos campos e nos montes provoquei uma seca que afetou sobremaneira o trigo, o vinho, o azeite e tudo mais que a terra produz, e também todas as pessoas e os rebanhos. O trabalho das vossas mãos foi prejudicado!”",
+        "12": "Então Zorobabel, filho de Sealtiel, e o sumo sacerdote Josué, filho de Jeozadaque, com todo o restante do povo, decidiram obedecer à voz de Yahweh seu Elohim , Deus, e atender às palavras do profeta Ageu, a quem o Eterno seu Deus havia mandado. E todo o povo temeu grandemente o S ENHOR .",
+        "13": "Em seguida, Ageu, o mensageiro de Deus, transmitiu esta Palavra do S ENHOR para o povo: “Eis que Eu estou convosco!” Assegura Yahweh .",
+        "14": "Sendo assim, o S ENHOR proporcionou forte ânimo ao governador de Judá, Zorobabel, filho de Sealtiel, e ao sumo sacerdote Josué, filho de Jeozadaque, e a todo o restante do povo; eles foram cheios de disposição e começaram a trabalhar na reconstrução da Casa de Yahweh dos Exércitos, seu Elohim , Deus.",
+        "15": "E isto ocorreu no vigésimo quarto dia do sexto mês do segundo ano do reinado de Dario."
     }
 }

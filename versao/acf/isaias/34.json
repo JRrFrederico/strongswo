@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 34,
-    "titulos": {},
+    "titulos": {
+        "1": "Início dos últimos juízos de Deus"
+    },
     "versiculos": {
-        "1": "Chegai-vos, nações, para ouvir, e vós povos, escutai; ouça a terra, e a sua plenitude, o mundo, e tudo quanto produz.",
+        "1": "CHEGAI-VOS, nações, para ouvir, e vós povos, escutai; ouça a terra, e a sua plenitude, o mundo, e tudo quanto produz.",
         "2": "Porque a indignação do Senhor está sobre todas as nações, e o seu furor sobre todo o exército delas; ele as destruiu totalmente, entregou-as à matança.",
         "3": "E os seus mortos serão arremessados e dos seus cadáveres subirá o seu mau cheiro; e os montes se derreterão com o seu sangue.",
         "4": "E todo o exército dos céus se dissolverá, e os céus se enrolarão como um livro; e todo o seu exército cairá, como cai a folha da vide e como cai o figo da figueira.",

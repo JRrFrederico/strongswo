@@ -1,9 +1,12 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "O retorno para Jerusalém pós-exílio",
+        "35": "A genealogia do rei Saul"
+    },
     "versiculos": {
-        "1": "E todo o Israel foi contado por genealogias, que estão escritas no livro dos reis de Israel; e os de Judá foram transportados a Babilônia, por causa da sua transgressão.",
+        "1": "E TODO o Israel foi contado por genealogias, que estão escritas no livro dos reis de Israel; e os de Judá foram transportados a Babilônia, por causa da sua transgressão.",
         "2": "E os primeiros habitantes, que moravam na sua possessão e nas suas cidades, foram os israelitas, os sacerdotes, os levitas, e os netineus.",
         "3": "Porém alguns dos filhos de Judá, e dos filhos de Benjamim, e dos filhos de Efraim e Manassés, habitaram em Jerusalém:",
         "4": "Utai, filho de Amiúde, filho de Onri, filho de Inri, filho de Bani, dos filhos de Perez, filho de Judá;",

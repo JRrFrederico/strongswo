@@ -1,25 +1,27 @@
 {
     "livro": "Gênesis",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "A peregrinação de Abraão e Sara"
+    },
     "versiculos": {
-        "1": "E Abraão viajou dali para a terra do sul, e habitou entre Cades e Sur, e peregrinou em Gerar.",
-        "2": "E Abraão disse de Sara, sua esposa: Ela é minha irmã. E Abimeleque, rei de Gerar, enviou e tomou Sara.",
-        "3": "Mas Deus veio a Abimeleque em um sonho à noite, e lhe disse: Eis que és nada mais que um homem morto, pela mulher que tomaste, pois ela é a mulher de um homem.",
-        "4": "Mas Abimeleque não havia se aproximado dela. E ele disse: Senhor, tu matarás também uma nação justa?",
-        "5": "Não me disse ele: Ela é minha irmã? E ela também disse: Ele é meu irmão. Na integridade de meu coração e na inocência das minhas mãos eu fiz isso.",
-        "6": "E Deus lhe disse em um sonho: Sim, eu sei que o fizeste na integridade de teu coração; pois também eu te impedi de pecar contra mim; por isso não te permiti tocá-la.",
-        "7": "Agora, portanto, restitui ao homem sua mulher, pois ele é um profeta, e ele orará por ti, e tu viverás; e se tu não a restituíres, sabe que certamente morrerás, tu e todos os que são teus.",
-        "8": "Por isso, Abimeleque levantou-se cedo de manhã, e chamou todos os seus servos, e contou todas estas coisas em seus ouvidos. E os homens temeram muito.",
-        "9": "Então Abimeleque chamou Abraão, e lhe disse: O que nos fizeste? E em que eu te ofendi, para que trouxesses sobre mim e sobre meu reino um grande pecado? Tu fizeste-me coisas que não deviam ser feitas.",
-        "10": "E Abimeleque disse a Abraão: O que tu viste para fazeres tal coisa?",
-        "11": "E Abraão disse: Porque pensei: Certamente o temor de Deus não está neste lugar, e eles me matarão por causa de minha mulher.",
-        "12": "E, na verdade, ela é minha irmã; ela é a filha de meu pai, mas não a filha de minha mãe; e ela se tornou minha mulher.",
-        "13": "E aconteceu que, quando Deus me fez peregrinar desde a casa de meu pai, eu disse a ela: Esta é a bondade que tu me mostrarás: em todo lugar aonde chegarmos, dirás de mim: Ele é meu irmão.",
-        "14": "E Abimeleque tomou ovelhas, e bois, e servos, e servas, e os deu a Abraão, e lhe restituiu Sara, sua esposa.",
-        "15": "E Abimeleque disse: Eis que a minha terra está diante de ti; habita onde te agradar.",
-        "16": "E a Sara ele disse: Eis que eu dei a teu irmão mil peças de prata. Servirão de honra para ti, para todos os que estão contigo e com todos os outros; assim ela foi repreendida.",
-        "17": "Então Abraão orou a Deus; e Deus curou Abimeleque, e sua esposa, e suas servas; e elas geraram filhos.",
-        "18": "Porque o SENHOR havia fechado totalmente os úteros da casa de Abimeleque por causa de Sara, esposa de Abraão."
+        "1": "Abraão partiu dali para a região do Neguebe e foi viver entre Cades e Sur. Depois habitou mais algum tempo em Gerar.",
+        "2": "Ele dizia a todos que Sara, sua esposa, era sua irmã. Então Abimeleque, rei de Gerar, mandou buscar Sara e tomou-a como sua mulher.",
+        "3": "Certa noite, Deus veio a Abimeleque e lhe comunicou: “Vais morrer por causa da mulher que tomaste, porquanto ela é uma mulher casada!”",
+        "4": "Abimeleque que ainda não havia tocado em Sara, defendeu-se: “Mas Senhor, vais matar alguém inocente?",
+        "5": "Acaso não foi Abraão que me alegou: ‘Ela é minha irmã!’ e não foi ela pessoalmente quem confirmou ‘ele é meu irmão’? Ora, foi com boa consciência e mãos limpas que fiz isso!”",
+        "6": "Então Deus lhe esclareceu: “Bem sei que fizeste isso de coração puro, e fui Eu quem te impediu de pecar contra mim, não permitindo que a tocasses.",
+        "7": "Agora, pois, devolve a mulher desse homem: ele é profeta e intercederá por ti, para que vivas. Mas se não a devolveres, sabe que certamente morrerás, com todos os teus!”",
+        "8": "Abimeleque levantou-se bem cedo e chamou todos os seus servos. Contou-lhes tudo o que havia acontecido e seus homens tiveram grande temor.",
+        "9": "Em seguida, Abimeleque convocou Abraão e lhe indagou: “Que nos fizeste? Que ofensa cometi contra ti para que atraias tão grande culpa sobre minha pessoa e sobre meu reino? Tu me fizeste como não se deve fazer!”",
+        "10": "E Abimeleque disse mais a Abraão: “Quem te aconselhou a agir dessa maneira?”",
+        "11": "Abraão replicou: “Eu disse para comigo: Certamente, não haverá nenhum temor de Deus neste lugar, e me matarão por causa de minha mulher.",
+        "12": "Além disso, ela é realmente minha irmã, filha de meu pai, mas não filha de minha mãe; e tornou-se minha mulher.",
+        "13": "Então quando Deus me fez andar errante longe de minha família, eu roguei a ela: Eis o favor que me farás: em todo lugar em que estivermos, dirás, a meu respeito, que sou teu irmão”.",
+        "14": "Abimeleque tomou ovelhas e bois, servos e servas e os deu a Abraão, e devolveu-lhe a mulher Sara.",
+        "15": "E acrescentou Abimeleque: “Eis que a minha terra está aberta diante de ti. Estabelece-te onde bem desejares!”",
+        "16": "A Sara, ele presenteou: “Estou entregando a teu irmão mil peças de prata com o propósito de reparar a ofensa que lhe causei diante de todos os seus; desse modo, todos saberão que tu és inocente!”",
+        "17": "Então, em seguida Abraão orou a Deus, e Deus curou Abimeleque, sua mulher e suas servas, a fim de que pudessem novamente ter filhos.",
+        "18": "Pois o S ENHOR havia tornado estéreis o ventre de todas as mulheres na casa de Abimeleque, por causa de Sara, a esposa de Abraão."
     }
 }

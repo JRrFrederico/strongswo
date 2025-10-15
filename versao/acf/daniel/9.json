@@ -1,9 +1,12 @@
 {
     "livro": "Daniel",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Daniel intercede por seu povo",
+        "20": "A profecia das setenta semanas"
+    },
     "versiculos": {
-        "1": "No ano primeiro de Dario, filho de Assuero, da linhagem dos medos, o qual foi constituído rei sobre o reino dos caldeus,",
+        "1": "NO ano primeiro de Dario, filho de Assuero, da linhagem dos medos, o qual foi constituído rei sobre o reino dos caldeus,",
         "2": "No primeiro ano do seu reinado, eu, Daniel, entendi pelos livros que o número dos anos, de que falara o Senhor ao profeta Jeremias, em que haviam de cumprir-se as desolações de Jerusalém, era de setenta anos.",
         "3": "E eu dirigi o meu rosto ao Senhor Deus, para o buscar com oração e súplicas, com jejum, e saco e cinza.",
         "4": "E orei ao Senhor meu Deus, e confessei, e disse: Ah! Senhor! Deus grande e tremendo, que guardas a aliança e a misericórdia para com os que te amam e guardam os teus mandamentos;",

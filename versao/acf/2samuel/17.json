@@ -1,9 +1,13 @@
 {
     "livro": "2 Samuel",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "Husai e a orientação de Aitofel",
+        "17": "Davi atravessa o Jordão",
+        "24": "Absalão também cruza o Jordão"
+    },
     "versiculos": {
-        "1": "Disse mais Aitofel a Absalão: Deixa-me escolher doze mil homens, e me levantarei, e perseguirei a Davi esta noite.",
+        "1": "DISSE mais Aitofel a Absalão: Deixa-me escolher doze mil homens, e me levantarei, e perseguirei a Davi esta noite.",
         "2": "E irei sobre ele, pois está cansado e frouxo de mãos; e o espantarei, e fugirá todo o povo que está com ele; e então ferirei somente o rei.",
         "3": "E farei tornar a ti todo o povo; pois o homem a quem tu buscas é como se tornassem todos; assim todo o povo estará em paz.",
         "4": "E esta palavra pareceu boa aos olhos de Absalão, e aos olhos de todos os anciãos de Israel.",

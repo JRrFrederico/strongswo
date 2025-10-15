@@ -1,18 +1,20 @@
 {
     "livro": "1 Samuel",
     "capitulo": 29,
-    "titulos": {},
+    "titulos": {
+        "1": "Áquis dispensa Davi da luta"
+    },
     "versiculos": {
-        "1": "Ora, os filisteus reuniram todos os seus exércitos em Afeque; e os israelitas acamparam junto a uma fonte que está em Jezreel.",
-        "2": "E os senhores dos filisteus passaram adiante por centenas e por milhares; mas Davi e os seus homens passaram adiante na retaguarda, com Aquis.",
-        "3": "Então disseram os príncipes dos filisteus: O que fazem estes hebreus aqui? E Aquis disse aos príncipes dos filisteus: Não é este Davi, o servo de Saul, rei de Israel, o qual tem estado comigo nestes dias, ou nestes anos, e nele não achei falha desde que veio até mim até este dia?",
-        "4": "E os príncipes dos filisteus ficaram nervosos com ele; e os príncipes dos filisteus lhe disseram: Faz retornar este sujeito para que ele possa ir novamente ao seu lugar o qual tu lhe indicaste, e que ele não desça conosco à batalha, para que, na batalha, não seja ele um adversário para nós; pois por meio de que ele se reconciliaria com o seu senhor? Não seria com as cabeças destes homens?",
-        "5": "Não é este Davi, de quem cantavam uns aos outros, com danças, dizendo:",
-        "6": "Então, Aquis chamou Davi, e lhe disse: Certamente, como vive o SENHOR, tu tens sido reto, e a tua saída e a tua entrada, comigo, no exército é boa na minha visão; pois não encontrei mal em ti desde o dia da vinda até mim até este dia; todavia os senhores não te favorecem.",
-        "7": "Pelo que, agora, retorna, e vai em paz, para que tu não desagrades os senhores dos filisteus.",
-        "8": "E Davi disse a Aquis: Mas, o que tenho feito? E o que encontraste tu no teu servo desde que tenho estado contigo até este dia, que me impeça de ir lutar contra os inimigos do rei, meu senhor?",
-        "9": "E Aquis respondeu e disse a Davi: Eu sei que tu és bom na minha visão, como um anjo de Deus; não obstante, os príncipes dos filisteus disseram: Ele não subirá conosco para a batalha.",
-        "10": "Pelo que, agora, levanta-te cedo pela manhã com os servos do teu mestre que contigo vieram; e, tão logo estejas de pé pela manhã, e tenhas luz, parte.",
-        "11": "Assim, Davi e os seus homens se levantaram cedo e partiram pela manhã, para retornar à terra dos filisteus. E os filisteus subiram a Jezreel."
+        "1": "Os filisteus concentraram todas as suas tropas em Afeque, e Israel acampou junto à fonte que existe em Jezreel.",
+        "2": "Enquanto os governantes filisteus avançavam com seus grupos de cem e de mil, Davi e sua milícia marchavam na retaguarda com Áquis.",
+        "3": "Então os comandantes dos filisteus questionaram: “Que estão fazendo aqui estes hebreus?”, e Áquis lhes explicou: “É Davi, que fora servo de Saul, rei de Israel! Há mais de um ano que está comigo e não encontrei nele nenhum motivo de censura, desde o dia em que passou a servir-me até este momento!”",
+        "4": "Os líderes dos filisteus se opuseram a ele e solicitaram a Áquis: “Manda que este homem vá embora, que retorne à cidade que tu lhe designaste. Não venha ele conosco à batalha, para que não se volte contra nós em meio ao combate. Pois, como agradaria ele mais ao seu senhor senão com a cabeça dos homens que temos aqui?",
+        "5": "Ora, por acaso não é este aquele Davi de quem se cantava dançando: ‘Saul matou seus milhares, mas Davi matou dezenas de milhares’?",
+        "6": "Diante disto Áquis mandou chamar Davi e lhe declarou: “Tão certo como vive Yahweh , tu és leal e eu gostaria que entrasses e saísses comigo no acampamento, porquanto não encontrei nada que pudesse manchar tua honra desde o primeiro dia em que nos associamos até o presente momento. Mas não és bem visto pelos príncipes e comandantes do meu povo.",
+        "7": "Por este motivo, peço-te que voltes para tua cidade em paz, a fim de que não desagrades aos príncipes e chefes dos filisteus!”",
+        "8": "Então Davi indagou a Áquis: “Que te fiz eu de censurável, desde o dia em que entrei ao teu serviço até agora, que justifique a impossibilidade de eu combater ao lado do meu senhor e rei contra os meus inimigos?”",
+        "9": "Respondeu Áquis a Davi: “É verdade que tu me tens sido leal e benéfico como um anjo de Deus. Só que os líderes filisteus rogaram terminantemente: ‘Não é possível que ele vá à guerra conosco!’",
+        "10": "Parte, por favor, amanhã cedo, ao raiar do dia, com aqueles servos do teu senhor que vieram contigo, e ide para a cidade que vos designei. Não guardes no teu coração, contudo, nenhum ressentimento, porquanto tens me feito muito bem!”",
+        "11": "Sendo assim, Davi e todos os seus soldados colocaram-se em pé logo de madrugada e partiram ao raiar do dia a caminho da cidade que os filisteus lhes haviam designado. Áquis e seu exército subiram rumo a Jezreel."
     }
 }

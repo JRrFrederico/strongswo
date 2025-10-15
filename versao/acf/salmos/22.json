@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "O salmo da cruz"
+    },
     "versiculos": {
-        "1": "Deus meu, Deus meu, por que me desamparaste? Por que te alongas do meu auxílio e das palavras do meu bramido?",
+        "1": "DEUS meu, Deus meu, por que me desamparaste? Por que te alongas do meu auxílio e das palavras do meu bramido?",
         "2": "Deus meu, eu clamo de dia, e tu não me ouves; de noite, e não tenho sossego.",
         "3": "Porém tu és santo, tu que habitas entre os louvores de Israel.",
         "4": "Em ti confiaram nossos pais; confiaram, e tu os livraste.",

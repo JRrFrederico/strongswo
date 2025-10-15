@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 63,
-    "titulos": {},
+    "titulos": {
+        "1": "O Dia que Deus vinga seu povo",
+        "7": "Oração de gratidão e louvor"
+    },
     "versiculos": {
-        "1": "Quem é este, que vem de Edom, de Bozra, com vestes tintas; este que é glorioso em sua vestidura, que marcha com a sua grande força? Eu, que falo em justiça, poderoso para salvar.",
+        "1": "QUEM é este, que vem de Edom, de Bozra, com vestes tintas; este que é glorioso em sua vestidura, que marcha com a sua grande força? Eu, que falo em justiça, poderoso para salvar.",
         "2": "Por que está vermelha a tua vestidura, e as tuas roupas como as daquele que pisa no lagar?",
         "3": "Eu sozinho pisei no lagar, e dos povos ninguém houve comigo; e os pisei na minha ira, e os esmaguei no meu furor; e o seu sangue salpicou as minhas vestes, e manchei toda a minha vestidura.",
         "4": "Porque o dia da vingança estava no meu coração; e o ano dos meus remidos é chegado.",

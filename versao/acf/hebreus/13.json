@@ -1,9 +1,13 @@
 {
     "livro": "Hebreus",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Conclusões e aplicações práticas",
+        "7": "A vida dos discípulos de Cristo",
+        "18": "Recomendações finais e bênção"
+    },
     "versiculos": {
-        "1": "Permaneça o amor fraternal.",
+        "1": "PERMANEÇA o amor fraternal.",
         "2": "Não vos esqueçais da hospitalidade, porque por ela alguns, não o sabendo, hospedaram anjos.",
         "3": "Lembrai-vos dos presos, como se estivésseis presos com eles, e dos maltratados, como sendo-o vós mesmos também no corpo.",
         "4": "Venerado seja entre todos o matrimônio e o leito sem mácula; porém, aos fornicadores, e aos adúlteros, Deus os julgará.",

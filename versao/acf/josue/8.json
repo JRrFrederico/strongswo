@@ -1,9 +1,15 @@
 {
     "livro": "Josué",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "A tomada e a destruição de Ai",
+        "3": "Josué executa a manobra militar",
+        "14": "Tomada de Ai",
+        "30": "A renovação da Aliança em Ebal",
+        "32": "A Leitura da Torá, Lei"
+    },
     "versiculos": {
-        "1": "Então disse o Senhor a Josué: Não temas, e não te espantes; toma contigo toda a gente de guerra, e levanta-te, sobe a Ai; olha que te tenho dado na tua mão o rei de Ai e o seu povo, e a sua cidade, e a sua terra.",
+        "1": "ENTÃO disse o Senhor a Josué: Não temas, e não te espantes; toma contigo toda a gente de guerra, e levanta-te, sobe a Ai; olha que te tenho dado na tua mão o rei de Ai e o seu povo, e a sua cidade, e a sua terra.",
         "2": "Farás, pois, a Ai e a seu rei, como fizeste a Jericó, e a seu rei; salvo que, para vós, tomareis os seus despojos, e o seu gado; põe emboscadas à cidade, por detrás dela.",
         "3": "Então Josué levantou-se, e toda a gente de guerra, para subir contra Ai; e escolheu Josué trinta mil homens valorosos, e enviou-os de noite.",
         "4": "E deu-lhes ordem, dizendo: Olhai! Ponde-vos de emboscadas contra a cidade, por detrás dela; não vos alongueis muito da cidade; e estai todos vós atentos.",

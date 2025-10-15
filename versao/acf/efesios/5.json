@@ -1,9 +1,14 @@
 {
     "livro": "Efésios",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Caminhando em amor fraternal",
+        "8": "Caminhando na luz",
+        "15": "Caminhando em sabedoria",
+        "22": "Caminhando na vida conjugal"
+    },
     "versiculos": {
-        "1": "Sede, pois, imitadores de Deus, como filhos amados;",
+        "1": "SEDE, pois, imitadores de Deus, como filhos amados;",
         "2": "E andai em amor, como também Cristo nos amou, e se entregou a si mesmo por nós, em oferta e sacrifício a Deus, em cheiro suave.",
         "3": "Mas a fornicação, e toda a impureza ou avareza, nem ainda se nomeie entre vós, como convém a santos;",
         "4": "Nem torpezas, nem tolices, nem zombarias, que não convêm; mas antes, ações de graças.",

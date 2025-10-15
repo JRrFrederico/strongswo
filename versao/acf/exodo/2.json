@@ -1,9 +1,12 @@
 {
     "livro": "Êxodo",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Nasce Moisés, o libertador",
+        "11": "Moisés mata um egípcio e foge"
+    },
     "versiculos": {
-        "1": "E foi um homem da casa de Levi e casou com uma filha de Levi.",
+        "1": "E FOI um homem da casa de Levi e casou com uma filha de Levi.",
         "2": "E a mulher concebeu e deu à luz um filho; e, vendo que ele era formoso, escondeu-o três meses.",
         "3": "Não podendo, porém, mais escondê-lo, tomou uma arca de juncos, e a revestiu com barro e betume; e, pondo nela o menino, a pôs nos juncos à margem do rio.",
         "4": "E sua irmã postou-se de longe, para saber o que lhe havia de acontecer.",

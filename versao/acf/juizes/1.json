@@ -1,9 +1,14 @@
 {
     "livro": "Juízes",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "As lutas para conquistar a terra",
+        "16": "As vitórias de Judá e Benjamim",
+        "22": "As tribos de José tomam Betel",
+        "27": "Terras não conquistadas por Israel"
+    },
     "versiculos": {
-        "1": "E sucedeu, depois da morte de Josué, que os filhos de Israel perguntaram ao Senhor, dizendo: Quem dentre nós primeiro subirá aos cananeus, para pelejar contra eles?",
+        "1": "E SUCEDEU, depois da morte de Josué, que os filhos de Israel perguntaram ao Senhor, dizendo: Quem dentre nós primeiro subirá aos cananeus, para pelejar contra eles?",
         "2": "E disse o Senhor: Judá subirá; eis que entreguei esta terra na sua mão.",
         "3": "Então disse Judá a Simeão, seu irmão: Sobe comigo à minha herança. E pelejemos contra os cananeus, e também eu contigo subirei à tua herança. E Simeão partiu com ele.",
         "4": "E subiu Judá, e o Senhor lhe entregou na sua mão os cananeus e os perizeus; e feriram deles, em Bezeque, a dez mil homens.",

@@ -1,9 +1,12 @@
 {
     "livro": "Josué",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus convoca Josué à liderança",
+        "10": "Reunião das Tribos além do Jordão"
+    },
     "versiculos": {
-        "1": "E sucedeu depois da morte de Moisés, servo do Senhor, que o Senhor falou a Josué, filho de Num, servo de Moisés, dizendo:",
+        "1": "E SUCEDEU depois da morte de Moisés, servo do Senhor, que o Senhor falou a Josué, filho de Num, servo de Moisés, dizendo:",
         "2": "Moisés, meu servo, é morto; levanta-te, pois, agora, passa este Jordão, tu e todo este povo, à terra que eu dou aos filhos de Israel.",
         "3": "Todo o lugar que pisar a planta do vosso pé, vo-lo tenho dado, como eu disse a Moisés.",
         "4": "Desde o deserto e do Líbano, até ao grande rio, o rio Eufrates, toda a terra dos heteus, e até o grande mar para o poente do sol, será o vosso termo.",

@@ -1,24 +1,26 @@
 {
     "livro": "Jó",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó anseia poder falar com Deus"
+    },
     "versiculos": {
-        "1": "Então Jó respondeu e disse:",
-        "2": "Ainda hoje a minha queixa é amarga; meu golpe é mais pesado do que o meu gemido.",
-        "3": "Ah, se eu soubesse onde eu poderia achá-lo! Se eu pudesse ir até o seu assento!",
-        "4": "Eu ordenaria minha causa diante dele, e encheria minha boca de argumentos.",
-        "5": "Eu saberia as palavras com as quais ele me responderia, e entenderia o que ele me diria.",
-        "6": "Pleiteará ele contra mim com seu grande poder? Não, mas ele colocaria forças em mim.",
-        "7": "Ali o justo poderia argumentar com ele, e então eu poderia ser liberto para sempre do meu juiz.",
-        "8": "Eis que vou adiante, mas ele não está lá; e para trás, mas não consigo percebê-lo.",
-        "9": "Na mão esquerda, onde ele trabalha, não consigo contemplá-lo; ele se esconde à mão direita para que eu não possa vê-lo.",
-        "10": "Mas ele conhece o caminho que eu tomo; quando ele tiver me provado, apresentar-me-ei como o ouro.",
-        "11": "Meus pés têm seguido seus passos; tenho guardado o seu caminho, e não o rejeitei.",
-        "12": "Nem voltei atrás do mandamento de seus lábios; eu estimei as palavras de sua boca mais do que a minha comida necessária.",
-        "13": "Mas ele está resoluto, e quem pode demovê-lo? E o que sua alma deseja, isso ele faz.",
-        "14": "Porque ele realiza aquilo que está designado para mim; e muitas tais coisas estão com ele.",
-        "15": "Portanto, estou perturbado com a sua presença; quando eu considero isso, fico com medo dele.",
-        "16": "Porque Deus faz o meu coração suave, e o Todo-Poderoso me atribula;",
-        "17": "porque eu não fui cortado antes das trevas, nem ele cobriu as trevas da minha face."
+        "1": "Diante do exposto, Jó tomou a palavra e respondeu:",
+        "2": "‘Até o presente momento reclamo com revolta e amargura; apesar dos meus gemidos a mão dele pesa forte sobre a minha vida.",
+        "3": "Ah! Se eu soubesse onde poderia encontrá-lo! Então, me chegaria ao seu tribunal.",
+        "4": "Eu lhe apresentaria a minha causa e a minha boca estaria repleta de argumentos.",
+        "5": "Ouviria atentamente o que ele me responderia e avaliaria com cuidado tudo quanto me dissesse.",
+        "6": "Porventura, segundo a grandeza de seu poder, contenderia comigo? Penso que não! Ele não me acusaria de nada.",
+        "7": "Ali, o homem íntegro pleitearia com ele, eu seria considerado inocente e sairia liberto da presença do meu juiz.",
+        "8": "Entretanto, se busco no Oriente, lá ele não está; se parto para o Ocidente, tampouco o encontro.",
+        "9": "Quando ele está agindo no norte, não o consigo enxergar; quando suas ações ocorrem no sul, nem a sombra dele me é possível perceber.",
+        "10": "Todavia, ele conhece bem o caminho por onde passam meus pés; se me colocar à prova, constatará que sairei puro como o ouro refinado.",
+        "11": "Os meus pés acompanharam as suas pegadas; mantive-me no seu Caminho sem desviar-me dele para lado nenhum.",
+        "12": "Jamais me apartei dos mandamentos de seus lábios, dei mais valor às palavras de sua boca do que ao meu próprio pão de cada dia.",
+        "13": "Contudo, Ele é o Todo-Poderoso! Quem lhe poderá fazer qualquer oposição? Ele faz o que decide fazer, e realiza quando deseja.",
+        "14": "Sendo assim, ele cumprirá o que está decidido a meu respeito e todos os demais planos que tem consigo.",
+        "15": "Por esse motivo fico apavorado diante dele; pensar em tudo isso me enche de temor.",
+        "16": "Deus fez o meu coração desfalecer de medo, o Todo-Poderoso causou-me grande pavor.",
+        "17": "Contudo, as provações não me fizeram calar, e as densas trevas que cobrem o meu rosto não puderam silenciar-me."
     }
 }

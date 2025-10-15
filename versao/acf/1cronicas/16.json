@@ -1,9 +1,14 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Israel oferece sacrifícios a Deus",
+        "4": "Ação de graças e cântico de Davi",
+        "7": "O salmo de gratidão de Davi",
+        "37": "O trabalho dos ministros de Deus"
+    },
     "versiculos": {
-        "1": "Trouxeram, pois, a arca de Deus, e a puseram no meio da tenda que Davi lhe tinha armado; e ofereceram holocaustos e sacrifícios pacíficos perante Deus.",
+        "1": "TROUXERAM, pois, a arca de Deus, e a puseram no meio da tenda que Davi lhe tinha armado; e ofereceram holocaustos e sacrifícios pacíficos perante Deus.",
         "2": "E, acabando Davi de oferecer os holocaustos e sacrifícios pacíficos, abençoou o povo em nome do Senhor.",
         "3": "E repartiu a todos em Israel, tanto a homens como a mulheres, a cada um, um pão, e um bom pedaço de carne, e um frasco de vinho.",
         "4": "E pôs alguns dos levitas por ministros perante a arca do Senhor; isto para recordarem, e louvarem, e celebrarem ao Senhor Deus de Israel.",

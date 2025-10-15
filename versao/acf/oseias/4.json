@@ -1,9 +1,11 @@
 {
     "livro": "Oséias",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus declara as culpas de Israel"
+    },
     "versiculos": {
-        "1": "Ouvi a palavra do Senhor, vós filhos de Israel, porque o Senhor tem uma contenda com os habitantes da terra; porque na terra não há verdade, nem benignidade, nem conhecimento de Deus.",
+        "1": "OUVI a palavra do Senhor, vós filhos de Israel, porque o Senhor tem uma contenda com os habitantes da terra; porque na terra não há verdade, nem benignidade, nem conhecimento de Deus.",
         "2": "Só permanecem o perjurar, o mentir, o matar, o furtar e o adulterar; fazem violência, um ato sanguinário segue imediatamente a outro.",
         "3": "Por isso a terra se lamentará, e qualquer que morar nela desfalecerá, com os animais do campo e com as aves do céu; e até os peixes do mar serão tirados.",
         "4": "Todavia ninguém contenda, ninguém repreenda, porque o teu povo é como os que contendem com o sacerdote.",

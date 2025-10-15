@@ -1,17 +1,19 @@
 {
     "livro": "Êxodo",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Moisés anuncia a décima praga"
+    },
     "versiculos": {
-        "1": "E disse o SENHOR a Moisés: Trarei ainda mais uma praga sobre Faraó, e sobre o Egito. Depois disso, ele vos deixará ir daqui. Quando vos deixar ir, ele certamente vos expulsará daqui completamente.",
-        "2": "Fala agora aos ouvidos do povo, e que todo homem peça de seu vizinho, e toda mulher de sua vizinha, joias de prata e joias de ouro.",
-        "3": "E o SENHOR deu favor ao povo à vista dos egípcios. Além disso, o homem Moisés era muito grande na terra do Egito, à vista dos servos de Faraó, e à vista do povo.",
-        "4": "E Moisés disse: Assim diz o SENHOR: À meia-noite sairei no meio dos egípcios,",
-        "5": "e todo primogênito na terra do Egito morrerá, desde o primogênito de Faraó que está assentado sobre o seu trono, até mesmo o primogênito da serva que está atrás do moinho, e todos os primogênitos dos animais.",
-        "6": "E haverá grande clamor em toda a terra do Egito, como nunca houve, nem jamais haverá.",
-        "7": "Mas contra qualquer dos filhos de Israel, nem mesmo um cão moverá sua língua, contra homem ou animal, para que saibais que o SENHOR faz diferença entre os egípcios e Israel.",
-        "8": "E todos estes teus servos descerão a mim, e se curvarão diante de mim, dizendo: Sai tu, e todo o povo que te segue. E depois disso eu sairei. E ele saiu da presença de Faraó com grande ira.",
-        "9": "E disse o SENHOR a Moisés: Faraó não vos ouvirá, para que as minhas maravilhas se multipliquem na terra do Egito.",
-        "10": "E Moisés e Arão fizeram todas essas maravilhas diante de Faraó; e o SENHOR endureceu o coração de Faraó, para que não deixasse os filhos de Israel sair de sua terra."
+        "1": "Então Yahweh disse a Moisés: “Farei vir uma praga contra o Faraó e contra o Egito. Depois desse sinal, ele vos deixará partir daqui. De fato, ele vos expulsará a todos vós, de uma só vez e para sempre.",
+        "2": "Dize, pois, ao povo que todo homem peça a seu vizinho, e toda mulher a sua vizinha, objetos de prata e ouro!”",
+        "3": "E Yahweh fez que seu povo encontrasse graça aos olhos de todos os egípcios. Moisés era também muito estimado e um grande homem na terra do Egito, tanto aos olhos dos conselheiros do Faraó quanto aos olhos do povo.",
+        "4": "E Moisés proclamou ao Faraó: “Assim diz Yahweh : à meia-noite passarei pelo meio do Egito.",
+        "5": "E todo primogênito morrerá na terra do Egito, desde o primogênito do Faraó, que deveria sentar-se em seu trono, até o primogênito da escrava que trabalha no moinho, assim como todas as primeiras crias do gado e dos rebanhos.",
+        "6": "Haverá, portanto, grande pranto em toda a terra do Egito, como nunca houve antes nem jamais haverá.",
+        "7": "Contudo, entre todos os filhos de Israel, desde os homens até os animais, não se ouvirá o rosnar de um cão sequer, para que saibas que Yahweh fez uma distinção entre os egípcios e os israelitas.",
+        "8": "Então, todos estes teus conselheiros descerão a mim, e se prostrarão diante de mim, suplicando: ‘Sai, tu e todo o povo que te segue!’ Só depois desses acontecimentos sairei!” E, ardendo em ira, saiu Moisés da presença do Faraó.",
+        "9": "Yahweh disse a Moisés: “O Faraó não vos ouvirá, para que se multipliquem os meus atos prodigiosos em toda a terra do Egito”.",
+        "10": "Moisés e Arão realizaram todos esses sinais maravilhosos diante do Faraó. Mas Yahweh endureceu o coração do Faraó, e ele não permitiu que os filhos de Israel abandonassem a terra do Egito."
     }
 }

@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 64,
-    "titulos": {},
+    "titulos": {
+        "1": "Proteção contra as injustiças"
+    },
     "versiculos": {
-        "1": "Ouve, ó Deus, a minha voz na minha oração; guarda a minha vida do temor do inimigo.",
+        "1": "OUVE, ó Deus, a minha voz na minha oração; guarda a minha vida do temor do inimigo.",
         "2": "Esconde-me do secreto conselho dos maus, e do tumulto dos que praticam a iniquidade.",
         "3": "Que afiaram as suas línguas como espadas; e armaram por suas flechas palavras amargas,",
         "4": "A fim de atirarem em lugar oculto ao que é íntegro; disparam sobre ele repentinamente, e não temem.",

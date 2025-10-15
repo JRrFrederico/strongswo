@@ -1,9 +1,11 @@
 {
     "livro": "Oséias",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "A impiedade dos governantes"
+    },
     "versiculos": {
-        "1": "Sarando eu a Israel, se descobriu a iniquidade de Efraim, como também as maldades de Samaria, porque praticaram a falsidade; e o ladrão entra, e a horda dos salteadores despoja por fora.",
+        "1": "SARANDO eu a Israel, se descobriu a iniquidade de Efraim, como também as maldades de Samaria, porque praticaram a falsidade; e o ladrão entra, e a horda dos salteadores despoja por fora.",
         "2": "E não dizem no seu coração que eu me lembro de toda a sua maldade; agora, pois, os cercam as suas obras; diante da minha face estão.",
         "3": "Com a sua malícia alegram ao rei, e com as suas mentiras aos príncipes.",
         "4": "Todos eles são adúlteros; são semelhantes ao forno aceso pelo padeiro, que cessa de mexer nas brasas, depois que amassou a massa, até que seja levedada.",

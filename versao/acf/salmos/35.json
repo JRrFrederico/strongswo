@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 35,
-    "titulos": {},
+    "titulos": {
+        "1": "O Senhor é o vingador"
+    },
     "versiculos": {
-        "1": "Pleiteia, Senhor, com aqueles que pleiteiam comigo; peleja contra os que pelejam contra mim.",
+        "1": "PLEITEIA, Senhor, com aqueles que pleiteiam comigo; peleja contra os que pelejam contra mim.",
         "2": "Pega do escudo e da rodela, e levanta-te em minha ajuda.",
         "3": "Tira da lança e obstrui o caminho aos que me perseguem; dize à minha alma: Eu sou a tua salvação.",
         "4": "Sejam confundidos e envergonhados os que buscam a minha vida; voltem atrás e envergonhem-se os que contra mim tentam mal.",

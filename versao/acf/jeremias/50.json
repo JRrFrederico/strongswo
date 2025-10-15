@@ -1,9 +1,11 @@
 {
     "livro": "Jeremias",
     "capitulo": 50,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecia acerca da Babilônia"
+    },
     "versiculos": {
-        "1": "A palavra que falou o Senhor contra a Babilônia, contra a terra dos caldeus, por intermédio de Jeremias, o profeta.",
+        "1": "A PALAVRA que falou o Senhor contra a Babilônia, contra a terra dos caldeus, por intermédio de Jeremias, o profeta.",
         "2": "Anunciai entre as nações; e fazei ouvir, e arvorai um estandarte, fazei ouvir, não encubrais; dizei: Tomada está Babilônia, confundido está Bel, espatifado está Merodaque, confundidos estão os seus ídolos, e quebradas estão as suas imagens.",
         "3": "Porque subiu contra ela uma nação do norte, que fará da sua terra uma solidão, e não haverá quem nela habite; tanto os homens como os animais fugiram, e se foram.",
         "4": "Naqueles dias, e naquele tempo, diz o Senhor, os filhos de Israel virão, eles e os filhos de Judá juntamente; andando e chorando virão, e buscarão ao Senhor seu Deus.",

@@ -1,9 +1,15 @@
 {
     "livro": "Juízes",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "A história do filho de Gideão",
+        "7": "A maldição de Jotão",
+        "22": "A revolta de Gaal",
+        "42": "A destruição de Siquém",
+        "50": "A morte de Abimeleque"
+    },
     "versiculos": {
-        "1": "E Abimeleque, filho de Jerubaal, foi a Siquém, aos irmãos de sua mãe, e falou-lhes e a toda a geração da casa do pai de sua mãe, dizendo:",
+        "1": "E ABIMELEQUE, filho de Jerubaal, foi a Siquém, aos irmãos de sua mãe, e falou-lhes e a toda a geração da casa do pai de sua mãe, dizendo:",
         "2": "Falai, peço-vos, aos ouvidos de todos os cidadãos de Siquém: Qual é melhor para vós, que setenta homens, todos os filhos de Jerubaal, dominem sobre vós, ou que um homem sobre vós domine? Lembrai-vos também de que sou osso vosso e carne vossa.",
         "3": "Então os irmãos de sua mãe falaram acerca dele perante os ouvidos de todos os cidadãos de Siquém todas aquelas palavras; e o coração deles se inclinou a seguir Abimeleque, porque disseram: É nosso irmão.",
         "4": "E deram-lhe setenta peças de prata, da casa de Baal-Berite; e com elas alugou Abimeleque uns homens ociosos e levianos, que o seguiram.",

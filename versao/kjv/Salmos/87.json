@@ -1,14 +1,16 @@
 {
     "livro": "Salmos",
     "capitulo": 87,
-    "titulos": {},
+    "titulos": {
+        "1": "Cântico profético sobre Jerusalém"
+    },
     "versiculos": {
-        "1": "Salmo ou Canção para os filhos de Corá. Seu fundamento está nos santos montes.",
-        "2": "O SENHOR ama os portões de Sião mais do que todas as habitações de Jacó.",
-        "3": "Coisas gloriosas são faladas de ti, ó cidade de Deus. Selá.",
-        "4": "Eu farei menção de Raabe e de Babilônia para aqueles que me conhecem; contemplai Filístia e Tiro, com Etiópia; este homem nasceu lá.",
-        "5": "E de Sião será dito: Este e aquele homem nasceram nela, e o próprio Altíssimo a estabelecerá.",
-        "6": "O SENHOR contará, quando ele descrever o povo, que este homem nasceu lá. Selá.",
-        "7": "Assim como os cantores, e como os tocadores de instrumentos estarão lá; todas as minhas fontes estão em ti."
+        "1": "O S ENHOR firmou as bases da sua cidade sobre o monte santo;",
+        "2": "Ele ama os portais de Sião mais do que todas as habitações de Jacó.",
+        "3": "Ah! Maravilhas são contadas a teu respeito, ó Cidade de Deus!",
+        "4": "“Entre os que me reconhecem incluirei o Egito e a Babilônia, além da Filístia, de Tiro, e também da Etiópia, como se tivessem nascido em Sião.”",
+        "5": "Na verdade em Sião nasceram multidões que conhecem o Eterno e Ele, pessoalmente, a estabeleceu como a mais nobre cidade.",
+        "6": "Assim o S ENHOR escreverá no registro dos povos: “Este nasceu ali”.",
+        "7": "Músicos e compositores sobre ela afirmarão: “Todos os meus pensamentos e toda a minha inspiração provêm de ti, ó Sião!”"
     }
 }

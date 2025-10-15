@@ -1,15 +1,19 @@
 {
     "livro": "Apocalipse",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "Os sete anjos e os sete flagelos",
+        "2": "Os remidos cantam ao Senhor",
+        "6": "Deus envia os sete flagelos"
+    },
     "versiculos": {
-        "1": "E eu vi outro sinal no céu, grande e admirável: Sete anjos, tendo as sete últimas pragas; porque nelas é consumada a ira de Deus.",
-        "2": "E eu vi como se fosse um mar de vidro misturado com fogo; e aos que haviam obtido a vitória sobre a besta, e sobre a sua imagem, e sobre sua marca, e sobre o número de seu nome, ficarem sobre o mar de vidro, tendo as harpas de Deus.",
-        "3": "E eles cantam a canção de Moisés, o servo de Deus, e a canção do Cordeiro, dizendo: Grandes e maravilhosas são tuas obras, Senhor Deus Todo-Poderoso; justos e verdadeiros são os teus caminhos, tu, Rei de santos.",
-        "4": "Quem não te temerá, ó Senhor, e não glorificará o teu nome? Porque tu somente és santo; porque todas as nações virão e adorarão diante de ti, porque os teus juízos foram feitos manifestos.",
-        "5": "E depois disto eu olhei, e eis que o templo do tabernáculo do testemunho no céu estava aberto.",
-        "6": "E os sete anjos saíram do templo, tendo as sete pragas, vestidos de linho puro e branco, e cingidos com cintos de ouro nos seus peitos.",
-        "7": "E um dos quatro animais deu aos sete anjos sete taças de ouro, cheias da ira de Deus, que vive para sempre e sempre.",
-        "8": "E o templo foi preenchido com a fumaça da glória de Deus, e de seu poder; e nenhum homem era capaz de entrar no templo, até que as sete pragas dos sete anjos fossem cumpridas."
+        "1": "Então, observei no céu um outro grande e terrível sinal: sete anjos empunhando os últimos flagelos, pois com estes se completa o Juízo severo de Deus sobre a terra.",
+        "2": "Vi algo semelhante a um mar de vidro misturado com fogo; e, em pé, junto ao mar, todos que haviam vencido a Besta, a sua imagem e o número do seu nome. Eles empunhavam as harpas que haviam sido entregues por Deus,",
+        "3": "e cantavam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro: “Grandes e admiráveis são as tuas obras, ó Senhor Deus Todo-Poderoso; justos e verdadeiros são os teus caminhos, ó Rei das nações.",
+        "4": "Senhor, quem não temerá e não glorificará o teu Nome? Pois só Tu és santo; por isso, todas as nações virão e se prostrarão diante de ti, porque os teus juízos são manifestos!”.",
+        "5": "Em seguida, olhei e observei que se abriu nos céus o santuário, o tabernáculo da aliança.",
+        "6": "Então, partiram do santuário os sete anjos com os sete flagelos. Eles estavam vestidos de linho puro e resplandecente, e portavam cinturões de ouro ao redor do peito.",
+        "7": "E um dos quatro seres viventes entregou aos sete anjos sete taças de ouro, repletas da ira de Deus, que vive pelos séculos dos séculos.",
+        "8": "Imediatamente, o santuário se encheu da fumaça produzida pela glória e o poder de Deus, e ninguém podia entrar no santuário enquanto não se completassem os sete flagelos dos sete anjos."
     }
 }

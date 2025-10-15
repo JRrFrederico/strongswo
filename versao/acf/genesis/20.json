@@ -1,9 +1,11 @@
 {
     "livro": "Gênesis",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "A peregrinação de Abraão e Sara"
+    },
     "versiculos": {
-        "1": "E partiu Abraão dali para a terra do sul, e habitou entre Cades e Sur; e peregrinou em Gerar.",
+        "1": "E PARTIU Abraão dali para a terra do sul, e habitou entre Cades e Sur; e peregrinou em Gerar.",
         "2": "E havendo Abraão dito de Sara, sua mulher: É minha irmã; enviou Abimeleque, rei de Gerar, e tomou a Sara.",
         "3": "Deus, porém, veio a Abimeleque em sonhos de noite, e disse-lhe: Eis que morto serás por causa da mulher que tomaste; porque ela está casada com marido.",
         "4": "Mas Abimeleque ainda não se tinha chegado a ela; por isso disse: Senhor, matarás também uma nação justa?",

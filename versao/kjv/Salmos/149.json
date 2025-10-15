@@ -1,16 +1,18 @@
 {
     "livro": "Salmos",
     "capitulo": 149,
-    "titulos": {},
+    "titulos": {
+        "1": "Hino de vitória e louvor a Deus"
+    },
     "versiculos": {
-        "1": "Louvai ao SENHOR. Cantai ao SENHOR uma nova canção, e seu louvor na congregação dos santos.",
-        "2": "Regozije-se Israel naquele que o fez, alegrem-se os filhos de Sião no seu Rei.",
-        "3": "Louvem o seu nome na dança; cantem louvores a ele com tamboril e harpa.",
-        "4": "Pois o SENHOR tem prazer em seu povo; ele embelezará os mansos com a salvação.",
-        "5": "Alegrem-se os santos na glória; cantem alto sobre as suas camas.",
-        "6": "Estejam em sua boca os altos louvores de Deus, e uma espada de dois fios na sua mão,",
-        "7": "para executarem vingança sobre os pagãos, e punições sobre o povo;",
-        "8": "para amarrarem os seus reis com correntes, e os seus nobres com grilhões de ferro;",
-        "9": "para executarem sobre eles o juízo escrito; todos os seus santos têm esta honra. Louvai ao SENHOR."
+        "1": "Aleluia! Cantai ao S ENHOR um cântico novo, e o seu louvor, na assembleia dos fiéis!",
+        "2": "Alegre-se Israel no seu Criador, os filhos de Sião exultem em seu Rei!",
+        "3": "Louvem seu Nome com danças, cantem seus louvores com pandeiro e cítara!",
+        "4": "Pois o S ENHOR se compraz em seu povo; Ele coroa de vitória os humildes.",
+        "5": "Regozijem-se nessa glória os fiéis e cantem, jubilosos o dia todo e ao deitar!",
+        "6": "Altos louvores a Deus estejam sempre em seus lábios; em suas mãos, a espada de dois gumes:",
+        "7": "para exercer vindicação entre as nações, e castigo sobre os pagãos;",
+        "8": "para prender seus reis com grilhões, e com algemas de ferro, seus nobres;",
+        "9": "para executar contra eles a sentença escrita. E assim, em esplendor e felicidade louvá-lo-ão todos os seus devotos: Louvado seja o Eterno! Aleluia!"
     }
 }

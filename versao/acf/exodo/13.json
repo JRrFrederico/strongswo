@@ -1,9 +1,12 @@
 {
     "livro": "Êxodo",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Consagração dos primogênitos",
+        "17": "A saída das terras do Egito"
+    },
     "versiculos": {
-        "1": "Então falou o Senhor a Moisés, dizendo:",
+        "1": "ENTÃO falou o Senhor a Moisés, dizendo:",
         "2": "Santifica-me todo o primogênito, o que abrir toda a madre entre os filhos de Israel, de homens e de animais; porque meu é.",
         "3": "E Moisés disse ao povo: Lembrai-vos deste mesmo dia, em que saístes do Egito, da casa da servidão; pois com mão forte o Senhor vos tirou daqui; portanto não comereis pão levedado.",
         "4": "Hoje, no mês de Abibe, vós saís.",

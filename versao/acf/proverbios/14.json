@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "Homem sábio, mulher sábia"
+    },
     "versiculos": {
-        "1": "Toda mulher sábia edifica a sua casa; mas a tola a derruba com as próprias mãos.",
+        "1": "TODA mulher sábia edifica a sua casa; mas a tola a derruba com as próprias mãos.",
         "2": "O que anda na retidão teme ao Senhor, mas o que se desvia de seus caminhos o despreza.",
         "3": "Na boca do tolo está a punição da soberba, mas os sábios se conservam pelos próprios lábios.",
         "4": "Não havendo bois o estábulo fica limpo, mas pela força do boi há abundância de colheita.",

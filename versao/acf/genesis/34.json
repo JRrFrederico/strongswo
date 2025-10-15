@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 34,
-    "titulos": {},
+    "titulos": {
+        "1": "Diná, filha de Jacó é violentada",
+        "25": "Vingança traidora de Simeão e Levi"
+    },
     "versiculos": {
-        "1": "E saiu Diná, filha de Lia, que esta dera a Jacó, para ver as filhas da terra.",
+        "1": "E SAIU Diná, filha de Lia, que esta dera a Jacó, para ver as filhas da terra.",
         "2": "E Siquém, filho de Hamor, heveu, príncipe daquela terra, viu-a, e tomou-a, e deitou-se com ela, e humilhou-a.",
         "3": "E apegou-se a sua alma a Diná, filha de Jacó, e amou a moça e falou afetuosamente à moça.",
         "4": "Falou também Siquém a Hamor, seu pai, dizendo: Toma-me esta moça por mulher.",

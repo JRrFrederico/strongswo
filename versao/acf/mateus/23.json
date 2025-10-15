@@ -1,9 +1,12 @@
 {
     "livro": "Mateus",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Os doutores da Lei falam, mas não agem",
+        "37": "O lamento sobre Jerusalém"
+    },
     "versiculos": {
-        "1": "Então falou Jesus à multidão, e aos seus discípulos,",
+        "1": "ENTÃO falou Jesus à multidão, e aos seus discípulos,",
         "2": "Dizendo: Na cadeira de Moisés estão assentados os escribas e fariseus.",
         "3": "Todas as coisas, pois, que vos disserem que observeis, observai-as e fazei-as; mas não procedais em conformidade com as suas obras, porque dizem e não fazem;",
         "4": "Pois atam fardos pesados e difíceis de suportar, e os põem aos ombros dos homens; eles, porém, nem com seu dedo querem movê-los;",

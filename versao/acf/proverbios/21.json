@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus controla o coração dos reis"
+    },
     "versiculos": {
-        "1": "Como ribeiros de águas assim é o coração do rei na mão do Senhor, que o inclina a todo o seu querer.",
+        "1": "COMO ribeiros de águas assim é o coração do rei na mão do Senhor, que o inclina a todo o seu querer.",
         "2": "Todo caminho do homem é reto aos seus olhos, mas o Senhor sonda os corações.",
         "3": "Fazer justiça e juízo é mais aceitável ao Senhor do que sacrifício.",
         "4": "Os olhos altivos, o coração orgulhoso e a lavoura dos ímpios é pecado.",

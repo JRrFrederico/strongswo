@@ -1,9 +1,18 @@
 {
     "livro": "Mateus",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus é levado a Pilatos",
+        "3": "Judas com remorso suicida-se!",
+        "11": "Pilatos lava as mãos",
+        "27": "Jesus é humilhado e agredido",
+        "32": "A crucificação do Rei",
+        "45": "A morte de Jesus na cruz",
+        "57": "O sepultamento do corpo de Jesus",
+        "62": "Pilatos manda vigiar o sepulcro"
+    },
     "versiculos": {
-        "1": "E, chegando a manhã, todos os principais sacerdotes, e os anciãos do povo, formavam juntamente conselho contra Jesus, para o matarem;",
+        "1": "E, CHEGANDO a manhã, todos os principais sacerdotes, e os anciãos do povo, formavam juntamente conselho contra Jesus, para o matarem;",
         "2": "E amarrando-o, o levaram e entregaram ao presidente Pôncio Pilatos.",
         "3": "Então Judas, o que o traíra, vendo que fora condenado, trouxe, arrependido, as trinta moedas de prata aos principais sacerdotes e aos anciãos,",
         "4": "Dizendo: Pequei, traindo o sangue inocente. Eles, porém, disseram: Que nos importa? Isso é contigo.",

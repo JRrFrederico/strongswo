@@ -1,9 +1,13 @@
 {
     "livro": "1 Samuel",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "A volta da Arca a Israel",
+        "13": "A Arca de Deus em Bete-Semes",
+        "20": "A Arca de Deus em Jearim"
+    },
     "versiculos": {
-        "1": "Havendo, pois, estado a arca do Senhor na terra dos filisteus sete meses,",
+        "1": "HAVENDO, pois, estado a arca do Senhor na terra dos filisteus sete meses,",
         "2": "Os filisteus chamaram os sacerdotes e os adivinhadores, dizendo: Que faremos nós com a arca do Senhor? Fazei-nos saber como a tornaremos a enviar ao seu lugar.",
         "3": "Os quais disseram: Se enviardes a arca do Deus de Israel, não a envieis vazia, porém sem falta enviareis uma oferta para a expiação da culpa; então sereis curados, e se vos fará saber por que a sua mão não se retira de vós.",
         "4": "Então disseram: Qual é a expiação da culpa que lhe havemos de enviar? E disseram: Segundo o número dos príncipes dos filisteus, cinco hemorroidas de ouro e cinco ratos de ouro; porquanto a praga é uma mesma sobre todos vós e sobre todos os vossos príncipes.",

@@ -1,13 +1,15 @@
 {
     "livro": "Hebreus",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "A aliança em Cristo é superior"
+    },
     "versiculos": {
-        "1": "Ora, a suma do que temos dito é que temos um sumo sacerdote tal, que está assentado nos céus à destra do trono da majestade,",
+        "1": "ORA, a suma do que temos dito é que temos um sumo sacerdote tal, que está assentado nos céus à destra do trono da majestade,",
         "2": "Ministro do santuário, e do verdadeiro tabernáculo, o qual o Senhor fundou, e não o homem.",
         "3": "Porque todo o sumo sacerdote é constituído para oferecer dons e sacrifícios; por isso era necessário que este também tivesse alguma coisa que oferecer.",
         "4": "Ora, se ele estivesse na terra, nem tampouco sacerdote seria, havendo ainda sacerdotes que oferecem dons segundo a lei,",
-        "5": "Os quais servem de exemplo e sombra das coisas celestiais, como Moisés divinamente foi avisado, estando já para acabar o tabernáculo; porque foi dito: Olha, faze tudo conforme o modelo que no monte se te mostrou.",
+        "5": "Os quais servem de exemplo e sombra das coisas celestiais, como",
         "6": "Mas agora alcançou ele ministério tanto mais excelente, quanto é mediador de uma melhor aliança que está confirmada em melhores promessas.",
         "7": "Porque, se aquela primeira fora irrepreensível, nunca se teria buscado lugar para a segunda.",
         "8": "Porque, repreendendo-os, lhes diz: Eis que virão dias, diz o Senhor, em que com a casa de Israel e com a casa de Judá estabelecerei uma nova aliança,",

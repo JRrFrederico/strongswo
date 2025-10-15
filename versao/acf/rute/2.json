@@ -1,9 +1,11 @@
 {
     "livro": "Rute",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Rute nos campos de Boaz"
+    },
     "versiculos": {
-        "1": "E tinha Noemi um parente de seu marido, homem valente e poderoso, da família de Elimeleque; e era o seu nome Boaz.",
+        "1": "E TINHA Noemi um parente de seu marido, homem valente e poderoso, da família de Elimeleque; e era o seu nome Boaz.",
         "2": "E Rute, a moabita, disse a Noemi: Deixa-me ir ao campo, e apanharei espigas atrás daquele em cujos olhos eu achar graça. E ela disse: Vai, minha filha.",
         "3": "Foi, pois, e chegou, e apanhava espigas no campo após os segadores; e caiu-lhe em sorte uma parte do campo de Boaz, que era da família de Elimeleque.",
         "4": "E eis que Boaz veio de Belém, e disse aos segadores: O Senhor seja convosco. E disseram-lhe eles: O Senhor te abençoe.",

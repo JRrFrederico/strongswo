@@ -1,9 +1,13 @@
 {
     "livro": "Jó",
     "capitulo": 42,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó pede perdão a Deus",
+        "7": "Deus corrige os amigos de Jó",
+        "10": "Deus abençoa Jó em dobro"
+    },
     "versiculos": {
-        "1": "Então respondeu Jó ao Senhor, dizendo:",
+        "1": "ENTÃO respondeu Jó ao Senhor, dizendo:",
         "2": "Bem sei eu que tudo podes, e que nenhum dos teus propósitos pode ser impedido.",
         "3": "Quem é este, que sem conhecimento encobre o conselho? Por isso relatei o que não entendia; coisas que para mim eram inescrutáveis, e que eu não entendia.",
         "4": "Escuta-me, pois, e eu falarei; eu te perguntarei, e tu me ensinarás.",

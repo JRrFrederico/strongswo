@@ -1,9 +1,11 @@
 {
     "livro": "Ester",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "O rei determina a favor dos judeus"
+    },
     "versiculos": {
-        "1": "Naquele mesmo dia deu o rei Assuero à rainha Ester a casa de Hamã, inimigo dos judeus; e Mardoqueu veio perante o rei, porque Ester tinha declarado quem ele era.",
+        "1": "NAQUELE mesmo dia deu o rei Assuero à rainha Ester a casa de Hamã, inimigo dos judeus; e Mardoqueu veio perante o rei, porque Ester tinha declarado quem ele era.",
         "2": "E tirou o rei o seu anel, que tinha tomado de Hamã, e o deu a Mardoqueu. E Ester encarregou Mardoqueu da casa de Hamã.",
         "3": "Falou mais Ester perante o rei, e se lhe lançou aos seus pés; e chorou, e lhe suplicou que revogasse a maldade de Hamã, o agagita, e o intento que tinha projetado contra os judeus.",
         "4": "E estendeu o rei para Ester o cetro de ouro. Então Ester se levantou, e pôs-se em pé perante o rei,",

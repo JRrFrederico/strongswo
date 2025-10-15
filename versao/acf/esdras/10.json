@@ -1,9 +1,12 @@
 {
     "livro": "Esdras",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "As alianças pagãs são desfeitas",
+        "18": "Os culpados de alianças mistas"
+    },
     "versiculos": {
-        "1": "E enquanto Esdras orava, e fazia confissão, chorando e prostrando-se diante da casa de Deus, ajuntou-se a ele, de Israel, uma mui grande congregação de homens, mulheres e crianças; pois o povo chorava com grande choro.",
+        "1": "E ENQUANTO Esdras orava, e fazia confissão, chorando e prostrando-se diante da casa de Deus, ajuntou-se a ele, de Israel, uma mui grande congregação de homens, mulheres e crianças; pois o povo chorava com grande choro.",
         "2": "Então Secanias, filho de Jeiel, um dos filhos de Elão, tomou a palavra e disse a Esdras: Nós temos transgredido contra o nosso Deus, e casamos com mulheres estrangeiras dentre os povos da terra, mas, no tocante a isto, ainda há esperança para Israel.",
         "3": "Agora, pois, façamos aliança com o nosso Deus de que despediremos todas as mulheres, e os que delas são nascidos, conforme ao conselho do meu senhor, e dos que tremem ao mandado do nosso Deus; e faça-se conforme a lei.",
         "4": "Levanta-te, pois, porque te pertence este negócio, e nós seremos contigo; esforça-te, e age.",

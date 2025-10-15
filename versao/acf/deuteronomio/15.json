@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "O ano da remissão das dívidas",
+        "12": "A libertação de escravos",
+        "19": "Primeiras crias, os primogênitos"
+    },
     "versiculos": {
-        "1": "Ao fim dos sete anos farás remissão.",
+        "1": "AO fim dos sete anos farás remissão.",
         "2": "Este, pois, é o modo da remissão: todo o credor remitirá o que emprestou ao seu próximo; não o exigirá do seu próximo ou do seu irmão, pois a remissão do Senhor é apregoada.",
         "3": "Do estrangeiro o exigirás; mas o que tiveres em poder de teu irmão a tua mão o remitirá.",
         "4": "Exceto quando não houver entre ti pobre algum; pois o Senhor abundantemente te abençoará na terra que o Senhor teu Deus te dará por herança, para possuí-la.",

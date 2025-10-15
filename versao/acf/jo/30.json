@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 30,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó descreve sua triste situação"
+    },
     "versiculos": {
-        "1": "Agora, porém, se riem de mim os de menos idade do que eu, cujos pais eu teria desdenhado de pôr com os cães do meu rebanho.",
+        "1": "AGORA, porém, se riem de mim os de menos idade do que eu, cujos pais eu teria desdenhado de pôr com os cães do meu rebanho.",
         "2": "De que também me serviria a força das mãos daqueles, cujo vigor se tinha esgotado?",
         "3": "De míngua e fome se debilitaram; e recolhiam-se para os lugares secos, tenebrosos, assolados e desertos.",
         "4": "Apanhavam malvas junto aos arbustos, e o seu mantimento eram as raízes dos zimbros.",

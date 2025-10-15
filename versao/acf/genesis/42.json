@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 42,
-    "titulos": {},
+    "titulos": {
+        "1": "Os irmãos de José vão ao Egito",
+        "25": "Os irmãos de José voltam a Canaã"
+    },
     "versiculos": {
-        "1": "Vendo então Jacó que havia mantimento no Egito, disse Jacó a seus filhos: Por que estais olhando uns para os outros?",
+        "1": "VENDO então Jacó que havia mantimento no Egito, disse Jacó a seus filhos: Por que estais olhando uns para os outros?",
         "2": "Disse mais: Eis que tenho ouvido que há mantimentos no Egito; descei para lá, e comprai-nos dali, para que vivamos e não morramos.",
         "3": "Então desceram os dez irmãos de José, para comprarem trigo no Egito.",
         "4": "A Benjamim, porém, irmão de José, não enviou Jacó com os seus irmãos, porque dizia: Para que lhe não suceda, porventura, algum desastre.",

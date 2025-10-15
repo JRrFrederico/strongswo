@@ -1,9 +1,14 @@
 {
     "livro": "Provérbios",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Advertência quanto a ser fiador",
+        "6": "Advertência contra a preguiça",
+        "12": "Advertência contra a maldade",
+        "20": "Advertências contra o adultério"
+    },
     "versiculos": {
-        "1": "Filho meu, se ficaste por fiador do teu companheiro, se deste a tua mão ao estranho,",
+        "1": "FILHO meu, se ficaste por fiador do teu companheiro, se deste a tua mão ao estranho,",
         "2": "E te deixaste enredar pelas próprias palavras; e te prendeste nas palavras da tua boca;",
         "3": "Faze pois isto agora, filho meu, e livra-te, já que caíste nas mãos do teu companheiro: vai, humilha-te, e importuna o teu companheiro.",
         "4": "Não dês sono aos teus olhos, nem deixes adormecer as tuas pálpebras.",

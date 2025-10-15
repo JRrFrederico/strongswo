@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "A justiça é imparcial e infalível"
+    },
     "versiculos": {
-        "1": "Então respondeu Zofar, o naamatita, e disse:",
+        "1": "ENTÃO respondeu Zofar, o naamatita, e disse:",
         "2": "Visto que os meus pensamentos me fazem responder, eu me apresso.",
         "3": "Eu ouvi a repreensão, que me envergonha, mas o espírito do meu entendimento responderá por mim.",
         "4": "Porventura não sabes tu que desde a antiguidade, desde que o homem foi posto sobre a terra,",

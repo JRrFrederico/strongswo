@@ -1,9 +1,12 @@
 {
     "livro": "Malaquias",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "O amor leal de Deus por Israel",
+        "6": "Sacrifícios que Deus não aceita"
+    },
     "versiculos": {
-        "1": "Peso da palavra do Senhor contra Israel, por intermédio de Malaquias.",
+        "1": "PESO da palavra do Senhor contra Israel, por intermédio de Malaquias.",
         "2": "Eu vos tenho amado, diz o Senhor. Mas vós dizeis: Em que nos tens amado? Não era Esaú irmão de Jacó? Disse o Senhor; todavia amei a Jacó,",
         "3": "E odiei a Esaú; e fiz dos seus montes uma desolação, e dei a sua herança aos chacais do deserto.",
         "4": "Ainda que Edom diga: Empobrecidos estamos, porém tornaremos a edificar os lugares desolados; assim diz o Senhor dos Exércitos: Eles edificarão, e eu destruirei; e lhes chamarão: Termo de impiedade, e povo contra quem o Senhor está irado para sempre.",

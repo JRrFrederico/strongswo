@@ -1,10 +1,12 @@
 {
     "livro": "Salmos",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "O triunfo do reino do Messias"
+    },
     "versiculos": {
-        "1": "Por que se amotinam os gentios, e os povos imaginam coisas vãs?",
-        "2": "Os reis da terra se levantam e os governos consultam juntamente contra o Senhor e contra o seu ungido, dizendo:",
+        "1": "POR QUE se amotinam os gentios, e os povos imaginam coisas vãs?",
+        "2": "Os reis da terra se levantam e os governos consultam juntamente contra o Senhor e contra o seu Ungido, dizendo:",
         "3": "Rompamos as suas ataduras, e sacudamos de nós as suas cordas.",
         "4": "Aquele que habita nos céus se rirá; o Senhor zombará deles.",
         "5": "Então lhes falará na sua ira, e no seu furor os turbará.",

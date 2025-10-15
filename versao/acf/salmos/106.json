@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 106,
-    "titulos": {},
+    "titulos": {
+        "1": "A ingratidão do povo de Deus"
+    },
     "versiculos": {
-        "1": "Louvai ao Senhor. Louvai ao Senhor, porque ele é bom, porque a sua misericórdia dura para sempre.",
+        "1": "LOUVAI ao Senhor. Louvai ao Senhor, porque ele é bom, porque a sua misericórdia dura para sempre.",
         "2": "Quem pode contar as obras poderosas do Senhor? Quem anunciará os seus louvores?",
         "3": "Bem-aventurados os que guardam o juízo, o que pratica justiça em todos os tempos.",
         "4": "Lembra-te de mim, Senhor, segundo a tua boa vontade para com o teu povo; visita-me com a tua salvação.",

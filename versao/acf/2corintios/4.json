@@ -1,9 +1,13 @@
 {
     "livro": "2 Coríntios",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "O apóstolo é fiel ao ministério",
+        "7": "O poder do servo vem de Deus",
+        "16": "O motivo e efeito das aflições"
+    },
     "versiculos": {
-        "1": "Por isso, tendo este ministério, segundo a misericórdia que nos foi feita, não desfalecemos;",
+        "1": "POR isso, tendo este ministério, segundo a misericórdia que nos foi feita, não desfalecemos;",
         "2": "Antes, rejeitamos as coisas que por vergonha se ocultam, não andando com astúcia nem falsificando a palavra de Deus; e assim nos recomendamos à consciência de todo o homem, na presença de Deus, pela manifestação da verdade.",
         "3": "Mas, se ainda o nosso evangelho está encoberto, para os que se perdem está encoberto.",
         "4": "Nos quais o deus deste século cegou os entendimentos dos incrédulos, para que lhes não resplandeça a luz do evangelho da glória de Cristo, que é a imagem de Deus.",

@@ -1,9 +1,12 @@
 {
     "livro": "Números",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Celebração da segunda Páscoa",
+        "15": "A nuvem sobre a santa Habitação"
+    },
     "versiculos": {
-        "1": "E falou o Senhor a Moisés no deserto de Sinai, no ano segundo da sua saída da terra do Egito, no primeiro mês, dizendo:",
+        "1": "E FALOU o Senhor a Moisés no deserto de Sinai, no ano segundo da sua saída da terra do Egito, no primeiro mês, dizendo:",
         "2": "Celebrem os filhos de Israel a páscoa a seu tempo determinado.",
         "3": "No dia catorze deste mês, pela tarde, a seu tempo determinado a celebrareis; segundo todos os seus estatutos, e segundo todos os seus ritos, a celebrareis.",
         "4": "Disse, pois, Moisés aos filhos de Israel que celebrassem a páscoa.",

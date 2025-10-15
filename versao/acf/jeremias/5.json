@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Os pecados do povo de Deus",
+        "18": "A pedagogia da correção divina"
+    },
     "versiculos": {
-        "1": "Dai voltas às ruas de Jerusalém, e vede agora; e informai-vos, e buscai pelas suas praças, a ver se achais alguém, ou se há homem que pratique a justiça ou busque a verdade; e eu lhe perdoarei.",
+        "1": "DAI voltas às ruas de Jerusalém, e vede agora; e informai-vos, e buscai pelas suas praças, a ver se achais alguém, ou se há homem que pratique a justiça ou busque a verdade; e eu lhe perdoarei.",
         "2": "E ainda que digam: Vive o Senhor, decerto falsamente juram.",
         "3": "Ah Senhor, porventura não atentam os teus olhos para a verdade? Feriste-os, e não lhes doeu; consumiste-os, e não quiseram receber a correção; endureceram as suas faces mais do que uma rocha; não quiseram voltar.",
         "4": "Eu, porém, disse: Deveras estes são pobres; são loucos, pois não sabem o caminho do Senhor, nem o juízo do seu Deus.",

@@ -1,9 +1,14 @@
 {
     "livro": "Josué",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "As cidades dos levitas",
+        "9": "A herança dos coatitas",
+        "34": "A parte dos filhos de Merari",
+        "43": "Conclusão da partilha"
+    },
     "versiculos": {
-        "1": "Então os cabeças dos pais dos levitas se achegaram a Eleazar, o sacerdote, e a Josué, filho de Num, e aos cabeças dos pais das tribos dos filhos de Israel;",
+        "1": "ENTÃO os cabeças dos pais dos levitas se achegaram a Eleazar, o sacerdote, e a Josué, filho de Num, e aos cabeças dos pais das tribos dos filhos de Israel;",
         "2": "E falaram-lhes em Siló, na terra de Canaã, dizendo: O Senhor ordenou, pelo ministério de Moisés, que se nos dessem cidades para habitar, e os seus arrabaldes para os nossos animais.",
         "3": "Por isso os filhos de Israel deram aos levitas da sua herança, conforme a ordem do Senhor, as seguintes cidades e os seus arrabaldes.",
         "4": "E saiu a sorte para as famílias dos coatitas; e aos filhos de Arão, o sacerdote, que eram dos levitas, tiveram por sorte da tribo de Judá, e da tribo de Simeão, e da tribo de Benjamim, treze cidades;",

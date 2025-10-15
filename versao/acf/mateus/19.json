@@ -1,9 +1,14 @@
 {
     "livro": "Mateus",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "Casamento e Divórcio",
+        "13": "Jesus abençoa as crianças",
+        "16": "Dificilmente os ricos serão salvos",
+        "27": "As recompensas no Reino"
+    },
     "versiculos": {
-        "1": "E aconteceu que, concluindo Jesus estes discursos, saiu da Galileia, e dirigiu-se aos confins da Judeia, além do Jordão;",
+        "1": "E ACONTECEU que, concluindo Jesus estes discursos, saiu da Galileia, e dirigiu-se aos confins da Judeia, além do Jordão;",
         "2": "E seguiram-no grandes multidões, e curou-as ali.",
         "3": "Então chegaram a ele os fariseus, tentando-o, e dizendo-lhe: É lícito ao homem repudiar sua mulher por qualquer motivo?",
         "4": "Ele, porém, respondendo, disse-lhes: Não tendes lido que aquele que os fez no princípio macho e fêmea os fez,",

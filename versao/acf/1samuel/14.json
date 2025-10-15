@@ -1,9 +1,17 @@
 {
     "livro": "1 Samuel",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "Jônatas vence os filisteus",
+        "15": "Deus entrega a vitória a Israel",
+        "24": "Ordem irrefletida de Saul",
+        "31": "Falta ritual cometida pelo povo",
+        "36": "O povo salva Jônatas",
+        "47": "Resumo do reinado de Saul",
+        "49": "A família de Saul"
+    },
     "versiculos": {
-        "1": "Sucedeu, pois, que um dia disse Jônatas, filho de Saul, ao moço que lhe levava as armas: Vem, passemos à guarnição dos filisteus, que está lá daquele lado. Porém não o fez saber a seu pai.",
+        "1": "SUCEDEU, pois, que um dia disse Jônatas, filho de Saul, ao moço que lhe levava as armas: Vem, passemos à guarnição dos filisteus, que está lá daquele lado. Porém não o fez saber a seu pai.",
         "2": "E estava Saul à extremidade de Gibeá, debaixo da romeira que havia em Migrom; e o povo que estava com ele era uns seiscentos homens.",
         "3": "E Aías, filho de Aitube, irmão de Icabode, o filho de Fineias, filho de Eli, sacerdote do Senhor em Siló, trazia o éfode; porém o povo não sabia que Jônatas tinha ido.",
         "4": "E entre os desfiladeiros pelos quais Jônatas procurava passar à guarnição dos filisteus, deste lado havia uma penha aguda, e do outro lado uma penha aguda; e era o nome de uma Bozez, e o nome da outra Sené.",

@@ -1,9 +1,17 @@
 {
     "livro": "Marcos",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "A transfiguração de Jesus",
+        "14": "Jesus cura um menino possesso",
+        "30": "O segundo anúncio da Paixão",
+        "33": "Quem é o maior no Reino?",
+        "38": "Quem não é contra, está a favor",
+        "42": "Evitar o pecado a todo custo",
+        "49": "Os cristãos são o sal da terra"
+    },
     "versiculos": {
-        "1": "Dizia-lhes também: Em verdade vos digo que, dos que aqui estão, alguns há que não provarão a morte sem que vejam chegado o reino de Deus com poder.",
+        "1": "DIZIA-LHES também: Em verdade vos digo que, dos que aqui estão, alguns há que não provarão a morte sem que vejam chegado o reino de Deus com poder.",
         "2": "E seis dias depois Jesus tomou consigo a Pedro, a Tiago, e a João, e os levou sós, em particular, a um alto monte; e transfigurou-se diante deles;",
         "3": "E as suas vestes tornaram-se resplandecentes, extremamente brancas como a neve, tais como nenhum lavadeiro sobre a terra as poderia branquear.",
         "4": "E apareceu-lhes Elias, com Moisés, e falavam com Jesus.",

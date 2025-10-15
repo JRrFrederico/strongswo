@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "A reflexão de Elifaz, amigo de Jó"
+    },
     "versiculos": {
-        "1": "Então respondeu Elifaz o temanita, e disse:",
+        "1": "ENTÃO respondeu Elifaz o temanita, e disse:",
         "2": "Se intentarmos falar-te, enfadar-te-ás? Mas quem poderia conter as palavras?",
         "3": "Eis que ensinaste a muitos, e tens fortalecido as mãos fracas.",
         "4": "As tuas palavras firmaram os que tropeçavam e os joelhos desfalecentes tens fortalecido.",

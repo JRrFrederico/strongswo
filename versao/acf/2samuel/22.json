@@ -1,9 +1,11 @@
 {
     "livro": "2 Samuel",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "Hino de vitória de Davi"
+    },
     "versiculos": {
-        "1": "E falou Davi ao Senhor as palavras deste cântico, no dia em que o Senhor o livrou das mãos de todos os seus inimigos e das mãos de Saul.",
+        "1": "E FALOU Davi ao Senhor as palavras deste cântico, no dia em que o Senhor o livrou das mãos de todos os seus inimigos e das mãos de Saul.",
         "2": "Disse pois: O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador.",
         "3": "Deus é o meu rochedo, nele confiarei; o meu escudo, e a força da minha salvação, o meu alto retiro, e o meu refúgio. Ó meu Salvador, da violência me salvas.",
         "4": "O Senhor, digno de louvor, invocarei, e de meus inimigos ficarei livre,",

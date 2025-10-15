@@ -1,9 +1,14 @@
 {
     "livro": "Isaías",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Assíria, a navalha do SENHOR",
+        "9": "O SENHOR deve ser venerado",
+        "11": "A missão do profeta Isaías",
+        "21": "A marcha dos povos na escuridão"
+    },
     "versiculos": {
-        "1": "Disse-me também o Senhor: Toma um grande rolo, e escreve nele com caneta de homem: Apressando-se ao despojo, apressurou-se à presa.",
+        "1": "DISSE-ME também o Senhor: Toma um grande rolo, e escreve nele com caneta de homem: Apressando-se ao despojo, apressurou-se à presa.",
         "2": "Então tomei comigo fiéis testemunhas, a Urias sacerdote, e a Zacarias, filho de Jeberequias,",
         "3": "E fui ter com a profetisa, e ela concebeu, e deu à luz um filho; e o Senhor me disse: Põe-lhe o nome de Maer-Salal-Has-Baz.",
         "4": "Porque antes que o menino saiba dizer meu pai, ou minha mãe, se levarão as riquezas de Damasco, e os despojos de Samaria, diante do rei da Assíria.",

@@ -1,9 +1,12 @@
 {
     "livro": "1 Samuel",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi é ungido rei de Israel",
+        "14": "Davi é convocado por Saul"
+    },
     "versiculos": {
-        "1": "Então disse o Senhor a Samuel: Até quando terás dó de Saul, havendo-o eu rejeitado, para que não reine sobre Israel? Enche um chifre de azeite, e vem, enviar-te-ei a Jessé o belemita; porque dentre os seus filhos me tenho provido de um rei.",
+        "1": "ENTÃO disse o Senhor a Samuel: Até quando terás dó de Saul, havendo-o eu rejeitado, para que não reine sobre Israel? Enche um chifre de azeite, e vem, enviar-te-ei a Jessé o belemita; porque dentre os seus filhos me tenho provido de um rei.",
         "2": "Porém disse Samuel: Como irei eu? Pois, ouvindo-o Saul, me matará. Então disse o Senhor: Toma uma bezerra das vacas em tuas mãos, e dize: Vim para sacrificar ao Senhor.",
         "3": "E convidarás a Jessé ao sacrifício; e eu te farei saber o que hás de fazer, e ungir-me-ás a quem eu te disser.",
         "4": "Fez, pois, Samuel o que dissera o Senhor, e veio a Belém; então os anciãos da cidade saíram ao encontro, tremendo, e disseram: De paz é a tua vinda?",

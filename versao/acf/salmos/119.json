@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 119,
-    "titulos": {},
+    "titulos": {
+        "1": "A excelência da Palavra de Deus"
+    },
     "versiculos": {
-        "1": "Bem-aventurados os retos em seus caminhos, que andam na lei do Senhor.",
+        "1": "BEM-AVENTURADOS os retos em seus caminhos, que andam na lei do Senhor.",
         "2": "Bem-aventurados os que guardam os seus testemunhos, e que o buscam com todo o coração.",
         "3": "E não praticam iniquidade, mas andam nos seus caminhos.",
         "4": "Tu ordenaste os teus mandamentos, para que diligentemente os observássemos.",

@@ -1,9 +1,12 @@
 {
     "livro": "1 Samuel",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "Morre Samuel em Ramá",
+        "2": "Davi, Nabal e Abigail"
+    },
     "versiculos": {
-        "1": "E faleceu Samuel, e todo o Israel se ajuntou, e o prantearam, e o sepultaram na sua casa, em Ramá. E Davi se levantou e desceu ao deserto de Parã.",
+        "1": "E FALECEU Samuel, e todo o Israel se ajuntou, e o prantearam, e o sepultaram na sua casa, em Ramá. E Davi se levantou e desceu ao deserto de Parã.",
         "2": "E havia um homem em Maom, que tinha as suas possessões no Carmelo; e era este homem muito poderoso, e tinha três mil ovelhas e mil cabras; e estava tosquiando as suas ovelhas no Carmelo.",
         "3": "E era o nome deste homem Nabal, e o nome de sua mulher Abigail; e era a mulher de bom entendimento e formosa; porém o homem era duro, e maligno nas obras, e era da casa de Calebe.",
         "4": "E ouviu Davi no deserto que Nabal tosquiava as suas ovelhas,",

@@ -1,9 +1,14 @@
 {
     "livro": "1 Samuel",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi livra o povo de Queila",
+        "7": "Saul persegue Davi",
+        "15": "Jônatas reencontra Davi",
+        "19": "Davi escapa de Saul de novo"
+    },
     "versiculos": {
-        "1": "E foi anunciado a Davi, dizendo: Eis que os filisteus pelejam contra Queila, e saqueiam as eiras.",
+        "1": "E FOI anunciado a Davi, dizendo: Eis que os filisteus pelejam contra Queila, e saqueiam as eiras.",
         "2": "E consultou Davi ao Senhor, dizendo: Irei eu, e ferirei a estes filisteus? E disse o Senhor a Davi: Vai, e ferirás aos filisteus, e livrarás a Queila.",
         "3": "Porém os homens de Davi lhe disseram: Eis que tememos aqui em Judá, quanto mais indo a Queila contra os esquadrões dos filisteus.",
         "4": "Então Davi tornou a consultar ao Senhor, e o Senhor lhe respondeu, e disse: Levanta-te, desce a Queila, porque te dou os filisteus na tua mão.",

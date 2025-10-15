@@ -1,9 +1,12 @@
 {
     "livro": "Marcos",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "A libertação de um possesso",
+        "21": "Jesus vence a doença e a morte"
+    },
     "versiculos": {
-        "1": "E chegaram ao outro lado do mar, à província dos gadarenos.",
+        "1": "E CHEGARAM ao outro lado do mar, à província dos gadarenos.",
         "2": "E, saindo ele do barco, lhe saiu logo ao seu encontro, dos sepulcros, um homem com espírito imundo;",
         "3": "O qual tinha a sua morada nos sepulcros, e nem ainda com cadeias o podia alguém prender;",
         "4": "Porque, tendo sido muitas vezes preso com grilhões e cadeias, as cadeias foram por ele feitas em pedaços, e os grilhões em migalhas, e ninguém o podia amansar.",

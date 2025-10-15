@@ -1,9 +1,16 @@
 {
     "livro": "Ezequiel",
     "capitulo": 48,
-    "titulos": {},
+    "titulos": {
+        "1": "A divisão da nova terra de Israel",
+        "8": "As porções dadas aos sacerdotes",
+        "13": "A porção de terra dada aos levitas",
+        "21": "A porção da terra destinada ao rei",
+        "23": "As porções das demais tribos",
+        "30": "Os portões de Jerusalém"
+    },
     "versiculos": {
-        "1": "E estes são os nomes das tribos: desde o extremo norte, ao longo do caminho de Hetlom, indo para Hamate, até Hazar-Enom, termo de Damasco para o norte, ao pé de Hamate, terá Dã uma parte, desde o lado oriental até o ocidental.",
+        "1": "E ESTES são os nomes das tribos: desde o extremo norte, ao longo do caminho de Hetlom, indo para Hamate, até Hazar-Enom, termo de Damasco para o norte, ao pé de Hamate, terá Dã uma parte, desde o lado oriental até o ocidental.",
         "2": "E junto ao termo de Dã, desde o lado oriental até o ocidental, Aser terá uma porção.",
         "3": "E junto ao termo de Aser, desde o lado oriental até o ocidental, Naftali, uma porção.",
         "4": "E junto ao termo de Naftali, desde o lado oriental até o lado ocidental, Manassés, uma porção.",

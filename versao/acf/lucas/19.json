@@ -1,9 +1,16 @@
 {
     "livro": "Lucas",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "A salvação de Zaqueu, o publicano",
+        "11": "A parábola das moedas de ouro",
+        "28": "Jesus é conduzido em triunfo",
+        "41": "Jesus chora por Jerusalém",
+        "45": "Os profanadores da Casa de Deus",
+        "47": "O povo ia ao templo ouvir Jesus"
+    },
     "versiculos": {
-        "1": "E, tendo Jesus entrado em Jericó, ia passando.",
+        "1": "E, TENDO Jesus entrado em Jericó, ia passando.",
         "2": "E eis que havia ali um homem chamado Zaqueu; e era este um chefe dos publicanos, e era rico.",
         "3": "E procurava ver quem era Jesus, e não podia, por causa da multidão, pois era de pequena estatura.",
         "4": "E, correndo adiante, subiu a um sicômoro para o ver; porque havia de passar por ali.",

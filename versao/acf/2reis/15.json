@@ -1,9 +1,17 @@
 {
     "livro": "2 Reis",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "O reinado de Azarias, rei de Judá",
+        "8": "Zacarias reina seis meses em Israel",
+        "13": "Salum reina um mês em Israel",
+        "17": "O reinado de Menaém, rei de Israel",
+        "23": "Os atos de Pecaías, rei de Israel",
+        "27": "O governo de Peca, rei de Israel",
+        "32": "Os atos de Jotão, rei de Judá"
+    },
     "versiculos": {
-        "1": "No ano vinte e sete de Jeroboão, rei de Israel, começou a reinar Azarias, filho de Amazias, rei de Judá.",
+        "1": "NO ano vinte e sete de Jeroboão, rei de Israel, começou a reinar Azarias, filho de Amazias, rei de Judá.",
         "2": "Tinha dezesseis anos quando começou a reinar, e cinquenta e dois anos reinou em Jerusalém; e era o nome de sua mãe Jecolias, de Jerusalém.",
         "3": "E fez o que era reto aos olhos do Senhor, conforme tudo o que fizera Amazias, seu pai.",
         "4": "Tão somente os altos não foram tirados; porque o povo ainda sacrificava e queimava incenso nos altos.",

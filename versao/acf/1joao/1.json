@@ -1,9 +1,13 @@
 {
     "livro": "1 João",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "A Palavra de Deus se fez carne",
+        "5": "Deus é luz e devemos andar na luz",
+        "8": "A confissão de pecados e o perdão"
+    },
     "versiculos": {
-        "1": "O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que temos contemplado, e as nossas mãos tocaram da Palavra da vida",
+        "1": "O QUE era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que temos contemplado, e as nossas mãos tocaram da Palavra da vida",
         "2": "(Porque a vida foi manifestada, e nós a vimos, e testificamos dela, e vos anunciamos a vida eterna, que estava com o Pai, e nos foi manifestada);",
         "3": "O que vimos e ouvimos, isso vos anunciamos, para que também tenhais comunhão conosco; e a nossa comunhão é com o Pai, e com seu Filho Jesus Cristo.",
         "4": "Estas coisas vos escrevemos, para que o vosso gozo se cumpra.",

@@ -1,9 +1,12 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Conselhos finais aos jovens",
+        "9": "Conclusão do Sábio"
+    },
     "versiculos": {
-        "1": "Lembra-te também do teu Criador nos dias da tua mocidade, antes que venham os maus dias, e cheguem os anos dos quais venhas a dizer: Não tenho neles contentamento;",
+        "1": "LEMBRA-TE também do teu Criador nos dias da tua mocidade, antes que venham os maus dias, e cheguem os anos dos quais venhas a dizer: Não tenho neles contentamento;",
         "2": "Antes que se escureçam o sol, e a luz, e a lua, e as estrelas, e tornem a vir as nuvens depois da chuva;",
         "3": "No dia em que tremerem os guardas da casa, e se encurvarem os homens fortes, e cessarem os moedores, por já serem poucos, e se escurecerem os que olham pelas janelas;",
         "4": "E as portas da rua se fecharem por causa do baixo ruído da moedura, e se levantar à voz das aves, e todas as filhas da música se abaterem.",

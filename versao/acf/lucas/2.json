@@ -1,9 +1,16 @@
 {
     "livro": "Lucas",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Nasce Jesus de Nazaré, o Cristo",
+        "8": "“Gloria in Exelsis Deo!”",
+        "21": "Jesus é apresentado no templo",
+        "25": "“Nunc Dimittis”",
+        "36": "As profecias de Ana",
+        "41": "O menino Jesus no templo"
+    },
     "versiculos": {
-        "1": "E aconteceu naqueles dias que saiu um decreto da parte de César Augusto, para que todo o mundo se alistasse",
+        "1": "E ACONTECEU naqueles dias que saiu um decreto da parte de César Augusto, para que todo o mundo se alistasse",
         "2": "(Este primeiro alistamento foi feito sendo Quirino presidente da Síria).",
         "3": "E todos iam alistar-se, cada um à sua própria cidade.",
         "4": "E subiu também José da Galileia, da cidade de Nazaré, à Judeia, à cidade de Davi, chamada Belém (porque era da casa e família de Davi),",

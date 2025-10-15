@@ -1,26 +1,28 @@
 {
     "livro": "Jeremias",
     "capitulo": 35,
-    "titulos": {},
+    "titulos": {
+        "1": "Os recabitas: exemplo de obediência"
+    },
     "versiculos": {
-        "1": "A palavra que veio a Jeremias da parte do SENHOR, nos dias de Jeoiaquim, filho de Josias, rei de Judá, dizendo:",
-        "2": "Vai até a casa dos recabitas, e fala com eles, e traze-os para a casa do SENHOR, para dentro de uma das câmaras, e dá-lhes vinho para beber.",
-        "3": "Então eu tomei a Jaazanias, o filho de Jeremias, o filho de Habazinias, e a seus irmãos, e a todos os seus filhos, e a casa inteira dos recabitas.",
-        "4": "E eu os levei à casa do SENHOR, à câmara dos filhos de Hanã, o filho de Jigdalias, um homem de Deus, que estava próxima à câmara dos príncipes, que estava acima da câmara de Maaseias, o filho de Salum, o guardião da porta.",
-        "5": "E pus perante os filhos da casa dos recabitas jarras cheias de vinho, e taças; e eu lhes disse: Bebei vinho.",
-        "6": "Mas eles disseram: Nós não beberemos vinho, porque Jonadabe, o filho de Recabe, nosso pai, nos ordenou, dizendo: Não bebais vinho, nem vós, nem vossos filhos, para sempre.",
-        "7": "Não construireis casa, nem semeareis semente, não plantareis vinha, nem tereis nenhuma. Porém todos os vossos dias vós habitareis em tendas, para que possais viver muitos dias na terra onde sois estrangeiros.",
-        "8": "Assim obedecemos à voz de Jonadabe, o filho de Recabe, nosso pai, em tudo que ele nos ordenou, para não beber vinho todos os nossos dias, nem nós, nem nossas esposas, nem nossos filhos, nem nossas filhas;",
-        "9": "nem construir casas para nossa habitação, nem ter vinha, nem campo, nem semente.",
-        "10": "Porém, habitamos em tendas, e obedecemos, e fizemos conforme tudo o que nos ordenou Jonadabe, nosso pai.",
-        "11": "E sucedeu que, quando Nabucodonosor, rei de Babilônia, subiu a esta terra, nós dissemos: Vinde, e vamo-nos a Jerusalém por medo do exército dos caldeus, e por medo do exército dos sírios, então nós habitamos em Jerusalém.",
-        "12": "Então veio a palavra do SENHOR até Jeremias, dizendo:",
-        "13": "Assim diz o SENHOR dos Exércitos, o Deus de Israel: Vai e dize aos homens de Judá, e aos habitantes de Jerusalém: Não aceitareis instrução para escutardes as minhas palavras? diz o SENHOR.",
-        "14": "As palavras de Jonadabe, o filho de Recabe, que ordenou a seus filhos a não beber vinho, são cumpridas, pois até este dia eles nada bebem, porém obedecem ao mandado do seu pai. Eu, porém, vos falei, madrugando e falando, mas vós não me escutastes.",
-        "15": "Eu também vos enviei todos os meus servos, os profetas, madrugando e enviando-os, dizendo: Convertei-vos agora, cada homem do seu caminho mau, e emendai vossos feitos, e não vades após outros deuses para servi-los, e habitareis na terra que eu dei a vós e a vossos pais. Porém não inclinastes o vosso ouvido, e nem me escutastes.",
-        "16": "Porque os filhos de Jonadabe, filho de Recabe, guardaram o mandado de seu pai, que ele os ordenou, mas este povo não me escutou.",
-        "17": "Portanto, assim diz o SENHOR Deus dos Exércitos, o Deus de Israel: Eis que eu trarei sobre Judá, e sobre todos os habitantes de Jerusalém, todo o mal que eu pronunciei contra eles, porque eu lhes falei, mas eles não ouviram, e eu os chamei, porém eles não responderam.",
-        "18": "E Jeremias disse à casa dos recabitas: Assim diz o SENHOR dos Exércitos, o Deus de Israel: Como obedecestes o mandamento de Jonadabe, vosso pai, e guardastes todos os seus preceitos, e fizestes conforme tudo o que ele vos ordenou,",
-        "19": "portanto assim diz o SENHOR dos Exércitos, o Deus de Israel: Não faltará a Jonadabe, o filho de Recabe, um homem que estará diante de mim todos os dias."
+        "1": "Eis a Palavra do S ENHOR que veio a Jeremias, nos dias de Jeoaquim, filho de Josias, rei de Judá, nos seguintes termos:",
+        "2": "“Vai à família dos recabitas e conversa com eles; leva-os à Casa de Yahweh , a uma das salas, e oferece-lhes vinho para beber.”",
+        "3": "Então, tomei a Jazanias, filho de Jeremias, filho de Habazinas, aos irmãos, e a todos os filhos dele, e a toda a casa dos recabitas;",
+        "4": "e os levei ao Templo do S ENHOR , à sala dos filhos de Hanã, filho de Jigdalias, homem de Deus. A sala ficava ao lado da sala dos líderes e debaixo da sala de Maaseias, filho de Salum, o porteiro.",
+        "5": "Em seguida, coloquei vasilhas cheias de vinho e alguns copos diante dos membros da comunidade dos recabitas e lhes pedi que bebessem.",
+        "6": "Eles, no entanto, explicaram: “Não bebemos vinho porque o nosso antepassado Jonadabe, filho de Recabe, nos orientou com a seguinte ordem: ‘Nem vós, nem vossos filhos, jamais bebereis vinho!",
+        "7": "Não construireis casas, nem semeareis; não plantareis nem possuireis vinhas; mas habitareis em tendas durante toda a vossa vida. Assim vivereis muitos dias na terra em que habitais.",
+        "8": "Obedecemos a nosso pai Jonadabe, filho de Recabe, em tudo quanto nos orientou: jamais levamos vinho à boca durante toda a nossa vida, tampouco bebem vinho nossas esposas, filhos e filhas.",
+        "9": "Não construímos casas para nossa moradia; nem mesmo possuímos vinhas, campos ou semente.",
+        "10": "Mas vivemos em tendas, e assim fazemos e obedecemos a tudo quanto nosso pai Jonadabe nos ordenou.",
+        "11": "Assim, quando Nabucodonosor, rei da Babilônia invadiu esta terra, dissemos: Vinde, vamos para Jerusalém, por causa do exército dos babilônios e dos sírios. Por esse motivo, permanecemos em Jerusalém.”",
+        "12": "Então Yahweh dirigiu sua Palavra a Jeremias, ordenando:",
+        "13": "“Assim diz o Todo-Poderoso dos Exércitos, Deus de Israel: “Vai e prega aos homens de Judá e a todos os habitantes de Jerusalém, nestes termos: “Porventura jamais ireis aprender a lição e obedecer à minha Palavra?”, indaga o S ENHOR .",
+        "14": "“Jonadabe, filho de Recabe, ordenou a seus filhos que não bebessem vinho, e essa ordem vem sendo obedecida fielmente até este momento. Eles não bebem vinho, simplesmente porque obedecem a uma determinação do seu antepassado. Entretanto, Eu vos tenho pregado repetidas vezes, e, contudo, sequer me destes ouvidos; tampouco levastes a sério as minhas insistentes orientações.",
+        "15": "Do mesmo modo, insistentemente, vos enviei todos os meus servos e mensageiros: os profetas, com a seguinte admoestação: ‘Convertei-vos agora, cada um do seu mau caminho, corrigi vossas ações e não caminhai atrás de outras divindades para as servir. Sendo assim, com certeza, habitareis na terra que concedi a vós e a vossos pais. Todavia não me destes atenção, tampouco me obedecestes.",
+        "16": "Os filhos de Jonadabe, filho de Recabe, cumpriram o mandamento que seu pai lhes determinou, mas o meu povo preferiu não me obedecer.”",
+        "17": "Portanto, eis que assim declara o Eterno Todo-Poderoso dos Exércitos, Deus de Israel: “Trarei sobre Judá e sobre todos os habitantes de Jerusalém toda a desgraça e catástrofes que profetizei contra eles; pois Eu lhes falei, mas decidiram não me dar ouvidos; e os convoquei, mas nem mesmo me deram uma resposta.",
+        "18": "Então Jeremias entregou uma palavra de benção à toda a família dos recabitas nos seguintes termos: “Eis que assim declara Yahweh dos Exércitos, Deus de Israel: ‘Porque obedecestes ao mandamento de vosso pai Jonadabe, cumprindo todas as suas orientações e agindo de acordo com tudo quanto vos ordenou;",
+        "19": "assim diz o S ENHOR Todo-Poderoso, Deus de Israel: ‘Jamais faltará a Jonadabe, filho de Recabe, um descendente que me adore mediante o seu serviço!’”"
     }
 }

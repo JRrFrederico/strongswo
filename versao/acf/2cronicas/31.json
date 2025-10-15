@@ -1,9 +1,12 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "1": "Os israelitas põem fim à idolatria",
+        "2": "Ezequias orienta o serviço religioso"
+    },
     "versiculos": {
-        "1": "E acabando tudo isto, todos os israelitas que ali se achavam saíram às cidades de Judá e quebraram as estátuas, cortaram os bosques, e derrubaram os altos e altares por toda Judá e Benjamim, como também em Efraim e Manassés, até que tudo destruíram; então tornaram todos os filhos de Israel, cada um para sua possessão, para as cidades deles.",
+        "1": "E ACABANDO tudo isto, todos os israelitas que ali se achavam saíram às cidades de Judá e quebraram as estátuas, cortaram os bosques, e derrubaram os altos e altares por toda Judá e Benjamim, como também em Efraim e Manassés, até que tudo destruíram; então tornaram todos os filhos de Israel, cada um para sua possessão, para as cidades deles.",
         "2": "E estabeleceu Ezequias as turmas dos sacerdotes e levitas, segundo as suas turmas, a cada um segundo o seu ministério; aos sacerdotes e levitas para o holocausto e para as ofertas pacíficas, para ministrarem, louvarem, e cantarem, às portas dos arraiais do Senhor.",
         "3": "Também estabeleceu a parte da fazenda do rei para os holocaustos; para os holocaustos da manhã e da tarde, e para os holocaustos dos sábados, e das luas novas, e das solenidades; como está escrito na lei do Senhor.",
         "4": "E ordenou ao povo, que morava em Jerusalém, que desse a parte dos sacerdotes e levitas, para que eles pudessem se dedicar à lei do Senhor.",

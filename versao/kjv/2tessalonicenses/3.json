@@ -1,25 +1,29 @@
 {
     "livro": "2 Tessalonicenses",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Paulo pede orações aos irmãos",
+        "6": "Advertência contra a ociosidade",
+        "16": "Saudações e a bênção apostólica"
+    },
     "versiculos": {
-        "1": "E, finalmente, irmãos, orai por nós, para que a palavra do Senhor tenha livre curso e seja glorificada, como também o é entre vós.",
-        "2": "E para que sejamos livres de homens irracionais e maus; porque nem todos os homens possuem a fé.",
-        "3": "Mas o Senhor é fiel, e vos confirmará e vos guardará do maligno.",
-        "4": "E confiamos quanto a vós no Senhor, que não só fazeis como fareis as coisas que vos mandamos.",
-        "5": "E o Senhor encaminhe os vossos corações no amor de Deus e na paciente espera por Cristo.",
-        "6": "Nós vos mandamos, irmãos, em nome de nosso Senhor Jesus Cristo, que vos aparteis de todo irmão que anda desordenadamente e não segundo a tradição que ele recebeu de nós.",
-        "7": "Porque vós mesmos sabeis como convém seguir-nos, pois que não nos portamos desordenadamente entre vós,",
-        "8": "nem comemos o pão de homem algum de graça, mas com trabalho e fadiga, trabalhando noite e dia, para não sermos pesados a nenhum de vós.",
-        "9": "Não porque não tivéssemos tal direito, mas para vos dar em nós mesmos exemplo, para nos seguirdes.",
-        "10": "Porque, quando ainda estávamos convosco, isto vos mandamos: que, se alguém não quiser trabalhar, também não coma.",
-        "11": "Porquanto ouvimos que há alguns entre vós que andam desordenadamente, não trabalhando, mas são intrometidos.",
-        "12": "A esses tais, porém, mandamos e exortamos, por nosso Senhor Jesus Cristo, que, trabalhando com sossego, comam o seu próprio pão.",
-        "13": "Mas vós, irmãos, não vos canseis de fazer o bem.",
-        "14": "Mas, se algum homem não obedecer à nossa palavra por esta carta, notai tal homem, e não vos mistureis com ele, para que se envergonhe.",
-        "15": "Todavia, não o considere como inimigo, mas admoestai-o como um irmão.",
-        "16": "Ora, o próprio Senhor da paz vos conceda a paz sempre, por todos os meios. O Senhor seja com todos vós.",
-        "17": "Saudação de Paulo, com minha própria mão, que é o sinal em todas as cartas; assim escrevo.",
-        "18": "A graça de nosso Senhor Jesus Cristo seja com todos vós. Amém."
+        "1": "Concluindo irmãos, orai por nós, para que a Palavra do Senhor seja divulgada rapidamente e receba a devida honra, como aconteceu entre vós.",
+        "2": "Orai também para que sejamos libertos dos homens perversos e maus, pois a fé não é de todos.",
+        "3": "Entretanto, o Senhor é fiel; Ele vos fortalecerá e vos livrará do Maligno.",
+        "4": "Confiamos no Senhor que estais realizando e continuareis a cumprir as orientações que vos entregamos.",
+        "5": "O Senhor dirija os vossos corações ao amor de Deus e na constância de Cristo.",
+        "6": "Caros irmãos, em nome do nosso Senhor Jesus Cristo, ordenamos que vos afasteis de todo irmão que vive sem trabalhar e, portanto, não de acordo com a tradição que recebestes de nós.",
+        "7": "Porquanto, vós mesmos sabeis como deveis seguir o nosso exemplo, pois não vivemos de forma ociosa durante o tempo que estivemos convosco,",
+        "8": "nem comíamos de graça dos alimentos de ninguém; pelo contrário, trabalhávamos dia e noite com esforço e fadiga, a fim de não sermos pesados a nenhum de vós;",
+        "9": "não porque não tivéssemos esse direito assegurado, mas por que era nosso objetivo vos oferecer exemplo em nós mesmos, a fim de nos imitardes.",
+        "10": "Quando ainda estávamos convosco, vos ordenamos isto: Se alguém não quiser trabalhar, também não coma.",
+        "11": "Pois, fomos informados de que alguns entre vós andam desocupados, sem querer trabalhar e se intrometendo na vida particular dos outros.",
+        "12": "A esses, no entanto, ordenamos e admoestamos por nosso Senhor Jesus Cristo que, trabalhando em paz, se alimentem do seu próprio pão.",
+        "13": "Quanto a vós, irmãos, jamais desanimeis de fazer o bem!",
+        "14": "Se alguém desobedecer às nossas orientações, expressas nesta carta, observai-o atentamente e não tenhais contato com ele, para que o mesmo se sinta envergonhado;",
+        "15": "contudo, não o considereis inimigo; pelo contrário, chamai a atenção dele como irmão.",
+        "16": "Ora, o Senhor da paz, Ele pessoalmente, vos dê continuamente a paz em todas as circunstâncias. O Senhor seja com todos vós!",
+        "17": "Eu, Paulo, escrevo esta saudação de próprio punho, a qual é um sinal em todas as minhas epístolas. É dessa forma que escrevo.",
+        "18": "A graça de nosso Senhor Jesus Cristo seja com todos vós."
     }
 }

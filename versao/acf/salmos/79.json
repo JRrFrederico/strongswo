@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 79,
-    "titulos": {},
+    "titulos": {
+        "1": "O povo suplica o socorro de Deus"
+    },
     "versiculos": {
-        "1": "Ó Deus, os gentios vieram à tua herança; contaminaram o teu santo templo; reduziram Jerusalém a montões de pedras.",
+        "1": "Ó DEUS, os gentios vieram à tua herança; contaminaram o teu santo templo; reduziram Jerusalém a montões de pedras.",
         "2": "Deram os corpos mortos dos teus servos por comida às aves dos céus, e a carne dos teus santos às feras da terra.",
         "3": "Derramaram o sangue deles como a água ao redor de Jerusalém, e não houve quem os enterrasse.",
         "4": "Somos feitos opróbrio para nossos vizinhos, escárnio e zombaria para os que estão à roda de nós.",

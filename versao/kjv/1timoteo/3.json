@@ -1,23 +1,25 @@
 {
     "livro": "1 Timóteo",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Recomendações aos líderes"
+    },
     "versiculos": {
-        "1": "Esta é uma palavra fiel: Se um homem deseja o ofício de bispo, boa obra deseja.",
-        "2": "O bispo então deve ser irrepreensível, marido de uma esposa, vigilante, sóbrio, de bom comportamento, dado à hospitalidade, apto para ensinar;",
-        "3": "não dado ao vinho, não espancador, não cobiçoso de lucro desonesto, mas paciente, não contencioso, não avarento;",
-        "4": "que governe bem a sua própria casa, tendo seus filhos em sujeição, com toda a seriedade,",
-        "5": ";",
-        "6": "não um principiante, para que, envaidecendo-se com orgulho, não caia na condenação do diabo.",
-        "7": "Além disso, ele deve ter também bom testemunho dos que estão de fora, para que não caia em descrédito e no laço do diabo.",
-        "8": "Do mesmo modo os diáconos devem ser sérios, não de língua dobre, não dados a muito vinho, não cobiçosos de lucro desonesto,",
-        "9": "guardando o mistério da fé em uma pura consciência.",
-        "10": "E também estes sejam primeiro provados, depois pratiquem o ofício de um diácono, se forem considerados irrepreensíveis.",
-        "11": "Do mesmo modo suas mulheres devem ser sérias, não maldizentes, sóbrias e fiéis em todas as coisas.",
-        "12": "Os diáconos sejam maridos de uma esposa e governem bem seus filhos e suas próprias casas.",
-        "13": "Porque os que praticarem bem o ofício de diácono adquirirão para si uma boa posição e grande confiança na fé que há em Cristo Jesus.",
-        "14": "Estas coisas te escrevo, esperando ir ver-te logo,",
-        "15": "todavia, se eu tardar, para que vós saibas como convém te comportar na casa de Deus, que é a igreja do Deus vivo, a coluna e fundamento da verdade.",
-        "16": "E, sem controvérsia, grande é o mistério da piedade: Deus foi manifesto na carne, justificado no Espírito, visto pelos anjos, pregado aos gentios, crido no mundo, recebido acima na glória."
+        "1": "Esta é uma declaração digna de todo crédito: Se alguém almeja o episcopado, de fato, deseja algo excelente.",
+        "2": "É fundamental, pois, que o bispo seja irrepreensível, marido de uma só esposa, equilibrado, tenha domínio próprio, seja respeitável, hospitaleiro, capacitado para ensinar;",
+        "3": "não deve ser apegado ao vinho, nem violento, mas sim amável, pacífico e não amante do dinheiro.",
+        "4": "O bispo deve também governar bem sua própria família, sabendo educar seus filhos a lhe serem submissos com todo o respeito.",
+        "5": "Porquanto, se alguém não sabe governar sua própria família, como poderá cuidar da Igreja de Deus?",
+        "6": "Não deve ser recém convertido, a fim de que não se ensoberbeça e caia na mesma condenação em que caiu o Diabo.",
+        "7": "Também é necessário que tenha bom testemunho dos de fora, para que não seja envergonhado nem caia na armadilha do Diabo.",
+        "8": "Quanto aos diáconos, da mesma forma, devem ser honrados, de uma só palavra, não dados a muito vinho, nem tampouco dominados pelo amor ao dinheiro.",
+        "9": "Devem permanecer no ministério da fé com consciência pura.",
+        "10": "Devem também, antes de tudo, passar por experiência; depois, se não houver nada que os desabonem, que exerçam o diaconato.",
+        "11": "As mulheres, da mesma maneira, devem ser respeitáveis, não caluniadoras, moderadas e fiéis em tudo.",
+        "12": "Os diáconos devem ser maridos de uma só esposa e governar bem os filhos e a própria casa.",
+        "13": "Pois todos aqueles que servirem bem como diáconos alcançarão uma posição de honra e muita intrepidez na fé que há em Cristo Jesus.",
+        "14": "Ainda que alimente a esperança de ver-te em breve, escrevo-te estas orientações;",
+        "15": "contudo, se eu demorar, fiques ciente de como as pessoas devem comportar-se na casa de Deus, que é a Igreja do Deus vivo, coluna e fundamento da verdade.",
+        "16": "Sem dúvida, grande é esse mistério da fé: Deus foi manifestado em carne, foi justificado no Espírito, contemplado pelos anjos, pregado entre as nações, crido no mundo e recebido acima na glória."
     }
 }

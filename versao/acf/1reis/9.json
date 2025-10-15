@@ -1,9 +1,15 @@
 {
     "livro": "1 Reis",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus fala com Salomão de novo",
+        "10": "A insatisfação de Hirão",
+        "15": "O uso do trabalho escravo",
+        "25": "O culto a Deus no Templo",
+        "26": "Salomão investe em navios"
+    },
     "versiculos": {
-        "1": "Sucedeu, pois, que, acabando Salomão de edificar a casa do Senhor, e a casa do rei, e todo o desejo de Salomão, que lhe veio à vontade fazer,",
+        "1": "SUCEDEU, pois, que, acabando Salomão de edificar a casa do Senhor, e a casa do rei, e todo o desejo de Salomão, que lhe veio à vontade fazer,",
         "2": "O Senhor tornou a aparecer a Salomão; como lhe tinha aparecido em Gibeom.",
         "3": "E o Senhor lhe disse: Ouvi a tua oração, e a súplica que fizeste perante mim; santifiquei a casa que edificaste, a fim de pôr ali o meu nome para sempre; e os meus olhos e o meu coração estarão ali todos os dias.",
         "4": "E se tu andares perante mim como andou Davi, teu pai, com inteireza de coração e com sinceridade, para fazeres segundo tudo o que te mandei, e guardares os meus estatutos e os meus juízos,",

@@ -1,9 +1,13 @@
 {
     "livro": "1 Samuel",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Guerra contra os filisteus",
+        "8": "Sacrifícios reprováveis",
+        "16": "A fraqueza militar de Israel"
+    },
     "versiculos": {
-        "1": "Saul reinou um ano; e no segundo ano do seu reinado sobre Israel,",
+        "1": "SAUL reinou um ano; e no segundo ano do seu reinado sobre Israel,",
         "2": "Saul escolheu para si três mil homens de Israel; e estavam com Saul dois mil em Micmás e na montanha de Betel, e mil estavam com Jônatas em Gibeá de Benjamim; e o resto do povo despediu, cada um para sua casa.",
         "3": "E Jônatas feriu a guarnição dos filisteus, que estava em Gibeá, o que os filisteus ouviram; pelo que Saul tocou a trombeta por toda a terra, dizendo: Ouçam os hebreus.",
         "4": "Então todo o Israel ouviu dizer: Saul feriu a guarnição dos filisteus, e também Israel se fez abominável aos filisteus. Então o povo foi convocado para junto de Saul em Gilgal.",

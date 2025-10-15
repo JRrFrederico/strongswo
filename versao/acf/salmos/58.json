@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 58,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus destruirá todos os ímpios"
+    },
     "versiculos": {
-        "1": "Acaso falais vós, deveras, ó congregação, a justiça? Julgais retamente, ó filhos dos homens?",
+        "1": "ACASO falais vós, deveras, ó congregação, a justiça? Julgais retamente, ó filhos dos homens?",
         "2": "Antes no coração forjais iniquidades; sobre a terra pesais a violência das vossas mãos.",
         "3": "Alienam-se os ímpios desde a madre; andam errados desde que nasceram, falando mentiras.",
         "4": "O seu veneno é semelhante ao veneno da serpente; são como a víbora surda, que tapa os ouvidos,",

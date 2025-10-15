@@ -1,23 +1,26 @@
 {
     "livro": "Isaías",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "O reino do descendente de Davi",
+        "10": "O retorno dos dispersos"
+    },
     "versiculos": {
-        "1": "E sairá um ramo do tronco de Jessé, e um Renovo se brotará das raízes dele.",
-        "2": "E o Espírito do ­SENHOR repousará sobre ele. O espírito de sabedoria e entendimento, o espírito de conselho e poder, o espírito de conhecimento e de temor do ­SENHOR;",
-        "3": "e o fará de rápido entendimento no temor do ­SENHOR. E não julgará de acordo com a visão dos seus olhos, nem reprovará de acordo com o ouvir de seus ouvidos.",
-        "4": "Porém, com justiça julgará o pobre, e repreenderá com equidade o humilde da terra. Ele golpeará a terra com a vara da sua boca, e com o sopro de seus lábios ele matará o perverso.",
-        "5": "E justiça será o cinto que envolve seus lombos, e fidelidade o cinturão que cinge sua cintura.",
-        "6": "O lobo também morará com o cordeiro, e o leopardo se deitará com o cabrito. E o novilho e o leão jovem e a rês, juntos; e um menino pequeno os conduzirá.",
-        "7": "E a vaca e o urso alimentar-se-ão. Seus filhotes se deitarão juntos e o leão comerá palha como o boi.",
-        "8": "E a criança que ainda mama brincará na cova da áspide, e a criança desmamada colocará sua mão na toca da cocatrice.",
-        "9": "Eles não ferirão nem destruirão em todo o meu santo monte. Porque a terra estará cheia do conhecimento do ­SENHOR, como as águas cobrem o mar.",
-        "10": "E, naquele dia, haverá uma raiz de Jessé, a qual erguerão como uma bandeira do povo; a ele os gentios buscarão, e seu descanso será glorioso.",
-        "11": "E acontecerá naquele dia, que o Senhor colocará sua mão novamente, uma segunda vez, para resgatar o remanescente de seu povo, o qual sairá da Assíria, e do Egito, e de Patros, e de Cuche, e de Elão, e de Sinar, e de Hamate e das ilhas do mar.",
-        "12": "E Ele erguerá uma bandeira para as nações e reunirá os desterrados de Israel, e ajuntará os dispersos de Judá desde os quatro cantos da terra.",
-        "13": "A inveja de Efraim também o deixará, e os adversários de Judá serão cortados. Efraim não invejará Judá e Judá não importunará Efraim.",
-        "14": "Porém, eles voarão sobre os ombros dos filisteus em direção ao oeste. Eles despojarão os do leste juntamente. Irão pôr suas mãos sobre Edom e Moabe, e os filhos de Amom os obedecerão.",
-        "15": "E o ­SENHOR destruirá completamente a língua do mar egípcio. E com seu poderoso vento ele sacudirá sua mão sobre o rio, o ferirá nos sete riachos e fará homens atravessá-lo a pé enxuto.",
-        "16": "E haverá uma estrada para o remanescente do seu povo, o qual será deixado, da Assíria. Como ocorreu a Israel no dia em que subiu da terra do Egito."
+        "1": "Eis que um ramo surgirá do tronco de Jessé e das suas raízes um rebento brotará!",
+        "2": "O Espírito de Yahweh , o S ENHOR , repousará sobre ele, o Espírito que dá sabedoria e entendimento, o Espírito que traz conselho e poder, o Espírito que proporciona o verdadeiro saber, o amor e o temor do S ENHOR .",
+        "3": "O amor reverente a Yahweh será a fonte da sua inspiração. Ele não julgará segundo a aparência, tampouco decidirá com base no que ouviu dizer.",
+        "4": "Antes, julgará com retidão e carinho todos os necessitados, com justiça tomará decisões em favor dos pobres. Usará a sua Palavra como se fosse um cajado, ferirá a terra; e com o sopro da sua boca exterminará os ímpios!",
+        "5": "A justiça será como uma faixa em seu peito, e a lealdade o seu cinturão.",
+        "6": "O lobo conviverá com o cordeiro e o leopardo repousará junto ao cabrito. O bezerro, o leão e o novilho gordo se alimentarão juntos pelo campo; e uma criança os guiará.",
+        "7": "A vaca e o urso pastarão juntos, seus filhotes dormirão lado a lado e o leão comerá palha como o boi.",
+        "8": "Os bebês brincarão tranquilos próximos ao esconderijo da cobra, a criança colocará a mão no ninho da víbora.",
+        "9": "Ninguém mais fará mal algum, nem haverá qualquer destruição em todo o meu santo monte, porquanto toda a terra se encherá do conhecimento de Yahweh , o S ENHOR , assim como as águas cobrem o mar.",
+        "10": "Naquele dia, a raiz de Jessé, que se erguerá com um sinal para os povos, será procurada pelas nações, e a sua morada se cobrirá de glória.",
+        "11": "Naquele dia Yahweh estenderá o braço pela segunda vez para resgatar o remanescente do seu povo que ficou na Assíria, no Egito, em Patros , no alto Egito, em Cuxe , na Etiópia; em Elião, em Senaar , na Babilônia, em Hamate e nas ilhas do mar.",
+        "12": "Ele erguerá uma espécie de bandeira para as nações e reunirá os banidos de Israel de todas as partes; reunirá o povo disperso de Judá desde os quatro cantos da terra.",
+        "13": "Então cessará o ciúme de Efraim, os adversários de Judá serão exterminados. Efraim não tornará a ter inveja de Judá e Judá não voltará a hostilizar a Efraim.",
+        "14": "Ambos se infiltrarão pelas encostas da Filístia, a oeste; juntos saquearão o povo do leste. Edom e Moabe se renderão ao seu domínio e os amonitas se lhes submeterão.",
+        "15": "Yahweh secará o golfo do mar do Egito; por meio de um vento muito forte varrerá com a mão o Rio , Eufrates, e o dividirá em sete riachos, a fim de que se possa atravessá-lo de sandálias.",
+        "16": "Haverá um caminho para o remanescente do seu povo que for deixado na Assíria, da mesma maneira que houve um caminho para Israel no dia em que saiu em liberdade da terra do Egito."
     }
 }

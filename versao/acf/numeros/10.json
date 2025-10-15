@@ -1,9 +1,14 @@
 {
     "livro": "Números",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "As trombetas de prata",
+        "11": "A ordem de partida do Sinai",
+        "29": "Convite de Moisés a Hobabe",
+        "33": "Deus abençoa a partida de Israel"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés, dizendo:",
         "2": "Faze-te duas trombetas de prata; de obra batida as farás, e elas te servirão para a convocação da congregação, e para a partida dos arraiais.",
         "3": "E, quando as tocarem, então toda a congregação se reunirá a ti à porta da tenda da congregação.",
         "4": "Mas, quando tocar uma só, então a ti se congregarão os príncipes, os cabeças dos milhares de Israel.",

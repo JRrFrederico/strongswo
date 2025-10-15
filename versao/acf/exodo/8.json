@@ -1,9 +1,13 @@
 {
     "livro": "Êxodo",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "A segunda praga: Rãs",
+        "16": "A terceira praga: Piolhos",
+        "20": "Quarta praga: Moscas"
+    },
     "versiculos": {
-        "1": "Depois disse o Senhor a Moisés: Vai a Faraó e dize-lhe: Assim diz o Senhor: Deixa ir o meu povo, para que me sirva.",
+        "1": "DEPOIS disse o Senhor a Moisés: Vai a Faraó e dize-lhe: Assim diz o Senhor: Deixa ir o meu povo, para que me sirva.",
         "2": "E se recusares deixá-lo ir, eis que ferirei com rãs todos os teus termos.",
         "3": "E o rio criará rãs, que subirão e virão à tua casa, e ao teu dormitório, e sobre a tua cama, e às casas dos teus servos, e sobre o teu povo, e aos teus fornos, e às tuas amassadeiras.",
         "4": "E as rãs subirão sobre ti, e sobre o teu povo, e sobre todos os teus servos.",

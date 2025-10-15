@@ -1,9 +1,13 @@
 {
     "livro": "Neemias",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Conclusão das reformas de Neemias",
+        "15": "Restabelecimento do Shabbãth",
+        "23": "Condenação aos casamentos mistos"
+    },
     "versiculos": {
-        "1": "Naquele dia leu-se no livro de Moisés, aos ouvidos do povo; e achou-se escrito nele que os amonitas e os moabitas não entrassem jamais na congregação de Deus,",
+        "1": "NAQUELE dia leu-se no livro de Moisés, aos ouvidos do povo; e achou-se escrito nele que os amonitas e os moabitas não entrassem jamais na congregação de Deus,",
         "2": "Porquanto não tinham saído ao encontro dos filhos de Israel com pão e água; antes contra eles assalariaram a Balaão para os amaldiçoar; porém o nosso Deus converteu a maldição em bênção.",
         "3": "Sucedeu, pois, que, ouvindo eles esta lei, apartaram de Israel todo o elemento misto.",
         "4": "Ora, antes disto, Eliasibe, sacerdote, que presidia sobre a câmara da casa do nosso Deus, se tinha aparentado com Tobias;",

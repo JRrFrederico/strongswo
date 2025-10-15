@@ -1,9 +1,18 @@
 {
     "livro": "Mateus",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "O sermão do monte",
+        "13": "O cristão deve ser sal e luz",
+        "17": "A Lei se cumpre em Cristo",
+        "27": "Adultério no coração",
+        "31": "O casamento é sagrado",
+        "33": "Votos e juramentos",
+        "38": "Jamais use a vingança",
+        "43": "Ame os que o odeiam"
+    },
     "versiculos": {
-        "1": "E Jesus, vendo a multidão, subiu a um monte, e, assentando-se, aproximaram-se dele os seus discípulos;",
+        "1": "E JESUS, vendo a multidão, subiu a um monte, e, assentando-se, aproximaram-se dele os seus discípulos;",
         "2": "E, abrindo a sua boca, os ensinava, dizendo:",
         "3": "Bem-aventurados os pobres em espírito, porque deles é o reino dos céus;",
         "4": "Bem-aventurados os que choram, porque eles serão consolados;",

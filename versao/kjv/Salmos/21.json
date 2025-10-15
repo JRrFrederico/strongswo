@@ -1,20 +1,22 @@
 {
     "livro": "Salmos",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "O dia da vitória"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe, Salmo de Davi. O rei se alegrará na tua força, ó SENHOR; e na tua salvação quão grandemente ele se regozijará.",
-        "2": "Tu deste a ele o desejo do seu coração, e não recusaste o pedido de seus lábios. Selá.",
-        "3": "Porque tu o provês com as bênçãos da bondade; tu colocaste uma coroa de puro ouro sobre sua cabeça.",
-        "4": "Ele pediu a vida a ti, e tu a deste a ele, até duração de dias para sempre e eternamente.",
-        "5": "Sua glória é grande na tua salvação; honra e majestade puseste sobre ele.",
-        "6": "Pois tu o tornaste abençoadíssimo para sempre; tu o deixaste demasiadamente feliz com o teu semblante.",
-        "7": "Porque o rei confia no SENHOR, e por meio da misericórdia do Altíssimo não será abalado.",
-        "8": "Tua mão encontrará todos os teus inimigos, a tua mão direita encontrará aqueles que te odeiam.",
-        "9": "Tu os farás como um forno ardente no tempo da tua ira; o SENHOR os engolirá na sua ira, e o fogo os devorará.",
-        "10": "Seu fruto destruirás da terra, e a sua semente dentre os filhos dos homens.",
-        "11": "Porque intentaram o mal contra ti; imaginaram um artifício malicioso, que eles não são capazes de executar.",
-        "12": "Portanto, tu lhes farás voltar suas costas, quando prepararás tuas flechas sobre tuas cordas contra as suas faces.",
-        "13": "Sejas exaltado, SENHOR, em tua própria força; então cantaremos e louvaremos o teu poder."
+        "1": "O rei se alegra na tua força, ó S ENHOR ! Como é grande a sua felicidade pelas vitórias que lhe proporcionas.",
+        "2": "Tu lhe concedeste o desejo do seu coração e não lhe rejeitaste as súplicas dos seus lábios.",
+        "3": "Tu o recebeste dando-lhe ricas bênçãos, e em sua cabeça puseste uma coroa de ouro refinado.",
+        "4": "Ele te pediu vida, e tu a concedeste, vida longa e dias felizes sem fim.",
+        "5": "Pelas vitórias que lhe deste, grande é a sua glória; de esplendor e majestade o cobriste.",
+        "6": "Sim! Tu o constituis como grande bênção perene e o enches de alegria com a tua presença.",
+        "7": "Sim! O rei confia no S ENHOR : por causa da lealdade do Altíssimo, ele jamais será abalado.",
+        "8": "Tua mão alcançará todos os teus inimigos; tua destra atingirá todos os que te odeiam.",
+        "9": "No grande dia em que te manifestares farás deles uma fornalha ardente. O S ENHOR os engolirá em sua ira, o fogo os devorará.",
+        "10": "Extirparás da terra sua geração, com sua descendência, na humanidade.",
+        "11": "Embora tramem o mal contra ti e elaborem ciladas terríveis, nada conseguirão;",
+        "12": "pois tu os colocarás em fuga quando mirar contra eles o teu arco.",
+        "13": "Exalta-te, S ENHOR , na tua força! Nós cantaremos e tocaremos em teu louvor."
     }
 }

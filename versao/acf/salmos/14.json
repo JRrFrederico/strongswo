@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "O tolo não crê em Deus"
+    },
     "versiculos": {
-        "1": "Disse o néscio no seu coração: Não há Deus. Têm-se corrompido, fazem-se abomináveis em suas obras, não há ninguém que faça o bem.",
+        "1": "DISSE o néscio no seu coração: Não há Deus. Têm-se corrompido, fazem-se abomináveis em suas obras, não há ninguém que faça o bem.",
         "2": "O Senhor olhou desde os céus para os filhos dos homens, para ver se havia algum que tivesse entendimento e buscasse a Deus.",
         "3": "Desviaram-se todos e juntamente se fizeram imundos: não há quem faça o bem, não há sequer um.",
         "4": "Não terão conhecimento os que praticam a iniquidade, os quais comem o meu povo, como se comessem pão, e não invocam ao Senhor?",

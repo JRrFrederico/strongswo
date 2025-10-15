@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "A sabedoria humana é limitada"
+    },
     "versiculos": {
-        "1": "Na verdade, há veios de onde se extrai a prata, e lugar onde se refina o ouro.",
+        "1": "NA verdade, há veios de onde se extrai a prata, e lugar onde se refina o ouro.",
         "2": "O ferro tira-se da terra, e da pedra se funde o cobre.",
         "3": "Ele põe fim às trevas, e toda a extremidade ele esquadrinha, a pedra da escuridão e a da sombra da morte.",
         "4": "Abre um poço de mina longe dos homens, em lugares esquecidos do pé; ficando pendentes longe dos homens, oscilam de um lado para outro.",

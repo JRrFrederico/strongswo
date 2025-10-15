@@ -1,9 +1,12 @@
 {
     "livro": "Daniel",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Daniel sobrevive à cova dos leões",
+        "19": "Daniel sai ileso da cova dos leões"
+    },
     "versiculos": {
-        "1": "E pareceu bem a Dario constituir sobre o reino cento e vinte príncipes, que estivessem sobre todo o reino;",
+        "1": "E PARECEU bem a Dario constituir sobre o reino cento e vinte príncipes, que estivessem sobre todo o reino;",
         "2": "E sobre eles três presidentes, dos quais Daniel era um, aos quais estes príncipes dessem conta, para que o rei não sofresse dano.",
         "3": "Então o mesmo Daniel sobrepujou a estes presidentes e príncipes; porque nele havia um espírito excelente; e o rei pensava constituí-lo sobre todo o reino.",
         "4": "Então os presidentes e os príncipes procuravam achar ocasião contra Daniel a respeito do reino; mas não podiam achar ocasião ou culpa alguma; porque ele era fiel, e não se achava nele nenhum erro nem culpa.",

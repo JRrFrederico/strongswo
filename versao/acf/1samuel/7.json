@@ -1,9 +1,11 @@
 {
     "livro": "1 Samuel",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "2": "Samuel: libertador e juiz"
+    },
     "versiculos": {
-        "1": "Então vieram os homens de Quiriate-Jearim, e levaram a arca do Senhor, e a trouxeram à casa de Abinadabe, no outeiro; e consagraram a Eleazar, seu filho, para que guardasse a arca do Senhor.",
+        "1": "ENTÃO vieram os homens de Quiriate-Jearim, e levaram a arca do Senhor, e a trouxeram à casa de Abinadabe, no outeiro; e consagraram a Eleazar, seu filho, para que guardasse a arca do Senhor.",
         "2": "E sucedeu que, desde aquele dia, a arca ficou em Quiriate-Jearim, e tantos dias se passaram que até chegaram vinte anos, e lamentava toda a casa de Israel pelo Senhor.",
         "3": "Então falou Samuel a toda a casa de Israel, dizendo: Se com todo o vosso coração vos converterdes ao Senhor, tirai dentre vós os deuses estranhos e os astarotes, e preparai o vosso coração ao Senhor, e servi a ele só, e vos livrará da mão dos filisteus.",
         "4": "Então os filhos de Israel tiraram dentre si aos baalins e aos astarotes, e serviram só ao Senhor.",

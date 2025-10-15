@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 65,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus é quem castiga e salva",
+        "17": "Um novo céu e uma nova terra"
+    },
     "versiculos": {
-        "1": "Fui buscado dos que não perguntavam por mim, fui achado daqueles que não me buscavam; a uma nação que não se chamava do meu nome eu disse: Eis-me aqui. Eis-me aqui.",
+        "1": "FUI buscado dos que não perguntavam por mim, fui achado daqueles que não me buscavam; a uma nação que não se chamava do meu nome eu disse: Eis-me aqui. Eis-me aqui.",
         "2": "Estendi as minhas mãos o dia todo a um povo rebelde, que anda por caminho, que não é bom, após os seus pensamentos;",
         "3": "Povo que de contínuo me irrita diante da minha face, sacrificando em jardins e queimando incenso sobre altares de tijolos;",
         "4": "Que habita entre as sepulturas, e passa as noites junto aos lugares secretos; come carne de porco e tem caldo de coisas abomináveis nos seus vasos;",

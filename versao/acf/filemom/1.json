@@ -1,9 +1,14 @@
 {
     "livro": "Filemom",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "4": "Ação de graças e orações",
+        "8": "Paulo intercede por Onésimo",
+        "21": "Solicitações finais e bênção"
+    },
     "versiculos": {
-        "1": "Paulo, prisioneiro de Jesus Cristo, e o irmão Timóteo, ao amado Filemom, nosso cooperador,",
+        "1": "PAULO, prisioneiro de Jesus Cristo, e o irmão Timóteo, ao amado Filemom, nosso cooperador,",
         "2": "E à nossa amada Áfia, e a Arquipo, nosso camarada, e à igreja que está em tua casa:",
         "3": "Graça a vós e paz da parte de Deus nosso Pai, e do Senhor Jesus Cristo.",
         "4": "Graças dou ao meu Deus, lembrando-me sempre de ti nas minhas orações;",

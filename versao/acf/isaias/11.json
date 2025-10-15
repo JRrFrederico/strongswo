@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "O reino do descendente de Davi",
+        "10": "O retorno dos dispersos"
+    },
     "versiculos": {
-        "1": "Porque brotará um rebento do tronco de Jessé, e das suas raízes um renovo frutificará.",
+        "1": "PORQUE brotará um rebento do tronco de Jessé, e das suas raízes um renovo frutificará.",
         "2": "E repousará sobre ele o Espírito do Senhor, o espírito de sabedoria e de entendimento, o espírito de conselho e de fortaleza, o espírito de conhecimento e de temor do Senhor.",
         "3": "E deleitar-se-á no temor do Senhor; e não julgará segundo a vista dos seus olhos, nem repreenderá segundo o ouvir dos seus ouvidos.",
         "4": "Mas julgará com justiça aos pobres, e repreenderá com equidade aos mansos da terra; e ferirá a terra com a vara de sua boca, e com o sopro dos seus lábios matará ao ímpio,",

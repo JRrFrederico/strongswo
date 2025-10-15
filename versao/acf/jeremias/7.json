@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Quão inútil é toda falsa religião",
+        "30": "O castigo contra a idolatria"
+    },
     "versiculos": {
-        "1": "A palavra que da parte do Senhor, veio a Jeremias, dizendo:",
+        "1": "A PALAVRA que da parte do Senhor, veio a Jeremias, dizendo:",
         "2": "Põe-te à porta da casa do Senhor, e proclama ali esta palavra, e dize: Ouvi a palavra do Senhor, todos de Judá, os que entrais por estas portas, para adorardes ao Senhor.",
         "3": "Assim diz o Senhor dos Exércitos, o Deus de Israel: Melhorai os vossos caminhos e as vossas obras, e vos farei habitar neste lugar.",
         "4": "Não vos fieis em palavras falsas, dizendo: Templo do Senhor, templo do Senhor, templo do Senhor é este.",

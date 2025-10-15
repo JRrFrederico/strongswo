@@ -1,9 +1,12 @@
 {
     "livro": "Apocalipse",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "A Besta que se levantou do mar",
+        "11": "A Besta que se levantou da terra"
+    },
     "versiculos": {
-        "1": "E eu pus-me sobre a areia do mar, e vi subir do mar uma besta que tinha sete cabeças e dez chifres, e sobre os seus chifres dez diademas, e sobre as suas cabeças um nome de blasfêmia.",
+        "1": "E EU pus-me sobre a areia do mar, e vi subir do mar uma besta que tinha sete cabeças e dez chifres, e sobre os seus chifres dez diademas, e sobre as suas cabeças um nome de blasfêmia.",
         "2": "E a besta que vi era semelhante ao leopardo, e os seus pés como os de urso, e a sua boca como a boca de leão; e o dragão deu-lhe o seu poder, e o seu trono, e grande poderio.",
         "3": "E vi uma das suas cabeças como ferida de morte, e a sua chaga mortal foi curada; e toda a terra se maravilhou após a besta.",
         "4": "E adoraram o dragão que deu à besta o seu poder; e adoraram a besta, dizendo: Quem é semelhante à besta? Quem poderá batalhar contra ela?",

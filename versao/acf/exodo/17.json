@@ -1,9 +1,12 @@
 {
     "livro": "Êxodo",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "A água boa que jorra da rocha",
+        "8": "Israel vence os amalequitas"
+    },
     "versiculos": {
-        "1": "Depois toda a congregação dos filhos de Israel partiu do deserto de Sim pelas suas jornadas, segundo o mandamento do Senhor, e acampou em Refidim; e não havia ali água para o povo beber.",
+        "1": "DEPOIS toda a congregação dos filhos de Israel partiu do deserto de Sim pelas suas jornadas, segundo o mandamento do Senhor, e acampou em Refidim; e não havia ali água para o povo beber.",
         "2": "Então contendeu o povo com Moisés, e disse: Dá-nos água para beber. E Moisés lhes disse: Por que contendeis comigo? Por que tentais ao Senhor?",
         "3": "Tendo pois ali o povo sede de água, o povo murmurou contra Moisés, e disse: Por que nos fizeste subir do Egito, para nos matares de sede, a nós e aos nossos filhos, e ao nosso gado?",
         "4": "E clamou Moisés ao Senhor, dizendo: Que farei a este povo? Daqui a pouco me apedrejará.",

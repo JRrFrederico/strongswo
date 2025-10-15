@@ -1,9 +1,15 @@
 {
     "livro": "Josué",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Cinco reis atacam Gibeom",
+        "6": "Josué socorre Gibeom",
+        "10": "O socorro que vem do céu",
+        "16": "Os cincos reis fogem apavorados",
+        "28": "Outras conquistas em Canaã"
+    },
     "versiculos": {
-        "1": "E sucedeu que, ouvindo Adoni-Zedeque, rei de Jerusalém, que Josué tomara a Ai, e a tinha destruído totalmente, e fizera a Ai, e ao seu rei, como tinha feito a Jericó e ao seu rei, e que os moradores de Gibeom fizeram paz com os israelitas, e estavam no meio deles,",
+        "1": "E SUCEDEU que, ouvindo Adoni-Zedeque, rei de Jerusalém, que Josué tomara a Ai, e a tinha destruído totalmente, e fizera a Ai, e ao seu rei, como tinha feito a Jericó e ao seu rei, e que os moradores de Gibeom fizeram paz com os israelitas, e estavam no meio deles,",
         "2": "Temeram muito, porque Gibeom era uma cidade grande, como uma das cidades reais, e ainda maior do que Ai, e todos os seus homens valentes.",
         "3": "Pelo que Adoni-Zedeque, rei de Jerusalém, enviou a Hoão, rei de Hebrom, e a Pirão, rei de Jarmute, e a Jafia, rei de Laquis e a Debir, rei de Eglom, dizendo:",
         "4": "Subi a mim, e ajudai-me, e firamos a Gibeom, porquanto fez paz com Josué e com os filhos de Israel.",

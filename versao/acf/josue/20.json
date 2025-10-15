@@ -1,9 +1,11 @@
 {
     "livro": "Josué",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "As cidades para refugiados"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Josué, dizendo:",
+        "1": "FALOU mais o Senhor a Josué, dizendo:",
         "2": "Fala aos filhos de Israel, dizendo: Apartai para vós as cidades de refúgio, de que vos falei pelo ministério de Moisés,",
         "3": "Para que fuja para ali o homicida, que matar alguma pessoa por engano, e não com intenção; para que vos sirvam de refúgio contra o vingador do sangue.",
         "4": "E fugindo para alguma daquelas cidades, pôr-se-á à porta da cidade e exporá a sua causa aos ouvidos dos anciãos da tal cidade; então o tomarão consigo na cidade; e lhe darão lugar, para que habite com eles.",

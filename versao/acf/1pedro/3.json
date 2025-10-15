@@ -1,9 +1,12 @@
 {
     "livro": "1 Pedro",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Como deve viver a família cristã",
+        "8": "O estilo de vida do cristão"
+    },
     "versiculos": {
-        "1": "Semelhantemente, vós, mulheres, sede sujeitas aos vossos próprios maridos; para que também, se alguns não obedecem à palavra, pelo porte de suas mulheres sejam ganhos sem palavra;",
+        "1": "SEMELHANTEMENTE, vós, mulheres, sede sujeitas aos vossos próprios maridos; para que também, se alguns não obedecem à palavra, pelo porte de suas mulheres sejam ganhos sem palavra;",
         "2": "Considerando a vossa vida casta, em temor.",
         "3": "O enfeite delas não seja o exterior, no frisado dos cabelos, no uso de joias de ouro, na compostura dos vestidos;",
         "4": "Mas o homem encoberto no coração; no incorruptível traje de um espírito manso e quieto, que é precioso diante de Deus.",

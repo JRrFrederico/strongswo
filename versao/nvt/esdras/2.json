@@ -5,7 +5,8 @@
         "1": "Exilados que regressaram com Zorobabel"
     },
     "versiculos": {
-        "1": "Esta é uma lista dos judeus da província que regressaram do cativeiro. O rei Nabucodonosor os havia deportado para a Babilônia, mas eles voltaram para Jerusalém e Judá, cada um para sua cidade de origem. Seus líderes eram Zorobabel, Jesua, Neemias, Seraías, Reelaías, Mardoqueu, Bilsã, Mispar, Bigvai, Reum e Baaná. Este é o número de homens de Israel que regressaram do exílio:",
+        "1": "Esta é uma lista dos judeus da província que regressaram do cativeiro. O rei Nabucodonosor os havia deportado para a Babilônia, mas eles voltaram para Jerusalém e Judá, cada um para sua cidade de origem.",
+        "2": "Seus líderes eram Zorobabel, Jesua, Neemias, Seraías, Reelaías, Mardoqueu, Bilsã, Mispar, Bigvai, Reum e Baaná. Este é o número de homens de Israel que regressaram do exílio:",
         "3": "da família de Parós, 2.172;",
         "4": "da família de Sefatias, 372;",
         "5": "da família de Ará, 775;",
@@ -62,10 +63,17 @@
         "56": "Jaala, Darcom, Gidel,",
         "57": "Sefatias, Hatil, Poquerete-Hazebaim e Ami.",
         "58": "Ao todo, os servidores do templo e os descendentes dos servos de Salomão eram 392.",
-        "59": "Nessa ocasião, outro grupo regressou das cidades de Tel-Melá, Tel-Harsa, Querube, Adã e Imer. Contudo, não puderam comprovar que eles ou suas famílias eram descendentes de Israel. Estavam nesse grupo as famílias de Delaías, Tobias e Necoda, 652 pessoas ao todo.",
-        "61": "Também regressaram as famílias de três sacerdotes: Habaías, Hacoz e Barzilai. (Esse Barzilai havia se casado com uma mulher descendente de Barzilai, de Gileade, e assumido o nome da família dela.) Procuraram seus nomes nos registros genealógicos, mas não os encontraram, por isso não se qualificaram para servir como sacerdotes. O governador ordenou que não comessem das porções dos sacrifícios separadas para os sacerdotes até que um sacerdote consultasse o Senhor a esse respeito usando o Urim e o Tumim.",
-        "64": "Portanto, os que regressaram para Judá foram 42.360, além dos 7.337 servos e servas e dos 200 cantores e cantoras. Levaram consigo 736 cavalos, 245 mulas, 435 camelos e 6.720 jumentos.",
-        "68": "Quando chegaram ao templo do Senhor , em Jerusalém, alguns dos chefes das famílias entregaram ofertas voluntárias para a reconstrução do templo de Deus em seu local original. Cada chefe contribuiu com o que pôde. Suas ofertas totalizaram 525 quilos de ouro, 3.000 quilos de prata e 100 vestes para os sacerdotes.",
+        "59": "Nessa ocasião, outro grupo regressou das cidades de Tel-Melá, Tel-Harsa, Querube, Adã e Imer. Contudo, não puderam comprovar que eles ou suas famílias eram descendentes de Israel.",
+        "60": "Estavam nesse grupo as famílias de Delaías, Tobias e Necoda, 652 pessoas ao todo.",
+        "61": "Também regressaram as famílias de três sacerdotes: Habaías, Hacoz e Barzilai. (Esse Barzilai havia se casado com uma mulher descendente de Barzilai, de Gileade, e assumido o nome da família dela.)",
+        "62": "Procuraram seus nomes nos registros genealógicos, mas não os encontraram, por isso não se qualificaram para servir como sacerdotes.",
+        "63": "O governador ordenou que não comessem das porções dos sacrifícios separadas para os sacerdotes até que um sacerdote consultasse o Senhor a esse respeito usando o Urim e o Tumim.",
+        "64": "Portanto, os que regressaram para Judá foram 42.360,",
+        "65": "além dos 7.337 servos e servas e dos 200 cantores e cantoras.",
+        "66": "Levaram consigo 736 cavalos, 245 mulas,",
+        "67": "435 camelos e 6.720 jumentos.",
+        "68": "Quando chegaram ao templo do Senhor, em Jerusalém, alguns dos chefes das famílias entregaram ofertas voluntárias para a reconstrução do templo de Deus em seu local original.",
+        "69": "Cada chefe contribuiu com o que pôde. Suas ofertas totalizaram 525 quilos de ouro, 3.000 quilos de prata e 100 vestes para os sacerdotes.",
         "70": "Assim, os sacerdotes, os levitas, os cantores, os guardas das portas, os servidores do templo e alguns do povo se estabeleceram em povoados perto de Jerusalém. O restante do povo regressou às suas cidades em todo o Israel."
     }
 }

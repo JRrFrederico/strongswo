@@ -1,9 +1,14 @@
 {
     "livro": "Êxodo",
     "capitulo": 33,
-    "titulos": {},
+    "titulos": {
+        "1": "O Anjo de Deus à frente do povo",
+        "7": "A Tenda do Encontro com Deus",
+        "12": "Moisés roga a companhia de Deus",
+        "18": "Moisés quer ver a Glória de Deus"
+    },
     "versiculos": {
-        "1": "Disse mais o Senhor a Moisés: Vai, sobe daqui, tu e o povo que fizeste subir da terra do Egito, à terra que jurei a Abraão, a Isaque, e a Jacó, dizendo: À tua descendência a darei.",
+        "1": "DISSE mais o Senhor a Moisés: Vai, sobe daqui, tu e o povo que fizeste subir da terra do Egito, à terra que jurei a Abraão, a Isaque, e a Jacó, dizendo: À tua descendência a darei.",
         "2": "E enviarei um anjo adiante de ti, e lançarei fora os cananeus, e os amorreus, e os heteus, e os perizeus, e os heveus, e os jebuseus,",
         "3": "A uma terra que mana leite e mel; porque eu não subirei no meio de ti, porquanto és povo de dura cerviz, para que te não consuma eu no caminho.",
         "4": "E, ouvindo o povo esta má notícia, pranteou-se e ninguém pôs sobre si os seus ornamentos.",
@@ -17,7 +22,7 @@
         "12": "E Moisés disse ao Senhor: Eis que tu me dizes: Faze subir a este povo, porém não me fazes saber a quem hás de enviar comigo; e tu disseste: Conheço-te por teu nome, também achaste graça aos meus olhos.",
         "13": "Agora, pois, se tenho achado graça aos teus olhos, rogo-te que me faças saber o teu caminho, e conhecer-te-ei, para que ache graça aos teus olhos; e considera que esta nação é o teu povo.",
         "14": "Disse pois: Irá a minha presença contigo para te fazer descansar.",
-        "15": "Então lhe disse: Se tua presença não for conosco, não nos faças subir daqui.",
+        "15": "Então lhe disse: Se tua presença não fores conosco, não nos faças subir daqui.",
         "16": "Como, pois, se saberá agora que tenho achado graça aos teus olhos, eu e o teu povo? Acaso não é por andares tu conosco, de modo a sermos separados, eu e o teu povo, de todos os povos que há sobre a face da terra?",
         "17": "Então disse o Senhor a Moisés: Farei também isto, que tens dito; porquanto achaste graça aos meus olhos, e te conheço por nome.",
         "18": "Então ele disse: Rogo-te que me mostres a tua glória.",

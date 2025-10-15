@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 33,
-    "titulos": {},
+    "titulos": {
+        "1": "Eliú acusa Jó de má compreensão"
+    },
     "versiculos": {
-        "1": "Assim, na verdade, ó Jó, ouve as minhas razões, e dá ouvidos a todas as minhas palavras.",
+        "1": "ASSIM, na verdade, ó Jó, ouve as minhas razões, e dá ouvidos a todas as minhas palavras.",
         "2": "Eis que já abri a minha boca; já falou a minha língua debaixo do meu paladar.",
         "3": "As minhas razões provam a sinceridade do meu coração, e os meus lábios proferem o puro saber.",
         "4": "O Espírito de Deus me fez; e a inspiração do Todo-Poderoso me deu vida.",

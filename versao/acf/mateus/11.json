@@ -1,9 +1,13 @@
 {
     "livro": "Mateus",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "João. O arauto de Jesus",
+        "20": "Ai dos povos incrédulos",
+        "25": "Vinde a Cristo, os cansados"
+    },
     "versiculos": {
-        "1": "E aconteceu que, acabando Jesus de dar instruções aos seus doze discípulos, partiu dali a ensinar e a pregar nas cidades deles.",
+        "1": "E ACONTECEU que, acabando Jesus de dar instruções aos seus doze discípulos, partiu dali a ensinar e a pregar nas cidades deles.",
         "2": "E João, ouvindo no cárcere falar dos feitos de Cristo, enviou dois dos seus discípulos,",
         "3": "A dizer-lhe: És tu aquele que havia de vir, ou esperamos outro?",
         "4": "E Jesus, respondendo, disse-lhes: Ide, e anunciai a João as coisas que ouvis e vedes:",

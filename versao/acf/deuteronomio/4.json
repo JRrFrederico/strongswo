@@ -1,9 +1,17 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Moisés motiva o povo a obedecer",
+        "9": "A revelação do monte Horebe",
+        "15": "Mandamento contra a idolatria",
+        "21": "O inexorável juízo de Deus",
+        "32": "A grandeza da escolha divina",
+        "41": "As cidades de refúgio",
+        "44": "O segundo discurso de Moisés"
+    },
     "versiculos": {
-        "1": "Agora, pois, ó Israel, ouve os estatutos e os juízos que eu vos ensino, para os cumprirdes; para que vivais, e entreis, e possuais a terra que o Senhor Deus de vossos pais vos dá.",
+        "1": "AGORA, pois, ó Israel, ouve os estatutos e os juízos que eu vos ensino, para os cumprirdes; para que vivais, e entreis, e possuais a terra que o Senhor Deus de vossos pais vos dá.",
         "2": "Não acrescentareis à palavra que vos mando, nem diminuireis dela, para que guardeis os mandamentos do Senhor vosso Deus, que eu vos mando.",
         "3": "Os vossos olhos têm visto o que o Senhor fez por causa de Baal-Peor; pois a todo o homem que seguiu a Baal-Peor o Senhor teu Deus consumiu do meio de ti.",
         "4": "Porém vós, que vos achegastes ao Senhor vosso Deus, hoje todos estais vivos.",

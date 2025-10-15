@@ -1,9 +1,11 @@
 {
     "livro": "Jeremias",
     "capitulo": 35,
-    "titulos": {},
+    "titulos": {
+        "1": "Os recabitas: exemplo de obediência"
+    },
     "versiculos": {
-        "1": "A palavra que do Senhor veio a Jeremias, nos dias de Jeoiaquim, filho de Josias, rei de Judá, dizendo:",
+        "1": "A PALAVRA que do Senhor veio a Jeremias, nos dias de Jeoiaquim, filho de Josias, rei de Judá, dizendo:",
         "2": "Vai à casa dos recabitas, e fala com eles, e leva-os à casa do Senhor, a uma das câmaras e dá-lhes vinho a beber.",
         "3": "Então tomei a Jazanias, filho de Jeremias, filho de Habazinias, e a seus irmãos, e a todos os seus filhos, e a toda a casa dos recabitas;",
         "4": "E os levei à casa do Senhor, à câmara dos filhos de Hanã, filho de Jigdalias, homem de Deus, que estava junto à câmara dos príncipes, que ficava sobre a câmara de Maaseias, filho de Salum, guarda do vestíbulo;",

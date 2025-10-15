@@ -1,9 +1,11 @@
 {
     "livro": "1 Samuel",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "1": "Cai Israel e Saul se suicida"
+    },
     "versiculos": {
-        "1": "Os filisteus, pois, pelejaram contra Israel; e os homens de Israel fugiram de diante dos filisteus, e caíram mortos na montanha de Gilboa.",
+        "1": "OS filisteus, pois, pelejaram contra Israel; e os homens de Israel fugiram de diante dos filisteus, e caíram mortos na montanha de Gilboa.",
         "2": "E os filisteus perseguiram a Saul e a seus filhos; e os filisteus mataram a Jônatas, e a Abinadabe, e a Malquisua, filhos de Saul.",
         "3": "E a peleja se agravou contra Saul, e os flecheiros o alcançaram; e muito temeu por causa dos flecheiros.",
         "4": "Então disse Saul ao seu pajem de armas: Arranca a tua espada, e atravessa-me com ela, para que porventura não venham estes incircuncisos, e me atravessem e escarneçam de mim. Porém o seu pajem de armas não quis, porque temia muito; então Saul tomou a espada, e se lançou sobre ela.",

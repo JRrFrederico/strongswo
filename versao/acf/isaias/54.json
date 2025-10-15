@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 54,
-    "titulos": {},
+    "titulos": {
+        "1": "A vindoura glória de Jerusalém",
+        "11": "A nova Jerusalém"
+    },
     "versiculos": {
-        "1": "Canta alegremente, ó estéril, que não deste à luz; rompe em cântico, e exclama com alegria, tu que não tiveste dores de parto; porque mais são os filhos da mulher solitária, do que os filhos da casada, diz o Senhor.",
+        "1": "CANTA alegremente, ó estéril, que não deste à luz; rompe em cântico, e exclama com alegria, tu que não tiveste dores de parto; porque mais são os filhos da mulher solitária, do que os filhos da casada, diz o Senhor.",
         "2": "Amplia o lugar da tua tenda, e estendam-se as cortinas das tuas habitações; não o impeças; alonga as tuas cordas, e fixa bem as tuas estacas.",
         "3": "Porque transbordarás para a direita e para a esquerda; e a tua descendência possuirá os gentios e fará que sejam habitadas as cidades assoladas.",
         "4": "Não temas, porque não serás envergonhada; e não te envergonhes, porque não serás humilhada; antes te esquecerás da vergonha da tua mocidade, e não te lembrarás mais do opróbrio da tua viuvez.",

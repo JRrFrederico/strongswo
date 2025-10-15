@@ -1,9 +1,12 @@
 {
     "livro": "Efésios",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Somente pela graça somos salvos",
+        "11": "A nova humanidade em Cristo"
+    },
     "versiculos": {
-        "1": "E vos vivificou, estando vós mortos em ofensas e pecados,",
+        "1": "E VOS vivificou, estando vós mortos em ofensas e pecados,",
         "2": "Em que noutro tempo andastes segundo o curso deste mundo, segundo o príncipe das potestades do ar, do espírito que agora opera nos filhos da desobediência;",
         "3": "Entre os quais todos nós também antes andávamos nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos por natureza filhos da ira, como os outros também.",
         "4": "Mas Deus, que é riquíssimo em misericórdia, pelo seu muito amor com que nos amou,",

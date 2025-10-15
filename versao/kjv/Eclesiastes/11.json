@@ -1,17 +1,20 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Conselhos para todos e toda hora",
+        "7": "Conselho para os jovens"
+    },
     "versiculos": {
-        "1": "Lança o teu pão sobre as águas, porque o acharás depois de muitos dias.",
-        "2": "Reparte a porção com sete, e ainda até com oito, porque não sabes que mal poderá recair sobre a terra.",
-        "3": "Se as nuvens estiverem cheias de chuva, elas se esvaziam sobre a terra, e se uma árvore cai em direção ao sul, ou ao norte, no lugar em que a árvore cair, ali ficará.",
-        "4": "Aquele que observa o vento nunca semeará, e o que olha para as nuvens nunca segará.",
-        "5": "Assim como tu não sabes qual o caminho do espírito, nem como crescem os ossos no ventre daquela que está grávida, assim também não sabes as obras de Deus, que faz todas as coisas.",
-        "6": "Pela manhã semeia a tua semente, e à tarde não recolhas a tua mão, porque tu não sabes qual se deve prosperar, esta ou aquela, ou se ambas serão igualmente boas.",
-        "7": "Certamente a luz é doce, e coisa agradável aos olhos é contemplar o sol.",
-        "8": "Mas se um homem viver muitos anos, e em todos eles se alegrar, também deve lembrar-se dos dias das trevas, porque hão de ser muitos. Tudo quanto sucede é vaidade.",
-        "9": "Alegra-te, ó jovem, na tua juventude; e recreie-se o teu coração nos dias da tua mocidade, e anda nos caminhos do teu coração, e pela vista dos teus olhos; sabe, porém, que por todas estas coisas te trará Deus a juízo.",
-        "10": "Portanto, remova a angústia do teu coração, e retire o mal da tua carne, porque a adolescência e a juventude são vaidades."
+        "1": "Distribui com generosidade o teu pão como se o atirasse sobre águas e depois de algum tempo o receberás de volta.",
+        "2": "Reparte com sete e mesmo com oito o que tens, pois não sabes que desgraça pode vir sobre a terra.",
+        "3": "Quando as nuvens estão pesadas de água derramam chuva sobre a terra. Quer uma árvore debruce para o sul ou tombe para o norte, onde cair ali permanecerá.",
+        "4": "Quem fica apenas olhando o vento jamais plantará e quem para observando a passagem das nuvens nada colherá.",
+        "5": "Assim como não conheces o caminho do vento, tampouco como o espírito entra no corpo que se forma no ventre de uma mulher, do mesmo modo não podes compreender as obras de Deus, o Criador de tudo o que há!",
+        "6": "Logo ao alvorecer semeia a tua semente e à tarde não repouses a mão, pois não sabes qual das tuas obras vai prosperar, se esta ou aquela, ou ambas serão boas.",
+        "7": "Como é agradável ver a luz e estimulante sentir o sol do raiar do dia.",
+        "8": "Portanto, se um ser humano chegar a viver muitos anos, alegre-se em todos eles. Porém lembre-se dos dias difíceis e escuros, porquanto não faltarão em quantidade. Afinal, tudo o que está para vir é absurdo, não faz sentido.",
+        "9": "Jovem, alegra-te na tua mocidade! Sê feliz o teu coração nos dias da tua juventude. Segue os caminhos que o teu coração indicar e todos os desejos dos teus olhos; saibas, contudo, que tudo quanto fizeres passará pelo julgamento de Deus.",
+        "10": "Sendo assim, afasta do teu coração o desgosto e a ansiedade, e para de fazer teu corpo sofrer, pois a juventude e o vigor da mocidade passam muito rápido."
     }
 }

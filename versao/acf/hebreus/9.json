@@ -1,9 +1,12 @@
 {
     "livro": "Hebreus",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Os ritos mosaicos eram imperfeitos",
+        "11": "O perfeito sacrifício de Cristo"
+    },
     "versiculos": {
-        "1": "Ora, também a primeira tinha ordenanças de culto divino, e um santuário terrestre.",
+        "1": "ORA, também a primeira tinha ordenanças de culto divino, e um santuário terrestre.",
         "2": "Porque um tabernáculo estava preparado, o primeiro, em que havia o candelabro, e a mesa, e os pães da proposição; ao que se chama o santuário.",
         "3": "Mas depois do segundo véu estava o tabernáculo que se chama o santo dos santos,",
         "4": "Que tinha o incensário de ouro, e a arca da aliança, coberta de ouro toda em redor; em que estava um vaso de ouro, que continha o maná, e a vara de Arão, que tinha florescido, e as tábuas da aliança;",

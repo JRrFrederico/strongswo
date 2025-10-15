@@ -1,9 +1,13 @@
 {
     "livro": "Gênesis",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "Isaque na terra dos filisteus",
+        "26": "O contrato de Isaque e Abimeleque",
+        "34": "As mulheres hititas de Esaú"
+    },
     "versiculos": {
-        "1": "E havia fome na terra, além da primeira fome, que foi nos dias de Abraão; por isso foi Isaque a Abimeleque, rei dos filisteus, em Gerar.",
+        "1": "E HAVIA fome na terra, além da primeira fome, que foi nos dias de Abraão; por isso foi Isaque a Abimeleque, rei dos filisteus, em Gerar.",
         "2": "E apareceu-lhe o Senhor, e disse: Não desças ao Egito; habita na terra que eu te disser;",
         "3": "Peregrina nesta terra, e serei contigo, e te abençoarei; porque a ti e à tua descendência darei todas estas terras, e confirmarei o juramento que tenho jurado a Abraão teu pai;",
         "4": "E multiplicarei a tua descendência como as estrelas dos céus, e darei à tua descendência todas estas terras; e por meio dela serão benditas todas as nações da terra;",

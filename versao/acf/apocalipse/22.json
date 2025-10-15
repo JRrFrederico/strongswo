@@ -1,9 +1,14 @@
 {
     "livro": "Apocalipse",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "O rio da água da vida",
+        "6": "Breve estas profecias ocorrerão",
+        "8": "Exortações e conclusão do livro",
+        "17": "Advertências e bênção final"
+    },
     "versiculos": {
-        "1": "E mostrou-me o rio puro da água da vida, claro como cristal, que procedia do trono de Deus e do Cordeiro.",
+        "1": "E MOSTROU-ME o rio puro da água da vida, claro como cristal, que procedia do trono de Deus e do Cordeiro.",
         "2": "No meio da sua praça, e de um e de outro lado do rio, estava a árvore da vida, que produz doze frutos, dando seu fruto de mês em mês; e as folhas da árvore são para a saúde das nações.",
         "3": "E ali nunca mais haverá maldição contra alguém; e nela estará o trono de Deus e do Cordeiro, e os seus servos o servirão.",
         "4": "E verão o seu rosto, e nas suas testas estará o seu nome.",

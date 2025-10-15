@@ -1,9 +1,13 @@
 {
     "livro": "João",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus aparece na praia e ensina",
+        "15": "Pedro é restaurado por Jesus",
+        "20": "O discípulo amado e este livro"
+    },
     "versiculos": {
-        "1": "Depois disto manifestou-se Jesus outra vez aos discípulos junto do mar de Tiberíades; e manifestou-se assim:",
+        "1": "DEPOIS disto manifestou-se Jesus outra vez aos discípulos junto do mar de Tiberíades; e manifestou-se assim:",
         "2": "Estavam juntos Simão Pedro, e Tomé, chamado Dídimo, e Natanael, que era de Caná da Galileia, os filhos de Zebedeu, e outros dois dos seus discípulos.",
         "3": "Disse-lhes Simão Pedro: Vou pescar. Dizem-lhe eles: Também nós vamos contigo. Foram, e subiram logo para o barco, e naquela noite nada apanharam.",
         "4": "E, sendo já manhã, Jesus se apresentou na praia, mas os discípulos não conheceram que era Jesus.",

@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 92,
-    "titulos": {},
+    "titulos": {
+        "1": "Hino sabático de gratidão a Deus"
+    },
     "versiculos": {
-        "1": "Bom é louvar ao Senhor, e cantar louvores ao teu nome, ó Altíssimo;",
+        "1": "BOM é louvar ao Senhor, e cantar louvores ao teu nome, ó Altíssimo;",
         "2": "Para de manhã anunciar a tua benignidade, e todas as noites a tua fidelidade;",
         "3": "Sobre um instrumento de dez cordas, e sobre o saltério; sobre a harpa com som solene.",
         "4": "Pois tu, Senhor, me alegraste pelos teus feitos; exultarei nas obras das tuas mãos.",

@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "O pobre sábio e o rico avarento"
+    },
     "versiculos": {
-        "1": "Melhor é o pobre que anda na sua integridade do que o perverso de lábios e tolo.",
+        "1": "MELHOR é o pobre que anda na sua integridade do que o perverso de lábios e tolo.",
         "2": "Assim como não é bom ficar a alma sem conhecimento, peca aquele que se apressa com seus pés.",
         "3": "A estultícia do homem perverterá o seu caminho, e o seu coração se irará contra o Senhor.",
         "4": "As riquezas granjeiam muitos amigos, mas ao pobre, o seu próprio amigo o deixa.",

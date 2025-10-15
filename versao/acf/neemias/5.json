@@ -1,9 +1,12 @@
 {
     "livro": "Neemias",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Medidas contra a injustiça social",
+        "13": "O bom exemplo do líder e do povo"
+    },
     "versiculos": {
-        "1": "Foi, porém, grande o clamor do povo e de suas mulheres, contra os judeus, seus irmãos.",
+        "1": "FOI, porém, grande o clamor do povo e de suas mulheres, contra os judeus, seus irmãos.",
         "2": "Porque havia quem dizia: Nós, nossos filhos e nossas filhas, somos muitos; então tomemos trigo, para que comamos e vivamos.",
         "3": "Também havia quem dizia: As nossas terras, as nossas vinhas e as nossas casas empenhamos, para tomarmos trigo nesta fome.",
         "4": "Também havia quem dizia: Tomamos emprestado dinheiro até para o tributo do rei, sobre as nossas terras e as nossas vinhas.",

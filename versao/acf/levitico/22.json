@@ -1,9 +1,14 @@
 {
     "livro": "Levítico",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "Santidade na entrega das ofertas",
+        "10": "Instruções quanto aos estranhos",
+        "17": "Leis quanto à oferta de animais",
+        "31": "Exortação final"
+    },
     "versiculos": {
-        "1": "Depois falou o Senhor a Moisés, dizendo:",
+        "1": "DEPOIS falou o Senhor a Moisés, dizendo:",
         "2": "Dize a Arão e a seus filhos que se apartem das coisas santas dos filhos de Israel, que a mim me santificam, para que não profanem o meu santo nome. Eu sou o Senhor.",
         "3": "Dize-lhes: Todo o homem, que entre as vossas gerações, de toda a vossa descendência, se chegar às coisas santas que os filhos de Israel santificam ao Senhor, tendo sobre si a sua imundícia, aquela alma será extirpada de diante da minha face. Eu sou o Senhor.",
         "4": "Ninguém da descendência de Arão, que for leproso, ou tiver fluxo, comerá das coisas santas, até que seja limpo; como também o que tocar alguma coisa imunda de cadáver, ou aquele de que sair sêmen da cópula,",

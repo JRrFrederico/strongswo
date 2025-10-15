@@ -1,9 +1,13 @@
 {
     "livro": "1 Reis",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Salomão roga sabedoria a Deus",
+        "4": "Deus fala a Salomão em sonho",
+        "16": "Salomão usa a sabedoria de Deus"
+    },
     "versiculos": {
-        "1": "E Salomão se aparentou com Faraó, rei do Egito; e tomou a filha de Faraó, e a trouxe à cidade de Davi, até que acabasse de edificar a sua casa, e a casa do Senhor, e a muralha de Jerusalém em redor.",
+        "1": "E SALOMÃO se aparentou com Faraó, rei do Egito; e tomou a filha de Faraó, e a trouxe à cidade de Davi, até que acabasse de edificar a sua casa, e a casa do Senhor, e a muralha de Jerusalém em redor.",
         "2": "Entretanto, o povo sacrificava sobre os altos; porque até àqueles dias ainda não se havia edificado casa ao nome do Senhor.",
         "3": "E Salomão amava ao Senhor, andando nos estatutos de Davi seu pai; somente que nos altos sacrificava, e queimava incenso.",
         "4": "E foi o rei a Gibeom para lá sacrificar, porque aquele era o alto maior; mil holocaustos sacrificou Salomão naquele altar.",

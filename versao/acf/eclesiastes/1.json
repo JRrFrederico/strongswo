@@ -1,9 +1,12 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Tudo na vida é ilusão e vaidade",
+        "12": "Nem mesmo o saber faz sentido"
+    },
     "versiculos": {
-        "1": "Palavras do pregador, filho de Davi, rei em Jerusalém.",
+        "1": "PALAVRAS do pregador, filho de Davi, rei em Jerusalém.",
         "2": "Vaidade de vaidades, diz o pregador, vaidade de vaidades! Tudo é vaidade.",
         "3": "Que proveito tem o homem, de todo o seu trabalho, que faz debaixo do sol?",
         "4": "Uma geração vai, e outra geração vem; mas a terra para sempre permanece.",

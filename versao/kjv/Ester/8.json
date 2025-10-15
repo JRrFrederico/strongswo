@@ -1,24 +1,26 @@
 {
     "livro": "Ester",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "O rei determina a favor dos judeus"
+    },
     "versiculos": {
-        "1": "Naquele dia, deu rei Assuero à rainha Ester a casa de Hamã, o inimigo dos judeus. E Mardoqueu veio diante do rei; porque Ester havia declarado quem ele era.",
-        "2": "E o rei retirou o seu anel, o qual ele tinha tirado de Hamã, e deu-o a Mardoqueu. E Ester pôs Mardoqueu sobre a casa de Hamã.",
-        "3": "E Ester falou mais uma vez diante do rei, e caiu aos seus pés, e com lágrimas suplicou para afastar a maldade de Hamã, o agagita, e o plano que ele tinha preparado contra os judeus.",
-        "4": "Então, o rei estendeu o cetro de ouro em direção a Ester. Assim, Ester levantou-se e se pôs de pé diante do rei,",
-        "5": "e disse: Se aprouver ao rei, e se tenho achado favor à sua vista, e se este negócio é reto diante do rei, e se eu lhe agrado aos seus olhos, escreva-se que se revoguem as cartas elaboradas por Hamã, o filho de Hamedata, o agagita, as quais ele escreveu para destruir os judeus que estão em todas as províncias do rei;",
-        "6": "pois como resistirei ver o mal que virá ao meu povo? Ou, como resistirei ver a destruição da minha parentela?",
-        "7": "Então, o rei Assuero disse à rainha Ester e ao judeu Mardoqueu: Eis que dei a Ester a casa de Hamã, e a ele o enforcaram sobre a forca, porque ele lançou a sua mão contra os judeus.",
-        "8": "Escrevei vós também para os judeus, como preferirdes, em nome do rei, e selai-o com o anel do rei; porque o escrito que é feito em nome do rei, e selado com o anel do rei, homem nenhum pode reverter.",
-        "9": "Então, foram chamados os escribas do rei naquela hora, no terceiro mês, que é o mês de sivã, no seu vigésimo terceiro dia; e foi escrito de acordo com tudo o que Mardoqueu ordenou aos judeus, e aos tenentes, e aos vice-reis e governantes das províncias que são desde a Índia até a Etiópia, cento e vinte e sete províncias, para cada província de acordo com a sua escrita, e para cada povo segundo a sua língua, e para os judeus de acordo com a sua escrita, e de acordo com a sua língua.",
-        "10": "E ele escreveu em nome do rei Assuero, e selou isto com o anel do rei, e enviou cartas por mensageiros em lombo de cavalo, e montadores de mulas, camelos, e dromedários novos;",
-        "11": "nas quais o rei concedeu aos judeus que estavam em cada cidade que se reunissem, e se levantassem pela sua vida, para destruir, matar, e fazer perecer, todo o poder do povo e da província que quisesse lhes atacar, tanto pequenos, como mulheres, e que se saqueassem os seus despojos, por uma presa,",
-        "12": "em um dia, em todas as províncias do rei Assuero, a saber, no décimo terceiro dia do décimo segundo mês, que é o mês de adar.",
-        "13": "A cópia do escrito para um mandamento a ser dado em cada província foi publicada a todo o povo, e para que os judeus estivessem preparados para aquele dia, para se vingarem dos seus inimigos.",
-        "14": "Assim, saíram os mensageiros que montavam em mulas e camelos, apressados e pressionados avante pelo mandamento do rei. E o decreto foi dado no palácio de Susã.",
-        "15": "E Mardoqueu saiu da presença do rei em vestes reais de azul e branco, e com uma grande coroa de ouro, e com uma vestimenta de linho fino e púrpura; e a cidade de Susã regozijou-se e alegrou-se.",
-        "16": "Os judeus tinham luz, e alegria, e regozijo e honra.",
-        "17": "E, em toda província, e em toda cidade, aonde chegou o mandamento do rei e o seu decreto, os judeus tiveram alegria e contentamento, um banquete e um bom dia. E muitos do povo da terra se tornaram judeus; porque o medo dos judeus lhes sobreveio."
+        "1": "Naquele mesmo dia o rei transferiu para a rainha a casa e todos os bens de Hamã, o inimigo dos judeus. E Mardoqueu apresentou-se diante do rei, pois Ester tinha revelado quem ele era.",
+        "2": "Então, o rei tirou o seu anel-selo que havia tomado de volta de Hamã, e o entregou a Mardoqueu; e Ester o nomeou administrador dos bens que pertenceram a Hamã.",
+        "3": "Todavia Ester voltou a rogar ao rei e, lançando-se aos pés dele, implorou-lhe em meio a muitas lágrimas que revogasse o plano maligno que Hamã, o descendente de Agague, tinha engendrado contra os judeus.",
+        "4": "Diante do gesto de Ester o rei prontamente lhe estendeu o cetro real em sinal de aprovação, e ela se levantou diante dele.",
+        "5": "E confirmou sua súplica, dizendo: “Se for do agrado do rei, e se hoje alcanço o seu favor, e se ele considerar justo, e se eu mesma for agradável a seus olhos, que ele revogue expressamente todas as cartas que Hamã, filho do agagita Hamedata, descendente de Agague, escreveu e endereçou a todas as províncias do rei determinando o extermínio de todos os judeus.",
+        "6": "Porquanto, como me será possível suportar a dor de ver a desgraça que se abaterá sobre todo o meu povo? Como resistirei à destruição da minha própria família?”",
+        "7": "Em seguida o rei Xerxes respondeu à rainha Ester e ao judeu Mardoqueu: “Mandei enforcar Hamã e passei todos os seus bens para Ester porquanto ele atentou contra os judeus.",
+        "8": "Escrevei, pois, agora mesmo, novo decreto a respeito dos judeus, o que bem vos parecer, em nome do rei, e selai-o com o meu anel real. Porque todo edito redigido em nome do rei e selado por meio do seu anel é irrevogável!”",
+        "9": "Imediatamente foram convocados os escribas reais, e esse fato ocorreu no vigésimo dia do terceiro mês, o mês de Sivan , isto é, entre maio e junho. Os secretários do rei escreveram todas as ordens ditadas por Mardoqueu aos judeus, aos sátrapas, aos governadores e aos nobres das cento e vinte e sete províncias que se estendiam da Índia até Cuxe , Etiópia. Essas determinações foram redigidas na língua de cada povo e segundo a escrita de cada província, como também aos judeus, na sua própria escrita e linguagem.",
+        "10": "Mardoqueu escreveu cartas em nome do rei Xerxes, selou-as com o anel do rei e as enviou com os mensageiros montados em cavalos fortes e velozes, todos da cavalaria especial do rei.",
+        "11": "E o decreto do rei concedia aos judeus de cada cidade o direito de se reunirem e de se protegerem, de destruir, matar e aniquilar qualquer força armada de qualquer povo ou província que tentasse atacá-los, colocando também em risco suas mulheres e crianças. Resguardava também o direito de saquear os bens dos seus adversários em guerra.",
+        "12": "As determinações do rei entraram em vigor em todas as províncias do rei Assuero, Xerxes, no décimo terceiro dia do décimo segundo mês, o mês de Adar , isto é, entre fevereiro e março.",
+        "13": "Uma cópia desse decreto foi publicada como lei em cada província e levada ao conhecimento do povo de cada nação, a fim de que naquele dia os judeus estivessem prontos para vingar-se de todos os seus inimigos.",
+        "14": "Os mensageiros montados nos cavalos velozes da cavalaria especial do rei partiram apressadamente por causa da ordem expressa do rei. Esse decreto foi promulgado inclusive na capital, Susã.",
+        "15": "Então Mardoqueu saiu da presença do rei, vestido de um traje real azul celeste e branco, trazendo uma grande coroa de ouro e coberto por um manto de linho fino, vermelho púrpura. E toda a capital, Susã, exultava de júbilo.",
+        "16": "E grande felicidade, alegria, satisfação e honra tomou conta dos corações de todos os judeus.",
+        "17": "Em cada província e em cada cidade, onde quer que se anunciasse as ordens do decreto real, explodia entre os judeus grandes manifestações de contentamento, seguidas de animados banquetes e festas. Muitos gentios, pessoas que pertenciam a outros povos do reino, se tornaram judeus, pois o temor dos judeus tinha se apoderado deles."
     }
 }

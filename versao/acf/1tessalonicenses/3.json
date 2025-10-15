@@ -1,9 +1,12 @@
 {
     "livro": "1 Tessalonicenses",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Paulo envia Timóteo em missão",
+        "6": "Timóteo retorna com boas novas"
+    },
     "versiculos": {
-        "1": "Por isso, não podendo esperar mais, achamos por bem ficar sozinhos em Atenas;",
+        "1": "POR isso, não podendo esperar mais, achamos por bem ficar sozinhos em Atenas;",
         "2": "E enviamos Timóteo, nosso irmão, e ministro de Deus, e nosso cooperador no evangelho de Cristo, para vos confortar e vos exortar acerca da vossa fé;",
         "3": "Para que ninguém se comova por estas tribulações; porque vós mesmos sabeis que para isto fomos ordenados,",
         "4": "Pois, estando ainda convosco, vos predizíamos que havíamos de ser afligidos, como sucedeu, e vós o sabeis.",

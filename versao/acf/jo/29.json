@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 29,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó tem saudade dos dias de glória"
+    },
     "versiculos": {
-        "1": "E prosseguiu Jó no seu discurso, dizendo:",
+        "1": "E PROSSEGUIU Jó no seu discurso, dizendo:",
         "2": "Ah! Quem me dera ser como eu fui nos meses passados, como nos dias em que Deus me guardava!",
         "3": "Quando fazia resplandecer a sua lâmpada sobre a minha cabeça e quando eu pela sua luz caminhava pelas trevas.",
         "4": "Como fui nos dias da minha mocidade, quando o segredo de Deus estava sobre a minha tenda;",

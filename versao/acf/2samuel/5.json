@@ -1,9 +1,14 @@
 {
     "livro": "2 Samuel",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi é aclamado rei de Israel",
+        "6": "A conquista de Jerusalém",
+        "13": "Filhos de Davi em Jerusalém",
+        "17": "Davi vence os filisteus"
+    },
     "versiculos": {
-        "1": "Então todas as tribos de Israel vieram a Davi, em Hebrom, e falaram, dizendo: Eis-nos aqui, somos teus ossos e tua carne.",
+        "1": "ENTÃO todas as tribos de Israel vieram a Davi, em Hebrom, e falaram, dizendo: Eis-nos aqui, somos teus ossos e tua carne.",
         "2": "E também outrora, sendo Saul ainda rei sobre nós, eras tu o que saías e entravas com Israel; e também o Senhor te disse: Tu apascentarás o meu povo de Israel, e tu serás príncipe sobre Israel.",
         "3": "Assim, pois, todos os anciãos de Israel vieram ao rei, em Hebrom; e o rei Davi fez com eles acordo em Hebrom, perante o Senhor; e ungiram a Davi rei sobre Israel.",
         "4": "Da idade de trinta anos era Davi quando começou a reinar; quarenta anos reinou.",

@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Graças a Deus: Justo Juiz!"
+    },
     "versiculos": {
-        "1": "Eu te louvarei, Senhor, com todo o meu coração; contarei todas as tuas maravilhas.",
+        "1": "EU te louvarei, Senhor, com todo o meu coração; contarei todas as tuas maravilhas.",
         "2": "Em ti me alegrarei e saltarei de prazer; cantarei louvores ao teu nome, ó Altíssimo.",
         "3": "Porquanto os meus inimigos voltaram atrás, caíram e pereceram diante da tua face.",
         "4": "Pois tu tens sustentado o meu direito e a minha causa; tu te assentaste no tribunal, julgando justamente;",

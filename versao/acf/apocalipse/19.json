@@ -1,9 +1,12 @@
 {
     "livro": "Apocalipse",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "Aleluia! Júbilo no céu",
+        "11": "Cristo vence todos os inimigos"
+    },
     "versiculos": {
-        "1": "E, depois destas coisas ouvi no céu uma grande voz de uma grande multidão, que dizia: Aleluia! A salvação, e a glória, e a honra, e o poder pertencem ao Senhor nosso Deus;",
+        "1": "E, DEPOIS destas coisas ouvi no céu uma grande voz de uma grande multidão, que dizia: Aleluia! A salvação, e a glória, e a honra, e o poder pertencem ao Senhor nosso Deus;",
         "2": "Porque verdadeiros e justos são os seus juízos, pois julgou a grande prostituta, que havia corrompido a terra com a sua fornicação, e das mãos dela vingou o sangue dos seus servos.",
         "3": "E outra vez disseram: Aleluia! E a fumaça dela sobe para todo o sempre.",
         "4": "E os vinte e quatro anciãos, e os quatro animais, prostraram-se e adoraram a Deus, que estava assentado no trono, dizendo: Amém. Aleluia!",

@@ -1,9 +1,11 @@
 {
     "livro": "Oséias",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Os líderes e o povo são culpados"
+    },
     "versiculos": {
-        "1": "Ouvi isto, ó sacerdotes, e escutai, ó casa de Israel, e daí ouvidos, ó casa do rei, porque contra vós se dirige este juízo, visto que fostes um laço para Mizpá, e rede estendida sobre o Tabor.",
+        "1": "OUVI isto, ó sacerdotes, e escutai, ó casa de Israel, e daí ouvidos, ó casa do rei, porque contra vós se dirige este juízo, visto que fostes um laço para Mizpá, e rede estendida sobre o Tabor.",
         "2": "Os revoltos se aprofundaram na matança; mas eu castigarei a todos eles.",
         "3": "Eu conheço a Efraim, e Israel não se esconde de mim; porque agora te tens prostituído, ó Efraim, e Israel se contaminou.",
         "4": "Não querem ordenar as suas ações a fim de voltarem para o seu Deus, porque o espírito das prostituições está no meio deles, e não conhecem ao Senhor.",

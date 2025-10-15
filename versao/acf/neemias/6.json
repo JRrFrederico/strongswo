@@ -1,9 +1,12 @@
 {
     "livro": "Neemias",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Inimigos tentam intimidar o líder",
+        "15": "Concluída a obra da restauração"
+    },
     "versiculos": {
-        "1": "Sucedeu que, ouvindo Sambalate, Tobias, Gesém, o árabe, e o resto dos nossos inimigos, que eu tinha edificado o muro, e que nele já não havia brecha alguma, ainda que até este tempo não tinha posto as portas nos portais,",
+        "1": "SUCEDEU que, ouvindo Sambalate, Tobias, Gesém, o árabe, e o resto dos nossos inimigos, que eu tinha edificado o muro, e que nele já não havia brecha alguma, ainda que até este tempo não tinha posto as portas nos portais,",
         "2": "Sambalate e Gesém mandaram dizer-me: Vem, e congreguemo-nos juntamente nas aldeias, no vale de Ono. Porém intentavam fazer-me mal.",
         "3": "E enviei-lhes mensageiros a dizer: Faço uma grande obra, de modo que não poderei descer; por que cessaria esta obra, enquanto eu a deixasse, e fosse ter convosco?",
         "4": "E do mesmo modo enviaram a mim quatro vezes; e da mesma forma lhes respondi.",

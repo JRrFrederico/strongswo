@@ -1,9 +1,17 @@
 {
     "livro": "João",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "A falta de fé dos irmãos de Jesus",
+        "10": "O Mestre celeste",
+        "25": "Jesus é o Messias!",
+        "32": "Jesus e os líderes religiosos",
+        "37": "A promessa do Espírito Santo",
+        "40": "Quem é Jesus Cristo?",
+        "45": "Rejeitado pelas autoridades"
+    },
     "versiculos": {
-        "1": "E depois disto Jesus andava pela Galileia, e já não queria andar pela Judeia, pois os judeus procuravam matá-lo.",
+        "1": "E DEPOIS disto Jesus andava pela Galileia, e já não queria andar pela Judeia, pois os judeus procuravam matá-lo.",
         "2": "E estava próxima a festa dos judeus, a dos tabernáculos.",
         "3": "Disseram-lhe, pois, seus irmãos: Sai daqui, e vai para a Judeia, para que também os teus discípulos vejam as obras que fazes.",
         "4": "Porque não há ninguém que procure ser conhecido que faça coisa alguma em oculto. Se fazes estas coisas, manifesta-te ao mundo.",

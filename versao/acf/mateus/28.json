@@ -1,9 +1,13 @@
 {
     "livro": "Mateus",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus foi ressuscitado!",
+        "11": "Os sacerdotes subornam os guardas",
+        "16": "A Grande Comissão"
+    },
     "versiculos": {
-        "1": "E, no fim do sábado, quando já despontava o primeiro dia da semana, Maria Madalena e a outra Maria foram ver o sepulcro.",
+        "1": "E, NO fim do sábado, quando já despontava o primeiro dia da semana, Maria Madalena e a outra Maria foram ver o sepulcro.",
         "2": "E eis que houvera um grande terremoto, porque um anjo do Senhor, descendo do céu, chegou, removendo a pedra da porta, e sentou-se sobre ela.",
         "3": "E o seu aspecto era como um relâmpago, e as suas vestes brancas como neve.",
         "4": "E os guardas, com medo dele, ficaram muito assombrados, e como mortos.",

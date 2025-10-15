@@ -1,9 +1,13 @@
 {
     "livro": "Êxodo",
     "capitulo": 36,
-    "titulos": {},
+    "titulos": {
+        "2": "A entrega da oferta de adoração",
+        "8": "A construção da Tenda de Deus",
+        "20": "As tábuas em forma de esquadrias"
+    },
     "versiculos": {
-        "1": "Assim trabalharam Bezalel e Aoliabe, e todo o homem sábio de coração, a quem o Senhor dera sabedoria e inteligência, para saber como haviam de fazer toda a obra para o serviço do santuário, conforme a tudo o que o Senhor tinha ordenado.",
+        "1": "ASSIM trabalharam Bezalel e Aoliabe, e todo o homem sábio de coração, a quem o Senhor dera sabedoria e inteligência, para saber como haviam de fazer toda a obra para o serviço do santuário, conforme a tudo o que o Senhor tinha ordenado.",
         "2": "Então Moisés chamou a Bezalel e a Aoliabe, e a todo o homem sábio de coração, em cujo coração o Senhor tinha dado sabedoria; a todo aquele a quem o seu coração moveu a se chegar à obra para fazê-la.",
         "3": "Estes receberam de Moisés toda a oferta alçada, que trouxeram os filhos de Israel para a obra do serviço do santuário, para fazê-la, e ainda eles lhe traziam cada manhã ofertas voluntárias.",
         "4": "E vieram todos os sábios, que faziam toda a obra do santuário, cada um da obra que fazia,",

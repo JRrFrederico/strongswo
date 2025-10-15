@@ -1,9 +1,11 @@
 {
     "livro": "Ezequiel",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "Todo pecador deve morrer"
+    },
     "versiculos": {
-        "1": "E veio a mim a palavra do Senhor, dizendo:",
+        "1": "E VEIO a mim a palavra do Senhor, dizendo:",
         "2": "Que pensais, vós, os que usais esta parábola sobre a terra de Israel, dizendo: Os pais comeram uvas verdes, e os dentes dos filhos se embotaram?",
         "3": "Vivo eu, diz o Senhor Deus, que nunca mais direis esta parábola em Israel.",
         "4": "Eis que todas as almas são minhas; como o é a alma do pai, assim também a alma do filho é minha: a alma que pecar, essa morrerá.",

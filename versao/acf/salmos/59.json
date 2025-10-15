@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 59,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração do perseguido"
+    },
     "versiculos": {
-        "1": "Livra-me, meu Deus, dos meus inimigos, defende-me daqueles que se levantam contra mim.",
+        "1": "LIVRA-ME, meu Deus, dos meus inimigos, defende-me daqueles que se levantam contra mim.",
         "2": "Livra-me dos que praticam a iniquidade, e salva-me dos homens sanguinários.",
         "3": "Pois eis que põem ciladas à minha alma; os fortes se ajuntam contra mim, não por transgressão minha ou por pecado meu, ó Senhor.",
         "4": "Eles correm, e se preparam, sem culpa minha; desperta para me ajudares, e olha.",

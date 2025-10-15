@@ -1,9 +1,12 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "O Temor de Deus: Amor Reverente",
+        "8": "Tornar-se rico não dá sentido à vida"
+    },
     "versiculos": {
-        "1": "Guarda o teu pé, quando entrares na casa de Deus; porque chegar-se para ouvir é melhor do que oferecer sacrifícios de tolos, pois não sabem que fazem mal.",
+        "1": "GUARDA o teu pé, quando entrares na casa de Deus; porque chegar-se para ouvir é melhor do que oferecer sacrifícios de tolos, pois não sabem que fazem mal.",
         "2": "Não te precipites com a tua boca, nem o teu coração se apresse a pronunciar palavra alguma diante de Deus; porque Deus está nos céus, e tu estás sobre a terra; assim sejam poucas as tuas palavras.",
         "3": "Porque, da muita ocupação vêm os sonhos, e a voz do tolo da multidão das palavras.",
         "4": "Quando a Deus fizeres algum voto, não tardes em cumpri-lo; porque não se agrada de tolos; o que votares, paga-o.",

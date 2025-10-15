@@ -1,9 +1,16 @@
 {
     "livro": "1 Tessalonicenses",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Cristo retornará em breve",
+        "4": "Revestir-se de Cristo e vigiar",
+        "12": "Como manter o fogo do Espírito",
+        "23": "Oração pela vida integral da Igreja",
+        "25": "Pedido de oração e saudação final",
+        "28": "Bênção apostólica"
+    },
     "versiculos": {
-        "1": "Mas, irmãos, acerca dos tempos e das estações, não necessitais de que se vos escreva;",
+        "1": "MAS, irmãos, acerca dos tempos e das estações, não necessitais de que se vos escreva;",
         "2": "Porque vós mesmos sabeis muito bem que o dia do Senhor virá como o ladrão de noite;",
         "3": "Pois que, quando disserem: Há paz e segurança, então lhes sobrevirá repentina destruição, como as dores de parto àquela que está grávida, e de modo nenhum escaparão.",
         "4": "Mas vós, irmãos, já não estais em trevas, para que aquele dia vos surpreenda como um ladrão;",

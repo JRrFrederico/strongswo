@@ -1,9 +1,12 @@
 {
     "livro": "1 Samuel",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi come os pães consagrados",
+        "10": "Davi finge ataque de nervos"
+    },
     "versiculos": {
-        "1": "Então veio Davi a Nobe, ao sacerdote Aimeleque; e Aimeleque, tremendo, saiu ao encontro de Davi, e disse-lhe: Por que vens só, e ninguém contigo?",
+        "1": "ENTÃO veio Davi a Nobe, ao sacerdote Aimeleque; e Aimeleque, tremendo, saiu ao encontro de Davi, e disse-lhe: Por que vens só, e ninguém contigo?",
         "2": "E disse Davi ao sacerdote Aimeleque: O rei me encomendou um negócio, e me disse: Ninguém saiba deste negócio, pelo qual eu te enviei, e o qual te ordenei; quanto aos moços, apontei-lhes tal e tal lugar.",
         "3": "Agora, pois, que tens à mão? Dá-me cinco pães na minha mão, ou o que se achar.",
         "4": "E, respondendo o sacerdote a Davi, disse: Não tenho pão comum à mão; há, porém, pão sagrado, se ao menos os moços se abstiveram das mulheres.",

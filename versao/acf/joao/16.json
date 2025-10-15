@@ -1,9 +1,14 @@
 {
     "livro": "João",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus prediz perseguições",
+        "5": "A obra do Espírito Santo",
+        "16": "O sofrimento se tornará em alegria",
+        "25": "A paz de Cristo vence as aflições"
+    },
     "versiculos": {
-        "1": "Tenho-vos dito estas coisas para que vos não escandalizeis.",
+        "1": "TENHO-VOS dito estas coisas para que vos não escandalizeis.",
         "2": "Expulsar-vos-ão das sinagogas; vem mesmo a hora em que qualquer que vos matar cuidará fazer um serviço a Deus.",
         "3": "E isto vos farão, porque não conheceram ao Pai nem a mim.",
         "4": "Mas tenho-vos dito isto, a fim de que, quando chegar aquela hora, vos lembreis de que já vo-lo tinha dito. E eu não vos disse isto desde o princípio, porque estava convosco.",
@@ -11,7 +16,7 @@
         "6": "Antes, porque isto vos tenho dito, o vosso coração se encheu de tristeza.",
         "7": "Todavia digo-vos a verdade, que vos convém que eu vá; porque, se eu não for, o Consolador não virá a vós; mas, quando eu for, vo-lo enviarei.",
         "8": "E, quando ele vier, convencerá o mundo do pecado, e da justiça e do juízo.",
-        "9": "Do pecado, porque não creem em mim;",
+        "9": "Do pecado, porque não crêem em mim;",
         "10": "Da justiça, porque vou para meu Pai, e não me vereis mais;",
         "11": "E do juízo, porque já o príncipe deste mundo está julgado.",
         "12": "Ainda tenho muito que vos dizer, mas vós não o podeis suportar agora.",

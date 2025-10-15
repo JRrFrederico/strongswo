@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 93,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvor à majestade do Senhor"
+    },
     "versiculos": {
         "1": "O Senhor reina; está vestido de majestade. O Senhor se revestiu e cingiu de poder; o mundo também está firmado, e não poderá vacilar.",
         "2": "O teu trono está firme desde então; tu és desde a eternidade.",

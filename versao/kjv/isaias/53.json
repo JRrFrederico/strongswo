@@ -1,19 +1,21 @@
 {
     "livro": "Isaías",
     "capitulo": 53,
-    "titulos": {},
+    "titulos": {
+        "1": "E o mundo despreza o Servo"
+    },
     "versiculos": {
-        "1": "Quem tem acreditado em nosso relato? E a quem é o braço do SENHOR revelado?",
-        "2": "Porque ele crescerá diante dele como uma tenra planta, e como uma raiz de terra seca; não tem forma, nem formosura; e quando nós viermos a vê-lo, não haverá beleza para que nós devamos desejá-lo.",
-        "3": "Ele é desprezado e rejeitado dentre os homens, um homem de dores e familiarizado com a tristeza. E nós escondemos dele nossas faces, igualmente. Ele foi desprezado e nós o tivemos por nada.",
-        "4": "Certamente ele suportou nossas dores e carregou nossas tristezas. Contudo, nós o consideramos atingido, ferido de Deus e afligido.",
-        "5": "Porém, ele foi ferido por nossas transgressões, ele foi esmagado por nossas iniquidades. O castigo de nossa paz estava sobre ele e pelos açoites que o feriram nós somos curados.",
-        "6": "Todos nós como ovelhas temos nos desviado. Nós temos nos afastado, cada um para seu próprio caminho, e o SENHOR tem posto sobre ele a iniquidade de todos nós.",
-        "7": "Ele foi oprimido e ele foi afligido, contudo, ele não abriu a sua boca. Ele é trazido como um cordeiro para o matadouro, e como uma ovelha muda perante os seus tosquiadores está, assim ele não abriu sua boca.",
-        "8": "Ele foi tirado da prisão e do juízo: E quem declarará sua geração? Porque ele foi cortado da terra dos viventes; pela transgressão do meu povo foi ele chagado.",
-        "9": "E ele fez a sua sepultura com o perverso e com o rico em sua morte, porquanto ele não tinha feito nenhuma violência, nem engano algum estava em sua boca.",
-        "10": "Contudo, agradou ao SENHOR feri-lo. Ele o submeteu a padecimento. Quando tu vieres a fazer da alma dele uma oferta pelo pecado, ele verá sua descendência; ele prolongará seus dias e a vontade do SENHOR prosperará nas mãos dele.",
-        "11": "Ele verá o penoso trabalho de sua alma e estará satisfeito. Pelo seu conhecimento meu justo servo justificará muitos, porque ele carregará as iniquidades deles.",
-        "12": "Portanto, eu dividirei para ele uma porção com o grande e ele dividirá o despojo com o forte, porque ele tem derramado a sua alma até a morte, e ele foi contado com os transgressores, e ele carrega o pecado de muitos e fez intercessão pelos transgressores."
+        "1": "“Ora, quem creu em nossa pregação? E a quem foi revelado o Braço de Yahweh ?",
+        "2": "Ele cresceu diante dele como um broto tenro e como uma raiz saída de uma terra árida e estéril. Ele não aparentava qualquer formosura ou majestade que pudesse atrair os seres humanos, nada havia em seu aspecto físico pelo que pudéssemos ser cativados.",
+        "3": "Pelo contrário, foi desprezado e rejeitado pelos homens, viveu como homem de dores, experienciou todo o sofrimento. Caminhou como alguém de quem os seus semelhantes escondem o rosto, foi menosprezado, e nós não demos à sua pessoa importância alguma.",
+        "4": "E no entanto, suas dores eram as nossas próprias enfermidades que ele carregava em seu ser. Sobre seu corpo levou todas as nossas doenças; contudo nós o julgamos culpado e castigado por Deus. Pela mão de Deus ferido e torturado.",
+        "5": "Mas, de fato, ele foi transpassado por causa das nossas próprias culpas e transgressões, foi esmagado por conta das nossas iniquidades; o castigo que nos propiciou a paz caiu todo sobre ele, e mediante suas feridas fomos curados.",
+        "6": "Em verdade todos nós, tal como ovelhas perdidas, andamos errantes; cada ser humano tomou o seu próprio caminho; e Yahweh fez cair sobre ele a iniquidade de todos nós.",
+        "7": "Ele foi maltratado, humilhado, torturado; contudo, não abriu a sua boca; agiu como um cordeiro levado ao matadouro; como uma ovelha que permanece muda na presença dos seus tosquiadores ele não expressou nenhuma palavra.",
+        "8": "Por intermédio de julgamento tirano ele foi preso. E quem pode falar dos seus descendentes? Pois ele foi ceifado da terra dos viventes; por causa dos erros do meu povo ele foi golpeado.",
+        "9": "Deram-lhe uma sepultura com os ímpios, e ficou com o rico na sua morte, embora jamais tivesse cometido injustiça, nem houvesse qualquer engano ou inverdade em sua boca.",
+        "10": "Contudo, foi do propósito de Yahweh , torturá-lo e fazê-lo passar por toda dor. E, embora o S ENHOR o tenha feito como oferta pelo pecado da humanidade, ele verá a sua posteridade, prolongará os seus dias para sempre, e a vontade de Yahweh prosperará em suas mãos.",
+        "11": "Logo depois do sofrimento ele contemplará o resultado da sua obra, o empenho de sua alma, e ficará satisfeito; mediante a sua sabedoria, o meu Servo, o Justo, justificará a muitos e tomará sobre si mesmo as más obras dos seres humanos.",
+        "12": "Por este motivo Eu lhe darei uma porção generosa entre os grandes, e ele dividirá os despojos entre as multidões, porquanto ele derramou a sua própria vida até a morte, e foi contado entre os criminosos. Portanto, ele levou sobre si o pecado de muitos e pelos transgressores intercedeu”."
     }
 }

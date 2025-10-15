@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 105,
-    "titulos": {},
+    "titulos": {
+        "1": "As obras de Deus por Israel"
+    },
     "versiculos": {
-        "1": "Louvai ao Senhor, e invocai o seu nome; fazei conhecidas as suas obras entre os povos.",
+        "1": "LOUVAI ao Senhor, e invocai o seu nome; fazei conhecidas as suas obras entre os povos.",
         "2": "Cantai-lhe, cantai-lhe salmos; falai de todas as suas maravilhas.",
         "3": "Gloriai-vos no seu santo nome; alegre-se o coração daqueles que buscam ao Senhor.",
         "4": "Buscai ao Senhor e a sua força; buscai a sua face continuamente.",

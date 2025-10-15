@@ -1,9 +1,13 @@
 {
     "livro": "1 Reis",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Nabote não atende Acabe",
+        "5": "Jezabel manda matar Nabote",
+        "17": "Deus fala ao profeta"
+    },
     "versiculos": {
-        "1": "E sucedeu depois destas coisas que, Nabote, o jizreelita, tinha uma vinha em Jizreel junto ao palácio de Acabe, rei de Samaria.",
+        "1": "E SUCEDEU depois destas coisas que, Nabote, o jizreelita, tinha uma vinha em Jizreel junto ao palácio de Acabe, rei de Samaria.",
         "2": "Então Acabe falou a Nabote, dizendo: Dá-me a tua vinha, para que me sirva de horta, pois está vizinha ao lado da minha casa; e te darei por ela outra vinha melhor: ou, se for do teu agrado, dar-te-ei o seu valor em dinheiro.",
         "3": "Porém Nabote disse a Acabe: Guarde-me o Senhor de que eu te dê a herança de meus pais.",
         "4": "Então Acabe veio desgostoso e indignado à sua casa, por causa da palavra que Nabote, o jizreelita, lhe falara, quando disse: Não te darei a herança de meus pais. E deitou-se na sua cama, e voltou o rosto, e não comeu pão.",

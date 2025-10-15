@@ -1,9 +1,12 @@
 {
     "livro": "Gálatas",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Nossa liberdade em Cristo",
+        "16": "Viver no Espírito, não na carne"
+    },
     "versiculos": {
-        "1": "Estai, pois, firmes na liberdade com que Cristo nos libertou, e não torneis a colocar-vos debaixo do jugo da servidão.",
+        "1": "ESTAI, pois, firmes na liberdade com que Cristo nos libertou, e não torneis a colocar-vos debaixo do jugo da servidão.",
         "2": "Eis que eu, Paulo, vos digo que, se vos deixardes circuncidar, Cristo de nada vos aproveitará.",
         "3": "E de novo protesto a todo o homem, que se deixa circuncidar, que está obrigado a guardar toda a lei.",
         "4": "Separados estais de Cristo, vós os que vos justificais pela lei; da graça tendes caído.",
@@ -21,10 +24,10 @@
         "16": "Digo, porém: Andai em Espírito, e não cumprireis a concupiscência da carne.",
         "17": "Porque a carne cobiça contra o Espírito, e o Espírito contra a carne; e estes opõem-se um ao outro, para que não façais as coisas que quereis.",
         "18": "Mas, se sois guiados pelo Espírito, não estais debaixo da lei.",
-        "19": "Porque as obras da carne são manifestas, as quais são: adultério, fornicação, impureza, lascívia,",
+        "19": "Porque as obras da carne são manifestas, as quais são: Adultério, fornicação, impureza, lascívia,",
         "20": "Idolatria, feitiçaria, inimizades, contendas, ciúmes, iras, pelejas, dissensões, heresias,",
         "21": "Invejas, homicídios, bebedices, glutonarias, e coisas semelhantes a estas, acerca das quais de antemão vos declaro, como também já antes vos disse, que os que cometem tais coisas não herdarão o reino de Deus.",
-        "22": "Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança.",
+        "22": "Mas o fruto do Espírito é: Amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança.",
         "23": "Contra estas coisas não há lei.",
         "24": "E os que são de Cristo crucificaram a carne com as suas paixões e concupiscências.",
         "25": "Se vivemos em Espírito, andemos também em Espírito.",

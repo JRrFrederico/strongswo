@@ -1,9 +1,12 @@
 {
     "livro": "Zacarias",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Oitava visão: Os carros de guerra",
+        "9": "A coroação de Josué: o Renovo"
+    },
     "versiculos": {
-        "1": "E outra vez levantei os meus olhos, e vi, e eis que quatro carros saiam dentre dois montes, e estes montes eram montes de bronze.",
+        "1": "E OUTRA vez levantei os meus olhos, e vi, e eis que quatro carros saiam dentre dois montes, e estes montes eram montes de bronze.",
         "2": "No primeiro carro eram cavalos vermelhos, e no segundo carro, cavalos pretos,",
         "3": "E no terceiro carro, cavalos brancos, e no quarto carro, cavalos malhados, todos eram fortes.",
         "4": "E respondi, dizendo ao anjo que falava comigo: Que é isto, senhor meu?",

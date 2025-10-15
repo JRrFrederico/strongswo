@@ -1,14 +1,22 @@
 {
     "livro": "João",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus é traído e preso",
+        "12": "Jesus diante das autoridades",
+        "15": "Pedro nega ser discípulo de Cristo",
+        "19": "Jesus diante do sumo sacerdote",
+        "25": "Cristo é negado pela terceira vez",
+        "28": "Jesus diante da corte de Pilatos",
+        "39": "Jesus no lugar de um bandido"
+    },
     "versiculos": {
-        "1": "Tendo Jesus dito isto, saiu com os seus discípulos para além do ribeiro de Cedrom, onde havia um jardim, no qual ele entrou e seus discípulos.",
+        "1": "TENDO Jesus dito isto, saiu com os seus discípulos para além do ribeiro de Cedrom, onde havia um jardim, no qual ele entrou e seus discípulos.",
         "2": "E Judas, que o traía, também conhecia aquele lugar, porque Jesus muitas vezes se ajuntava ali com os seus discípulos.",
         "3": "Tendo, pois, Judas recebido a coorte e oficiais dos principais sacerdotes e fariseus, veio para ali com lanternas, e tochas e armas.",
         "4": "Sabendo, pois, Jesus todas as coisas que sobre ele haviam de vir, adiantou-se, e disse-lhes: A quem buscais?",
         "5": "Responderam-lhe: A Jesus Nazareno. Disse-lhes Jesus: Sou eu. E Judas, que o traía, estava com eles.",
-        "6": "Quando, pois, lhes disse: Sou eu, recuaram, e caíram por terra.",
+        "6": "Quando, pois, lhes disse: Sou eu , recuaram, e caíram por terra.",
         "7": "Tornou-lhes, pois, a perguntar: A quem buscais? E eles disseram: A Jesus Nazareno.",
         "8": "Jesus respondeu: Já vos disse que sou eu; se, pois, me buscais a mim, deixai ir estes;",
         "9": "Para que se cumprisse a palavra que tinha dito: Dos que me deste nenhum deles perdi.",

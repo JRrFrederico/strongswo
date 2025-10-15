@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 42,
-    "titulos": {},
+    "titulos": {
+        "1": "Primeiro poema do Servo de Deus",
+        "18": "A cegueira espiritual de Israel"
+    },
     "versiculos": {
-        "1": "Eis aqui o meu servo, a quem sustenho, o meu eleito, em quem se compraz a minha alma; pus o meu espírito sobre ele; ele trará justiça aos gentios.",
+        "1": "EIS aqui o meu servo, a quem sustenho, o meu eleito, em quem se compraz a minha alma; pus o meu espírito sobre ele; ele trará justiça aos gentios.",
         "2": "Não clamará, não se exaltará, nem fará ouvir a sua voz na praça.",
         "3": "A cana trilhada não quebrará, nem apagará o pavio que fumega; com verdade trará justiça.",
         "4": "Não faltará, nem será quebrantado, até que ponha na terra a justiça; e as ilhas aguardarão a sua lei.",

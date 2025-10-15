@@ -1,9 +1,14 @@
 {
     "livro": "2 Reis",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "O último rei de Israel: Oseias",
+        "3": "A queda de Samaria e o cativeiro",
+        "7": "Israel é castigado com o exílio",
+        "24": "Origem dos samaritanos"
+    },
     "versiculos": {
-        "1": "No ano duodécimo de Acaz, rei de Judá, começou a reinar Oseias, filho de Elá, e reinou sobre Israel, em Samaria, nove anos.",
+        "1": "NO ano duodécimo de Acaz, rei de Judá, começou a reinar Oseias, filho de Elá, e reinou sobre Israel, em Samaria, nove anos.",
         "2": "E fez o que era mau aos olhos do Senhor, contudo não como os reis de Israel que foram antes dele.",
         "3": "Contra ele subiu Salmaneser, rei da Assíria; e Oseias ficou sendo servo dele, e pagava-lhe tributos.",
         "4": "Porém o rei da Assíria achou em Oseias conspiração; porque enviara mensageiros a Sô, rei do Egito, e não pagava tributos ao rei da Assíria cada ano, como dantes; então o rei da Assíria o encerrou e aprisionou na casa do cárcere.",

@@ -1,9 +1,12 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Quanto aos Dons Espirituais",
+        "12": "Unidade na diversidade"
+    },
     "versiculos": {
-        "1": "Acerca dos dons espirituais, não quero, irmãos, que sejais ignorantes.",
+        "1": "ACERCA dos dons espirituais, não quero, irmãos, que sejais ignorantes.",
         "2": "Vós bem sabeis que éreis gentios, levados aos ídolos mudos, conforme éreis guiados.",
         "3": "Portanto, vos quero fazer compreender que ninguém que fala pelo Espírito de Deus diz: Jesus é anátema, e ninguém pode dizer que Jesus é o Senhor, senão pelo Espírito Santo.",
         "4": "Ora, há diversidade de dons, mas o Espírito é o mesmo.",

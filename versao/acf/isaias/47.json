@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 47,
-    "titulos": {},
+    "titulos": {
+        "1": "A queda da Babilônia"
+    },
     "versiculos": {
-        "1": "Desce, e assenta-te no pó, ó virgem filha de Babilônia; assenta-te no chão; já não há trono, ó filha dos caldeus, porque nunca mais serás chamada a tenra nem a delicada.",
+        "1": "DESCE, e assenta-te no pó, ó virgem filha de Babilônia; assenta-te no chão; já não há trono, ó filha dos caldeus, porque nunca mais serás chamada a tenra nem a delicada.",
         "2": "Toma a mó, e mói a farinha; remove o teu véu, descalça os pés, descobre as pernas e passa os rios.",
         "3": "A tua vergonha se descobrirá, e ver-se-á o teu opróbrio; tomarei vingança, e não pouparei a homem algum.",
         "4": "O nosso redentor cujo nome é o Senhor dos Exércitos, é o Santo de Israel.",

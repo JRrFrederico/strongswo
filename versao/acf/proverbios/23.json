@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Conclusão dos 30 ditos dos Sábios"
+    },
     "versiculos": {
-        "1": "Quando te assentares a comer com um governador, atenta bem para o que é posto diante de ti,",
+        "1": "QUANDO te assentares a comer com um governador, atenta bem para o que é posto diante de ti,",
         "2": "E se és homem de grande apetite, põe uma faca à tua garganta.",
         "3": "Não cobices as suas iguarias porque são comidas enganosas.",
         "4": "Não te fatigues para enriqueceres; e não apliques nisso a tua sabedoria.",

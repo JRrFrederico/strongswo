@@ -1,9 +1,11 @@
 {
     "livro": "1 Samuel",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi poupa Saul outra vez"
+    },
     "versiculos": {
-        "1": "E vieram os zifeus a Saul, a Gibeá, dizendo: Não está Davi escondido no outeiro de Haquilá, defronte de Jesimom?",
+        "1": "E VIERAM os zifeus a Saul, a Gibeá, dizendo: Não está Davi escondido no outeiro de Haquilá, defronte de Jesimom?",
         "2": "Então Saul se levantou e desceu ao deserto de Zife, e com ele três mil homens escolhidos de Israel, a buscar a Davi no deserto de Zife.",
         "3": "E acampou-se Saul no outeiro de Haquilá, que está defronte de Jesimom, junto ao caminho; porém Davi ficou no deserto, e viu que Saul vinha seguindo-o no deserto.",
         "4": "Pois Davi enviou espias, e soube com certeza que Saul tinha vindo.",

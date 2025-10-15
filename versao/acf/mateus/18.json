@@ -1,9 +1,16 @@
 {
     "livro": "Mateus",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "Quem é o maior no Reino?",
+        "6": "Jesus adverte sobre as ciladas",
+        "10": "A parábola da ovelha perdida",
+        "15": "Como tratar o pecado de um irmão",
+        "21": "Quantas vezes se deve perdoar",
+        "23": "A parábola do servo que não perdoou"
+    },
     "versiculos": {
-        "1": "Naquela mesma hora chegaram os discípulos a Jesus, dizendo: Quem é o maior no reino dos céus?",
+        "1": "NAQUELA mesma hora chegaram os discípulos a Jesus, dizendo: Quem é o maior no reino dos céus?",
         "2": "E Jesus, chamando um menino, o pôs no meio deles,",
         "3": "E disse: Em verdade vos digo que, se não vos converterdes e não vos fizerdes como meninos, de modo algum entrareis no reino dos céus.",
         "4": "Portanto, aquele que se tornar humilde como este menino, esse é o maior no reino dos céus.",
@@ -15,7 +22,7 @@
         "10": "Vede, não desprezeis algum destes pequeninos, porque eu vos digo que os seus anjos nos céus sempre veem a face de meu Pai que está nos céus.",
         "11": "Porque o Filho do homem veio salvar o que se tinha perdido.",
         "12": "Que vos parece? Se algum homem tiver cem ovelhas, e uma delas se desgarrar, não irá pelos montes, deixando as noventa e nove, em busca da que se desgarrou?",
-        "13": "E, se porventura achá-la, em verdade vos digo que maior prazer tem por aquela do que pelas noventa e nove que não se desgarraram.",
+        "13": "E, se porventura achá-la, em verdade vos digo que maior prazer tem por aquela do que pelas noventa e nove que não  se desgarraram.",
         "14": "Assim, também, não é vontade de vosso Pai, que está nos céus, que um destes pequeninos se perca.",
         "15": "Ora, se teu irmão pecar contra ti, vai, e repreende-o entre ti e ele só; se te ouvir, ganhaste a teu irmão;",
         "16": "Mas, se não te ouvir, leva ainda contigo um ou dois, para que pela boca de duas ou três testemunhas toda a palavra seja confirmada.",

@@ -1,9 +1,18 @@
 {
     "livro": "2 Reis",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "O rei Josias renova a Aliança",
+        "4": "A Reforma religiosa de Josias",
+        "15": "Josias leva a Reforma até o Norte",
+        "21": "A celebração da Páscoa",
+        "24": "A lealdade do rei Josias",
+        "28": "A morte do rei Josias",
+        "31": "O reinado e deposição de Jeoacaz",
+        "36": "O reinado de Jeoaquim em Judá"
+    },
     "versiculos": {
-        "1": "Então o rei ordenou, e todos os anciãos de Judá e de Jerusalém se reuniram a ele.",
+        "1": "ENTÃO o rei ordenou, e todos os anciãos de Judá e de Jerusalém se reuniram a ele.",
         "2": "O rei subiu à casa do Senhor, e com ele todos os homens de Judá, e todos os moradores de Jerusalém, os sacerdotes, os profetas e todo o povo, desde o menor até ao maior; e leu aos ouvidos deles todas as palavras do livro da aliança, que se achou na casa do Senhor.",
         "3": "E o rei se pôs em pé junto à coluna, e fez a aliança perante o Senhor, para seguirem o Senhor, e guardarem os seus mandamentos, os seus testemunhos e os seus estatutos, com todo o coração e com toda a alma, confirmando as palavras desta aliança, que estavam escritas naquele livro; e todo o povo apoiou esta aliança.",
         "4": "E o rei mandou ao sumo sacerdote Hilquias, aos sacerdotes da segunda ordem, e aos guardas do umbral da porta, que tirassem do templo do Senhor todos os vasos que se tinham feito para Baal, para o bosque e para todo o exército dos céus e os queimou fora de Jerusalém, nos campos de Cedrom e levou as cinzas deles a Betel.",

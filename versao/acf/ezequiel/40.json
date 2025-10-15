@@ -1,9 +1,19 @@
 {
     "livro": "Ezequiel",
     "capitulo": 40,
-    "titulos": {},
+    "titulos": {
+        "1": "A visão da nova Casa de Yahweh",
+        "5": "O portão do lado do Oriente, Leste",
+        "17": "O pátio exterior do Templo",
+        "20": "O portão do lado Norte",
+        "24": "O portão do lado Sul",
+        "28": "Os portões para o pátio de dentro",
+        "38": "Os prédios perto do portão Norte",
+        "44": "Os aposentos dos sacerdotes",
+        "48": "O pátio de dentro do Templo"
+    },
     "versiculos": {
-        "1": "No ano vinte e cinco do nosso cativeiro, no princípio do ano, no décimo dia do mês, catorze anos depois que a cidade foi conquistada, naquele mesmo dia veio sobre mim a mão do Senhor, e me levou para lá.",
+        "1": "NO ano vinte e cinco do nosso cativeiro, no princípio do ano, no décimo dia do mês, catorze anos depois que a cidade foi conquistada, naquele mesmo dia veio sobre mim a mão do Senhor, e me levou para lá.",
         "2": "Em visões de Deus me levou à terra de Israel, e me pôs sobre um monte muito alto, sobre o qual havia como que um edifício de cidade para o lado sul.",
         "3": "E, havendo-me levado ali, eis que um homem cuja aparência era como a do bronze, tendo um cordel de linho na sua mão e uma cana de medir, e estava em pé na porta.",
         "4": "E disse-me o homem: Filho do homem, vê com os teus olhos, e ouve com os teus ouvidos, e põe no teu coração tudo quanto eu te fizer ver; porque para to mostrar foste tu aqui trazido; anuncia, pois, à casa de Israel tudo quanto vires.",

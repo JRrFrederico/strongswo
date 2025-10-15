@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 73,
-    "titulos": {},
+    "titulos": {
+        "1": "A prosperidade e o fim dos ímpios"
+    },
     "versiculos": {
-        "1": "Verdadeiramente bom é Deus para com Israel, para com os limpos de coração.",
+        "1": "VERDADEIRAMENTE bom é Deus para com Israel, para com os limpos de coração.",
         "2": "Quanto a mim, os meus pés quase que se desviaram; pouco faltou para que escorregassem os meus passos.",
         "3": "Pois eu tinha inveja dos néscios, quando via a prosperidade dos ímpios.",
         "4": "Porque não há apertos na sua morte, mas firme está a sua força.",

@@ -1,17 +1,19 @@
 {
     "livro": "Salmos",
     "capitulo": 112,
-    "titulos": {},
+    "titulos": {
+        "1": "Os justos herdarão a vida eterna"
+    },
     "versiculos": {
-        "1": "Louvai ao SENHOR. Abençoado é o homem que teme ao SENHOR, que se deleita grandemente em seus mandamentos.",
-        "2": "Sua semente será poderosa sobre a terra; a geração dos retos será abençoada.",
-        "3": "Fartura e riquezas estarão em sua casa, e sua justiça dura para sempre.",
-        "4": "Sobre o reto levanta-se a luz nas trevas; ele é gracioso, e cheio de compaixão e justo.",
-        "5": "Um bom homem mostra favor e empresta; ele guiará seus negócios com discrição.",
-        "6": "Certamente ele não será abalado para sempre; o justo estará em eterna lembrança.",
-        "7": "Ele não terá medo das más notícias; seu coração é firme, confiando no SENHOR.",
-        "8": "Seu coração está estabelecido, ele não terá medo, até que ele veja o seu desejo sobre os seus inimigos.",
-        "9": "Ele dispersou, ele deu aos pobres; sua justiça dura para sempre; seu chifre será exaltado com honra.",
-        "10": "O perverso o verá, e se entristecerá; ele rangerá os seus dentes e derreterá; o desejo do perverso perecerá."
+        "1": "Aleluia! Quão feliz é a pessoa que teme ao S ENHOR e tem grande prazer em seus mandamentos!",
+        "2": "Sua linhagem será poderosa no país, abençoada geração de homens íntegros.",
+        "3": "Em sua casa haverá bens e riquezas, e sua justiça permanece para sempre.",
+        "4": "Desponta nas trevas como luz para os homens retos: é benigno, piedoso e justo.",
+        "5": "Bem-aventurado quem se compadece e empresta com generosidade, e com honestidade administra todos os seus negócios!",
+        "6": "O justo jamais será grandemente abalado; para sempre suscitará boas recordações.",
+        "7": "Não viverá temeroso, esperando más notícias: confiando plenamente no S ENHOR , seu coração estará sempre firme.",
+        "8": "Seu coração está seguro e nada temerá. Certamente, no final, testemunhará o fracasso dos seus inimigos.",
+        "9": "Generosamente reparte o que possui com os pobres; perene será sua benevolência; de cabeça erguida será honrado e exaltado por muitos.",
+        "10": "Por isso, o ímpio o observa e fica irado, range os dentes e se consome de ódio. A ambição dos ímpios os levará à destruição!"
     }
 }

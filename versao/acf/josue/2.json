@@ -1,9 +1,13 @@
 {
     "livro": "Josué",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Josué envia dois espiões a Jericó",
+        "8": "O pacto entre Raabe e os espiões",
+        "22": "Os espiões voltam ao acampamento"
+    },
     "versiculos": {
-        "1": "E Josué, filho de Num, enviou secretamente, de Sitim, dois homens a espiar, dizendo: Ide reconhecer a terra e a Jericó. Foram, pois, e entraram na casa de uma mulher prostituta, cujo nome era Raabe, e dormiram ali.",
+        "1": "E JOSUÉ, filho de Num, enviou secretamente, de Sitim, dois homens a espiar, dizendo: Ide reconhecer a terra e a Jericó. Foram, pois, e entraram na casa de uma mulher prostituta, cujo nome era Raabe, e dormiram ali.",
         "2": "Então deu-se notícia ao rei de Jericó, dizendo: Eis que esta noite vieram aqui uns homens dos filhos de Israel, para espiar a terra.",
         "3": "Por isso mandou o rei de Jericó dizer a Raabe: Tira fora os homens que vieram a ti e entraram na tua casa, porque vieram espiar toda a terra.",
         "4": "Porém aquela mulher tomou os dois homens, e os escondeu, e disse: É verdade que vieram homens a mim, porém eu não sabia de onde eram.",

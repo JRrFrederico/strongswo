@@ -1,9 +1,13 @@
 {
     "livro": "2 Reis",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Reinado de Jeoacaz, rei de Israel",
+        "10": "O reinado de Jeoás",
+        "14": "A morte de Eliseu"
+    },
     "versiculos": {
-        "1": "No ano vinte e três de Joás, filho de Acazias, rei de Judá, começou a reinar Jeoacaz, filho de Jeú, sobre Israel, em Samaria, e reinou dezessete anos.",
+        "1": "NO ano vinte e três de Joás, filho de Acazias, rei de Judá, começou a reinar Jeoacaz, filho de Jeú, sobre Israel, em Samaria, e reinou dezessete anos.",
         "2": "E fez o que era mau aos olhos do Senhor; porque seguiu os pecados de Jeroboão, filho de Nebate, que fez pecar a Israel; não se apartou deles.",
         "3": "Por isso a ira do Senhor se acendeu contra Israel; e entregou-os na mão de Hazael, rei da Síria, e na mão de Ben-Hadade, filho de Hazael, todos aqueles dias.",
         "4": "Porém Jeoacaz suplicou diante da face do Senhor; e o Senhor ouviu; porque viu a opressão de Israel, pois o rei da Síria os oprimia.",

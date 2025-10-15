@@ -1,9 +1,17 @@
 {
     "livro": "Lucas",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus diante dos líderes romanos",
+        "8": "Jesus é interrogado por Herodes",
+        "13": "Pilatos interroga Jesus outra vez",
+        "26": "Jesus a caminho do Gólgota",
+        "33": "A crucificação",
+        "44": "Jesus entrega sua vida na cruz",
+        "50": "O sepultamento de Jesus Cristo"
+    },
     "versiculos": {
-        "1": "E, levantando-se toda a multidão deles, o levaram a Pilatos.",
+        "1": "E, LEVANTANDO-SE toda a multidão deles, o levaram a Pilatos.",
         "2": "E começaram a acusá-lo, dizendo: Havemos achado este pervertendo a nação, proibindo dar o tributo a César, e dizendo que ele mesmo é Cristo, o rei.",
         "3": "E Pilatos perguntou-lhe, dizendo: Tu és o Rei dos Judeus? E ele, respondendo, disse-lhe: Tu o dizes.",
         "4": "E disse Pilatos aos principais sacerdotes, e à multidão: Não acho culpa alguma neste homem.",

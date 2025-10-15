@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 90,
-    "titulos": {},
+    "titulos": {
+        "1": "A brevidade da vida"
+    },
     "versiculos": {
-        "1": "Senhor, tu tens sido o nosso refúgio, de geração em geração.",
+        "1": "SENHOR, tu tens sido o nosso refúgio, de geração em geração.",
         "2": "Antes que os montes nascessem, ou que tu formasses a terra e o mundo, mesmo de eternidade a eternidade, tu és Deus.",
         "3": "Tu reduzes o homem à destruição; e dizes: Tornai-vos, filhos dos homens.",
         "4": "Porque mil anos são aos teus olhos como o dia de ontem que passou, e como a vigília da noite.",

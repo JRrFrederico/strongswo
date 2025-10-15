@@ -1,9 +1,13 @@
 {
     "livro": "2 Reis",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "A queda de Jerusalém em 586 a.C",
+        "22": "Gedalias e o remanescente de Judá",
+        "27": "Joaquim é libertado da prisão"
+    },
     "versiculos": {
-        "1": "E sucedeu que, no nono ano do seu reinado, no mês décimo, aos dez do mês, Nabucodonosor, rei de Babilônia, veio contra Jerusalém, ele e todo o seu exército, e se acampou contra ela, e levantaram contra ela trincheiras em redor.",
+        "1": "E SUCEDEU que, no nono ano do seu reinado, no mês décimo, aos dez do mês, Nabucodonosor, rei de Babilônia, veio contra Jerusalém, ele e todo o seu exército, e se acampou contra ela, e levantaram contra ela trincheiras em redor.",
         "2": "E a cidade foi sitiada até ao undécimo ano do rei Zedequias.",
         "3": "Aos nove do mês quarto, quando a cidade se via apertada pela fome, nem havia pão para o povo da terra,",
         "4": "Então a cidade foi invadida, e todos os homens de guerra fugiram de noite pelo caminho da porta, entre os dois muros que estavam junto ao jardim do rei (porque os caldeus estavam contra a cidade em redor), e o rei se foi pelo caminho da campina.",

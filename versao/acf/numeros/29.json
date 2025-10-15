@@ -1,9 +1,13 @@
 {
     "livro": "Números",
     "capitulo": 29,
-    "titulos": {},
+    "titulos": {
+        "1": "As ofertas da Festa do Ano Novo",
+        "7": "As ofertas do Dia do Perdão",
+        "12": "As ofertas da Festa das Tendas"
+    },
     "versiculos": {
-        "1": "Semelhantemente, tereis santa convocação no sétimo mês, no primeiro dia do mês; nenhum trabalho servil fareis; será para vós dia de sonido de trombetas.",
+        "1": "SEMELHANTEMENTE, tereis santa convocação no sétimo mês, no primeiro dia do mês; nenhum trabalho servil fareis; será para vós dia de sonido de trombetas.",
         "2": "Então por holocausto, em cheiro suave ao Senhor, oferecereis um novilho, um carneiro e sete cordeiros de um ano, sem defeito.",
         "3": "E pela sua oferta de alimentos de flor de farinha misturada com azeite, três décimas para o novilho, e duas décimas para o carneiro,",
         "4": "E uma décima para cada um dos sete cordeiros.",

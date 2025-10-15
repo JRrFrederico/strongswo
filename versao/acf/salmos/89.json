@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 89,
-    "titulos": {},
+    "titulos": {
+        "1": "Promessa messiânica a Davi"
+    },
     "versiculos": {
-        "1": "As benignidades do Senhor cantarei perpetuamente; com a minha boca manifestarei a tua fidelidade de geração em geração.",
+        "1": "AS benignidades do Senhor cantarei perpetuamente; com a minha boca manifestarei a tua fidelidade de geração em geração.",
         "2": "Pois disse eu: A tua benignidade será edificada para sempre; tu confirmarás a tua fidelidade até nos céus, dizendo:",
         "3": "Fiz uma aliança com o meu escolhido, e jurei ao meu servo Davi, dizendo:",
         "4": "A tua semente estabelecerei para sempre, e edificarei o teu trono de geração em geração. (Selá.)",

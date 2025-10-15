@@ -1,9 +1,12 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 35,
-    "titulos": {},
+    "titulos": {
+        "1": "A Páscoa é celebrada em Jerusalém",
+        "20": "Josias morre na batalha de Megido"
+    },
     "versiculos": {
-        "1": "Então Josias celebrou a páscoa ao Senhor em Jerusalém; e mataram o cordeiro da páscoa no décimo quarto dia do primeiro mês.",
+        "1": "ENTÃO Josias celebrou a páscoa ao Senhor em Jerusalém; e mataram o cordeiro da páscoa no décimo quarto dia do primeiro mês.",
         "2": "E estabeleceu os sacerdotes nos seus cargos, e os animou ao ministério da casa do Senhor.",
         "3": "E disse aos levitas que ensinavam a todo o Israel e estavam consagrados ao Senhor: Ponde a arca sagrada na casa que edificou Salomão, filho de Davi, rei de Israel; não tereis mais esta carga aos ombros; agora servi ao Senhor vosso Deus, e ao seu povo Israel.",
         "4": "E preparai-vos segundo as vossas casas paternas e segundo as vossas turmas, conforme à prescrição de Davi, rei de Israel, e a de Salomão, seu filho.",

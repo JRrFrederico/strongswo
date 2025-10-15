@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 145,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvor à divina providência"
+    },
     "versiculos": {
-        "1": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre.",
+        "1": "EU te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre.",
         "2": "Cada dia te bendirei, e louvarei o teu nome pelos séculos dos séculos e para sempre.",
         "3": "Grande é o Senhor, e muito digno de louvor, e a sua grandeza insondável.",
         "4": "Uma geração louvará as tuas obras à outra geração, e anunciarão as tuas proezas.",

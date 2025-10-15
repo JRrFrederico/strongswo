@@ -1,9 +1,11 @@
 {
     "livro": "Daniel",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "O final dos tempos"
+    },
     "versiculos": {
-        "1": "E naquele tempo se levantará Miguel, o grande príncipe, que se levanta a favor dos filhos do teu povo, e haverá um tempo de angústia, qual nunca houve, desde que houve nação até àquele tempo; mas naquele tempo livrar-se-á o teu povo, todo aquele que for achado escrito no livro.",
+        "1": "E NAQUELE tempo se levantará Miguel, o grande príncipe, que se levanta a favor dos filhos do teu povo, e haverá um tempo de angústia, qual nunca houve, desde que houve nação até àquele tempo; mas naquele tempo livrar-se-á o teu povo, todo aquele que for achado escrito no livro.",
         "2": "E muitos dos que dormem no pó da terra ressuscitarão, uns para vida eterna, e outros para vergonha e desprezo eterno.",
         "3": "Os que forem sábios, pois, resplandecerão como o fulgor do firmamento; e os que a muitos ensinam a justiça, como as estrelas sempre e eternamente.",
         "4": "E tu, Daniel, encerra estas palavras e sela este livro, até ao fim do tempo; muitos correrão de uma parte para outra, e o conhecimento se multiplicará.",

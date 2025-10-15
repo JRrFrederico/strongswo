@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "A supremacia da sabedoria"
+    },
     "versiculos": {
-        "1": "Ouvi, filhos, a instrução do pai, e estai atentos para conhecerdes a prudência.",
+        "1": "OUVI, filhos, a instrução do pai, e estai atentos para conhecerdes a prudência.",
         "2": "Pois dou-vos boa doutrina; não deixeis a minha lei.",
         "3": "Porque eu era filho tenro na companhia de meu pai, e único diante de minha mãe.",
         "4": "E ele me ensinava e me dizia: Retenha o teu coração as minhas palavras; guarda os meus mandamentos, e vive.",

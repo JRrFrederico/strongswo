@@ -1,9 +1,13 @@
 {
     "livro": "Romanos",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus é fiel e justo",
+        "9": "O ser humano é infiel e injusto",
+        "21": "Justificados pela fé em Jesus"
+    },
     "versiculos": {
-        "1": "Qual é, pois, a vantagem do judeu? Ou qual a utilidade da circuncisão?",
+        "1": "QUAL é, pois, a vantagem do judeu? Ou qual a utilidade da circuncisão?",
         "2": "Muita, em toda a maneira, porque, primeiramente, as palavras de Deus lhe foram confiadas.",
         "3": "Pois quê? Se alguns foram incrédulos, a sua incredulidade aniquilará a fidelidade de Deus?",
         "4": "De maneira nenhuma; sempre seja Deus verdadeiro, e todo o homem mentiroso; como está escrito: Para que sejas justificado em tuas palavras, e venças quando fores julgado.",

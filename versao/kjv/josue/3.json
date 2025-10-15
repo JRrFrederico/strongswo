@@ -1,24 +1,27 @@
 {
     "livro": "Josué",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Josué lidera a travessia do Jordão",
+        "7": "Últimas instruções para a travessia"
+    },
     "versiculos": {
-        "1": "E Josué se levantou de manhã cedo; e eles saíram de Sitim e vieram ao Jordão, ele e todos os filhos de Israel, e ali se alojaram antes de atravessarem.",
-        "2": "E sucedeu que, depois de três dias, os oficiais foram pelo meio do acampamento;",
-        "3": "e eles ordenaram ao povo, dizendo: Quando virdes a arca do pacto do SENHOR, vosso Deus, e os sacerdotes, os levitas carregando-a, então saireis do vosso lugar e a seguireis.",
-        "4": "Contudo, haverá um espaço entre vós e ela, cerca de dois mil côvados de medida; não venhais próximo a ela, para que possais saber o caminho pelo qual deveis ir, pois não passastes por este caminho até então.",
-        "5": "E Josué disse ao povo: Santificai-vos, porque amanhã o SENHOR fará maravilhas no meio de vós.",
-        "6": "E Josué falou aos sacerdotes, dizendo: Tomai a arca do pacto, e passai adiante do povo. E eles tomaram a arca do pacto, e foram antes do povo.",
-        "7": "E o SENHOR disse a Josué: Neste dia começarei a te exaltar à vista de todo Israel, para que eles possam saber que, assim como eu estava com Moisés, também estarei contigo.",
-        "8": "E tu ordenarás aos sacerdotes que carregam a arca do pacto, dizendo: Quando chegardes à beira das águas do Jordão, permanecereis de pé e parados no Jordão.",
-        "9": "E Josué disse aos filhos de Israel: Vinde para cá e ouvi as palavras do SENHOR, vosso Deus.",
-        "10": "E Josué disse: Por meio disto sabereis que o Deus vivo está no meio de vós, e que ele, sem falta, expulsará de diante de vós os cananeus, os heteus, os heveus, os ferezeus, os girgaseus, os amorreus e os jebuseus.",
-        "11": "Eis que a arca do pacto do Senhor de toda a terra passa adiante de vós, para dentro do Jordão.",
-        "12": "Portanto, agora, tomai doze homens das tribos de Israel, de cada tribo um homem.",
-        "13": "E sucederá que, tão logo as solas dos pés dos sacerdotes que carregam a arca do SENHOR, o Senhor de toda a terra, repousarem nas águas do Jordão, se separarão as águas do Jordão, e as águas, que vêm de cima, pararão amontoadas.",
-        "14": "E sucedeu, quando o povo saiu das suas tendas, para atravessar o Jordão, e os sacerdotes carregando a arca do pacto diante do povo;",
-        "15": "e, quando aqueles que carregavam a arca chegaram ao Jordão, e os pés dos sacerdotes que carregavam a arca foram submersos na beira da água,",
-        "16": "que as águas que desciam de cima permaneceram e se ergueram em um amontoado mui distante da cidade de Adã, que está ao lado de Sartã; e as que desciam em direção ao mar da planície, que é o mar de sal, falharam, e foram separadas; e o povo atravessou direto em direção a Jericó.",
-        "17": "E os sacerdotes que carregavam a arca do pacto do SENHOR permaneceram firmes em terra seca no meio do Jordão, e todos os israelitas atravessaram em terra seca, até que todo o povo terminou de passar pelo Jordão."
+        "1": "Josué e todo o povo de Israel se levantaram de madrugada, deixaram o acampamento do vale Abel-Shitim , das Acácias, nas campinas de Moabe, e se dirigiram até o rio Jordão. Antes de atravessarem o rio, eles acamparam ali.",
+        "2": "Ao fim de três dias, os líderes percorreram o acampamento,",
+        "3": "e ordenaram ao povo em alta voz: “Quando virdes a Arca da Aliança do S ENHOR vosso Deus sendo carregada pelos sacerdotes levitas, vós igualmente saireis das vossas posições e a seguireis,",
+        "4": "a fim de conhecerdes o caminho que haveis de seguir, pois nunca passastes por este caminho. Conservai, contudo, entre vós e a Arca, a distância aproximada de novecentos metros; cuides para não vos aproximar dela!”",
+        "5": "Josué orientou o povo: “Santificai-vos, porque amanhã o S ENHOR fará maravilhas no meio de vós!”",
+        "6": "Depois Josué solicitou aos sacerdotes: “Levantai a Arca da Aliança e passai adiante do povo!” Em seguida eles ergueram a Arca da Aliança e partiram adiante do povo.",
+        "7": "Então Yahweh falou a Josué: “Hoje começarei a exaltar-te diante dos olhos de todo o povo de Israel, para que reconheçam que assim como estive com Moisés estarei contigo.",
+        "8": "E tu ordenarás aos sacerdotes que transportam a Arca da Aliança, dizendo: ‘Quando chegardes às margens das águas do Jordão, parareis junto ao próprio Jordão.”",
+        "9": "Disse então Josué aos israelitas: “Aproximai-vos e ouvi as palavras de Yahweh vosso Deus!”",
+        "10": "E completou: “Nisto reconhecereis que o Deus vivo está no meio de vós e que certamente expulsará da vossa presença os cananeus, os hititas, os heveus, os ferezeus, os girgaseus, os amorreus e os jebuseus.",
+        "11": "Eis que a Arca da Aliança do Soberano de toda a terra vai atravessar o Jordão à vossa frente!",
+        "12": "Agora, pois, tomai doze homens das tribos de Israel, um homem de cada tribo.",
+        "13": "E quando as plantas dos pés dos sacerdotes que transportaram a Arca de Yahweh , o Soberano de toda a terra, pousarem nas águas do Jordão, as águas do Jordão serão cortadas, a correnteza será represada, e as águas formarão uma espécie de muralha d’água!”",
+        "14": "Ora, quando o povo deixou suas tendas para atravessar o Jordão, os sacerdotes que levavam a Arca da Aliança estavam à frente do povo.",
+        "15": "Assim que os transportadores da Arca chegaram ao Jordão e que os pés dos sacerdotes que transportavam a Arca se molharam nas bordas das águas, pois o Jordão transborda pelas margens durante toda a época da colheita,",
+        "16": "as águas que vinham de cima, em forte correnteza, pararam e formaram uma muralha d’água a grande distância dali, perto de uma cidade chamada Adã, nas proximidades de Zuretã; e as águas que desciam para o mar da Arabá, o mar Morto, escoaram totalmente. E assim o povo atravessou o rio em frente de Jericó.",
+        "17": "Os sacerdotes que carregavam a Arca da Aliança de Yahweh ficaram parados sobre a terra seca no meio do Jordão, enquanto todo o Israel passava pelo seco, até que toda a nação o atravessou pisando no solo da nova terra."
     }
 }

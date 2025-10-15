@@ -1,9 +1,16 @@
 {
     "livro": "Lucas",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus convoca seus discípulos",
+        "12": "Jesus cura um homem leproso",
+        "17": "Jesus cura um homem paralítico",
+        "27": "Jesus torna um publicano em discípulo",
+        "29": "Jesus num banquete com pecadores",
+        "33": "Jesus é questionado quanto ao jejum"
+    },
     "versiculos": {
-        "1": "E aconteceu que, apertando-o a multidão, para ouvir a palavra de Deus, estava ele junto ao lago de Genesaré;",
+        "1": "E ACONTECEU que, apertando-o a multidão, para ouvir a palavra de Deus, estava ele junto ao lago de Genesaré;",
         "2": "E viu estar dois barcos junto à praia do lago; e os pescadores, havendo descido deles, estavam lavando as redes.",
         "3": "E, entrando num dos barcos, que era o de Simão, pediu-lhe que o afastasse um pouco da terra; e, assentando-se, ensinava do barco a multidão.",
         "4": "E, quando acabou de falar, disse a Simão: Faze-te ao mar alto, e lançai as vossas redes para pescar.",
@@ -16,7 +23,7 @@
         "11": "E, levando os barcos para terra, deixaram tudo, e o seguiram.",
         "12": "E aconteceu que, quando estava numa daquelas cidades, eis que um homem cheio de lepra, vendo a Jesus, prostrou-se sobre o rosto, e rogou-lhe, dizendo: Senhor, se quiseres, bem podes limpar-me.",
         "13": "E ele, estendendo a mão, tocou-lhe, dizendo: Quero, sê limpo. E logo a lepra desapareceu dele.",
-        "14": "E ordenou-lhe que a ninguém o dissesse. Mas vai, disse, mostra-te ao sacerdote, e oferece, pela tua purificação, o que Moisés determinou, para que lhes sirva de testemunho.",
+        "14": "E ordenou-lhe que a ninguém o dissesse. Mas vai , disse, mostra-te ao sacerdote, e oferece, pela tua purificação, o que Moisés determinou, para que lhes sirva de testemunho.",
         "15": "A sua fama, porém, se propagava ainda mais, e ajuntava-se muita gente para o ouvir e para ser por ele curada das suas enfermidades.",
         "16": "Ele, porém, retirava-se para os desertos, e ali orava.",
         "17": "E aconteceu que, num daqueles dias, estava ensinando, e estavam ali assentados fariseus e doutores da lei, que tinham vindo de todas as aldeias da Galileia, e da Judeia, e de Jerusalém. E o poder do Senhor estava ali para os curar.",

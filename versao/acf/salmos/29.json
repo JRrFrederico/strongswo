@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 29,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvai a majestade de Deus"
+    },
     "versiculos": {
-        "1": "Dai ao Senhor, ó filhos dos poderosos, dai ao Senhor glória e força.",
+        "1": "DAI ao Senhor, ó filhos dos poderosos, dai ao Senhor glória e força.",
         "2": "Dai ao Senhor a glória devida ao seu nome, adorai o Senhor na beleza da santidade.",
         "3": "A voz do Senhor ouve-se sobre as suas águas; o Deus da glória troveja; o Senhor está sobre as muitas águas.",
         "4": "A voz do Senhor é poderosa; a voz do Senhor é cheia de majestade.",

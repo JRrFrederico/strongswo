@@ -1,9 +1,12 @@
 {
     "livro": "Apocalipse",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Surgem as duas testemunhas",
+        "15": "A sétima trombeta"
+    },
     "versiculos": {
-        "1": "E foi-me dada uma cana semelhante a uma vara; e chegou o anjo, e disse: Levanta-te, e mede o templo de Deus, e o altar, e os que nele adoram.",
+        "1": "E FOI-ME dada uma cana semelhante a uma vara; e chegou o anjo, e disse: Levanta-te, e mede o templo de Deus, e o altar, e os que nele adoram.",
         "2": "E deixa o átrio que está fora do templo, e não o meças; porque foi dado às nações, e pisarão a cidade santa por quarenta e dois meses.",
         "3": "E darei poder às minhas duas testemunhas, e profetizarão por mil duzentos e sessenta dias, vestidas de saco.",
         "4": "Estas são as duas oliveiras e os dois castiçais que estão diante do Deus da terra.",

@@ -1,9 +1,12 @@
 {
     "livro": "Rute",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "A família de Noemi em Moabe",
+        "6": "O regresso para Belém"
+    },
     "versiculos": {
-        "1": "E sucedeu que, nos dias em que os juízes julgavam, houve uma fome na terra; por isso um homem de Belém de Judá saiu a peregrinar nos campos de Moabe, ele e sua mulher, e seus dois filhos;",
+        "1": "E SUCEDEU que, nos dias em que os juízes julgavam, houve uma fome na terra; por isso um homem de Belém de Judá saiu a peregrinar nos campos de Moabe, ele e sua mulher, e seus dois filhos;",
         "2": "E era o nome deste homem Elimeleque, e o de sua mulher Noemi, e os de seus dois filhos Malom e Quiliom, efrateus, de Belém de Judá; e chegaram aos campos de Moabe, e ficaram ali.",
         "3": "E morreu Elimeleque, marido de Noemi; e ficou ela com os seus dois filhos,",
         "4": "Os quais tomaram para si mulheres moabitas; e era o nome de uma Orfa, e o da outra Rute; e ficaram ali quase dez anos.",

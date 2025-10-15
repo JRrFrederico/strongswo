@@ -1,9 +1,12 @@
 {
     "livro": "Ester",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Horror e humilhação dos judeus",
+        "4": "Mardoqueu pede ajuda a Ester"
+    },
     "versiculos": {
-        "1": "Quando Mardoqueu soube tudo quanto havia sido feito, Mardoqueu rasgou as suas vestes, e vestiu-se de saco e de cinza, e saiu pelo meio da cidade, e clamou com grande e amargo clamor;",
+        "1": "QUANDO Mardoqueu soube tudo quanto havia sido feito, Mardoqueu rasgou as suas vestes, e vestiu-se de saco e de cinza, e saiu pelo meio da cidade, e clamou com grande e amargo clamor;",
         "2": "E chegou até diante da porta do rei, porque ninguém vestido de saco podia entrar pelas portas do rei.",
         "3": "E em todas as províncias aonde a palavra do rei e a sua lei chegava, havia entre os judeus grande luto, com jejum, e choro, e lamentação; e muitos estavam deitados em saco e em cinza.",
         "4": "Então vieram as servas de Ester, e os seus camareiros, e fizeram-na saber, do que a rainha muito se doeu; e mandou roupas para vestir a Mardoqueu, e tirar-lhe o pano de saco; porém ele não as aceitou.",

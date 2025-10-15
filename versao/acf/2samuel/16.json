@@ -1,9 +1,13 @@
 {
     "livro": "2 Samuel",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Ziba e Simei, inimigos de Davi",
+        "15": "Aitofel e Husai falam a Absalão",
+        "20": "Absalão e as concubinas de Davi"
+    },
     "versiculos": {
-        "1": "E passando Davi um pouco mais adiante do cume, eis que Ziba, o servo de Mefibosete, veio encontrar-se com ele, com um par de jumentos albardados, e sobre eles duzentos pães, com cem cachos de passas, e cem de frutas de verão e um odre de vinho.",
+        "1": "E PASSANDO Davi um pouco mais adiante do cume, eis que Ziba, o servo de Mefibosete, veio encontrar-se com ele, com um par de jumentos albardados, e sobre eles duzentos pães, com cem cachos de passas, e cem de frutas de verão e um odre de vinho.",
         "2": "E disse o rei a Ziba: Que pretendes com isto? E disse Ziba: Os jumentos são para a casa do rei, para se montarem neles; e o pão e as frutas de verão para comerem os moços; e o vinho para beberem os cansados no deserto.",
         "3": "Então disse o rei: Ora, onde está o filho de teu senhor? E disse Ziba ao rei: Eis que ficou em Jerusalém; porque disse: Hoje me restituirá a casa de Israel o reino de meu pai.",
         "4": "Então disse o rei a Ziba: Eis que teu é tudo quanto tem Mefibosete. E disse Ziba: Eu me inclino, que eu ache graça em teus olhos, ó rei meu senhor.",

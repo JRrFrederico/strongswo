@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 36,
-    "titulos": {},
+    "titulos": {
+        "20": "Os descendentes de Seir",
+        "31": "Os reis e os chefes tribais de Edom"
+    },
     "versiculos": {
-        "1": "E estas são as gerações de Esaú (que é Edom).",
+        "1": "E ESTAS são as gerações de Esaú (que é Edom).",
         "2": "Esaú tomou suas mulheres das filhas de Canaã; a Ada, filha de Elom, heteu, e a Aolibama, filha de Aná, filho de Zibeão, heveu.",
         "3": "E a Basemate, filha de Ismael, irmã de Nebaiote.",
         "4": "E Ada teve de Esaú a Elifaz; e Basemate teve a Reuel;",
@@ -43,7 +46,7 @@
         "38": "E morreu Saul; e Baal-Hanã, filho de Acbor, reinou em seu lugar.",
         "39": "E morreu Baal-Hanã, filho de Acbor; e Hadar reinou em seu lugar, e o nome de sua cidade foi Pau; e o nome de sua mulher foi Meetabel, filha de Matrede, filha de Me-Zaabe.",
         "40": "E estes são os nomes dos príncipes de Esaú, segundo as suas gerações, segundo os seus lugares, com os seus nomes: o príncipe Timna, o príncipe Alva, o príncipe Jetete,",
-        "41": "O príncipe Aolibama, o príncipe Elá, o príncipe Pinom,",
+        "41": "O príncipe Aolibama, o príncipe Ela, o príncipe Pinom,",
         "42": "O príncipe Quenaz, o príncipe Temã, o príncipe Mibzar,",
         "43": "O príncipe Magdiel, o príncipe Irã: estes são os príncipes de Edom, segundo as suas habitações, na terra da sua possessão. Este é Esaú, pai de Edom."
     }

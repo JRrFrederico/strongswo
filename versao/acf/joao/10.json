@@ -1,9 +1,14 @@
 {
     "livro": "João",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Eu Sou o bom pastor",
+        "19": "Mais uma divisão entre os judeus",
+        "22": "O pastor conhece suas ovelhas",
+        "40": "Os crentes além do Jordão"
+    },
     "versiculos": {
-        "1": "Na verdade, na verdade vos digo que aquele que não entra pela porta no curral das ovelhas, mas sobe por outra parte, é ladrão e salteador.",
+        "1": "NA verdade, na verdade vos digo que aquele que não entra pela porta no curral das ovelhas, mas sobe por outra parte, é ladrão e salteador.",
         "2": "Aquele, porém, que entra pela porta é o pastor das ovelhas.",
         "3": "A este o porteiro abre, e as ovelhas ouvem a sua voz, e chama pelo nome às suas ovelhas, e as traz para fora.",
         "4": "E, quando tira para fora as suas ovelhas, vai adiante delas, e as ovelhas o seguem, porque conhecem a sua voz.",

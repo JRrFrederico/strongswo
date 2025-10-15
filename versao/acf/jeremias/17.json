@@ -1,9 +1,13 @@
 {
     "livro": "Jeremias",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "O pecado só engana e destrói",
+        "12": "Jeremias pede socorro a Deus",
+        "19": "A guarda do Shabbãth, o sábado"
+    },
     "versiculos": {
-        "1": "O pecado de Judá está escrito com um ponteiro de ferro, com ponta de diamante, gravado na tábua do seu coração e nas pontas dos vossos altares;",
+        "1": "O PECADO de Judá está escrito com um ponteiro de ferro, com ponta de diamante, gravado na tábua do seu coração e nas pontas dos vossos altares;",
         "2": "Como também seus filhos se lembram dos seus altares, e dos seus bosques, junto às árvores frondosas, sobre os altos outeiros.",
         "3": "Ó meu monte no campo! A tua riqueza e todos os teus tesouros darei por presa, como também os teus altos, por causa do pecado, em todos os teus termos.",
         "4": "Assim por ti mesmo te privarás da tua herança que te dei, e far-te-ei servir os teus inimigos, na terra que não conheces; porque o fogo que acendeste na minha ira arderá para sempre.",

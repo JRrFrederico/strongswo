@@ -1,9 +1,16 @@
 {
     "livro": "Marcos",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Nova multiplicação dos pães",
+        "11": "Os fariseus querem um sinal",
+        "14": "O perigo das más influências",
+        "22": "Um cego em Betsaida é curado",
+        "27": "Pedro confessa Jesus como Messias",
+        "31": "Jesus anuncia sua Paixão"
+    },
     "versiculos": {
-        "1": "Naqueles dias, havendo uma grande multidão, e não tendo o que comer, Jesus chamou a si os seus discípulos, e disse-lhes:",
+        "1": "NAQUELES dias, havendo uma grande multidão, e não tendo o que comer, Jesus chamou a si os seus discípulos, e disse-lhes:",
         "2": "Tenho compaixão da multidão, porque há já três dias que estão comigo, e não têm o que comer.",
         "3": "E, se os deixar ir em jejum, para suas casas, desfalecerão no caminho, porque alguns deles vieram de longe.",
         "4": "E os seus discípulos responderam-lhe: De onde poderá alguém satisfazê-los de pão aqui no deserto?",
@@ -19,7 +26,7 @@
         "14": "E eles se esqueceram de levar pão e, no barco, não tinham consigo senão um pão.",
         "15": "E ordenou-lhes, dizendo: Olhai, guardai-vos do fermento dos fariseus e do fermento de Herodes.",
         "16": "E arrazoavam entre si, dizendo: É porque não temos pão.",
-        "17": "E Jesus, conhecendo isto, disse-lhes: Para que arrazoais, que não tendes pão? Não considerastes, nem compreendestes ainda? Tendes ainda o vosso coração endurecido?",
+        "17": "E Jesus, conhecendo isto, disse-lhes: Para que arrazoais, que não tendes pão? Não considerastes, nem compreendestes ainda? tendes ainda o vosso coração endurecido?",
         "18": "Tendo olhos, não vedes? E tendo ouvidos, não ouvis? E não vos lembrais,",
         "19": "Quando parti os cinco pães entre os cinco mil, quantos cestos cheios de pedaços levantastes? Disseram-lhe: Doze.",
         "20": "E, quando parti os sete entre os quatro mil, quantos cestos cheios de pedaços levantastes? E disseram-lhe: Sete.",

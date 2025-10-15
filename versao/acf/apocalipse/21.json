@@ -1,9 +1,12 @@
 {
     "livro": "Apocalipse",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "O novo céu e a nova terra",
+        "9": "A Nova Jerusalém"
+    },
     "versiculos": {
-        "1": "E vi um novo céu, e uma nova terra. Porque já o primeiro céu e a primeira terra passaram, e o mar já não existe.",
+        "1": "E VI um novo céu, e uma nova terra. Porque já o primeiro céu e a primeira terra passaram, e o mar já não existe.",
         "2": "E eu, João, vi a santa cidade, a nova Jerusalém, que de Deus descia do céu, preparada como uma esposa adornada para o seu marido.",
         "3": "E ouvi uma grande voz do céu, que dizia: Eis aqui o tabernáculo de Deus está com os homens, pois com eles habitará, e eles serão o seu povo, e o mesmo Deus estará com eles, e será o seu Deus.",
         "4": "E Deus limpará de seus olhos toda a lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas.",

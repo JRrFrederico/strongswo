@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus do universo e da alma"
+    },
     "versiculos": {
-        "1": "Os céus declaram a glória de Deus e o firmamento anuncia a obra das suas mãos.",
+        "1": "OS céus declaram a glória de Deus e o firmamento anuncia a obra das suas mãos.",
         "2": "Um dia faz declaração a outro dia, e uma noite mostra sabedoria a outra noite.",
         "3": "Não há linguagem nem fala onde não se ouça a sua voz.",
         "4": "A sua linha se estende por toda a terra, e as suas palavras até ao fim do mundo. Neles pôs uma tenda para o sol,",

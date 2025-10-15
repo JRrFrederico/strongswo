@@ -1,9 +1,13 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Oferta para o povo de Deus",
+        "5": "Projetos e pedidos pessoais",
+        "19": "Saudações e a bênção final"
+    },
     "versiculos": {
-        "1": "Ora, quanto à coleta que se faz para os santos, fazei vós também o mesmo que ordenei às igrejas da Galácia.",
+        "1": "ORA, quanto à coleta que se faz para os santos, fazei vós também o mesmo que ordenei às igrejas da Galácia.",
         "2": "No primeiro dia da semana cada um de vós ponha de parte o que puder ajuntar, conforme a sua prosperidade, para que não se façam as coletas quando eu chegar.",
         "3": "E, quando tiver chegado, mandarei os que por cartas aprovardes, para levar a vossa dádiva a Jerusalém.",
         "4": "E, se valer a pena que eu também vá, irão comigo.",

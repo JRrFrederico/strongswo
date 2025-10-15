@@ -1,9 +1,13 @@
 {
     "livro": "Rute",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "O resgate de Noemi e Rute",
+        "13": "Boaz casa-se com Rute",
+        "18": "A genealogia de Davi"
+    },
     "versiculos": {
-        "1": "E Boaz subiu à porta, e assentou-se ali; e eis que o remidor de que Boaz tinha falado ia passando, e disse-lhe: Ó fulano, vem cá, assenta-te aqui. E desviou-se para ali, e assentou-se.",
+        "1": "E BOAZ subiu à porta, e assentou-se ali; e eis que o remidor de que Boaz tinha falado ia passando, e disse-lhe: Ó fulano, vem cá, assenta-te aqui. E desviou-se para ali, e assentou-se.",
         "2": "Então tomou dez homens dos anciãos da cidade, e disse: Assentai-vos aqui. E assentaram-se.",
         "3": "Então disse ao remidor: Aquela parte da terra que foi de Elimeleque, nosso irmão, Noemi, que tornou da terra dos moabitas, está vendendo.",
         "4": "E eu resolvi informar-te disso e dizer-te: Compra-a diante dos habitantes, e diante dos anciãos do meu povo; se a hás de redimir, redime-a, e se não a houveres de redimir, declara-mo, para que o saiba, pois outro não há senão tu que a redima, e eu depois de ti. Então disse ele: Eu a redimirei.",

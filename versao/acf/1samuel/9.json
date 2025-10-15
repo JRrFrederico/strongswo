@@ -1,9 +1,11 @@
 {
     "livro": "1 Samuel",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Saul vai de encontro a Samuel"
+    },
     "versiculos": {
-        "1": "E havia um homem de Benjamim, cujo nome era Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afia, filho de um homem de Benjamim; homem poderoso.",
+        "1": "E HAVIA um homem de Benjamim, cujo nome era Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afia, filho de um homem de Benjamim; homem poderoso.",
         "2": "Este tinha um filho, cujo nome era Saul, moço, e tão belo que entre os filhos de Israel não havia outro homem mais belo do que ele; desde os ombros para cima sobressaía a todo o povo.",
         "3": "E perderam-se as jumentas de Quis, pai de Saul; por isso disse Quis a Saul, seu filho: Toma agora contigo um dos moços, e levanta-te e vai procurar as jumentas.",
         "4": "Passaram, pois, pela montanha de Efraim, e dali passaram à terra de Salisa, porém não as acharam; depois passaram à terra de Saalim, porém tampouco estavam ali; também passaram à terra de Benjamim, porém tampouco as acharam.",

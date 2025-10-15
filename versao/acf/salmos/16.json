@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "A fidelidade de Deus"
+    },
     "versiculos": {
-        "1": "Guarda-me, ó Deus, porque em ti confio.",
+        "1": "GUARDA-ME, ó Deus, porque em ti confio.",
         "2": "A minha alma disse ao Senhor: Tu és o meu Senhor, a minha bondade não chega à tua presença,",
         "3": "Mas aos santos que estão na terra, e aos ilustres em quem está todo o meu prazer.",
         "4": "As dores se multiplicarão àqueles que se apressam a fazer oferendas a outro deus; eu não oferecerei as suas libações de sangue, nem tomarei os seus nomes nos meus lábios.",

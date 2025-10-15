@@ -1,9 +1,11 @@
 {
     "livro": "1 Samuel",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Os filisteus e Arca de Yahweh"
+    },
     "versiculos": {
-        "1": "Os filisteus, pois, tomaram a arca de Deus e a trouxeram de Ebenézer a Asdode.",
+        "1": "OS filisteus, pois, tomaram a arca de Deus e a trouxeram de Ebenézer a Asdode.",
         "2": "Tomaram os filisteus a arca de Deus, e a colocaram na casa de Dagom, e a puseram junto a Dagom.",
         "3": "Levantando-se, porém, de madrugada no dia seguinte, os de Asdode, eis que Dagom estava caído com o rosto em terra, diante da arca do Senhor; e tomaram a Dagom, e tornaram a pô-lo no seu lugar.",
         "4": "E, levantando-se de madrugada, no dia seguinte, pela manhã, eis que Dagom jazia caído com o rosto em terra diante da arca do Senhor; e a cabeça de Dagom e ambas as palmas das suas mãos estavam cortadas sobre o limiar; somente o tronco ficou a Dagom.",

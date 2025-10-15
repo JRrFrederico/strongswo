@@ -1,18 +1,20 @@
 {
     "livro": "Salmos",
     "capitulo": 95,
-    "titulos": {},
+    "titulos": {
+        "1": "Convite a cantar louvores a Deus"
+    },
     "versiculos": {
-        "1": "Ó vinde, cantemos ao SENHOR; façamos um barulho alegre à rocha da nossa salvação.",
-        "2": "Venhamos diante da sua presença com ações de graças, e façamos um barulho alegre a ele com salmos.",
-        "3": "Pois o SENHOR é um grande Deus, e um grande Rei sobre todos os deuses.",
-        "4": "Em suas mãos estão os lugares profundos da terra; também é sua a força dos montes.",
-        "5": "O mar é seu, e ele o fez; e as suas mãos formaram a terra seca.",
-        "6": "Ó vinde, adoremos e nos prostremos; ajoelhemos diante do SENHOR, nosso criador.",
-        "7": "Pois ele é o nosso Deus, e somos o povo do seu pasto, e as ovelhas da sua mão. Se hoje ouvirdes a sua voz;",
-        "8": "não endureçais o vosso coração, como na provocação, e como no dia da tentação no deserto;",
-        "9": "quando vossos pais me tentaram, me provocaram, e viram a minha obra.",
-        "10": "Ao longo de quarenta anos eu fui entristecido por esta geração, e disse: Este é um povo que erra em seu coração, e não conheceram os meus caminhos;",
-        "11": "Ao qual jurei na minha ira que eles não entrarão no meu descanso."
+        "1": "Vinde, cantemos com júbilo ao S ENHOR , aclamemos a Rocha da nossa Salvação!",
+        "2": "Apresentemo-nos diante dele com ações de graças, vamos adorá-lo com cânticos de louvor.",
+        "3": "Pois o S ENHOR é o grande Deus, o magnífico Rei acima de todos os deuses!",
+        "4": "Em suas mãos estão as profundezas da terra; são seus, os cumes dos montes.",
+        "5": "Dele é o mar – foi Ele quem o criou – e a terra firme, que suas mãos formaram.",
+        "6": "Vinde! Adoremos prostrados e nos ajoelhemos perante o S ENHOR , o nosso Criador.",
+        "7": "Porque Ele é o nosso Deus, nós somos o povo do seu pastoreio e ovelhas conduzidas por sua mão. Tomara que escuteis hoje a sua voz:",
+        "8": "“Não endureçais o vosso coração, como em Meribá, e ainda como aquele dia em Massá, no deserto,",
+        "9": "quando vossos pais me desafiaram e me puseram à prova, embora tivessem visto meus grandes feitos!",
+        "10": "Durante quarenta anos permaneci irado contra aquela geração e declarei: ‘Este é um povo de coração ingrato, que não reconhece meus caminhos’.",
+        "11": "Por esse motivo jurei em minha revolta: ‘Essas pessoas jamais entrarão no lugar do meu repouso!’”"
     }
 }

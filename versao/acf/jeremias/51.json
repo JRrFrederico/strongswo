@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 51,
-    "titulos": {},
+    "titulos": {
+        "1": "O poder e a queda da Babilônia",
+        "59": "O livro profético no Eufrates"
+    },
     "versiculos": {
-        "1": "Assim diz o Senhor: Eis que levantarei um vento destruidor contra Babilônia, e contra os que habitam no meio dos que se levantam contra mim.",
+        "1": "ASSIM diz o Senhor: Eis que levantarei um vento destruidor contra Babilônia, e contra os que habitam no meio dos que se levantam contra mim.",
         "2": "E enviarei padejadores contra Babilônia, que a padejarão, e despejarão a sua terra; porque virão contra ela em redor no dia da calamidade.",
         "3": "O flecheiro arme o seu arco contra o que arma o seu arco, e contra o que se exalta na sua couraça; e não perdoeis aos seus jovens; destruí a todo o seu exército.",
         "4": "E os mortos cairão na terra dos caldeus, e atravessados nas suas ruas.",

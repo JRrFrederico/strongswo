@@ -1,9 +1,13 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "A Casa de Davi e sua descendência",
+        "10": "Os reis de Judá",
+        "17": "A linhagem real depois do exílio"
+    },
     "versiculos": {
-        "1": "E estes foram os filhos de Davi, que lhe nasceram em Hebrom: o primogênito, Amnom, de Ainoã, a jizreelita; o segundo Daniel, de Abigail, a carmelita;",
+        "1": "E ESTES foram os filhos de Davi, que lhe nasceram em Hebrom: o primogênito, Amnom, de Ainoã, a jizreelita; o segundo Daniel, de Abigail, a carmelita;",
         "2": "O terceiro, Absalão, filho de Maaca, filha de Talmai, rei de Gesur; o quarto, Adonias, filho de Hagite;",
         "3": "O quinto, Sefatias, de Abital; o sexto, Itreão, de Eglá, sua mulher.",
         "4": "Seis filhos lhe nasceram em Hebrom, porque ali reinou sete anos e seis meses; e trinta e três anos reinou em Jerusalém.",

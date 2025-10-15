@@ -1,9 +1,19 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "A descendência de Adão a Noé",
+        "5": "A descendência de Noé: Jafetitas",
+        "8": "Os camitas",
+        "17": "Os semitas",
+        "24": "Da geração de Sem a Abraão",
+        "28": "Os descendentes de Abraão",
+        "34": "A origem de Isaque, Esaú e Israel",
+        "38": "A descendência de Seir",
+        "43": "Os reis de líderes de Edom"
+    },
     "versiculos": {
-        "1": "Adão, Sete, Enos,",
+        "1": "ADÃO, Sete, Enos,",
         "2": "Cainã, Maalaleel, Jerede,",
         "3": "Enoque, Matusalém, Lameque,",
         "4": "Noé, Sem, Cão e Jafé.",

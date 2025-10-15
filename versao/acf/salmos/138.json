@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 138,
-    "titulos": {},
+    "titulos": {
+        "1": "Graças a Deus por seu socorro"
+    },
     "versiculos": {
-        "1": "Eu te louvarei, de todo o meu coração; na presença dos deuses a ti cantarei louvores.",
+        "1": "EU te louvarei, de todo o meu coração; na presença dos deuses a ti cantarei louvores.",
         "2": "Inclinar-me-ei para o teu santo templo, e louvarei o teu nome pela tua benignidade, e pela tua verdade; pois engrandeceste a tua palavra acima de todo o teu nome.",
         "3": "No dia em que eu clamei, me escutaste; e alentaste com força a minha alma.",
         "4": "Todos os reis da terra te louvarão, ó Senhor, quando ouvirem as palavras da tua boca;",

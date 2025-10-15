@@ -1,9 +1,13 @@
 {
     "livro": "Ezequiel",
     "capitulo": 38,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecia contra o reino de Gogue",
+        "14": "Gogue atacará as terras de Israel",
+        "17": "Deus derrama sua ira sobre Gogue"
+    },
     "versiculos": {
-        "1": "Veio a mim a palavra do Senhor, dizendo:",
+        "1": "VEIO a mim a palavra do Senhor, dizendo:",
         "2": "Filho do homem, dirige o teu rosto contra Gogue, terra de Magogue, príncipe e chefe de Meseque, e Tubal, e profetiza contra ele.",
         "3": "E dize: Assim diz o Senhor Deus: Eis que eu sou contra ti, ó Gogue, príncipe e chefe de Meseque e de Tubal;",
         "4": "E te farei voltar, e porei anzóis nos teus queixos, e te levarei a ti, com todo o teu exército, cavalos e cavaleiros, todos vestidos com primor, grande multidão, com escudo e rodela, manejando todos a espada;",

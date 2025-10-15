@@ -1,9 +1,11 @@
 {
     "livro": "Ezequiel",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecia contra o Faraó do Egito"
+    },
     "versiculos": {
-        "1": "E sucedeu, no ano undécimo, no terceiro mês, ao primeiro do mês, que veio a mim a palavra do Senhor, dizendo:",
+        "1": "E SUCEDEU, no ano undécimo, no terceiro mês, ao primeiro do mês, que veio a mim a palavra do Senhor, dizendo:",
         "2": "Filho do homem, dize a Faraó, rei do Egito, e à sua multidão: A quem és semelhante na tua grandeza?",
         "3": "Eis que a Assíria era um cedro no Líbano, de ramos formosos, de sombrosa ramagem e de alta estatura, e a sua copa estava entre os ramos espessos.",
         "4": "As águas o fizeram crescer, o abismo o exalçou; as suas correntes corriam em torno da sua plantação, e ele enviava os regatos a todas as árvores do campo.",

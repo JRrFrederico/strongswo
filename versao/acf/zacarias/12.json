@@ -1,9 +1,12 @@
 {
     "livro": "Zacarias",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "O fim dos inimigos de Jerusalém",
+        "10": "O povo de Jerusalém se arrepende"
+    },
     "versiculos": {
-        "1": "Peso da palavra do Senhor sobre Israel: Fala o Senhor, o que estende o céu, e que funda a terra, e que forma o espírito do homem dentro dele.",
+        "1": "PESO da palavra do Senhor sobre Israel: Fala o Senhor, o que estende o céu, e que funda a terra, e que forma o espírito do homem dentro dele.",
         "2": "Eis que eu farei de Jerusalém um copo de tremor para todos os povos em redor, e também para Judá, durante o cerco contra Jerusalém.",
         "3": "E acontecerá naquele dia que farei de Jerusalém uma pedra pesada para todos os povos; todos os que a carregarem certamente serão despedaçados; e ajuntar-se-á contra ela todo o povo da terra.",
         "4": "Naquele dia, diz o Senhor, ferirei de espanto a todos os cavalos, e de loucura os que montam neles; mas sobre a casa de Judá abrirei os meus olhos, e ferirei de cegueira a todos os cavalos dos povos.",

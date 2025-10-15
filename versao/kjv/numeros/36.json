@@ -1,20 +1,23 @@
 {
     "livro": "Números",
     "capitulo": 36,
-    "titulos": {},
+    "titulos": {
+        "1": "A lei da herança das mulheres",
+        "13": "Conclusão"
+    },
     "versiculos": {
-        "1": "E os chefes dos pais da família dos filhos de Gileade, filho de Maquir, filho de Manassés, das famílias dos filhos de José, se aproximaram e falaram diante de Moisés, e diante dos príncipes, chefes das casas paternas dos filhos de Israel.",
-        "2": "E disseram: O SENHOR ordenou que por sorte, o meu senhor desse a terra por herança aos filhos de Israel; e o meu senhor recebeu a ordem do SENHOR, para que a herança de Zelofeade, nosso irmão, fosse dada às suas filhas.",
-        "3": "E se elas se casarem com alguns dos filhos das outras tribos dos filhos de Israel, então a sua herança será tomada da herança de nossos pais, e será acrescentada à herança da tribo em que elas forem recebidas; assim se tirará da sorte da nossa herança.",
-        "4": "E quando chegar o jubileu dos filhos de Israel, então a sua herança se acrescentará à herança da tribo em que elas forem recebidas; assim a sua herança será tirada da herança da tribo de nossos pais.",
-        "5": "E Moisés ordenou aos filhos de Israel, segundo a palavra do SENHOR, dizendo: A tribo dos filhos de José disse bem.",
-        "6": "Isto é o que o SENHOR ordenou, a respeito das filhas de Zelofeade, dizendo: Que se casem com quem acharem melhor, porém que se casem na família da tribo de seu pai.",
-        "7": "Assim, a herança dos filhos de Israel não passará de tribo em tribo; porquanto, cada um dos filhos de Israel se manterá na herança da tribo de seus pais.",
-        "8": "E toda filha que possuir alguma herança, em qualquer tribo dos filhos de Israel, se casará com um da família da tribo de seu pai, para que os filhos de Israel possuam cada homem, a herança de seus pais.",
-        "9": "A herança não passará de uma tribo a outra; mas cada tribo dos filhos de Israel se manterá na sua própria herança.",
-        "10": "Como o SENHOR ordenara a Moisés, assim fizeram as filhas de Zelofeade.",
-        "11": "Porque Macla, e Tirza, e Hogla, e Milca, e Noa, as filhas de Zelofeade, se casaram com os filhos dos irmãos de seus pais.",
-        "12": "E elas foram esposas nas famílias dos filhos de Manassés, filho de José, e a sua herança permaneceu na tribo da família de seu pai.",
-        "13": "Estes são os mandamentos e os juízos que o SENHOR ordenou, pela mão de Moisés, aos filhos de Israel, nas planícies de Moabe, junto ao Jordão, perto de Jericó."
+        "1": "Apresentaram-se, então, os chefes das casas patriarcais, as famílias que pertencem ao clã dos filhos de Gileade, filho de Maquir, neto de Manassés, que fizeram parte dos clãs dos descendentes de José. Pediram a palavra, na presença de Moisés e dos príncipes, chefes das famílias israelitas,",
+        "2": "e questionaram: “ Yahweh ordenou a meu senhor que se desse a terra aos filhos de Israel, repartindo-a por meio de sorte; e o meu senhor recebeu do S ENHOR ordem de dar a parte da herança de nosso irmão Zelofeade às suas filhas.",
+        "3": "Agora, supondo que elas venham a se casar com homens de outras tribos israelitas, nesse caso a herança que lhes pertence será tirada da herança dos nossos antepassados e acrescentada à herança da tribo com a qual se unirem pelo casamento.",
+        "4": "Desse modo, quando chegar o ano do Jubileu para os filhos de Israel, a parte da herança dessas mulheres será acrescentada à parte da tribo à qual vão pertencer, e será subtraída da parte da nossa tribo!”",
+        "5": "Então, orientado por Yahweh , Moisés transmitiu aos israelitas a seguinte ordem: “A tribo dos descendentes de José falou com justiça.",
+        "6": "Eis o que Yahweh ordena quanto às filhas de Zelofeade: Elas têm permissão para casar-se com quem lhes parecer bem, contanto que se casem dentro do clã da tribo de seu pai.",
+        "7": "A herança dos filhos de Israel não passará de tribo a tribo; os israelitas permanecerão vinculados, cada um, à herança da sua tribo.",
+        "8": "Qualquer filha que possuir uma herança em uma das tribos dos filhos de Israel deverá casar-se com um homem de um clã da sua própria tribo paterna, de modo que os filhos de Israel conservem, cada um, a herança de seu pai.",
+        "9": "Uma herança não poderá ser transferida de uma tribo para outra, pois cada tribo israelita deverá manter as terras que herdou!”",
+        "10": "As filhas de Zelofeade fizeram exatamente de acordo com que o S ENHOR havia ordenado a Moisés.",
+        "11": "As filhas de Zelofeade, Maalá, Tirza, Hogla, Milca e Noa, casaram-se com seus primos paternos,",
+        "12": "dentro dos clãs dos descendentes de Manassés, filho de José, e a herança delas permaneceu no clã e na tribo de seu pai.",
+        "13": "Portanto, são essas as leis e os mandamentos que Yahweh ordenou aos israelitas por intermédio de Moisés nas campinas de Moabe, junto ao Jordão, a caminho de Jericó, que ficava no outro lado do rio."
     }
 }

@@ -1,9 +1,16 @@
 {
     "livro": "Lucas",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "A parábola da viúva persistente",
+        "9": "A parábola do fariseu e do publicano",
+        "15": "Jesus abençoa os pequeninos",
+        "18": "Jesus e o rico que amava seus bens",
+        "31": "Jesus prediz outra vez seu holocausto",
+        "35": "Um homem cego ganha a visão"
+    },
     "versiculos": {
-        "1": "E contou-lhes também uma parábola sobre o dever de orar sempre, e nunca desfalecer,",
+        "1": "E CONTOU-LHES também uma parábola sobre o dever de orar sempre, e nunca desfalecer,",
         "2": "Dizendo: Havia numa cidade um certo juiz, que nem a Deus temia, nem respeitava o homem.",
         "3": "Havia também, naquela mesma cidade, uma certa viúva, que ia ter com ele, dizendo: Faze-me justiça contra o meu adversário.",
         "4": "E por algum tempo não quis atendê-la; mas depois disse consigo: Ainda que não temo a Deus, nem respeito os homens,",

@@ -1,9 +1,11 @@
 {
     "livro": "Jeremias",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "O exílio e o livramento de Israel"
+    },
     "versiculos": {
-        "1": "E veio a mim a palavra do Senhor, dizendo:",
+        "1": "E VEIO a mim a palavra do Senhor, dizendo:",
         "2": "Não tomarás para ti mulher, nem terás filhos nem filhas neste lugar.",
         "3": "Porque assim diz o Senhor, acerca dos filhos e das filhas que nascerem neste lugar, acerca de suas mães, que os tiverem, e de seus pais que os gerarem nesta terra:",
         "4": "Morrerão de enfermidades dolorosas, e não serão pranteados nem sepultados; servirão de esterco sobre a face da terra; e pela espada e pela fome serão consumidos, e os seus cadáveres servirão de mantimento para as aves do céu e para os animais da terra.",

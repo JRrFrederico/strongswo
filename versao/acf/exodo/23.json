@@ -1,9 +1,15 @@
 {
     "livro": "Êxodo",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Leis sobre o exercício da justiça",
+        "6": "Leis sobre a atitude dos juízes",
+        "10": "Leis sobre o shabbãth, sábado",
+        "14": "Leis sobre as festas anuais",
+        "20": "Promessas e avisos sobre Canaã"
+    },
     "versiculos": {
-        "1": "Não admitirás falso boato, e não porás a tua mão com o ímpio, para seres testemunha falsa.",
+        "1": "NÃO admitirás falso boato, e não porás a tua mão com o ímpio, para seres testemunha falsa.",
         "2": "Não seguirás a multidão para fazeres o mal; nem numa demanda falarás, tomando parte com a maioria para torcer o direito.",
         "3": "Nem ao pobre favorecerás na sua demanda.",
         "4": "Se encontrares o boi do teu inimigo, ou o seu jumento, desgarrado, sem falta lho reconduzirás.",

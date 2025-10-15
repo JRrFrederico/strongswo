@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó reafirma sua fé no Redentor"
+    },
     "versiculos": {
-        "1": "Respondeu, porém, Jó, dizendo:",
+        "1": "RESPONDEU, porém, Jó, dizendo:",
         "2": "Até quando afligireis a minha alma, e me quebrantareis com palavras?",
         "3": "Já dez vezes me vituperastes; não tendes vergonha de injuriar-me.",
         "4": "Embora haja eu, na verdade, errado, comigo ficará o meu erro.",

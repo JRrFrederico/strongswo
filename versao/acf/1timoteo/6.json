@@ -1,9 +1,15 @@
 {
     "livro": "1 Timóteo",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Recomendações aos que servem",
+        "3": "O perigo fatal da cobiça",
+        "11": "Exortações aos homens de Deus",
+        "17": "Recomendações aos ricos",
+        "20": "Apelo final e bênção apostólica"
+    },
     "versiculos": {
-        "1": "Todos os servos que estão debaixo do jugo estimem a seus senhores dignos de toda honra, para que o nome de Deus e a doutrina não sejam blasfemados.",
+        "1": "TODOS os servos que estão debaixo do jugo estimem a seus senhores dignos de toda honra, para que o nome de Deus e a doutrina não sejam blasfemados.",
         "2": "E os que têm senhores crentes não os desprezem, por serem irmãos; antes os sirvam melhor, porque eles, que participam do benefício, são crentes e amados. Isto ensina e exorta.",
         "3": "Se alguém ensina alguma outra doutrina, e se não conforma com as sãs palavras de nosso Senhor Jesus Cristo, e com a doutrina que é segundo a piedade,",
         "4": "É soberbo, e nada sabe, mas delira acerca de questões e contendas de palavras, das quais nascem invejas, contendas, blasfêmias, ruins suspeitas,",

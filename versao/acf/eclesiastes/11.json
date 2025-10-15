@@ -1,9 +1,12 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Conselhos para todos e toda hora",
+        "7": "Conselho para os jovens"
+    },
     "versiculos": {
-        "1": "Lança o teu pão sobre as águas, porque depois de muitos dias o acharás.",
+        "1": "LANÇA o teu pão sobre as águas, porque depois de muitos dias o acharás.",
         "2": "Reparte com sete, e ainda até com oito, porque não sabes que mal haverá sobre a terra.",
         "3": "Estando as nuvens cheias, derramam a chuva sobre a terra, e caindo a árvore para o sul, ou para o norte, no lugar em que a árvore cair ali ficará.",
         "4": "Quem observa o vento, nunca semeará, e o que olha para as nuvens nunca segará.",

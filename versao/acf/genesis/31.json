@@ -1,9 +1,13 @@
 {
     "livro": "Gênesis",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "1": "Jacó volta à terra de seus pais",
+        "22": "Labão persegue Jacó",
+        "43": "Tratado entre Jacó e Labão"
+    },
     "versiculos": {
-        "1": "Então ouvia as palavras dos filhos de Labão, que diziam: Jacó tem tomado tudo o que era de nosso pai, e do que era de nosso pai fez ele toda esta glória.",
+        "1": "ENTÃO ouvia as palavras dos filhos de Labão, que diziam: Jacó tem tomado tudo o que era de nosso pai, e do que era de nosso pai fez ele toda esta glória.",
         "2": "Viu também Jacó o rosto de Labão, e eis que não era para com ele como anteriormente.",
         "3": "E disse o Senhor a Jacó: Torna-te à terra dos teus pais, e à tua parentela, e eu serei contigo.",
         "4": "Então mandou Jacó chamar a Raquel e a Lia ao campo, para junto do seu rebanho,",

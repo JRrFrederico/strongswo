@@ -1,9 +1,17 @@
 {
     "livro": "João",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus ungido para a Páscoa",
+        "9": "A trama para matar Lázaro",
+        "12": "A entrada profetizada",
+        "20": "Jesus veio para todos os povos",
+        "27": "Jesus profetiza sua morte na cruz",
+        "37": "Nem todos creram nos milagres",
+        "42": "Caminhando na luz"
+    },
     "versiculos": {
-        "1": "Foi, pois, Jesus seis dias antes da páscoa a Betânia, onde estava Lázaro, o que falecera, e a quem ressuscitara dentre os mortos.",
+        "1": "FOI, pois, Jesus seis dias antes da páscoa a Betânia, onde estava Lázaro, o que falecera, e a quem ressuscitara dentre os mortos.",
         "2": "Fizeram-lhe, pois, ali uma ceia, e Marta servia, e Lázaro era um dos que estavam à mesa com ele.",
         "3": "Então Maria, tomando um arrátel de unguento de nardo puro, de muito preço, ungiu os pés de Jesus, e enxugou-lhe os pés com os seus cabelos; e encheu-se a casa do cheiro do unguento.",
         "4": "Então, um dos seus discípulos, Judas Iscariotes, filho de Simão, o que havia de traí-lo, disse:",

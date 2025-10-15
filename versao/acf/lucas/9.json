@@ -1,9 +1,23 @@
 {
     "livro": "Lucas",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus envia os Doze em missão",
+        "7": "Herodes tenta encontrar Jesus",
+        "10": "A primeira multiplicação dos pães",
+        "18": "Pedro confessa que Jesus é o Cristo",
+        "21": "Jesus prediz sua morte e ressurreição",
+        "23": "Tome a sua cruz e siga a Jesus",
+        "28": "Alguns vêem a glória de Jesus",
+        "37": "A cura de um menino possesso",
+        "44": "Jesus prediz a sua morte outra vez",
+        "46": "Quem é o maior no Reino?",
+        "49": "Jesus não aprova o sectarismo",
+        "51": "Jesus não é aceito pelos samaritanos",
+        "57": "O alto custo do discipulado"
+    },
     "versiculos": {
-        "1": "E, convocando os seus doze discípulos, deu-lhes autoridade e poder sobre todos os demônios, para curarem enfermidades.",
+        "1": "E, CONVOCANDO os seus doze discípulos, deu-lhes autoridade e poder sobre todos os demônios, para curarem enfermidades.",
         "2": "E enviou-os a pregar o reino de Deus, e a curar os enfermos.",
         "3": "E disse-lhes: Nada leveis convosco para o caminho, nem cajados, nem alforje, nem pão, nem dinheiro; nem qualquer de vós tenha duas túnicas.",
         "4": "E em qualquer casa em que entrardes, ficai ali, e de lá saireis.",

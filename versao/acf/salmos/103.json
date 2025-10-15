@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 103,
-    "titulos": {},
+    "titulos": {
+        "1": "Hino à suprema graça de Deus"
+    },
     "versiculos": {
-        "1": "Bendize, ó minha alma, ao Senhor, e tudo o que há em mim bendiga o seu santo nome.",
+        "1": "BENDIZE, ó minha alma, ao Senhor, e tudo o que há em mim bendiga o seu santo nome.",
         "2": "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios.",
         "3": "Ele é o que perdoa todas as tuas iniquidades, que sara todas as tuas enfermidades,",
         "4": "Que redime a tua vida da perdição; que te coroa de benignidade e de misericórdia,",

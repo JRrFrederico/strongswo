@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 113,
-    "titulos": {},
+    "titulos": {
+        "1": "Só Deus é digno de todo louvor"
+    },
     "versiculos": {
-        "1": "Louvai ao Senhor. Louvai, servos do Senhor, louvai o nome do Senhor.",
+        "1": "LOUVAI ao Senhor. Louvai, servos do Senhor, louvai o nome do Senhor.",
         "2": "Seja bendito o nome do Senhor, desde agora para sempre.",
         "3": "Desde o nascimento do sol até ao ocaso, seja louvado o nome do Senhor.",
         "4": "Exaltado está o Senhor acima de todas as nações, e a sua glória sobre os céus.",

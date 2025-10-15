@@ -1,9 +1,12 @@
 {
     "livro": "Apocalipse",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "A queda da última Babilônia",
+        "21": "A ruína da Babilônia é definitiva"
+    },
     "versiculos": {
-        "1": "E depois destas coisas vi descer do céu outro anjo, que tinha grande poder, e a terra foi iluminada com a sua glória.",
+        "1": "E DEPOIS destas coisas vi descer do céu outro anjo, que tinha grande poder, e a terra foi iluminada com a sua glória.",
         "2": "E clamou fortemente com grande voz, dizendo: Caiu, caiu a grande Babilônia, e se tornou morada de demônios, e covil de todo espírito imundo, e esconderijo de toda ave imunda e odiável.",
         "3": "Porque todas as nações beberam do vinho da ira da sua fornicação, e os reis da terra se fornicaram com ela; e os mercadores da terra se enriqueceram com a abundância de suas delícias.",
         "4": "E ouvi outra voz do céu, que dizia: Sai dela, povo meu, para que não sejas participante dos seus pecados, e para que não incorras nas suas pragas.",

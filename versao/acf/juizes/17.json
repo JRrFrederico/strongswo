@@ -1,9 +1,12 @@
 {
     "livro": "Juízes",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "O ídolos de Mica",
+        "7": "O levita na casa de Mica"
+    },
     "versiculos": {
-        "1": "E havia um homem da montanha de Efraim, cujo nome era Mica.",
+        "1": "E HAVIA um homem da montanha de Efraim, cujo nome era Mica.",
         "2": "O qual disse à sua mãe: As mil e cem moedas de prata que te foram tiradas, por cuja causa lançaste maldições, e de que também me falaste, eis que esse dinheiro está comigo; eu o tomei. Então lhe disse sua mãe: Bendito do Senhor seja meu filho.",
         "3": "Assim restituiu as mil e cem moedas de prata à sua mãe; porém sua mãe disse: Inteiramente tenho dedicado este dinheiro da minha mão ao Senhor, para meu filho fazer uma imagem de escultura e uma de fundição; de sorte que agora to tornarei a dar.",
         "4": "Porém ele restituiu aquele dinheiro à sua mãe; e sua mãe tomou duzentas moedas de prata, e as deu ao ourives, o qual fez delas uma imagem de escultura e uma de fundição, que ficaram em casa de Mica.",

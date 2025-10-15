@@ -1,9 +1,11 @@
 {
     "livro": "Apocalipse",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "O julgamento da grande Babilônia"
+    },
     "versiculos": {
-        "1": "E veio um dos sete anjos que tinham as sete taças, e falou comigo, dizendo-me: Vem, mostrar-te-ei a condenação da grande prostituta que está assentada sobre muitas águas;",
+        "1": "E VEIO um dos sete anjos que tinham as sete taças, e falou comigo, dizendo-me: Vem, mostrar-te-ei a condenação da grande prostituta que está assentada sobre muitas águas;",
         "2": "Com a qual fornicaram os reis da terra; e os que habitam na terra se embebedaram com o vinho da sua fornicação.",
         "3": "E levou-me em espírito a um deserto, e vi uma mulher assentada sobre uma besta de cor de escarlata, que estava cheia de nomes de blasfêmia, e tinha sete cabeças e dez chifres.",
         "4": "E a mulher estava vestida de púrpura e de escarlata, e adornada com ouro, e pedras preciosas e pérolas; e tinha na sua mão um cálice de ouro cheio das abominações e da imundícia da sua fornicação;",
@@ -16,7 +18,7 @@
         "11": "E a besta que era e já não é, é ela também o oitavo, e é dos sete, e vai à perdição.",
         "12": "E os dez chifres que viste são dez reis, que ainda não receberam o reino, mas receberão poder como reis por uma hora, juntamente com a besta.",
         "13": "Estes têm um mesmo intento, e entregarão o seu poder e autoridade à besta.",
-        "14": "Estes combaterão contra o Cordeiro, e o Cordeiro os vencerá, porque é o Senhor dos senhores e o Rei dos reis; e vencerão os que estão com ele, chamados, e eleitos, e fiéis.",
+        "14": "Estes combaterão contra o Cordeiro, e o Cordeiro os vencerá, porque é o Senhor dos senhores e o Rei dos reis; vencerão os que estão com ele, chamados, e eleitos, e fiéis.",
         "15": "E disse-me: As águas que viste, onde se assenta a prostituta, são povos, e multidões, e nações, e línguas.",
         "16": "E os dez chifres que viste na besta são os que odiarão a prostituta, e a colocarão desolada e nua, e comerão a sua carne, e a queimarão no fogo.",
         "17": "Porque Deus tem posto em seus corações, que cumpram o seu intento, e tenham uma mesma ideia, e que seu reino deem à besta, até que se cumpram as palavras de Deus.",

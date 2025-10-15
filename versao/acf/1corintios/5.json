@@ -1,9 +1,11 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Combate à imoralidade na Igreja"
+    },
     "versiculos": {
-        "1": "Geralmente se ouve que há entre vós fornicação, e fornicação tal, que nem ainda entre os gentios se nomeia, como é haver quem possua a mulher de seu pai.",
+        "1": "GERALMENTE se ouve que há entre vós fornicação, e fornicação tal, que nem ainda entre os gentios se nomeia, como é haver quem possua a mulher de seu pai.",
         "2": "Estais ensoberbecidos, e nem ao menos vos entristecestes por não ter sido dentre vós tirado quem cometeu tal ação.",
         "3": "Eu, na verdade, ainda que ausente no corpo, mas presente no espírito, já determinei, como se estivesse presente, que o que tal ato praticou,",
         "4": "Em nome de nosso Senhor Jesus Cristo, juntos vós e o meu espírito, com o poder de nosso Senhor Jesus Cristo,",

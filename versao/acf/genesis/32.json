@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 32,
-    "titulos": {},
+    "titulos": {
+        "1": "Jacó e seu encontro com Esaú",
+        "22": "A luta de Jacó com Deus"
+    },
     "versiculos": {
-        "1": "Jacó também seguiu o seu caminho, e encontraram-no os anjos de Deus.",
+        "1": "JACÓ também seguiu o seu caminho, e encontraram-no os anjos de Deus.",
         "2": "E Jacó disse, quando os viu: Este é o exército de Deus. E chamou aquele lugar Maanaim.",
         "3": "E enviou Jacó mensageiros adiante de si a Esaú, seu irmão, à terra de Seir, território de Edom.",
         "4": "E ordenou-lhes, dizendo: Assim direis a meu senhor Esaú: Assim diz Jacó, teu servo: Como peregrino morei com Labão, e me detive lá até agora;",

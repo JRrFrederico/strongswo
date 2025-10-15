@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 40,
-    "titulos": {},
+    "titulos": {
+        "1": "Consolo e salvação para Israel",
+        "12": "O poder e a soberania de Yahweh"
+    },
     "versiculos": {
-        "1": "Consolai, consolai o meu povo, diz o vosso Deus.",
+        "1": "CONSOLAI, consolai o meu povo, diz o vosso Deus.",
         "2": "Falai benignamente a Jerusalém, e bradai-lhe que já a sua milícia é acabada, que a sua iniquidade está expiada e que já recebeu em dobro da mão do Senhor, por todos os seus pecados.",
         "3": "Voz do que clama no deserto: Preparai o caminho do Senhor; endireitai no ermo vereda a nosso Deus.",
         "4": "Todo o vale será exaltado, e todo o monte e todo o outeiro será abatido; e o que é torcido se endireitará, e o que é áspero se aplainará.",

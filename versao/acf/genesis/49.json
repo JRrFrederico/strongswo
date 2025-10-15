@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 49,
-    "titulos": {},
+    "titulos": {
+        "1": "Israel abençoa seus doze filhos",
+        "29": "Jacó falece e é sepultado"
+    },
     "versiculos": {
-        "1": "Depois chamou Jacó a seus filhos, e disse: Ajuntai-vos, e anunciar-vos-ei o que vos há de acontecer nos dias vindouros;",
+        "1": "DEPOIS chamou Jacó a seus filhos, e disse: Ajuntai-vos, e anunciar-vos-ei o que vos há de acontecer nos dias vindouros;",
         "2": "Ajuntai-vos, e ouvi, filhos de Jacó; e ouvi a Israel vosso pai.",
         "3": "Rúben, tu és meu primogênito, minha força e o princípio de meu vigor, o mais excelente em alteza e o mais excelente em poder.",
         "4": "Impetuoso como a água, não serás o mais excelente, porquanto subiste ao leito de teu pai. Então o contaminaste; subiu à minha cama.",

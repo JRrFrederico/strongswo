@@ -1,9 +1,13 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Ministros de Deus",
+        "6": "Advertência contra a arrogância",
+        "14": "Admoestação de pai espiritual"
+    },
     "versiculos": {
-        "1": "Que os homens nos considerem como ministros de Cristo, e mordomos dos mistérios de Deus.",
+        "1": "QUE os homens nos considerem como ministros de Cristo, e mordomos dos mistérios de Deus.",
         "2": "Além disso, requer-se dos mordomos que cada um se ache fiel.",
         "3": "Todavia, a mim mui pouco se me dá de ser julgado por vós, ou por algum juízo humano; nem eu tampouco a mim mesmo me julgo.",
         "4": "Porque em nada me sinto culpado; mas nem por isso me considero justificado, pois quem me julga é o Senhor.",

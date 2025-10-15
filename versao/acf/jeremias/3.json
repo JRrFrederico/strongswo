@@ -1,9 +1,14 @@
 {
     "livro": "Jeremias",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Perdão de Deus a um povo infiel",
+        "6": "A deslealdade de Israel",
+        "14": "Convite ao arrependimento",
+        "19": "Poema de exortação à conversão"
+    },
     "versiculos": {
-        "1": "Eles dizem: Se um homem despedir sua mulher, e ela o deixar, e se ajuntar a outro homem, porventura tornará ele outra vez para ela? Não se poluirá de todo aquela terra? Ora, tu te prostituíste com muitos amantes; mas ainda assim, torna para mim, diz o Senhor.",
+        "1": "ELES dizem: Se um homem despedir sua mulher, e ela o deixar, e se ajuntar a outro homem, porventura tornará ele outra vez para ela? Não se poluirá de todo aquela terra? Ora, tu te prostituíste com muitos amantes; mas ainda assim, torna para mim, diz o Senhor.",
         "2": "Levanta os teus olhos aos altos, e vê: onde não te prostituíste? Nos caminhos te assentavas para eles, como o árabe no deserto; assim poluíste a terra com as tuas fornicações e com a tua malícia.",
         "3": "Por isso foram retiradas as chuvas, e não houve chuva serôdia; mas tu tens a fronte de uma prostituta, e não queres ter vergonha.",
         "4": "Ao menos desde agora não chamarás por mim, dizendo: Pai meu, tu és o guia da minha mocidade?",

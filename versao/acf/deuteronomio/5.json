@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Os Dez Mandamentos da Torá",
+        "22": "Moisés é convocado a mediar",
+        "32": "Obedecer a Deus e viver feliz"
+    },
     "versiculos": {
-        "1": "E chamou Moisés a todo o Israel, e disse-lhes: Ouve, ó Israel, os estatutos e juízos que hoje vos falo aos ouvidos; e aprendê-los-eis, e guardá-los-eis, para os cumprir.",
+        "1": "E CHAMOU Moisés a todo o Israel, e disse-lhes: Ouve, ó Israel, os estatutos e juízos que hoje vos falo aos ouvidos; e aprendê-los-eis, e guardá-los-eis, para os cumprir.",
         "2": "O Senhor nosso Deus fez conosco aliança em Horebe.",
         "3": "Não com nossos pais fez o Senhor esta aliança, mas conosco, todos os que hoje aqui estamos vivos.",
         "4": "Face a face o Senhor falou conosco no monte, do meio do fogo",

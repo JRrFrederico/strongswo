@@ -1,9 +1,12 @@
 {
     "livro": "Apocalipse",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Os 144.000 israelitas selados...",
+        "9": "...e a enorme multidão de cristãos"
+    },
     "versiculos": {
-        "1": "E depois destas coisas vi quatro anjos que estavam sobre os quatro cantos da terra, retendo os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem contra árvore alguma.",
+        "1": "E DEPOIS destas coisas vi quatro anjos que estavam sobre os quatro cantos da terra, retendo os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem contra árvore alguma.",
         "2": "E vi outro anjo subir do lado do sol nascente, e que tinha o selo do Deus vivo; e clamou com grande voz aos quatro anjos, a quem fora dado o poder de danificar a terra e o mar,",
         "3": "Dizendo: Não danifiqueis a terra, nem o mar, nem as árvores, até que hajamos selado nas suas testas os servos do nosso Deus.",
         "4": "E ouvi o número dos selados, e eram cento e quarenta e quatro mil selados, de todas as tribos dos filhos de Israel.",

@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "Acróstico de súplicas"
+    },
     "versiculos": {
-        "1": "A ti, Senhor, levanto a minha alma.",
+        "1": "A TI, Senhor, levanto a minha alma.",
         "2": "Deus meu, em ti confio, não me deixes confundido, nem que os meus inimigos triunfem sobre mim.",
         "3": "Na verdade, não serão confundidos os que esperam em ti; confundidos serão os que transgridem sem causa.",
         "4": "Faze-me saber os teus caminhos, Senhor; ensina-me as tuas veredas.",

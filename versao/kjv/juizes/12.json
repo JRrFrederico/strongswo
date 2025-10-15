@@ -1,22 +1,25 @@
 {
     "livro": "Juízes",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Conflitos e morte de Jefté",
+        "8": "Ibsã, Elom e Abdom"
+    },
     "versiculos": {
-        "1": "E os homens de Efraim se reuniram, e seguiram em direção norte, e disseram a Jefté: Por que atravessaste para lutar contra os filhos de Amom e não nos chamaste para ir contigo? Nós queimaremos a tua casa sobre ti com fogo.",
-        "2": "E Jefté lhes disse: Eu e o meu povo estávamos em grande conflito com os filhos de Amom; e quando eu vos chamei, vós não me livrastes das mãos deles.",
-        "3": "E quando vi que não me livraste, eu coloquei a minha vida nas minhas mãos, e atravessei contra os filhos de Amom, e o ­SENHOR os entregou na minha mão; pelo que, então, viestes até mim neste dia, para lutardes contra mim?",
-        "4": "Então Jefté reuniu todos os homens de Gileade, e lutou contra Efraim; e os homens de Gileade feriram Efraim, porque diziam: Vós, gileaditas, sois fugitivos de Efraim no meio dos efraimitas, e no meio dos manassitas.",
-        "5": "E os gileaditas tomaram as passagens do Jordão antes dos efraimitas; e assim foi que, quando aqueles efraimitas que haviam escapado diziam: Deixa-me atravessar; os homens de Gileade lhes diziam: És tu efraimita? E, se ele dissesse: Não;",
-        "6": "Disseram-lhe então: Diz, agora \"chibolete\", e ele disse \"sibolete\"; pois ele não conseguia formular uma pronúncia correta. Então eles o tomaram e o mataram nas passagens do Jordão; e caíram ali, naquele hora, dos eframitas, quarenta e dois mil.",
-        "7": "E Jefté julgou Israel por seis anos. Então morreu Jefté, o gileadita, e foi sepultado em uma das cidades de Gileade.",
-        "8": "E depois dele, Ibsã de Belém julgou Israel.",
-        "9": "E ele tinha trinta filhos, e trinta filhas, as quais ele enviou para o exterior, e trouxe trinta filhas do exterior para os seus filhos. E ele julgou Israel por sete anos.",
-        "10": "Então morreu Ibsã, e foi sepultado em Belém.",
-        "11": "E depois dele Elom, um zebulonita, julgou Israel; e julgou Israel por dez anos.",
-        "12": "E Elom, o zebulonita, morreu e foi sepultado em Aijalom, na região de Zebulom.",
-        "13": "E depois dele Abdom, o filho de Hilel, o piratonita, julgou Israel.",
-        "14": "E ele tinha quarenta filhos e trinta netos, que montavam setenta jumentos potros; e julgou Israel por oito anos.",
-        "15": "E Abdom, o filho de Hilel, o piratonita, morreu, e foi sepultado em Piratom, na terra de Efraim, no monte dos Amalequitas."
+        "1": "Então os guerreiros de Efraim foram convocados, atravessaram o Jordão em direção a Zafom e questionaram a Jefté: “Por que foste combater os amonitas sem nos convidar a pelejar contigo? Por este ato de desprezo queimaremos tua casa e a ti com ela!”",
+        "2": "Diante desta ameaça Jefté replicou: “Eu e meu povo estivemos envolvidos numa grande guerra com os amonitas, e, apesar de eu vos ter mandado chamar em nosso auxílio, vosso socorro jamais chegou para nos livrar das mãos do inimigo.",
+        "3": "Quando cheguei à conclusão de que ninguém de vós viria nos ajudar, arrisquei a minha própria vida e marchei contra os amonitas e o S ENHOR os entregou nas minhas mãos. Então, em verdade, por qual motivo vos levantais hoje contra mim para me atacardes?”",
+        "4": "Jefté reuniu então todos os homens de Gileade e lutou contra Efraim. Os gileaditas feriram os efraimitas porque estes tinham declarado: “Sois fugitivos de Efraim, vós, gileaditas, que viveis no meio de Efraim e no meio de Manassés!”",
+        "5": "Depois os homens de Gileade tomaram de Efraim as passagens do Jordão, de maneira que, quando um fugitivo de Efraim solicitava: “Deixa-me passar!” Os gileaditas lhe indagavam: “És efraimita?”",
+        "6": "Se declarava: “Não”, lhe ordenavam: “Então dize: Shibolet ”. Se a pessoa dissesse “Sibolet”, sem conseguir pronunciar corretamente a palavra, prendiam essa pessoa e a matavam no lugar de passagem do Jordão. Quarenta e dois mil efraimitas foram mortos naquela época.",
+        "7": "Jefté comandou o povo de Israel durante seis anos. Então Jefté, o gileadita, morreu e foi sepultado na sua cidade natal, nas terras de Gileade.",
+        "8": "Depois de Jefté, levantou-se Ibsã, da cidade de Belém, e governou o povo de Israel.",
+        "9": "Ele tinha trinta filhos e trinta filhas. Permitiu que as trinta filhas casassem com homens de fora do seu grupo de famílias, e mandou trazer trinta moças, também de fora do seu clã, que celebraram matrimônio com os seus filhos.",
+        "10": "Depois Ibsã morreu e foi sepultado em Belém.",
+        "11": "Mais tarde levantou-se Elom, da tribo de Zebulom, liderou Israel durante dez anos.",
+        "12": "Elom morreu, e foi sepultado em Aijalom, nas terras de Zebulom.",
+        "13": "Depois dele, levantou-se Abdom, filho de Hilel, o piratonita, e comandou o povo de Israel.",
+        "14": "Teve quarenta filhos e trinta netos, que montavam setenta jumentos. Abdom liderou como juiz a Israel por oito anos.",
+        "15": "Então Abdom, filho de Hilel, morreu, e foi sepultado em Piratom, nas terras de Efraim, na serra dos amalequitas."
     }
 }

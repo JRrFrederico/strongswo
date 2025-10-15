@@ -1,9 +1,15 @@
 {
     "livro": "1 Reis",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "A construção do Templo",
+        "15": "O Santo dos Santos",
+        "23": "Os querubins",
+        "31": "As portas e o pátio do Templo",
+        "37": "Início e término da obra"
+    },
     "versiculos": {
-        "1": "E sucedeu que no ano de quatrocentos e oitenta, depois de saírem os filhos de Israel do Egito, no ano quarto do reinado de Salomão sobre Israel, no mês de Zive (este é o mês segundo), começou a edificar a casa do Senhor.",
+        "1": "E SUCEDEU que no ano de quatrocentos e oitenta, depois de saírem os filhos de Israel do Egito, no ano quarto do reinado de Salomão sobre Israel, no mês de Zive (este é o mês segundo), começou a edificar a casa do Senhor.",
         "2": "E a casa que o rei Salomão edificou ao Senhor era de sessenta côvados de comprimento, e de vinte côvados de largura, e de trinta côvados de altura.",
         "3": "E o pórtico diante do templo da casa era de vinte côvados de comprimento, segundo a largura da casa, e de dez côvados de largura diante da casa.",
         "4": "E fez para a casa janelas de vista estreita.",

@@ -1,9 +1,12 @@
 {
     "livro": "Apocalipse",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "A quinta trombeta",
+        "13": "A sexta trombeta"
+    },
     "versiculos": {
-        "1": "E o quinto anjo tocou a sua trombeta, e vi uma estrela que do céu caiu na terra; e foi-lhe dada a chave do poço do abismo.",
+        "1": "E O QUINTO anjo tocou a sua trombeta, e vi uma estrela que do céu caiu na terra; e foi-lhe dada a chave do poço do abismo.",
         "2": "E abriu o poço do abismo, e subiu fumaça do poço, como a fumaça de uma grande fornalha, e com a fumaça do poço escureceu-se o sol e o ar.",
         "3": "E da fumaça vieram gafanhotos sobre a terra; e foi-lhes dado poder, como o poder que têm os escorpiões da terra.",
         "4": "E foi-lhes dito que não fizessem dano à erva da terra, nem a verdura alguma, nem a árvore alguma, mas somente aos homens que não têm nas suas testas o selo de Deus.",

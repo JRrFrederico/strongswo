@@ -1,9 +1,15 @@
 {
     "livro": "1 Reis",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "Acabe enfrenta o rei da Síria",
+        "22": "O segundo ataque dos sírios",
+        "26": "Israel vence até Afeque",
+        "31": "Acabe vence e faz aliança",
+        "35": "Um profeta condena Acabe"
+    },
     "versiculos": {
-        "1": "E Ben-Hadade, rei da Síria, ajuntou todo o seu exército; e havia com ele trinta e dois reis, e cavalos e carros; e subiu, e cercou a Samaria, e pelejou contra ela.",
+        "1": "E BEN-HADADE, rei da Síria, ajuntou todo o seu exército; e havia com ele trinta e dois reis, e cavalos e carros; e subiu, e cercou a Samaria, e pelejou contra ela.",
         "2": "E enviou à cidade mensageiros, a Acabe, rei de Israel,",
         "3": "Que lhe disseram: Assim diz Ben-Hadade: A tua prata e o teu ouro são meus; e tuas mulheres e os melhores de teus filhos são meus.",
         "4": "E respondeu o rei de Israel, e disse: Conforme a tua palavra, ó rei meu senhor, eu sou teu, e tudo quanto tenho.",

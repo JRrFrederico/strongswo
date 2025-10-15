@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "O idólatra é condenado à morte",
+        "8": "O juízo dos casos mais complexos",
+        "14": "Os deveres dos reis e governantes"
+    },
     "versiculos": {
-        "1": "Não sacrificarás ao Senhor teu Deus, boi ou gado miúdo em que haja defeito ou alguma coisa má; pois abominação é ao Senhor teu Deus.",
+        "1": "NÃO sacrificarás ao Senhor teu Deus, boi ou gado miúdo em que haja defeito ou alguma coisa má; pois abominação é ao Senhor teu Deus.",
         "2": "Quando no meio de ti, em alguma das tuas portas que te dá o Senhor teu Deus, se achar algum homem ou mulher que fizer mal aos olhos do Senhor teu Deus, transgredindo a sua aliança,",
         "3": "Que se for, e servir a outros deuses, e se encurvar a eles ou ao sol, ou à lua, ou a todo o exército do céu, o que eu não ordenei,",
         "4": "E te for denunciado, e o ouvires; então bem o inquirirás; e eis que, sendo verdade, e certo que se fez tal abominação em Israel,",

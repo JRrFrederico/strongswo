@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 58,
-    "titulos": {},
+    "titulos": {
+        "1": "O jejum que agrada a Deus"
+    },
     "versiculos": {
-        "1": "Clama em alta voz, não te detenhas, levanta a tua voz como a trombeta e anuncia ao meu povo a sua transgressão, e à casa de Jacó os seus pecados.",
+        "1": "CLAMA em alta voz, não te detenhas, levanta a tua voz como a trombeta e anuncia ao meu povo a sua transgressão, e à casa de Jacó os seus pecados.",
         "2": "Todavia me procuram cada dia, tomam prazer em saber os meus caminhos, como um povo que pratica justiça, e não deixa o direito do seu Deus; perguntam-me pelos direitos da justiça, e têm prazer em se chegarem a Deus,",
         "3": "Dizendo: Por que jejuamos nós, e tu não atentas para isso? Por que afligimos as nossas almas, e tu não o sabes? Eis que no dia em que jejuais achais o vosso próprio contentamento, e requereis todo o vosso trabalho.",
         "4": "Eis que para contendas e debates jejuais, e para ferirdes com punho iníquo; não jejueis como hoje, para fazer ouvir a vossa voz no alto.",

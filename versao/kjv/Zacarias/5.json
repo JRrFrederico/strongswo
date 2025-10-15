@@ -1,18 +1,21 @@
 {
     "livro": "Zacarias",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Sexta visão: O livro que voava",
+        "5": "Sétima visão: A mulher e o cesto"
+    },
     "versiculos": {
-        "1": "Então me virei, levantei os meu olhos, e olhei; e eis que vi um rolo voador.",
-        "2": "E ele me disse: O que vês? E eu respondi: Eu vejo um rolo voador; o seu comprimento é de vinte côvados, e sua largura de dez côvados.",
-        "3": "Então disse-me: Esta é a maldição que avança pela face de toda a terra; pois todo aquele que rouba será cortado conforme está de um lado, e todo aquele que jura será cortado conforme está do outro lado.",
-        "4": "Eu a farei sair, diz o SENHOR dos Exércitos, e ela entrará na casa do ladrão, e na casa daquele que jurar falsamente pelo meu nome; e permanecerá no meio da sua casa, e a consumirá juntamente com a sua madeira e com as suas pedras.",
-        "5": "Então o anjo que falava comigo saiu, e disse-me: Levanta agora os teus olhos, e vê o que é isto que sai.",
-        "6": "E eu disse: O que é isto? E ele disse: Isto é um efa que sai. Ele disse ainda: Este é o seu aspecto em toda a terra.",
-        "7": "E eis que foi levantado um talento de chumbo; e isto é uma mulher que se assenta no meio do efa.",
-        "8": "E ele disse: Esta é a perversidade. E a lançou dentro do meio do efa; e lançou o peso de chumbo sobre a boca deste.",
-        "9": "Então levantei os meus olhos, e olhei, e vi que saíram duas mulheres, e o vento estava nas suas asas, pois tinham asas como as de uma cegonha; e levantaram o efa entre a terra e o céu.",
-        "10": "Então eu disse ao anjo que falava comigo: Para onde elas levam o efa?",
-        "11": "E ele me disse: Para lhe edificarem uma casa na terra de Sinar; e ela será estabelecida, e ele será colocado sobre a base dela."
+        "1": "Tornei a levantar os olhos e eis que observei um livro em forma de rolo de pergaminho que voava.",
+        "2": "E o anjo me questionou: “Que vês?” Eu repliquei: Vejo um grande rolo de pergaminho que flutua no ar, medindo vinte por dez côvados, isto é, nove metros de comprimento por quatro e meio de largura.",
+        "3": "Então ele me revelou: “Eis que neste pergaminho está escrita a maldição que será derramada sobre toda a face da terra, porque tanto o ladrão como o que jura falsamente serão expulsos, conforme essa praga.”",
+        "4": "Assim afirma o Eterno Todo-Poderoso: ‘Eu lancei essa maldição para que ela entre na moradia do ladrão e na casa do que jura falsamente pelo meu Nome! Ela permanecerá nas casas dessas pessoas até que estejam completamente destruídas; e não restarão nem vigas de madeira nem pedras.",
+        "5": "Logo em seguida o anjo que conversava comigo adiantou-se e me orientou: “Ergue agora os teus olhos e observa o que é isto que vem surgindo!”",
+        "6": "Então indaguei sobre o que era aquilo, e ele me esclareceu: “Ora, é um efa, um cesto de medir!” E acrescentou: “E ele representa o conteúdo do pecado de toda a terra!”",
+        "7": "E notei que uma grande tampa de chumbo foi retirada, e dentro do cesto estava sentada uma mulher.",
+        "8": "E o anjo explicou: “Esta é, pois, a Rish’âh , Perversidade!” E a empurrou para dentro do enorme cesto e a fechou outra vez com a tampa de chumbo.",
+        "9": "De novo levantei meus olhos e observei que se aproximavam bem à minha frente duas mulheres com asas como de cegonha; o forte vento arremessou suas asas, e elas ergueram o cesto entre o céu e a terra.",
+        "10": "Indaguei ao anjo: Para onde estão levando o cesto?",
+        "11": "E ele prontamente replicou: “Para Shi’nâr , o país dos dois rios, isto é, a Babilônia. Lá lhe construirão um santuário; e, quando esse templo estiver pronto, o cesto será depositado ali, em seu pedestal.”"
     }
 }

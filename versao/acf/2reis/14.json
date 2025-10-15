@@ -1,9 +1,15 @@
 {
     "livro": "2 Reis",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "Reinado de Amazias em Judá",
+        "8": "Amazias é derrotado por Jeoás",
+        "15": "A morte de Jeoás, rei de Israel",
+        "17": "A morte de Amazias, rei de Judá",
+        "23": "O reinado de Jeroboão II, de Israel"
+    },
     "versiculos": {
-        "1": "No segundo ano de Jeoás, filho de Jeoacaz, rei de Israel, começou a reinar Amazias, filho de Joás, rei de Judá.",
+        "1": "NO segundo ano de Jeoás, filho de Jeoacaz, rei de Israel, começou a reinar Amazias, filho de Joás, rei de Judá.",
         "2": "Tinha vinte e cinco anos quando começou a reinar, e vinte e nove anos reinou em Jerusalém. E era o nome de sua mãe Joadã, de Jerusalém.",
         "3": "E fez o que era reto aos olhos do Senhor, ainda que não como seu pai Davi; fez, porém, conforme tudo o que fizera Joás seu pai.",
         "4": "Tão somente os altos não foram tirados; porque o povo ainda sacrificava e queimava incenso nos altos.",

@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "A Integridade e o bom nome"
+    },
     "versiculos": {
-        "1": "Balança enganosa é abominação para o Senhor, mas o peso justo é o seu prazer.",
+        "1": "BALANÇA enganosa é abominação para o Senhor, mas o peso justo é o seu prazer.",
         "2": "Em vindo a soberba, virá também a afronta; mas com os humildes está a sabedoria.",
         "3": "A sinceridade dos íntegros os guiará, mas a perversidade dos transgressores os destruirá.",
         "4": "De nada aproveitam as riquezas no dia da ira, mas a justiça livra da morte.",

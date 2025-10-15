@@ -1,9 +1,16 @@
 {
     "livro": "Lucas",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus envia setenta e dois discípulos",
+        "13": "Ai daqueles que não se arrependem",
+        "17": "Os setenta e dois regressam felizes",
+        "21": "A grande alegria de Jesus no Espírito",
+        "25": "A parábola do bom samaritano",
+        "38": "A adoração de Marta e Maria"
+    },
     "versiculos": {
-        "1": "E depois disto designou o Senhor ainda outros setenta, e mandou-os adiante da sua face, de dois em dois, a todas as cidades e lugares aonde ele havia de ir.",
+        "1": "E DEPOIS disto designou o Senhor ainda outros setenta, e mandou-os adiante da sua face, de dois em dois, a todas as cidades e lugares aonde ele havia de ir.",
         "2": "E dizia-lhes: Grande é, em verdade, a ceifa, mas os obreiros são poucos; rogai, pois, ao Senhor da ceifa que envie obreiros para a sua colheita.",
         "3": "Ide; eis que vos mando como cordeiros ao meio de lobos.",
         "4": "Não leveis bolsa, nem alforje, nem sandálias; e a ninguém saudeis pelo caminho.",

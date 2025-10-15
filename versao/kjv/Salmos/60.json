@@ -1,19 +1,21 @@
 {
     "livro": "Salmos",
     "capitulo": 60,
-    "titulos": {},
+    "titulos": {
+        "1": "Uma oração em tempos de guerra"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe, sobre Susã-Edute, Mictã de Davi, para ensinar; quando ele lutou com Arã Naaraim e com Arã Zobá,quando Joabe retornou, e feriu no vale do sal doze mil edomitas. Ó Deus, tu nos rejeitaste, tu nos espalhaste, tu te desagradaste; ó, torna-te a nós novamente.",
-        "2": "Tu fizeste a terra tremer; tu a quebraste. Cura as suas brechas, pois ela treme.",
-        "3": "Tu mostraste ao teu povo duras coisas; tu nos fizeste beber o vinho da perplexidade.",
-        "4": "Tu deste uma bandeira para os que te temem, que ela possa ser exibida por causa da verdade. Selá.",
-        "5": "Que os teus amados possam ser libertos; salva com a tua mão direita, e ouve-me.",
-        "6": "Deus falou em sua santidade: Eu me regozijarei, dividirei Siquém e medirei o vale de Sucote.",
-        "7": "Gileade é minha, e Manassés é minha; Efraim também é a força da minha cabeça; Judá é meu legislador.",
-        "8": "Moabe é minha bacia de lavar; sobre Edom lançarei minha sandália; Filístia triunfa por minha causa.",
-        "9": "Quem me trará para dentro da cidade forte? Quem me guiará para Edom?",
-        "10": "Não serás tu, ó Deus, que nos rejeitaste? E tu, ó Deus, que não saíste com os nossos exércitos?",
-        "11": "Dá-nos socorro na tribulação, porque vão é o socorro do homem.",
-        "12": "Através de Deus o faremos valentemente; pois ele é aquele que pisará os nossos inimigos."
+        "1": "Ó Eterno, ao nos abandonares, tu nos alquebraste; tu derramaste tua ira contra nós; agora, pois, restaura-nos!",
+        "2": "Reintegra nossas forças; fizeste estremecer a terra e a fendeste; restaura esta brecha antes que desmorone.",
+        "3": "Severidade demonstraste a teu povo; um vinho que nos tornou cambaleantes nos deste a beber.",
+        "4": "Concede aos que te reverenciam um estandarte a ser seguido, em nome da verdade.",
+        "5": "Salva-nos com tua mão direita e responde às nossas súplicas, para que sejam libertos aqueles a quem amas.",
+        "6": "Do seu santuário Deus falou: “No meu triunfo dividirei Siquém e repartirei o vale de Sucote.",
+        "7": "Gileade a mim pertence, assim como Manassés; Efraim é meu capacete, Judá é o meu cetro.",
+        "8": "Moabe é a vasilha sobre a qual lavo minhas mãos, em Edom lanço a minha sandália; sobre a Filístia proclamo o meu brado de vitória!”",
+        "9": "Quem me conduzirá à cidade fortificada? Pudesse eu chegar agora até Edom!",
+        "10": "Contudo, tu nos rejeitaste, ó Eterno, e não marchas com nosso exército.",
+        "11": "Dá-nos a tua ajuda contra o inimigo, porquanto inútil é o auxílio dos homens!",
+        "12": "Só com Deus conquistaremos a vitória, pois é Ele quem destrói todos os nossos adversários!"
     }
 }

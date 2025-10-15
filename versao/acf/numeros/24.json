@@ -1,9 +1,12 @@
 {
     "livro": "Números",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "15": "A quarta profecia de Balaão",
+        "20": "Os últimos oráculos de Balaão"
+    },
     "versiculos": {
-        "1": "Vendo Balaão que bem parecia aos olhos do Senhor que abençoasse a Israel, não se foi esta vez como antes ao encontro dos encantamentos; mas voltou o seu rosto para o deserto.",
+        "1": "VENDO Balaão que bem parecia aos olhos do Senhor que abençoasse a Israel, não se foi esta vez como antes ao encontro dos encantamentos; mas voltou o seu rosto para o deserto.",
         "2": "E, levantando Balaão os seus olhos, e vendo a Israel, que estava acampado segundo as suas tribos, veio sobre ele o Espírito de Deus.",
         "3": "E proferiu a sua parábola, e disse: Fala, Balaão, filho de Beor, e fala o homem de olhos abertos;",
         "4": "Fala aquele que ouviu as palavras de Deus, o que vê a visão do Todo-Poderoso; que cai, e se lhe abrem os olhos:",

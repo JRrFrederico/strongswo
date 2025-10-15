@@ -1,9 +1,12 @@
 {
     "livro": "2 Tessalonicenses",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefácio e saudações",
+        "3": "O testemunho da Igreja"
+    },
     "versiculos": {
-        "1": "Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus nosso Pai, e no Senhor Jesus Cristo:",
+        "1": "PAULO, e Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus nosso Pai, e no Senhor Jesus Cristo:",
         "2": "Graça e paz a vós da parte de Deus nosso Pai, e da do Senhor Jesus Cristo.",
         "3": "Sempre devemos, irmãos, dar graças a Deus por vós, como é justo, porque a vossa fé cresce muitíssimo e o amor de cada um de todos vós aumenta de uns para com os outros,",
         "4": "De maneira que nós mesmos nos gloriamos de vós nas igrejas de Deus por causa da vossa paciência e fé, e em todas as vossas perseguições e aflições que suportais;",

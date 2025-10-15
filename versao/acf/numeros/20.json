@@ -1,9 +1,13 @@
 {
     "livro": "Números",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "As águas de Meribá, Rebelião",
+        "14": "Edom nega passagem a Israel",
+        "22": "A morte de Arão no cume de Hor"
+    },
     "versiculos": {
-        "1": "Chegando os filhos de Israel, toda a congregação, ao deserto de Zim, no mês primeiro, o povo ficou em Cades; e Miriã morreu ali, e ali foi sepultada.",
+        "1": "CHEGANDO os filhos de Israel, toda a congregação, ao deserto de Zim, no mês primeiro, o povo ficou em Cades; e Miriã morreu ali, e ali foi sepultada.",
         "2": "E não havia água para a congregação; então se reuniram contra Moisés e contra Arão.",
         "3": "E o povo contendeu com Moisés, dizendo: Quem dera tivéssemos perecido quando pereceram nossos irmãos perante o Senhor!",
         "4": "E por que trouxestes a congregação do Senhor a este deserto, para que morramos aqui, nós e os nossos animais?",

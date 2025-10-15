@@ -1,9 +1,12 @@
 {
     "livro": "Daniel",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "A visão do Carneiro e do Bode",
+        "15": "Gabriel revela a visão a Daniel"
+    },
     "versiculos": {
-        "1": "No ano terceiro do reinado do rei Belsazar apareceu-me uma visão, a mim, Daniel, depois daquela que me apareceu no princípio.",
+        "1": "NO ano terceiro do reinado do rei Belsazar apareceu-me uma visão, a mim, Daniel, depois daquela que me apareceu no princípio.",
         "2": "E vi na visão; e sucedeu que, quando vi, eu estava na cidadela de Susã, na província de Elão; vi, pois, na visão, que eu estava junto ao rio Ulai.",
         "3": "E levantei os meus olhos, e vi, e eis que um carneiro estava diante do rio, o qual tinha dois chifres; e os dois chifres eram altos, mas um era mais alto do que o outro; e o mais alto subiu por último.",
         "4": "Vi que o carneiro dava marradas para o ocidente, e para o norte e para o sul; e nenhum dos animais lhe podia resistir; nem havia quem pudesse livrar-se da sua mão; e ele fazia conforme a sua vontade, e se engrandecia.",

@@ -1,9 +1,13 @@
 {
     "livro": "Ezequiel",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus julga primeiro os líderes",
+        "14": "Eis que Deus promete restauração!",
+        "16": "A Promessa do retorno de Israel"
+    },
     "versiculos": {
-        "1": "Então me levantou o Espírito, e me levou à porta oriental da casa do Senhor, a qual olha para o oriente; e eis que estavam à entrada da porta vinte e cinco homens; e no meio deles vi a Jaazanias, filho de Azur, e a Pelatias, filho de Benaia, príncipes do povo.",
+        "1": "ENTÃO me levantou o Espírito, e me levou à porta oriental da casa do Senhor, a qual olha para o oriente; e eis que estavam à entrada da porta vinte e cinco homens; e no meio deles vi a Jaazanias, filho de Azur, e a Pelatias, filho de Benaia, príncipes do povo.",
         "2": "E disse-me: Filho do homem, estes são os homens que maquinam perversidade, e dão mau conselho nesta cidade.",
         "3": "Os quais dizem: Não está próximo o tempo de edificar casas; esta cidade é o caldeirão, e nós a carne.",
         "4": "Portanto, profetiza contra eles; profetiza, ó filho do homem.",

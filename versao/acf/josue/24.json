@@ -1,9 +1,15 @@
 {
     "livro": "Josué",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "Renovação da Aliança em Siquém",
+        "14": "Israel escolhe seguir o SENHOR",
+        "25": "Celebração da Aliança de Siquém",
+        "29": "A morte de Josué e de Eleazar",
+        "32": "Os ossos de José. Morte de Eleazar"
+    },
     "versiculos": {
-        "1": "Depois reuniu Josué todas as tribos de Israel em Siquém; e chamou os anciãos de Israel, e os seus cabeças, e os seus juízes, e os seus oficiais; e eles se apresentaram diante de Deus.",
+        "1": "DEPOIS reuniu Josué todas as tribos de Israel em Siquém; e chamou os anciãos de Israel, e os seus cabeças, e os seus juízes, e os seus oficiais; e eles se apresentaram diante de Deus.",
         "2": "Então Josué disse a todo o povo: Assim diz o Senhor Deus de Israel: Além do rio habitaram antigamente vossos pais, Terá, pai de Abraão e pai de Naor; e serviram a outros deuses.",
         "3": "Eu, porém, tomei a vosso pai Abraão dalém do rio e o fiz andar por toda a terra de Canaã; também multipliquei a sua descendência e dei-lhe a Isaque.",
         "4": "E a Isaque dei Jacó e Esaú; e a Esaú dei a montanha de Seir, para a possuir; porém, Jacó e seus filhos desceram para o Egito.",

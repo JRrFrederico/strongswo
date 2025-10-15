@@ -1,9 +1,12 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Os filhos de Israel",
+        "3": "A descendência de Judá"
+    },
     "versiculos": {
-        "1": "Estes são os filhos de Israel: Rúben, Simeão, Levi, Judá, Issacar e Zebulom;",
+        "1": "ESTES são os filhos de Israel: Rúben, Simeão, Levi, Judá, Issacar e Zebulom;",
         "2": "Dã, José e Benjamim, Naftali, Gade e Aser.",
         "3": "Os filhos de Judá foram Er, e Onã, e Selá, estes três lhe nasceram da filha de Suá, a cananeia; e Er, o primogênito de Judá, foi mau aos olhos do Senhor, pelo que o matou.",
         "4": "Porém Tamar, sua nora, lhe deu à luz Perez e Zerá; todos os filhos de Judá foram cinco.",

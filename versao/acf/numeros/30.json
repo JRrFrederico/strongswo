@@ -1,9 +1,11 @@
 {
     "livro": "Números",
     "capitulo": 30,
-    "titulos": {},
+    "titulos": {
+        "1": "Leis sobre promessas e votos"
+    },
     "versiculos": {
-        "1": "E falou Moisés aos cabeças das tribos dos filhos de Israel, dizendo: Esta é a palavra que o Senhor tem ordenado.",
+        "1": "E FALOU Moisés aos cabeças das tribos dos filhos de Israel, dizendo: Esta é a palavra que o Senhor tem ordenado.",
         "2": "Quando um homem fizer voto ao Senhor, ou fizer juramento, ligando a sua alma com obrigação, não violará a sua palavra: segundo tudo o que saiu da sua boca, fará.",
         "3": "Também quando uma mulher, na sua mocidade, estando ainda na casa de seu pai, fizer voto ao Senhor, e com obrigação se ligar,",
         "4": "E seu pai ouvir o seu voto e a sua obrigação, com que ligou a sua alma; e seu pai se calar para com ela, todos os seus votos serão válidos; e toda a obrigação com que ligou a sua alma, será válida.",

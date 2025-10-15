@@ -1,9 +1,14 @@
 {
     "livro": "Mateus",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Religiosos pedem um sinal",
+        "5": "O fermento dos religiosos",
+        "13": "Deus revela Jesus Cristo a Pedro",
+        "21": "Jesus prediz seu sacrifício"
+    },
     "versiculos": {
-        "1": "E, chegando-se os fariseus e os saduceus, para o tentarem, pediram-lhe que lhes mostrasse algum sinal do céu.",
+        "1": "E, CHEGANDO-SE os fariseus e os saduceus, para o tentarem, pediram-lhe que lhes mostrasse algum sinal do céu.",
         "2": "Mas ele, respondendo, disse-lhes: Quando é chegada a tarde, dizeis: Haverá bom tempo, porque o céu está rubro.",
         "3": "E, pela manhã: Hoje haverá tempestade, porque o céu está de um vermelho sombrio. Hipócritas, sabeis discernir a face do céu, e não discernis os sinais dos tempos?",
         "4": "Uma geração má e adúltera pede um sinal, e nenhum sinal lhe será dado, senão o sinal do profeta Jonas. E, deixando-os, retirou-se.",
@@ -14,7 +19,7 @@
         "9": "Não compreendeis ainda, nem vos lembrais dos cinco pães para cinco mil homens, e de quantos cestos levantastes?",
         "10": "Nem dos sete pães para quatro mil, e de quantos cestos levantastes?",
         "11": "Como não compreendestes que não vos falei a respeito do pão, mas que vos guardásseis do fermento dos fariseus e saduceus?",
-        "12": "Então compreenderam que não dissera que se guardassem do fermento do pão, mas da doutrina dos fariseus e saduceus.",
+        "12": "Então compreenderam que não dissera que se guardassem do fermento do pão, mas da doutrina dos fariseus.",
         "13": "E, chegando Jesus às partes de Cesareia de Filipe, interrogou os seus discípulos, dizendo: Quem dizem os homens ser o Filho do homem?",
         "14": "E eles disseram: Uns, João o Batista; outros, Elias; e outros, Jeremias, ou um dos profetas.",
         "15": "Disse-lhes ele: E vós, quem dizeis que eu sou?",

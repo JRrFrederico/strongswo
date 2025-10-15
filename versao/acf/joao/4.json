@@ -1,9 +1,15 @@
 {
     "livro": "João",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "A samaritana encontra o Messias",
+        "27": "A grande colheita",
+        "39": "O salvador do mundo",
+        "43": "Jesus é bem recebido na Galileia",
+        "46": "A cura do filho de um oficial"
+    },
     "versiculos": {
-        "1": "E quando o Senhor entendeu que os fariseus tinham ouvido que Jesus fazia e batizava mais discípulos do que João",
+        "1": "E QUANDO o Senhor entendeu que os fariseus tinham ouvido que Jesus fazia e batizava mais discípulos do que João",
         "2": "(Ainda que Jesus mesmo não batizava, mas os seus discípulos),",
         "3": "Deixou a Judeia, e foi outra vez para a Galileia.",
         "4": "E era-lhe necessário passar por Samaria.",

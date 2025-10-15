@@ -1,10 +1,12 @@
 {
     "livro": "Salmos",
     "capitulo": 131,
-    "titulos": {},
+    "titulos": {
+        "1": "Os filhos confiam no Pai celeste"
+    },
     "versiculos": {
-        "1": "Canção gradual de Davi. SENHOR, o meu coração não é altivo nem os meus olhos elevados; nem me exercito em grandes questões, ou em coisas elevadas demais para mim.",
-        "2": "Certamente que me comportei e me aquietei como uma criança desmamada de sua mãe; a minha alma é mesmo como uma criança desmamada.",
-        "3": "Espere Israel no SENHOR, daqui em diante e para sempre."
+        "1": "S ENHOR , o meu coração não é arrogante, e os meus olhos não vêem com soberba. Não há em meu ser a pretensão de explicar todos os mistérios.",
+        "2": "De fato, acalmei e aquietei os meus sentimentos. Como uma criança satisfeita está para sua mãe, assim a minha alma está para todo o meu ser.",
+        "3": "Israel, deposita toda a tua fé no S ENHOR . Espera tranquilo e confiante, desde agora e para sempre!"
     }
 }

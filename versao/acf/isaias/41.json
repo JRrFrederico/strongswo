@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 41,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus promete salvar Israel"
+    },
     "versiculos": {
-        "1": "Calai-vos perante mim, ó ilhas, e os povos renovem as forças; cheguem-se, e então falem; cheguemo-nos juntos a juízo.",
+        "1": "CALAI-VOS perante mim, ó ilhas, e os povos renovem as forças; cheguem-se, e então falem; cheguemo-nos juntos a juízo.",
         "2": "Quem suscitou do oriente o justo e o chamou para o seu pé? Quem deu as nações à sua face e o fez dominar sobre reis? Ele os entregou à sua espada como o pó e como pragana arrebatada pelo vento ao seu arco.",
         "3": "Ele os persegue e passa em paz, por uma vereda por onde os seus pés nunca tinham caminhado.",
         "4": "Quem operou e fez isto, chamando as gerações desde o princípio? Eu o Senhor, o primeiro, e com os últimos eu mesmo.",

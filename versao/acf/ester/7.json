@@ -1,9 +1,11 @@
 {
     "livro": "Ester",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Hamã morre na forca que construiu"
+    },
     "versiculos": {
-        "1": "Vindo, pois, o rei com Hamã, para beber com a rainha Ester,",
+        "1": "VINDO, pois, o rei com Hamã, para beber com a rainha Ester,",
         "2": "Disse outra vez o rei a Ester, no segundo dia, no banquete do vinho: Qual é a tua petição, rainha Ester? E se te dará. E qual é o teu desejo? Até metade do reino, se te dará.",
         "3": "Então respondeu a rainha Ester, e disse: Se, ó rei, achei graça aos teus olhos, e se bem parecer ao rei, dê-se-me a minha vida como minha petição, e o meu povo como meu desejo.",
         "4": "Porque fomos vendidos, eu e o meu povo, para nos destruírem, matarem, e aniquilarem de vez; se ainda por servos e por servas nos vendessem, calar-me-ia; ainda que o opressor não poderia ter compensado a perda do rei.",

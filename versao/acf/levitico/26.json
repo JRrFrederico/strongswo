@@ -1,9 +1,13 @@
 {
     "livro": "Levítico",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "Conclusão: obediência e bênçãos",
+        "3": "Obediências e bênçãos",
+        "14": "Desobediências e castigos"
+    },
     "versiculos": {
-        "1": "Não fareis para vós ídolos, nem vos levantareis imagem de escultura, nem estátua, nem poreis pedra figurada na vossa terra, para inclinar-vos a ela; porque eu sou o Senhor vosso Deus.",
+        "1": "NÃO fareis para vós ídolos, nem vos levantareis imagem de escultura, nem estátua, nem poreis pedra figurada na vossa terra, para inclinar-vos a ela; porque eu sou o Senhor vosso Deus.",
         "2": "Guardareis os meus sábados, e reverenciareis o meu santuário. Eu sou o Senhor.",
         "3": "Se andardes nos meus estatutos, e guardardes os meus mandamentos, e os cumprirdes,",
         "4": "Então eu vos darei as chuvas a seu tempo; e a terra dará a sua colheita, e a árvore do campo dará o seu fruto;",

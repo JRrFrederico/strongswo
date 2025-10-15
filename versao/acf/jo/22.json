@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "Elifaz afirma que Jó é castigado"
+    },
     "versiculos": {
-        "1": "Então respondeu Elifaz, o temanita, dizendo:",
+        "1": "ENTÃO respondeu Elifaz, o temanita, dizendo:",
         "2": "Porventura será o homem de algum proveito a Deus? Antes a si mesmo o prudente será proveitoso.",
         "3": "Ou tem o Todo-Poderoso prazer em que tu sejas justo, ou algum lucro em que tu faças perfeitos os teus caminhos?",
         "4": "Ou te repreende, pelo temor que tem de ti, ou entra contigo em juízo?",

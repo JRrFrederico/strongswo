@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 37,
-    "titulos": {},
+    "titulos": {
+        "1": "A história de José, filho de Jacó",
+        "12": "José é vendido por seus irmãos"
+    },
     "versiculos": {
-        "1": "E Jacó habitou na terra das peregrinações de seu pai, na terra de Canaã.",
+        "1": "E JACÓ habitou na terra das peregrinações de seu pai, na terra de Canaã.",
         "2": "Estas são as gerações de Jacó. Sendo José de dezessete anos, apascentava as ovelhas com seus irmãos; sendo ainda jovem, andava com os filhos de Bila, e com os filhos de Zilpa, mulheres de seu pai; e José trazia más notícias deles a seu pai.",
         "3": "E Israel amava a José mais do que a todos os seus filhos, porque era filho da sua velhice; e fez-lhe uma túnica de várias cores.",
         "4": "Vendo, pois, seus irmãos que seu pai o amava mais do que a todos eles, odiaram-no, e não podiam falar com ele pacificamente.",

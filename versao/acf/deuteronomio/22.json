@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "Solidariedade para com o próximo",
+        "13": "Violações às regras do casamento",
+        "22": "Quanto à fornicação e o adultério"
+    },
     "versiculos": {
-        "1": "Vendo extraviado o boi ou ovelha de teu irmão, não te desviarás deles; restituí-los-ás sem falta a teu irmão.",
+        "1": "VENDO extraviado o boi ou ovelha de teu irmão, não te desviarás deles; restituí-los-ás sem falta a teu irmão.",
         "2": "E se teu irmão não estiver perto de ti, ou não o conheceres, recolhê-los-ás na tua casa, para que fiquem contigo, até que teu irmão os busque, e tu lhos restituirás.",
         "3": "Assim também farás com o seu jumento, e assim farás com as suas roupas; assim farás também com toda a coisa perdida, que se perder de teu irmão, e tu a achares; não te poderás omitir.",
         "4": "Se vires o jumento que é de teu irmão, ou o seu boi, caídos no caminho, não te desviarás deles; sem falta o ajudarás a levantá-los.",

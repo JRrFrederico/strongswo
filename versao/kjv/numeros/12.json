@@ -1,23 +1,27 @@
 {
     "livro": "Números",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Miriã e Arão censuram Moisés",
+        "4": "A resposta do SENHOR",
+        "11": "Arão pede que Moisés ore a Deus"
+    },
     "versiculos": {
-        "1": "E Miriã e Arão falaram contra Moisés, por causa da mulher etíope, com quem se havia casado; porque ele havia se casado com uma mulher etíope.",
-        "2": "E disseram: Terá o SENHOR falado somente por intermédio de Moisés? Não falou também por nosso intermédio? E o SENHOR ouviu isso",
-        "3": ".",
-        "4": "E o SENHOR disse, repentinamente a Moisés, e a Arão, e a Miriã: Vós três, vinde ao tabernáculo da congregação. E eles foram.",
-        "5": "E o SENHOR desceu na coluna de nuvem e ficou à porta do tabernáculo; e chamou a Arão e a Miriã, e ambos saíram.",
-        "6": "E ele disse: Ouvi agora as minhas palavras; se houver entre vós um profeta, eu, o SENHOR, me darei a conhecer a ele em uma visão, e falarei com ele em um sonho.",
-        "7": "Não é assim com o meu servo Moisés, que é fiel em toda a minha casa.",
-        "8": "Com ele falo boca a boca, e de maneira clara, e não por palavras obscuras; e ele vê a semelhança do SENHOR; então, por que não tivestes medo de falar contra o meu servo Moisés?",
-        "9": "E a ira do SENHOR se acendeu contra eles, e ele partiu.",
-        "10": "E a nuvem se afastou do tabernáculo e eis que Miriã ficou leprosa, branca como a neve; e Arão olhou para Miriã, e eis que ela estava leprosa.",
-        "11": "E Arão disse a Moisés: Ai, meu senhor! Eu te peço, não ponhas sobre nós este pecado, que cometemos tolamente.",
-        "12": "Que ela não seja como um morto que, ao sair do ventre de sua mãe, tem a metade da sua carne já consumida.",
-        "13": "E Moisés clamou ao SENHOR, dizendo: Eu te peço, ó Deus, cura-a agora.",
-        "14": "E o SENHOR disse a Moisés: Se o seu pai tivesse apenas cuspido no seu rosto, não teria ela ficado envergonhada sete dias? Que esteja fechada fora do acampamento sete dias, e depois disso, que a recebam novamente.",
-        "15": "E Miriã esteve fechada fora do acampamento sete dias, e o povo não partiu, até que recolhessem novamente a Miriã.",
-        "16": "Depois, o povo partiu de Hazerote; e acamparam no deserto de Parã."
+        "1": "Miriã e Arão começaram a murmurar contra Moisés porque ele havia se casado com uma mulher cushita , etíope.",
+        "2": "E assim questionaram: “Falou, porventura, Yahweh , somente a Moisés? Não falou igualmente a nós?” E Yahweh ouviu tudo isso.",
+        "3": "Ora, Moisés era um homem muito paciente e o mais humilde dos homens de sua época.",
+        "4": "Subitamente disse Yahweh a Moisés, a Arão e a Miriã: “Vinde, todos os três, à Tenda do Encontro”. Todos os três se dirigiram à Tenda,",
+        "5": "quando Yahweh desceu numa nuvem e se deteve à entrada da Tenda. Chamou Arão e Miriã; ambos se apresentaram.",
+        "6": "Então disse Yahweh : “Ouvi, pois, as minhas palavras: Quando há entre vós profetas, Eu, o Eterno, me faço conhecer a eles por meio de visões, e falo com eles em sonhos.",
+        "7": "Contudo, não é assim que procedo para com meu servo Moisés, o mais fiel dos servos de minha Casa.",
+        "8": "Com ele converso face a face, claramente, e não por enigmas ou parábolas; e a ele foi revelada a forma do S ENHOR . Por que ousastes falar contra meu servo Moisés?”",
+        "9": "Então a ira de Yahweh se inflamou contra eles, e Ele os deixou.",
+        "10": "Quando a nuvem se afastou da Tenda, Miriã estava com o corpo tomado por uma terrível doença da pele; sua aparência era esbranquiçada como a neve. Quando Arão voltou seu olhar para Miriã, reconheceu de imediato que ela estava com uma espécie de lepra.",
+        "11": "Então rogou Arão a Moisés: “Ai, meu S ENHOR ! Não queiras nos infligir a culpa do pecado que tivemos a loucura de cometer e do qual somos culpados.",
+        "12": "Suplico-te, não seja ela como um aborto cuja carne já está quase que toda consumida ao sair do ventre de sua mãe!”",
+        "13": "Diante disso, clamou Moisés a Yahweh : “Ó Deus!”, orou ele, “digna-te dar-lhe a cura, eu te peço por misericórdia!”",
+        "14": "Prontamente lhe respondeu o S ENHOR : “E se seu pai lhe cuspisse no rosto não ficaria ela envergonhada por sete dias? Seja, portanto, segregada sete dias fora do arraial de Israel e depois seja nele admitida novamente!”",
+        "15": "Sendo assim, Miriã foi isolada por sete dias fora do acampamento, e os israelitas não partiram enquanto ela não foi reintegrada ao povo.",
+        "16": "Logo depois disso, partiram de Hazerote e acamparam no deserto de Parã."
     }
 }

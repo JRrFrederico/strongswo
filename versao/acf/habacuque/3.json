@@ -1,9 +1,12 @@
 {
     "livro": "Habacuque",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "A oração do homem de Deus",
+        "16": "Conclusão: Fé em Deus Salvador"
+    },
     "versiculos": {
-        "1": "Oração do profeta Habacuque sobre Sigionote.",
+        "1": "ORAÇÃO do profeta Habacuque sobre Sigionote.",
         "2": "Ouvi, Senhor, a tua palavra, e temi; aviva, ó Senhor, a tua obra no meio dos anos, no meio dos anos faze-a conhecida; na tua ira lembra-te da misericórdia.",
         "3": "Deus veio de Temã, e do monte de Parã o Santo (Selá). A sua glória cobriu os céus, e a terra encheu-se do seu louvor.",
         "4": "E o resplendor se fez como a luz, raios brilhantes saíam da sua mão, e ali estava o esconderijo da sua força.",

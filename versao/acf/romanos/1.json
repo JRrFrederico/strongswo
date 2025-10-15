@@ -1,9 +1,14 @@
 {
     "livro": "Romanos",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Apresentação e saudação de Paulo",
+        "8": "Paulo quer ir à Igreja em Roma",
+        "16": "O tema da carta: a justiça pela fé",
+        "18": "A ira de Deus contra os sem fé"
+    },
     "versiculos": {
-        "1": "Paulo, servo de Jesus Cristo, chamado para apóstolo, separado para o evangelho de Deus.",
+        "1": "PAULO, servo de Jesus Cristo, chamado para apóstolo, separado para o evangelho de Deus.",
         "2": "O qual antes prometeu pelos seus profetas nas santas escrituras,",
         "3": "Acerca de seu Filho, que nasceu da descendência de Davi segundo a carne,",
         "4": "Declarado Filho de Deus em poder, segundo o Espírito de santificação, pela ressurreição dos mortos, Jesus Cristo, nosso Senhor,",

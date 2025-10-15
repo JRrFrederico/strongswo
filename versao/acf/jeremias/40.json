@@ -1,9 +1,13 @@
 {
     "livro": "Jeremias",
     "capitulo": 40,
-    "titulos": {},
+    "titulos": {
+        "1": "A libertação do profeta Jeremias",
+        "7": "Gedalias decide viver em Mispá",
+        "13": "Gedalias corre risco de morte"
+    },
     "versiculos": {
-        "1": "A palavra que veio a Jeremias da parte do Senhor, depois que Nebuzaradã, capitão da guarda, o deixara ir de Ramá, quando o tomou, estando ele atado com cadeias no meio de todos os do cativeiro de Jerusalém e de Judá, que foram levados cativos para Babilônia.",
+        "1": "A PALAVRA que veio a Jeremias da parte do Senhor, depois que Nebuzaradã, capitão da guarda, o deixara ir de Ramá, quando o tomou, estando ele atado com cadeias no meio de todos os do cativeiro de Jerusalém e de Judá, que foram levados cativos para Babilônia.",
         "2": "Tomou o capitão da guarda a Jeremias, e disse-lhe: O Senhor teu Deus pronunciou este mal, contra este lugar.",
         "3": "E o Senhor o trouxe, e fez como havia falado; porque pecastes contra o Senhor, e não obedecestes à sua voz, portanto vos sucedeu isto.",
         "4": "Agora, pois, eis que te soltei hoje das cadeias que estavam sobre as tuas mãos. Se te apraz vir comigo para Babilônia, vem, e eu cuidarei de ti, mas se não te apraz vir comigo para Babilônia, deixa de vir. Olha, toda a terra está diante de ti; para onde parecer bom e reto aos teus olhos ir, para ali vai.",

@@ -1,9 +1,14 @@
 {
     "livro": "Hebreus",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Exortação à busca da fé madura",
+        "4": "O grave perigo de rejeitar a fé",
+        "9": "Vivendo como herdeiros de Deus",
+        "13": "A promessa de Deus é imutável"
+    },
     "versiculos": {
-        "1": "Por isso, deixando os rudimentos da doutrina de Cristo, prossigamos até à perfeição, não lançando de novo o fundamento do arrependimento de obras mortas e de fé em Deus,",
+        "1": "POR isso, deixando os rudimentos da doutrina de Cristo, prossigamos até à perfeição, não lançando de novo o fundamento do arrependimento de obras mortas e de fé em Deus,",
         "2": "E da doutrina dos batismos, e da imposição das mãos, e da ressurreição dos mortos, e do juízo eterno.",
         "3": "E isto faremos, se Deus o permitir.",
         "4": "Porque é impossível que os que já uma vez foram iluminados, e provaram o dom celestial, e se tornaram participantes do Espírito Santo,",

@@ -1,9 +1,12 @@
 {
     "livro": "1 Reis",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Homem de Deus vindo de Judá",
+        "11": "O homem de Deus e o profeta"
+    },
     "versiculos": {
-        "1": "E eis que, por ordem do Senhor, veio, de Judá a Betel, um homem de Deus; e Jeroboão estava junto ao altar, para queimar incenso.",
+        "1": "E EIS que, por ordem do Senhor, veio, de Judá a Betel, um homem de Deus; e Jeroboão estava junto ao altar, para queimar incenso.",
         "2": "E ele clamou contra o altar por ordem do Senhor, e disse: Altar, altar! Assim diz o Senhor: Eis que um filho nascerá à casa de Davi, cujo nome será Josias, o qual sacrificará sobre ti os sacerdotes dos altos que sobre ti queimam incenso, e ossos de homens se queimarão sobre ti.",
         "3": "E deu, naquele mesmo dia, um sinal, dizendo: Este é o sinal de que o Senhor falou: Eis que o altar se fenderá, e a cinza, que nele está, se derramará.",
         "4": "Sucedeu, pois, que, ouvindo o rei a palavra do homem de Deus, que clamara contra o altar de Betel, Jeroboão estendeu a sua mão de sobre o altar, dizendo: Pegai-o! Mas a sua mão, que estendera contra ele, se secou, e não podia tornar a trazê-la a si.",

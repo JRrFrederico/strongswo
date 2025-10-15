@@ -1,9 +1,12 @@
 {
     "livro": "Números",
     "capitulo": 34,
-    "titulos": {},
+    "titulos": {
+        "1": "As fronteiras da nação de Israel",
+        "16": "Os líderes na partilha de Canaã"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés, dizendo:",
         "2": "Dá ordem aos filhos de Israel, e dize-lhes: Quando entrardes na terra de Canaã, esta há de ser a terra que vos cairá em herança; a terra de Canaã, segundo os seus termos.",
         "3": "O lado do sul vos será desde o deserto de Zim até aos termos de Edom; e o termo do sul vos será desde a extremidade do Mar Salgado para o lado do oriente.",
         "4": "E este limite vos irá rodeando do sul para a subida de Acrabim, e passará até Zim; e as suas saídas serão do sul a Cades-Barneia; e sairá a Hazar-Adar, e passará a Azmom;",

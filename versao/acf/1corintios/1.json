@@ -1,9 +1,16 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefácio e saudações",
+        "4": "Graças a Deus pelos irmãos",
+        "10": "Exortações à concórdia na igreja",
+        "18": "Palavra da cruz, poder de Deus",
+        "25": "O chamado e vocação dos santos",
+        "30": "Somos de Deus em Cristo"
+    },
     "versiculos": {
-        "1": "Paulo (chamado apóstolo de Jesus Cristo, pela vontade de Deus), e o irmão Sóstenes,",
+        "1": "PAULO (chamado apóstolo de Jesus Cristo, pela vontade de Deus), e o irmão Sóstenes,",
         "2": "À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados santos, com todos os que em todo o lugar invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso:",
         "3": "Graça a vós e paz da parte de Deus nosso Pai, e do Senhor Jesus Cristo.",
         "4": "Sempre dou graças ao meu Deus por vós pela graça de Deus que vos foi dada em Jesus Cristo.",

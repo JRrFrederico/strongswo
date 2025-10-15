@@ -1,9 +1,12 @@
 {
     "livro": "Zacarias",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "A hora do castigo dos ímpios",
+        "4": "O bom e o mau pastor"
+    },
     "versiculos": {
-        "1": "Abre, ó Líbano, as tuas portas para que o fogo consuma os teus cedros.",
+        "1": "ABRE, ó Líbano, as tuas portas para que o fogo consuma os teus cedros.",
         "2": "Geme, ó cipreste, porque o cedro caiu, porque os mais poderosos são destruídos; gemei, ó carvalhos de Basã, porque o bosque forte é derrubado.",
         "3": "Voz de uivo dos pastores! Porque a sua glória é destruída; voz de bramido dos filhos de leões, porque foi destruída a soberba do Jordão.",
         "4": "Assim diz o Senhor meu Deus: Apascenta as ovelhas da matança,",

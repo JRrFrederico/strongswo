@@ -1,9 +1,12 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "As muitas vitórias de Davi",
+        "14": "Os oficiais de Davi"
+    },
     "versiculos": {
-        "1": "E depois disto aconteceu que Davi derrotou os filisteus, e os sujeitou; e tomou a Gate, e os lugares da sua jurisdição, da mão dos filisteus.",
+        "1": "E DEPOIS disto aconteceu que Davi derrotou os filisteus, e os sujeitou; e tomou a Gate, e os lugares da sua jurisdição, da mão dos filisteus.",
         "2": "Também derrotou os moabitas; e os moabitas ficaram por servos de Davi, pagando tributos.",
         "3": "Também Davi derrotou a Hadar-Ezer, rei de Zobá, junto a Hamate, quando ele ia estabelecer o seu domínio sobre o rio Eufrates.",
         "4": "E Davi lhe tomou mil carros, e sete mil cavaleiros, e vinte mil homens de pé; e Davi jarretou todos os cavalos dos carros; porém reservou deles para cem carros.",

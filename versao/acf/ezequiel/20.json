@@ -1,9 +1,14 @@
 {
     "livro": "Ezequiel",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "Israel fere o coração de Deus",
+        "18": "A ira de Deus contra a idolatria",
+        "30": "Julgamento, castigo e perdão",
+        "45": "Profecia contra o reino de Judá"
+    },
     "versiculos": {
-        "1": "E aconteceu, no sétimo ano, no quinto mês, aos dez do mês, que vieram alguns dos anciãos de Israel, para consultarem o Senhor; e assentaram-se diante de mim.",
+        "1": "E ACONTECEU, no sétimo ano, no quinto mês, aos dez do mês, que vieram alguns dos anciãos de Israel, para consultarem o Senhor; e assentaram-se diante de mim.",
         "2": "Então veio a mim a palavra do Senhor, dizendo:",
         "3": "Filho do homem, fala aos anciãos de Israel, e dize-lhes: Assim diz o Senhor Deus: Viestes consultar-me? Vivo eu, que não me deixarei ser consultado por vós, diz o Senhor Deus.",
         "4": "Porventura tu os julgarias, julgarias tu, ó filho do homem? Notifica-lhes as abominações de seus pais;",

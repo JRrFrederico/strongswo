@@ -1,9 +1,12 @@
 {
     "livro": "1 João",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Alerta contra os falsos profetas",
+        "7": "O amor de Deus nos move"
+    },
     "versiculos": {
-        "1": "Amados, não creiais a todo o espírito, mas provai se os espíritos são de Deus, porque já muitos falsos profetas se têm levantado no mundo.",
+        "1": "AMADOS, não creiais a todo o espírito, mas provai se os espíritos são de Deus, porque já muitos falsos profetas se têm levantado no mundo.",
         "2": "Nisto conhecereis o Espírito de Deus: Todo o espírito que confessa que Jesus Cristo veio em carne é de Deus;",
         "3": "E todo o espírito que não confessa que Jesus Cristo veio em carne não é de Deus; mas este é o espírito do anticristo, do qual já ouvistes que há de vir, e eis que já agora está no mundo.",
         "4": "Filhinhos, sois de Deus, e já os tendes vencido; porque maior é o que está em vós do que o que está no mundo.",

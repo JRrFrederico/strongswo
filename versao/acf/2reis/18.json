@@ -1,9 +1,14 @@
 {
     "livro": "2 Reis",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "Ezequias, o rei de Judá",
+        "9": "Relembrando a queda de Samaria",
+        "13": "Senaqueribe invade Judá",
+        "17": "Rabsaqué desafia Ezequias e a Deus"
+    },
     "versiculos": {
-        "1": "E sucedeu que, no terceiro ano de Oseias, filho de Elá, rei de Israel, começou a reinar Ezequias, filho de Acaz, rei de Judá.",
+        "1": "E SUCEDEU que, no terceiro ano de Oseias, filho de Elá, rei de Israel, começou a reinar Ezequias, filho de Acaz, rei de Judá.",
         "2": "Tinha vinte e cinco anos de idade quando começou a reinar, e vinte e nove anos reinou em Jerusalém; e era o nome de sua mãe Abi, filha de Zacarias.",
         "3": "E fez o que era reto aos olhos do Senhor, conforme tudo o que fizera Davi, seu pai.",
         "4": "Ele tirou os altos, quebrou as estátuas, deitou abaixo os bosques, e fez em pedaços a serpente de metal que Moisés fizera; porquanto até àquele dia os filhos de Israel lhe queimavam incenso, e lhe chamaram Neustã.",

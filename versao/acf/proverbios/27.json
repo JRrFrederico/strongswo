@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "As várias expressões da sabedoria"
+    },
     "versiculos": {
-        "1": "Não presumas do dia de amanhã, porque não sabes o que o dia trará.",
+        "1": "NÃO presumas do dia de amanhã, porque não sabes o que o dia trará.",
         "2": "Que um outro te louve, e não a tua própria boca; o estranho, e não os teus lábios.",
         "3": "A pedra é pesada, e a areia é espessa; porém a ira do insensato é mais pesada que ambas.",
         "4": "O furor é cruel e a ira impetuosa, mas quem poderá enfrentar a inveja?",

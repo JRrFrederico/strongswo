@@ -1,9 +1,11 @@
 {
     "livro": "Daniel",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Daniel revela a escrita na parede"
+    },
     "versiculos": {
-        "1": "O rei Belsazar deu um grande banquete a mil dos seus senhores, e bebeu vinho na presença dos mil.",
+        "1": "O REI Belsazar deu um grande banquete a mil dos seus senhores, e bebeu vinho na presença dos mil.",
         "2": "Havendo Belsazar provado o vinho, mandou trazer os vasos de ouro e de prata, que Nabucodonosor, seu pai, tinha tirado do templo que estava em Jerusalém, para que bebessem neles o rei, os seus príncipes, as suas mulheres e concubinas.",
         "3": "Então trouxeram os vasos de ouro, que foram tirados do templo da casa de Deus, que estava em Jerusalém, e beberam neles o rei, os seus príncipes, as suas mulheres e concubinas.",
         "4": "Beberam o vinho, e deram louvores aos deuses de ouro, de prata, de bronze, de ferro, de madeira, e de pedra.",

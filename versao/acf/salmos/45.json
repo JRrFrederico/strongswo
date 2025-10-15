@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 45,
-    "titulos": {},
+    "titulos": {
+        "1": "O casamento profético do Ungido"
+    },
     "versiculos": {
-        "1": "O meu coração ferve com palavras boas, falo do que tenho feito no tocante ao Rei. A minha língua é a pena de um destro escritor.",
+        "1": "O MEU coração ferve com palavras boas, falo do que tenho feito no tocante ao Rei. A minha língua é a pena de um destro escritor.",
         "2": "Tu és mais formoso do que os filhos dos homens; a graça se derramou em teus lábios; por isso Deus te abençoou para sempre.",
         "3": "Cinge a tua espada à coxa, ó valente, com a tua glória e a tua majestade.",
         "4": "E neste teu esplendor cavalga prosperamente, por causa da verdade, da mansidão e da justiça; e a tua destra te ensinará coisas terríveis.",

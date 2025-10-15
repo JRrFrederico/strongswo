@@ -1,9 +1,13 @@
 {
     "livro": "Apocalipse",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Carta à igreja em Sardes",
+        "7": "Carta à igreja em Filadélfia",
+        "14": "Carta à igreja em Laodiceia"
+    },
     "versiculos": {
-        "1": "E ao anjo da igreja que está em Sardes escreve: Isto diz o que tem os sete espíritos de Deus, e as sete estrelas: Conheço as tuas obras, que tens nome de que vives, e estás morto.",
+        "1": "E AO anjo da igreja que está em Sardes escreve: Isto diz o que tem os sete espíritos de Deus, e as sete estrelas: Conheço as tuas obras, que tens nome de que vives, e estás morto.",
         "2": "Sê vigilante, e confirma os restantes, que estão para morrer; porque não achei as tuas obras perfeitas diante de Deus.",
         "3": "Lembra-te, pois, do que tens recebido e ouvido, e guarda-o, e arrepende-te. E, se não vigiares, virei sobre ti como um ladrão, e não saberás a que hora sobre ti virei.",
         "4": "Mas também tens em Sardes algumas poucas pessoas que não contaminaram suas vestes, e comigo andarão vestidas de branco; porquanto são dignas disso.",

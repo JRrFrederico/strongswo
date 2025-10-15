@@ -1,9 +1,13 @@
 {
     "livro": "Zacarias",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Julgamento dos inimigos de Israel",
+        "9": "Eis que é chegado o Rei de Sião!",
+        "14": "O aparecimento do SENHOR"
+    },
     "versiculos": {
-        "1": "O peso da palavra do Senhor contra a terra de Hadraque, e Damasco, o seu repouso; porque o olhar do homem, e de todas as tribos de Israel, se volta para o Senhor.",
+        "1": "O PESO da palavra do Senhor contra a terra de Hadraque, e Damasco, o seu repouso; porque o olhar do homem, e de todas as tribos de Israel, se volta para o Senhor.",
         "2": "E também Hamate que confina com ela, e Tiro e Sidom, ainda que sejam mais sábias.",
         "3": "E Tiro edificou para si fortalezas, e amontoou prata como o pó, e ouro fino como a lama das ruas.",
         "4": "Eis que o Senhor a despojará e ferirá no mar a sua força, e ela será consumida pelo fogo.",

@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "O tolo não ouve o próprio pai"
+    },
     "versiculos": {
-        "1": "O filho sábio atende à instrução do pai; mas o escarnecedor não ouve a repreensão.",
+        "1": "O FILHO sábio atende à instrução do pai; mas o escarnecedor não ouve a repreensão.",
         "2": "Do fruto da boca cada um comerá o bem, mas a alma dos prevaricadores comerá a violência.",
         "3": "O que guarda a sua boca conserva a sua alma, mas o que abre muito os seus lábios se destrói.",
         "4": "A alma do preguiçoso deseja, e coisa nenhuma alcança, mas a alma dos diligentes se farta.",

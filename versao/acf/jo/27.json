@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó afirma sua fé e caráter honestos"
+    },
     "versiculos": {
-        "1": "E prosseguindo Jó em seu discurso, disse:",
+        "1": "E PROSSEGUINDO Jó em seu discurso, disse:",
         "2": "Vive Deus, que desviou a minha causa, e o Todo-Poderoso, que amargurou a minha alma.",
         "3": "Que, enquanto em mim houver alento, e o sopro de Deus nas minhas narinas,",
         "4": "Não falarão os meus lábios iniquidade, nem a minha língua pronunciará engano.",

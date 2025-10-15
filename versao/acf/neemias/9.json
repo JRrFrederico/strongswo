@@ -1,9 +1,11 @@
 {
     "livro": "Neemias",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Confissão e pacto de perdão"
+    },
     "versiculos": {
-        "1": "E, no dia vinte e quatro deste mês, ajuntaram-se os filhos de Israel com jejum e com sacos, e traziam terra sobre si.",
+        "1": "E, NO dia vinte e quatro deste mês, ajuntaram-se os filhos de Israel com jejum e com sacos, e traziam terra sobre si.",
         "2": "E a descendência de Israel se apartou de todos os estrangeiros, e puseram-se em pé, e fizeram confissão pelos seus pecados e pelas iniquidades de seus pais.",
         "3": "E, levantando-se no seu lugar, leram no livro da lei do Senhor seu Deus uma quarta parte do dia; e na outra quarta parte fizeram confissão, e adoraram ao Senhor seu Deus.",
         "4": "E Jesuá, Bani, Cadmiel, Sebanias, Buni, Serebias, Bani e Quenani se puseram em pé no lugar alto dos levitas, e clamaram em alta voz ao Senhor seu Deus.",

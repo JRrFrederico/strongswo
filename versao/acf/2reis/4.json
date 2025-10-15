@@ -1,9 +1,14 @@
 {
     "livro": "2 Reis",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "A multiplicação do azeite",
+        "8": "O filho da sunamita revive",
+        "38": "A comida envenenada se torna sã",
+        "42": "A multiplicação dos pães"
+    },
     "versiculos": {
-        "1": "E uma mulher, das mulheres dos filhos dos profetas, clamou a Eliseu, dizendo: Meu marido, teu servo, morreu; e tu sabes que o teu servo temia ao Senhor; e veio o credor, para levar os meus dois filhos para serem servos.",
+        "1": "E UMA mulher, das mulheres dos filhos dos profetas, clamou a Eliseu, dizendo: Meu marido, teu servo, morreu; e tu sabes que o teu servo temia ao Senhor; e veio o credor, para levar os meus dois filhos para serem servos.",
         "2": "E Eliseu lhe disse: Que te hei de fazer? Dize-me que é o que tens em casa. E ela disse: Tua serva não tem nada em casa, senão uma botija de azeite.",
         "3": "Então disse ele: Vai, pede emprestadas, de todos os teus vizinhos, vasilhas vazias, não poucas.",
         "4": "Então entra, e fecha a porta sobre ti, e sobre teus filhos, e deita o azeite em todas aquelas vasilhas, e põe à parte a que estiver cheia.",

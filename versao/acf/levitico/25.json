@@ -1,9 +1,16 @@
 {
     "livro": "Levítico",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "O ano sabático",
+        "8": "O ano do jubileu, da libertação",
+        "18": "Deus garante o ano sabático",
+        "23": "Leis sobre as propriedades",
+        "35": "Resgate dos irmãos pobres",
+        "39": "Leis a favor dos escravos"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés no monte Sinai, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés no monte Sinai, dizendo:",
         "2": "Fala aos filhos de Israel, e dize-lhes: Quando tiverdes entrado na terra, que eu vos dou, então a terra descansará um sábado ao Senhor.",
         "3": "Seis anos semearás a tua terra, e seis anos podarás a tua vinha, e colherás os seus frutos;",
         "4": "Porém ao sétimo ano haverá sábado de descanso para a terra, um sábado ao Senhor; não semearás o teu campo nem podarás a tua vinha.",

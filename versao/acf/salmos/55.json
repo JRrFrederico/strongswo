@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 55,
-    "titulos": {},
+    "titulos": {
+        "1": "Súplica do perseguido"
+    },
     "versiculos": {
-        "1": "Inclina, ó Deus, os teus ouvidos à minha oração, e não te escondas da minha súplica.",
+        "1": "INCLINA, ó Deus, os teus ouvidos à minha oração, e não te escondas da minha súplica.",
         "2": "Atende-me, e ouve-me; lamento na minha queixa, e faço ruído,",
         "3": "Pelo clamor do inimigo e por causa da opressão do ímpio; pois lançam sobre mim a iniquidade, e com furor me odeiam.",
         "4": "O meu coração está dolorido dentro de mim, e terrores da morte caíram sobre mim.",

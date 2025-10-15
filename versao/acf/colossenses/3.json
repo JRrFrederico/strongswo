@@ -1,9 +1,12 @@
 {
     "livro": "Colossenses",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Vivendo plenamente em Cristo",
+        "18": "O cristão e seus relacionamentos"
+    },
     "versiculos": {
-        "1": "Portanto, se já ressuscitastes com Cristo, buscai as coisas que são de cima, onde Cristo está assentado à destra de Deus.",
+        "1": "PORTANTO, se já ressuscitastes com Cristo, buscai as coisas que são de cima, onde Cristo está assentado à destra de Deus.",
         "2": "Pensai nas coisas que são de cima, e não nas que são da terra;",
         "3": "Porque já estais mortos, e a vossa vida está escondida com Cristo em Deus.",
         "4": "Quando Cristo, que é a nossa vida, se manifestar, então também vós vos manifestareis com ele em glória.",

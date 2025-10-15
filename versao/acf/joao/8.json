@@ -1,9 +1,16 @@
 {
     "livro": "João",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Uma adúltera encontra a Luz",
+        "12": "Jesus defende seu testemunho",
+        "21": "Jesus anuncia a sua partida",
+        "31": "A verdade que liberta",
+        "37": "A semente de Abraão e de Satanás",
+        "48": "Antes de Abraão, Eu Sou"
+    },
     "versiculos": {
-        "1": "Jesus, porém, foi para o Monte das Oliveiras.",
+        "1": "JESUS, porém, foi para o Monte das Oliveiras.",
         "2": "E pela manhã cedo tornou para o templo, e todo o povo vinha ter com ele, e, assentando-se, os ensinava.",
         "3": "E os escribas e fariseus trouxeram-lhe uma mulher apanhada em adultério;",
         "4": "E, pondo-a no meio, disseram-lhe: Mestre, esta mulher foi apanhada, no próprio ato, adulterando.",

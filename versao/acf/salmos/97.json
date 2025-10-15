@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 97,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvor à soberania do Senhor"
+    },
     "versiculos": {
         "1": "O Senhor reina; regozije-se a terra; alegrem-se as muitas ilhas.",
         "2": "Nuvens e escuridão estão ao redor dele; justiça e juízo são a base do seu trono.",

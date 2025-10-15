@@ -2,18 +2,33 @@
     "livro": "Atos",
     "capitulo": 14,
     "titulos": {
-        "1": "Paulo e Barnabé em Icônio",
-        "8": "Paulo e Barnabé em Listra e Derbe",
-        "21": "Paulo e Barnabé voltam para Antioquia da Síria"
+        "1": "Abrão resgata Ló",
+        "17": "Melquisedeque abençoa Abrão"
     },
     "versiculos": {
-        "1": "Em Icônio, Paulo e Barnabé também foram à sinagoga judaica e falaram de tal modo que muitos creram, tanto judeus como gentios. Alguns dos judeus que não creram, porém, incitaram os gentios e envenenaram a mente deles contra Paulo e Barnabé. Ainda assim, os apóstolos passaram bastante tempo ali, falando corajosamente da graça do Senhor, que confirmava a mensagem deles concedendo-lhes poder para realizar sinais e maravilhas. Com isso, o povo da cidade ficou dividido: alguns tomaram partido dos judeus, e outros, dos apóstolos.",
-        "5": "Então um grupo de gentios, judeus e seus líderes resolveu atacá-los e apedrejá-los. Quando os apóstolos souberam disso, fugiram para a região da Licaônia, para as cidades de Listra e Derbe e seus arredores. E ali anunciaram as boas-novas.",
-        "8": "Enquanto estavam em Listra, Paulo e Barnabé encontraram um homem com os pés aleijados. Sofria desse problema desde o nascimento e, portanto, nunca tinha andado. Estava sentado e ouvia Paulo pregar. Paulo olhou diretamente para ele e, vendo que ele tinha fé para ser curado, disse em alta voz: \"Levante-se!\". O homem se levantou de um salto e começou a andar.",
-        "11": "A multidão, vendo o que Paulo havia feito, gritou no dialeto local: \"Os deuses vieram até nós em forma de homens!\". Concluíram que Barnabé era o deus grego Zeus, e Paulo, o deus Hermes, pois era ele quem proclamava a mensagem. O sacerdote do templo de Zeus, que ficava na entrada da cidade, trouxe touros e coroas de flores até as portas da cidade, pois ele e a multidão queriam oferecer sacrifícios aos apóstolos.",
-        "14": "Quando Barnabé e Paulo ouviram o que estava acontecendo, rasgaram as roupas e correram para o meio do povo, gritando: \"Amigos, por que vocês estão fazendo isso? Somos homens como vocês! Viemos lhes anunciar as boas-novas, para que abandonem estas coisas sem valor e se voltem para o Deus vivo, que fez os céus e a terra, o mar e tudo que neles há. No passado, ele permitiu que as nações seguissem seus próprios caminhos, mas nunca as deixou sem evidências de sua existência e de sua bondade. Ele lhes concede chuvas e boas colheitas, e também alimento e um coração alegre\". Apesar dessas palavras, Paulo e Barnabé tiveram dificuldade para impedir que o povo lhes oferecesse sacrifícios.",
-        "19": "Então alguns judeus chegaram de Antioquia e Icônio e instigaram a multidão. Apedrejaram Paulo e o arrastaram para fora da cidade, pensando que ele estivesse morto. No entanto, quando os discípulos o rodearam, ele se levantou e entrou novamente na cidade. No dia seguinte, partiu com Barnabé para Derbe.",
-        "21": "Depois de terem anunciado as boas-novas em Derbe e feito muitos discípulos, Paulo e Barnabé voltaram a Listra, Icônio e Antioquia da Pisídia, onde fortaleceram os discípulos. Eles os encorajaram a permanecer na fé, lembrando-os de que é necessário passar por muitos sofrimentos até entrar no reino de Deus. Paulo e Barnabé também escolheram presbíteros em cada igreja e, com orações e jejuns, os entregaram aos cuidados do Senhor, em quem haviam crido. Então viajaram de volta pela Pisídia até a Panfília. Pregaram a palavra em Perge e desceram para Atália.",
-        "26": "Por fim, voltaram de navio para Antioquia, onde sua viagem tinha começado e onde haviam sido entregues à graça de Deus para realizar o trabalho que agora completavam. Quando chegaram a Antioquia, reuniram a igreja e relataram tudo que Deus tinha feito por meio deles e como tinha aberto a porta da fé também para os gentios. E permaneceram ali com os discípulos por muito tempo."
+        "1": "Por esse tempo, houve guerra na região. Anrafel, rei da Babilônia, Arioque, rei de Elasar, Quedorlaomer, rei de Elão, e Tidal, rei de Goim,",
+        "2": "lutaram contra Bera, rei de Sodoma, Birsa, rei de Gomorra, Sinabe, rei de Admá, Semeber, rei de Zeboim, e contra o rei de Belá (também chamada Zoar).",
+        "3": "Esse segundo grupo de reis reuniu suas tropas no vale de Sidim (ou seja, no vale do mar Morto).",
+        "4": "Por doze anos, estiveram sob o domínio do rei Quedorlaomer, mas no décimo terceiro ano se rebelaram contra ele.",
+        "5": "Um ano depois, Quedorlaomer e seus aliados vieram e derrotaram os refains em Asterote-Carnaim, os zuzins em Hã, os emins em Savé-Quiriatim,",
+        "6": "e os horeus no monte Seir, até El-Parã, à beira do deserto.",
+        "7": "Em seguida, voltaram e foram a En-Mispate (hoje chamada Cades) e conquistaram o território dos amalequitas e dos amorreus que viviam em Hazazom-Tamar.",
+        "8": "Então os reis de Sodoma, Gomorra, Admá, Zeboim e Belá (também chamada Zoar) se prepararam para a batalha no vale do mar Morto.",
+        "9": "Lutaram contra Quedorlaomer, rei de Elão, Tidal, rei de Goim, Anrafel, rei da Babilônia, e Arioque, rei de Elasar, quatro reis contra cinco.",
+        "10": "Acontece que o vale do mar Morto era cheio de poços de betume. Quando o exército dos reis de Sodoma e Gomorra fugiu, alguns dos soldados caíram nos poços de betume, enquanto o restante escapou para as montanhas.",
+        "11": "Os invasores vitoriosos saquearam Sodoma e Gomorra e partiram para casa, levando consigo todos os espólios da guerra e os mantimentos.",
+        "12": "Também capturaram Ló, o sobrinho de Abrão que morava em Sodoma, e tudo que ele possuía.",
+        "13": "Um dos homens de Ló, porém, conseguiu escapar e contou tudo a Abrão, o hebreu, que morava junto ao bosque de carvalhos pertencente a Manre, o amorreu. Manre e seus parentes, Escol e Aner, eram aliados de Abrão.",
+        "14": "Quando Abrão soube que seu sobrinho Ló havia sido capturado, mobilizou os 318 homens treinados que tinham nascido em sua casa. Perseguiu o exército de Quedorlaomer até alcançá-los em Dã,",
+        "15": "onde dividiu os homens em grupos e atacou durante a noite. O exército de Quedorlaomer fugiu, mas Abrão o perseguiu até Hobá, ao norte de Damasco.",
+        "16": "Abrão recuperou todos os bens saqueados e trouxe de volta Ló, seu sobrinho, com todos os seus bens, as mulheres e os outros prisioneiros.",
+        "17": "Depois que Abrão regressou vitorioso do conflito com Quedorlaomer e todos os seus aliados, o rei de Sodoma saiu ao seu encontro no vale de Savé (conhecido como vale do Rei).",
+        "18": "Melquisedeque, rei de Salém e sacerdote do Deus Altíssimo, trouxe pão e vinho",
+        "19": "e abençoou Abrão, dizendo: “Bendito seja Abrão pelo Deus Altíssimo, Criador dos céus e da terra.",
+        "20": "E bendito seja o Deus Altíssimo, que derrotou seus inimigos por você”. Então Abrão entregou a Melquisedeque um décimo de todos os bens que havia recuperado.",
+        "21": "O rei de Sodoma disse a Abrão: “Devolva-me apenas as pessoas que foram capturadas. Fique com os bens que você recuperou”.",
+        "22": "Abrão respondeu ao rei de Sodoma: “Juro solenemente diante do Senhor, o Deus Altíssimo, Criador dos céus e da terra,",
+        "23": "que não ficarei com coisa alguma do que é seu, nem sequer um fio ou uma correia de sandália. Do contrário, o rei poderia dizer: ‘Fui eu que enriqueci Abrão’.",
+        "24": "Aceito apenas aquilo que meus jovens guerreiros comeram e peço que dê uma parte justa dos bens a Aner, Escol e Manre, meus aliados”."
     }
 }

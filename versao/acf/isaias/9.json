@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "O nascimento do príncipe da paz",
+        "8": "A ira de Deus contra Israel"
+    },
     "versiculos": {
-        "1": "Mas a terra, que foi angustiada, não será entenebrecida; envileceu nos primeiros tempos, a terra de Zebulom, e a terra de Naftali; mas nos últimos tempos a enobreceu junto ao caminho do mar, além do Jordão, na Galileia das nações.",
+        "1": "MAS a terra, que foi angustiada, não será entenebrecida; envileceu nos primeiros tempos, a terra de Zebulom, e a terra de Naftali; mas nos últimos tempos a enobreceu junto ao caminho do mar, além do Jordão, na Galileia das nações.",
         "2": "O povo que andava em trevas, viu uma grande luz, e sobre os que habitavam na região da sombra da morte resplandeceu a luz.",
         "3": "Tu multiplicaste a nação, a alegria lhe aumentaste; todos se alegrarão perante ti, como se alegram na ceifa, e como exultam quando se repartem os despojos.",
         "4": "Porque tu quebraste o jugo da sua carga, e o cajado do seu ombro, e a vara do seu opressor, como no dia dos midianitas.",

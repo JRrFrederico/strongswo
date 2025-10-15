@@ -1,9 +1,12 @@
 {
     "livro": "Ester",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "O ódio de Hamã contra os judeus",
+        "7": "O alvo de Hamã: aniquilar os judeus"
+    },
     "versiculos": {
-        "1": "Depois destas coisas o rei Assuero engrandeceu a Hamã, filho de Hamedata, agagita, e o exaltou, e pôs o seu assento acima de todos os príncipes que estavam com ele.",
+        "1": "DEPOIS destas coisas o rei Assuero engrandeceu a Hamã, filho de Hamedata, agagita, e o exaltou, e pôs o seu assento acima de todos os príncipes que estavam com ele.",
         "2": "E todos os servos do rei, que estavam à porta do rei, se inclinavam e se prostravam perante Hamã; porque assim tinha ordenado o rei acerca dele; porém Mardoqueu não se inclinava nem se prostrava.",
         "3": "Então os servos do rei, que estavam à porta do rei, disseram a Mardoqueu: Por que transgrides o mandado do rei?",
         "4": "Sucedeu, pois, que, dizendo-lhe eles isto, dia após dia, e não lhes dando ele ouvidos, o fizeram saber a Hamã, para verem se as palavras de Mardoqueu se sustentariam, porque ele lhes tinha declarado que era judeu.",

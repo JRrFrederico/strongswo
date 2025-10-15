@@ -1,9 +1,12 @@
 {
     "livro": "1 Reis",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "A profecia de Elias contra Acabe",
+        "8": "Os milagres em Sarepta"
+    },
     "versiculos": {
-        "1": "Então Elias, o tisbita, dos moradores de Gileade, disse a Acabe: Vive o Senhor Deus de Israel, perante cuja face estou, que nestes anos nem orvalho nem chuva haverá, senão segundo a minha palavra.",
+        "1": "ENTÃO Elias, o tisbita, dos moradores de Gileade, disse a Acabe: Vive o Senhor Deus de Israel, perante cuja face estou, que nestes anos nem orvalho nem chuva haverá, senão segundo a minha palavra.",
         "2": "Depois veio a ele a palavra do Senhor, dizendo:",
         "3": "Retira-te daqui, e vai para o oriente, e esconde-te junto ao ribeiro de Querite, que está diante do Jordão.",
         "4": "E há de ser que beberás do ribeiro; e eu tenho ordenado aos corvos que ali te sustentem.",

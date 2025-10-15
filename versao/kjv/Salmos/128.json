@@ -1,13 +1,15 @@
 {
     "livro": "Salmos",
     "capitulo": 128,
-    "titulos": {},
+    "titulos": {
+        "1": "Feliz o lar que ama a Deus"
+    },
     "versiculos": {
-        "1": "Canção gradual. Abençoado é todo aquele que teme ao SENHOR, que anda em seus caminhos.",
-        "2": "Pois comerás do trabalho das tuas mãos; feliz serás, e isso te será bem.",
-        "3": "A tua esposa será como uma videira frutífera pelos lados da tua casa; os teus filhos como plantas de oliveira ao redor da tua mesa.",
-        "4": "Eis que assim será abençoado o homem que teme ao SENHOR.",
-        "5": "O SENHOR te abençoará desde Sião, e tu verás o bem de Jerusalém em todos os dias da tua vida.",
-        "6": "Sim, tu verás os filhos de teus filhos, e a paz sobre Israel."
+        "1": "Bem-aventurado aquele que teme ao S ENHOR e busca andar em seus caminhos!",
+        "2": "Comerás do fruto do teu trabalho, serás feliz e próspero.",
+        "3": "Tua esposa será como videira frutífera em tua casa; teus filhos serão como brotos de oliveira ao redor de tua mesa.",
+        "4": "Eis como será abençoada a pessoa que teme o S ENHOR !",
+        "5": "Que o S ENHOR te abençoe desde Sião, para que contemples a prosperidade de Jerusalém todos os dias de tua vida.",
+        "6": "Que alcances a felicidade dos filhos de teus filhos, e vejas a paz sobre Israel!"
     }
 }

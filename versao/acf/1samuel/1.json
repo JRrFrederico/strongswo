@@ -1,9 +1,13 @@
 {
     "livro": "1 Samuel",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "O nascimento de Samuel",
+        "9": "A oração de Ana",
+        "19": "Nasce Samuel e é consagrado"
+    },
     "versiculos": {
-        "1": "Houve um homem de Ramataim-Zofim, da montanha de Efraim, cujo nome era Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, efrateu.",
+        "1": "HOUVE um homem de Ramataim-Zofim, da montanha de Efraim, cujo nome era Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, efrateu.",
         "2": "E este tinha duas mulheres: o nome de uma era Ana, e o da outra Penina. E Penina tinha filhos, porém Ana não os tinha.",
         "3": "Subia, pois, este homem, da sua cidade, de ano em ano, a adorar e a sacrificar ao Senhor dos Exércitos em Siló; e estavam ali os sacerdotes do Senhor, Hofni e Fineias, os dois filhos de Eli.",
         "4": "E sucedeu que no dia em que Elcana sacrificava, dava ele porções a Penina, sua mulher, e a todos os seus filhos, e a todas as suas filhas.",

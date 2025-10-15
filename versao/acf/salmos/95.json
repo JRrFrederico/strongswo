@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 95,
-    "titulos": {},
+    "titulos": {
+        "1": "Convite a cantar louvores a Deus"
+    },
     "versiculos": {
-        "1": "Vinde, cantemos ao Senhor; jubilemos à rocha da nossa salvação.",
+        "1": "VINDE, cantemos ao Senhor; jubilemos à rocha da nossa salvação.",
         "2": "Apresentemo-nos ante a sua face com louvores, e celebremo-lo com salmos.",
         "3": "Porque o Senhor é Deus grande, e Rei grande sobre todos os deuses.",
         "4": "Nas suas mãos estão as profundezas da terra, e as alturas dos montes são suas.",

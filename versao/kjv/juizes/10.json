@@ -1,25 +1,29 @@
 {
     "livro": "Juízes",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Tolá",
+        "3": "Jair",
+        "6": "Juízo e compaixão de Deus"
+    },
     "versiculos": {
-        "1": "E, depois de Abimeleque, levantou-se, Tola, filho de Puá, o filho de Dodô, um homem de Issacar, para defender Israel; e ele habitou em Samir, no monte Efraim.",
-        "2": "E ele julgou Israel por vinte e três anos, e morreu, e foi sepultado em Samir.",
-        "3": "E depois dele, levantou-se Jair, um gileadita, e julgou Israel por vinte e dois anos.",
-        "4": "E ele teve trinta filhos que montavam trinta jumentos potros, e tinham trinta cidades, que são chamadas Havote-Jair até este dia, as quais estão na terra de Gileade.",
-        "5": "E Jair morreu, e foi sepultado em Camom.",
-        "6": "E os filhos de Israel voltaram a fazer o mal diante dos olhos do SENHOR, e serviram Baalim, e Astarote, e os deuses da Síria, e os deuses de Sidom, e os deuses de Moabe, e os deuses dos filhos de Amom, e os deuses dos filisteus, e abandonaram o SENHOR, e não o serviram.",
-        "7": "E a ira do SENHOR se acendeu contra Israel, e ele os vendeu às mãos dos filisteus, e às mãos dos filhos de Amom.",
-        "8": "E naquele ano eles atormentaram e oprimiram os filhos de Israel; dezoito anos oprimiram a todos os filhos de Israel que estavam além do Jordão, na terra dos amorreus, que está em Gileade.",
-        "9": "Além disso, os filhos de Amom atravessaram o Jordão para lutar também contra Judá, e contra Benjamim, e contra a casa de Efraim; de modo que Israel ficou sobremaneira aflito.",
-        "10": "E os filhos de Israel clamaram ao SENHOR, dizendo: Contra ti pecamos, porque abandonamos o nosso Deus, e também servimos a Baalim.",
-        "11": "E o SENHOR disse aos filhos de Israel: Não vos libertei dos egípcios, e dos amorreus, dos filhos de Amom, e dos filisteus?",
-        "12": "Os sidônios, e os amalequitas e os maonitas também vos oprimiram; e vós clamastes a mim, e eu vos libertei da sua mão.",
-        "13": "Contudo, vós me abandonastes, e servistes a outros deuses; pelo que eu não mais vos libertarei.",
-        "14": "Ide e clamai aos deuses que vós escolhestes; que eles vos libertem no tempo da vossa tribulação.",
-        "15": "E os filhos de Israel disseram ao SENHOR: Pecamos; faz conosco o que te parecer bom; porém nos liberta, rogamos-te, neste dia.",
-        "16": "E eles puseram de lado os deuses estranhos que tinham entre eles, e serviram ao SENHOR; e a sua alma ficou consternada com a desgraça de Israel.",
-        "17": "Então os filhos de Amom se reuniram, e acamparam em Gileade. E os filhos de Israel se ajuntaram todos, e acamparam em Mispá.",
-        "18": "E o povo e os príncipes de Gileade disseram uns aos outros: Que homem é aquele que começará a lutar contra os filhos de Amom? Ele será o cabeça sobre todos os habitantes de Gileade."
+        "1": "Passado o tempo de Abimeleque, um homem de Issacar chamado Tolá ben Puá , neto de Dodô, levantou-se para libertar o povo de Israel. Ele habitava em Samir, nos montes de Efraim.",
+        "2": "Comandou a nação de Israel durante vinte e três anos, então morreu e foi sepultado em Samir.",
+        "3": "Depois dele, levantou-se Jair, de Gileade, que julgou Israel vinte e dois anos.",
+        "4": "Tinha ele trinta filhos, que montavam trinta jumentos e possuíam trinta cidades, chamada até nossos dias de Havot Iair , Povoados de Jair e se situam nas terras de Guilad , Gileade.",
+        "5": "Quando Jair morreu foi sepultado em Camom.",
+        "6": "Contudo, recomeçaram os filhos de Israel a praticar o que era mau perante os olhos do S ENHOR . Serviram aos baalins, prestaram culto às imagens de Astarote, aos deuses de Arã, aos deuses de Sidom, aos deuses de Moabe, aos deuses dos amonitas e aos deuses dos filisteus. E assim, como Israel se prostituiu espiritualmente, abandonando o S ENHOR , e não mais lhe prestaram o devido louvor e adoração,",
+        "7": "a ira do S ENHOR se acendeu contra os israelitas. E, por isso, Ele os entregou nas mãos dos filisteus e dos amonitas,",
+        "8": "que naquele ano os venceram e humilharam. Durante dezoito anos oprimiram impiedosamente todos os filhos de Israel do lado leste do Jordão, em Gileade, terra dos amorreus.",
+        "9": "Os amonitas, de igual modo, atravessaram o Jordão para guerrear contra Judá, Benjamim, e contra a tribo de Efraim; e a mais terrível angústia assolou o povo de Israel.",
+        "10": "Então os israelitas clamaram a Yahweh confessando: “Temos pecado contra ti, porque abandonamos o culto ao S ENHOR nosso Deus a fim de servir aos baalins!”",
+        "11": "Então Yahweh os questionou: “Quando os egípcios e os amorreus, os amonitas e os filisteus,",
+        "12": "quando os sidônios, os amalequitas e os maonitas vos escravizaram, e vós clamastes por mim, não vos salvei prontamente das mãos destes inimigos?",
+        "13": "Apesar de tudo vós me abandonastes para cultuares a outros deuses. Por isso não os livrarei mais!",
+        "14": "Ide! Rogai aos deuses que escolhestes para adorar! Eles que vos salvem, no tempo da vossa aflição!”",
+        "15": "Então os filhos de Israel responderam a Yahweh : “Ó S ENHOR , de fato, nós pecamos contra ti! Trata-nos, pois, como melhor te parecer, mas somente te suplicamos que nos libertes neste dia terrível!”",
+        "16": "Em seguida eles destruíram os objetos sagrados e imagens que haviam confeccionado em adoração aos deuses pagãos e prestaram culto ao S ENHOR . Então Yahweh teve profunda compaixão deles e não suportou mais o sofrimento do seu povo.",
+        "17": "E aconteceu que o exército dos amonitas foi convocado e acampou em Gileade. Então os filhos de Israel reuniram-se e acamparam em Mispá.",
+        "18": "E os líderes do povo de Gileade combinaram uns com os outros: “Aquele que iniciar o ataque contra os amonitas esse será o chefe de todos os habitantes de Gileade!”"
     }
 }

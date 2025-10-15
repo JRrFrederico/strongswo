@@ -1,9 +1,11 @@
 {
     "livro": "Zacarias",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Quinta visão: O candelabro"
+    },
     "versiculos": {
-        "1": "E o anjo que falava comigo voltou, e despertou-me, como a um homem que é despertado do seu sono,",
+        "1": "E O ANJO que falava comigo voltou, e despertou-me, como a um homem que é despertado do seu sono,",
         "2": "E disse-me: Que vês? E eu disse: Olho, e eis que vejo um castiçal todo de ouro, e um vaso de azeite no seu topo, com as suas sete lâmpadas; e sete canudos, um para cada uma das lâmpadas que estão no seu topo.",
         "3": "E, por cima dele, duas oliveiras, uma à direita do vaso de azeite, e outra à sua esquerda.",
         "4": "E respondi, dizendo ao anjo que falava comigo: Senhor meu, que é isto?",

@@ -1,9 +1,12 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus disciplina seus filhos",
+        "10": "Advertência contra a ingratidão"
+    },
     "versiculos": {
-        "1": "Todos os mandamentos que hoje vos ordeno guardareis para os cumprir; para que vivais, e vos multipliqueis, e entreis, e possuais a terra que o Senhor jurou a vossos pais.",
+        "1": "TODOS os mandamentos que hoje vos ordeno guardareis para os cumprir; para que vivais, e vos multipliqueis, e entreis, e possuais a terra que o Senhor jurou a vossos pais.",
         "2": "E te lembrarás de todo o caminho, pelo qual o Senhor teu Deus te guiou no deserto estes quarenta anos, para te humilhar, e te provar, para saber o que estava no teu coração, se guardarias os seus mandamentos, ou não.",
         "3": "E te humilhou, e te deixou ter fome, e te sustentou com o maná, que tu não conheceste, nem teus pais o conheceram; para te dar a entender que o homem não viverá só de pão, mas de tudo o que sai da boca do Senhor viverá o homem.",
         "4": "Nunca se envelheceu a tua roupa sobre ti, nem se inchou o teu pé nestes quarenta anos.",

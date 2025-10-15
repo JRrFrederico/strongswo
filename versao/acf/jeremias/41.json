@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 41,
-    "titulos": {},
+    "titulos": {
+        "1": "A morte de Gedalias",
+        "16": "O êxodo para o Egito"
+    },
     "versiculos": {
-        "1": "Sucedeu, porém, no mês sétimo, que veio Ismael, filho de Netanias, filho de Elisama, da descendência real, e com ele dez homens, príncipes do rei, a Gedalias, filho de Aicão, a Mizpá; e comeram pão juntos ali em Mizpá.",
+        "1": "SUCEDEU, porém, no mês sétimo, que veio Ismael, filho de Netanias, filho de Elisama, da descendência real, e com ele dez homens, príncipes do rei, a Gedalias, filho de Aicão, a Mizpá; e comeram pão juntos ali em Mizpá.",
         "2": "E levantou-se Ismael, filho de Netanias, com os dez homens que estavam com ele, e feriram à espada a Gedalias, filho de Aicão, filho de Safã, matando assim aquele que o rei de Babilônia havia posto por governador sobre a terra.",
         "3": "Também matou Ismael a todos os judeus que com ele, com Gedalias, estavam em Mizpá, como também aos caldeus, homens de guerra, que se achavam ali.",
         "4": "Sucedeu, pois, no dia seguinte, depois que ele matara a Gedalias, sem ninguém o saber,",

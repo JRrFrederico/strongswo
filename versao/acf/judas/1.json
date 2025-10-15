@@ -1,9 +1,15 @@
 {
     "livro": "Judas",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "3": "Devemos batalhar pela fé cristã",
+        "5": "A punição eterna dos ímpios",
+        "17": "Exortação à perseverança da fé",
+        "24": "Glória a Deus por sua proteção"
+    },
     "versiculos": {
-        "1": "Judas, servo de Jesus Cristo, e irmão de Tiago, aos chamados, santificados em Deus Pai, e conservados em Jesus Cristo:",
+        "1": "JUDAS, servo de Jesus Cristo, e irmão de Tiago, aos chamados, santificados em Deus Pai, e conservados em Jesus Cristo:",
         "2": "Misericórdia, e paz, e amor vos sejam multiplicados.",
         "3": "Amados, procurando eu escrever-vos com toda a diligência acerca da salvação comum, tive por necessidade escrever-vos, e exortar-vos a batalhar pela fé que uma vez foi entregue aos santos.",
         "4": "Porque se introduziram furtivamente alguns, os quais já antes estavam escritos para este mesmo juízo, homens ímpios, que convertem em dissolução a graça de Deus, e negam a Deus, único dominador e Senhor nosso, Jesus Cristo.",

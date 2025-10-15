@@ -1,9 +1,12 @@
 {
     "livro": "Juízes",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Conflitos e morte de Jefté",
+        "8": "Ibsã, Elom e Abdom"
+    },
     "versiculos": {
-        "1": "Então se convocaram os homens de Efraim, e passaram para o norte, e disseram a Jefté: Por que passaste a combater contra os filhos de Amom, e não nos chamaste para ir contigo? Queimaremos a fogo a tua casa contigo.",
+        "1": "ENTÃO se convocaram os homens de Efraim, e passaram para o norte, e disseram a Jefté: Por que passaste a combater contra os filhos de Amom, e não nos chamaste para ir contigo? Queimaremos a fogo a tua casa contigo.",
         "2": "E Jefté lhes disse: Eu e o meu povo tivemos grande contenda com os filhos de Amom; e chamei-vos, e não me livrastes da sua mão;",
         "3": "E, vendo eu que não me livráveis, arrisquei a minha vida, e passei contra os filhos de Amom, e o Senhor mos entregou nas mãos; por que, pois, subistes vós hoje, para combater contra mim?",
         "4": "E ajuntou Jefté a todos os homens de Gileade, e combateu contra Efraim; e os homens de Gileade feriram a Efraim; porque este dissera-lhe: Fugitivos sois de Efraim, vós gileaditas que habitais no meio de Efraim e Manassés,",

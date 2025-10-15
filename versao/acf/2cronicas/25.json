@@ -1,9 +1,11 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "O reinado de Amazias"
+    },
     "versiculos": {
-        "1": "Era Amazias da idade de vinte e cinco anos, quando começou a reinar, e reinou vinte e nove anos em Jerusalém; e era o nome de sua mãe Joadã, de Jerusalém.",
+        "1": "ERA Amazias da idade de vinte e cinco anos, quando começou a reinar, e reinou vinte e nove anos em Jerusalém; e era o nome de sua mãe Joadã, de Jerusalém.",
         "2": "E fez o que era reto aos olhos do Senhor, porém não com inteireza de coração.",
         "3": "Sucedeu que, sendo-lhe o reino já confirmado, matou a seus servos que mataram o rei seu pai;",
         "4": "Porém não matou os filhos deles; mas fez segundo está escrito na lei, no livro de Moisés, como o Senhor ordenou, dizendo: Não morrerão os pais pelos filhos, nem os filhos pelos pais; mas cada um morrerá pelo seu pecado.",

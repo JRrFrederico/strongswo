@@ -1,12 +1,14 @@
 {
     "livro": "Salmos",
     "capitulo": 125,
-    "titulos": {},
+    "titulos": {
+        "1": "A verdadeira fé é indestrutível"
+    },
     "versiculos": {
-        "1": "Canção gradual. Aqueles que confiam no SENHOR serão como o monte de Sião, que não pode ser abalado, mas permanece para sempre.",
-        "2": "Como os montes estão ao redor de Jerusalém, assim o SENHOR está ao redor do seu povo daqui em diante e para sempre.",
-        "3": "Pois a vara dos perversos não descansará sobre a sorte dos justos, para que os justos não estendam as suas mãos para a iniquidade.",
-        "4": "Faze o bem, ó SENHOR, àqueles que forem bons, e àqueles que são retos em seus corações.",
-        "5": "Quanto àqueles que se desviam para os seus caminhos tortos, o SENHOR os levará com os trabalhadores da iniquidade, mas a paz estará sobre Israel."
+        "1": "Todos aqueles que depositam absoluta fé no Eterno são inabaláveis como o monte Sião.",
+        "2": "Assim como um colar de montanhas que cerca Jerusalém, a proteção do S ENHOR envolve seu povo eternamente.",
+        "3": "O cetro dos ímpios não prevalecerá sobre a terra concedida aos justos; se assim fosse, até mesmo os justos se entregariam à prática da impiedade.",
+        "4": "Sê misericordioso, S ENHOR , com os bons, com todas as pessoas de coração íntegro!",
+        "5": "Mas aos que se desviam por caminhos inescrupulosos, que o S ENHOR os expulse da sua presença juntamente com todos os ímpios. E que haja paz sobre Israel!"
     }
 }

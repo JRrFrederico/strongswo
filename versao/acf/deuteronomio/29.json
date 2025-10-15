@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 29,
-    "titulos": {},
+    "titulos": {
+        "1": "O terceiro discurso de Moisés:",
+        "9": "Os termos de renovação da Aliança",
+        "22": "Perspectivas quanto ao exílio"
+    },
     "versiculos": {
-        "1": "Estas são as palavras da aliança que o Senhor ordenou a Moisés que fizesse com os filhos de Israel, na terra de Moabe, além da aliança que fizera com eles em Horebe.",
+        "1": "ESTAS são as palavras da aliança que o Senhor ordenou a Moisés que fizesse com os filhos de Israel, na terra de Moabe, além da aliança que fizera com eles em Horebe.",
         "2": "E chamou Moisés a todo o Israel, e disse-lhes: Tendes visto tudo quanto o Senhor fez perante vossos olhos, na terra do Egito, a Faraó, e a todos os seus servos, e a toda a sua terra;",
         "3": "As grandes provas que os teus olhos têm visto, aqueles sinais e grandes maravilhas;",
         "4": "Porém não vos tem dado o Senhor um coração para entender, nem olhos para ver, nem ouvidos para ouvir, até ao dia de hoje.",

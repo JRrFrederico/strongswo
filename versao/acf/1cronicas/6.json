@@ -1,9 +1,14 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "A descendência de Levi",
+        "31": "Os levitas adoradores e músicos",
+        "49": "A descendência de Arão",
+        "54": "Os territórios dos levitas"
+    },
     "versiculos": {
-        "1": "Os filhos de Levi foram: Gérson, Coate e Merari,",
+        "1": "OS filhos de Levi foram: Gérson, Coate e Merari,",
         "2": "E os filhos de Coate: Anrão, e Izar, e Hebrom, e Uziel.",
         "3": "E os filhos de Anrão: Arão, Moisés, e Miriã; e os filhos de Arão: Nadabe, Abiú, Eleazar, e Itamar.",
         "4": "E Eleazar gerou a Fineias, e Fineias gerou a Abisua,",

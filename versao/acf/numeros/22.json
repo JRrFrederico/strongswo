@@ -1,9 +1,13 @@
 {
     "livro": "Números",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "Balaque envia emissários a Balaão",
+        "22": "Balaão, sua jumenta e o Anjo",
+        "36": "Balaque reencontra-se com Balaão"
+    },
     "versiculos": {
-        "1": "Depois partiram os filhos de Israel, e acamparam-se nas campinas de Moabe, além do Jordão na altura de Jericó.",
+        "1": "DEPOIS partiram os filhos de Israel, e acamparam-se nas campinas de Moabe, além do Jordão na altura de Jericó.",
         "2": "Vendo, pois, Balaque, filho de Zipor, tudo o que Israel fizera aos amorreus,",
         "3": "Moabe temeu muito diante deste povo, porque era numeroso; e Moabe andava angustiado por causa dos filhos de Israel.",
         "4": "Por isso Moabe disse aos anciãos dos midianitas: Agora lamberá esta congregação tudo quanto houver ao redor de nós, como o boi lambe a erva do campo. Naquele tempo Balaque, filho de Zipor, era rei dos moabitas.",

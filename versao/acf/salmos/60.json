@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 60,
-    "titulos": {},
+    "titulos": {
+        "1": "Uma oração em tempos de guerra"
+    },
     "versiculos": {
-        "1": "Ó Deus, tu nos rejeitaste, tu nos espalhaste, tu te indignaste; oh, volta-te para nós.",
+        "1": "Ó DEUS, tu nos rejeitaste, tu nos espalhaste, tu te indignaste; oh, volta-te para nós.",
         "2": "Abalaste a terra, e a fendeste; sara as suas fendas, pois ela treme.",
         "3": "Fizeste ver ao teu povo coisas árduas; fizeste-nos beber o vinho do atordoamento.",
         "4": "Deste um estandarte aos que te temem, para o arvorarem no alto, por causa da verdade. (Selá.)",

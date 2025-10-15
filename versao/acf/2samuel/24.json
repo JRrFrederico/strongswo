@@ -1,9 +1,13 @@
 {
     "livro": "2 Samuel",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "O censo do povo e o castigo",
+        "10": "A peste e o perdão divino",
+        "18": "Davi ergue um altar ao SENHOR"
+    },
     "versiculos": {
-        "1": "E a ira do Senhor se tornou a acender contra Israel; e incitou a Davi contra eles, dizendo: Vai, numera a Israel e a Judá.",
+        "1": "E A IRA do Senhor se tornou a acender contra Israel; e incitou a Davi contra eles, dizendo: Vai, numera a Israel e a Judá.",
         "2": "Disse, pois, o rei a Joabe, capitão do exército, o qual tinha consigo: Agora percorre todas as tribos de Israel, desde Dã até Berseba, e numera o povo, para que eu saiba o número do povo.",
         "3": "Então disse Joabe ao rei: Ora, multiplique o Senhor teu Deus a este povo cem vezes tanto quanto agora é, e os olhos do rei meu senhor o vejam; mas, por que deseja o rei meu senhor este negócio?",
         "4": "Porém a palavra do rei prevaleceu contra Joabe, e contra os capitães do exército; Joabe, pois, saiu com os capitães do exército da presença do rei, para numerar o povo de Israel.",

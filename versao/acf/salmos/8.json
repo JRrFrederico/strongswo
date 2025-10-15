@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "A glória do Criador"
+    },
     "versiculos": {
         "1": "Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra, pois puseste a tua glória sobre os céus!",
         "2": "Tu ordenaste força da boca das crianças e dos que mamam, por causa dos teus inimigos, para fazer calar ao inimigo e ao vingador.",

@@ -1,9 +1,15 @@
 {
     "livro": "Lucas",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus Cristo ressuscitou!",
+        "13": "Jesus surge no caminho de Emaús",
+        "36": "Jesus aparece aos discípulos",
+        "44": "Jesus esclarece as Escrituras",
+        "50": "Jesus é elevado ao céu"
+    },
     "versiculos": {
-        "1": "E no primeiro dia da semana, muito de madrugada, foram elas ao sepulcro, levando as especiarias que tinham preparado, e algumas outras com elas.",
+        "1": "E NO primeiro dia da semana, muito de madrugada, foram elas ao sepulcro, levando as especiarias que tinham preparado, e algumas outras com elas.",
         "2": "E acharam a pedra revolvida do sepulcro.",
         "3": "E, entrando, não acharam o corpo do Senhor Jesus.",
         "4": "E aconteceu que, estando elas muito perplexas a esse respeito, eis que pararam junto delas dois homens, com vestes resplandecentes.",

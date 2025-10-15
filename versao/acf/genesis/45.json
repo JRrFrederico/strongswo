@@ -1,9 +1,13 @@
 {
     "livro": "Gênesis",
     "capitulo": 45,
-    "titulos": {},
+    "titulos": {
+        "1": "José se revela a seus irmãos",
+        "16": "O convite do Faraó",
+        "21": "Os irmãos de José voltam a Canaã"
+    },
     "versiculos": {
-        "1": "Então José não se podia conter diante de todos os que estavam com ele; e clamou: Fazei sair daqui a todo o homem; e ninguém ficou com ele, quando José se deu a conhecer a seus irmãos.",
+        "1": "ENTÃO José não se podia conter diante de todos os que estavam com ele; e clamou: Fazei sair daqui a todo o homem; e ninguém ficou com ele, quando José se deu a conhecer a seus irmãos.",
         "2": "E levantou a sua voz com choro, de maneira que os egípcios o ouviam, e a casa de Faraó o ouviu.",
         "3": "E disse José a seus irmãos: Eu sou José; vive ainda meu pai? E seus irmãos não lhe puderam responder, porque estavam pasmados diante da sua face.",
         "4": "E disse José a seus irmãos: Peço-vos, chegai-vos a mim. E chegaram-se; então disse ele: Eu sou José vosso irmão, a quem vendestes para o Egito.",

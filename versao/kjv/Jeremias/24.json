@@ -1,17 +1,19 @@
 {
     "livro": "Jeremias",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "A visão dos dois cestos de figos"
+    },
     "versiculos": {
-        "1": "O SENHOR me mostrou, e, eis que dois cestos de figos foram colocados perante o templo do SENHOR, depois que Nabucodonosor, rei de Babilônia, levou cativo Jeconias, o filho de Jeoiaquim, rei de Judá, e os príncipes de Judá, com os carpinteiros e ferreiros, de Jerusalém, e os levou para Babilônia.",
-        "2": "Um cesto tinha figos muito bons, como os figos que são da primeira maturação, e o outro cesto tinha figos muito ruins, os quais não podiam ser comidos, pois eram muito ruins.",
-        "3": "Então disse-me o SENHOR: O que vês tu, Jeremias? E eu disse: Figos; os bons figos, muito bons, e os ruins, muito ruins, que não podem ser comidos, pois são muito ruins.",
-        "4": "Novamente a palavra do SENHOR veio a mim, dizendo:",
-        "5": "Assim diz o SENHOR, o Deus de Israel: Como a estes bons figos, assim eu reconhecerei aqueles que foram levados cativos de Judá, e que eu enviei deste lugar, para a terra dos caldeus, para o seu bem.",
-        "6": "Porque eu colocarei meus olhos sobre eles para o bem, e eu os trarei novamente para esta terra. E eu os edificarei, e não os destruirei; e eu os plantarei, e não os removerei completamente.",
-        "7": "E eu lhes darei um coração para que me conheçam, que eu sou o SENHOR. E eles serão o meu povo, e eu serei o seu Deus, porque eles retornarão a mim de todo coração.",
-        "8": "E como os figos ruins, que não podem ser comidos, pois são muito ruins, certamente assim diz o SENHOR: Deste modo entregarei Zedequias, rei de Judá, e seus príncipes, e o restante de Jerusalém, que restarem nesta terra, e aqueles que habitarem na terra do Egito.",
-        "9": "E eu os entregarei para serem removidos para todos os reinos da terra, para que sofram, e sejam uma desonra, e um provérbio, um insulto, e uma maldição em todos os lugares para onde eu os levarei.",
-        "10": "E eu enviarei entre eles a espada, a fome e a peste, até que sejam consumidos de sobre a terra que eu lhes dei, e a seus pais."
+        "1": "Então Yahweh mostrou-me dois cestos de figos colocados diante do Templo do S ENHOR . Isso ocorreu depois que Nabucodonosor levou de Jerusalém, para o exílio na Babilônia , Iehoniáhu ben Iehoiankim , Jeconias filho de Jeoaquim, rei de Judá, os líderes de Judá, e os artesãos e artífices.",
+        "2": "Um dos cestos continha figos muito bons, como os que amadurecem logo no princípio da colheita; os figos do outro cesto eram ruins, amargosos e intoleráveis ao paladar.",
+        "3": "Então Yahweh me indagou: “Que vês, Jeremias?” E eu respondi: Figos. Os bons são muito bons, mas os ruins são insuportáveis.",
+        "4": "Então o S ENHOR dirigiu a mim a sua Palavra e me revelou:",
+        "5": "“Assim diz Yahweh , o Deus de Israel: Considero como esses bons figos os deportados de Judá, os quais expulsei deste lugar para a terra dos caldeus, os babilônios, a fim de prover-lhes o que é bom.",
+        "6": "Fixarei meus olhos sobre eles, para o seu bem, e os trarei de volta a esta terra. E os edificarei, e não os demolirei; plantarei e não os arrancarei mais.",
+        "7": "Eu lhes darei um coração capaz de conhecer-me e de compreender que Eu Sou Yahweh , o S ENHOR . Serão o meu povo e Eu serei o seu Deus, pois eles se voltarão para mim de todo o coração.",
+        "8": "Todavia, como se procede com os figos ruins e intragáveis”, diz Yahweh , “do mesmo modo tratarei com Zedequias, rei de Judá, com os seus príncipes e líderes, e com os sobreviventes de Jerusalém, tanto os que permanecem nessa terra como os que vivem no Egito.",
+        "9": "Eu os tornarei alvo de terror e de desgraça diante de todos os reinos da terra. Para todos os lugares para onde Eu os banir eles se tornarão um exemplo de grande humilhação; objeto de ridículo, vergonha e maldição.",
+        "10": "Enviarei contra eles a guerra, a fome e as doenças epidêmicas até que sejam exterminados da terra que dei a eles e aos seus antepassados!”"
     }
 }

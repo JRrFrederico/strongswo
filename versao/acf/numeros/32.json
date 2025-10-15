@@ -1,9 +1,11 @@
 {
     "livro": "Números",
     "capitulo": 32,
-    "titulos": {},
+    "titulos": {
+        "1": "As tribos na Transjordânia"
+    },
     "versiculos": {
-        "1": "E os filhos de Rúben e os filhos de Gade tinham gado em grande quantidade; e viram a terra de Jazer, e a terra de Gileade, e eis que o lugar era lugar de gado.",
+        "1": "E OS filhos de Rúben e os filhos de Gade tinham gado em grande quantidade; e viram a terra de Jazer, e a terra de Gileade, e eis que o lugar era lugar de gado.",
         "2": "Vieram, pois, os filhos de Gade, e os filhos de Rúben e falaram a Moisés e a Eleazar, o sacerdote, e aos chefes da congregação, dizendo:",
         "3": "Atarote, e Dibom, e Jazer, e Ninra, e Hesbom, e Eleale, e Sebã, e Nebo, e Beom,",
         "4": "A terra que o Senhor feriu diante da congregação de Israel, é terra para gado, e os teus servos têm gado.",

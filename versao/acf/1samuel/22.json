@@ -1,9 +1,13 @@
 {
     "livro": "1 Samuel",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi esconde-se em Adulão e Mispá",
+        "6": "Saul manda matar os sacerdotes",
+        "20": "Davi assume a culpa das mortes"
+    },
     "versiculos": {
-        "1": "Então Davi se retirou dali, e escapou para a caverna de Adulão; e ouviram-no seus irmãos e toda a casa de seu pai, e desceram ali para ter com ele.",
+        "1": "ENTÃO Davi se retirou dali, e escapou para a caverna de Adulão; e ouviram-no seus irmãos e toda a casa de seu pai, e desceram ali para ter com ele.",
         "2": "E ajuntou-se a ele todo o homem que se achava em aperto, e todo o homem endividado, e todo o homem de espírito desgostoso, e ele se fez capitão deles; e eram com ele uns quatrocentos homens.",
         "3": "E foi Davi dali a Mizpá dos moabitas, e disse ao rei dos moabitas: Deixa estar meu pai e minha mãe convosco, até que saiba o que Deus há de fazer de mim.",
         "4": "E trouxe-os perante o rei dos moabitas, e ficaram com ele todos os dias que Davi esteve no lugar forte.",

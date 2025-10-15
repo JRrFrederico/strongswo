@@ -1,9 +1,17 @@
 {
     "livro": "Lucas",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "A oferta da viúva pobre",
+        "5": "A queda do templo é profetizada",
+        "7": "Jesus revela os sinais do fim",
+        "20": "A destruição de Jerusalém",
+        "25": "O glorioso retorno de Jesus",
+        "29": "A parábola da figueira",
+        "34": "Devemos viver vigilantes"
+    },
     "versiculos": {
-        "1": "E, olhando ele, viu os ricos lançarem as suas ofertas na arca do tesouro;",
+        "1": "E, OLHANDO ele, viu os ricos lançarem as suas ofertas na arca do tesouro;",
         "2": "E viu também uma pobre viúva lançar ali duas pequenas moedas;",
         "3": "E disse: Em verdade vos digo que lançou mais do que todos, esta pobre viúva;",
         "4": "Porque todos aqueles deitaram para as ofertas de Deus do que lhes sobeja; mas esta, da sua pobreza, deitou todo o sustento que tinha.",

@@ -1,16 +1,24 @@
 {
     "livro": "Marcos",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Casamento e Separação",
+        "13": "Jesus abençoa as crianças",
+        "17": "O homem que deseja possuir tudo",
+        "23": "Com Deus tudo é possível",
+        "32": "Jesus outra vez prediz sua Paixão",
+        "35": "No Reino o servo é o mais poderoso",
+        "46": "A cura do cego Bartimeu"
+    },
     "versiculos": {
-        "1": "E, levantando-se dali, foi para os termos da Judeia, além do Jordão, e a multidão outra vez se reuniu em torno dele; e tornou a ensiná-los, como tinha por costume.",
+        "1": "E, LEVANTANDO-SE dali, foi para os termos da Judeia, além do Jordão, e a multidão outra vez se reuniu em torno dele; e tornou a ensiná-los, como tinha por costume.",
         "2": "E, aproximando-se dele os fariseus, perguntaram-lhe, tentando-o: É lícito ao homem repudiar sua mulher?",
         "3": "Mas ele, respondendo, disse-lhes: Que vos mandou Moisés?",
         "4": "E eles disseram: Moisés permitiu escrever carta de divórcio e repudiar.",
         "5": "E Jesus, respondendo, disse-lhes: Pela dureza dos vossos corações vos deixou ele escrito esse mandamento;",
         "6": "Porém, desde o princípio da criação, Deus os fez macho e fêmea.",
         "7": "Por isso deixará o homem a seu pai e a sua mãe, e unir-se-á a sua mulher,",
-        "8": "E serão os dois uma carne; e assim já não serão dois, mas uma carne.",
+        "8": "E serão os dois uma só carne; e assim já não serão dois, mas uma só carne.",
         "9": "Portanto, o que Deus ajuntou não o separe o homem.",
         "10": "E em casa tornaram os discípulos a interrogá-lo acerca disto mesmo.",
         "11": "E ele lhes disse: Qualquer que deixar a sua mulher e casar com outra, adultera contra ela.",

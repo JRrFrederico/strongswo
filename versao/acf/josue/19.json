@@ -1,9 +1,17 @@
 {
     "livro": "Josué",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "As terras da tribo de Simeão",
+        "10": "As terras da tribo de Zebulom",
+        "17": "As terras da tribo de Issacar",
+        "24": "As terras da tribo de Aser",
+        "32": "As terras da tribo de Naftali",
+        "40": "As terras da tribo de Dã",
+        "48": "As terras concedidas a Josué"
+    },
     "versiculos": {
-        "1": "E saiu a segunda sorte a Simeão, para a tribo dos filhos de Simeão, segundo as suas famílias; e foi a sua herança no meio da herança dos filhos de Judá.",
+        "1": "E SAIU a segunda sorte a Simeão, para a tribo dos filhos de Simeão, segundo as suas famílias; e foi a sua herança no meio da herança dos filhos de Judá.",
         "2": "E tiveram na sua herança: Berseba, e Seba e Moladá.",
         "3": "E Hazar-Sual, e Balá, e Azem,",
         "4": "E Eltolade, e Betul, e Hormá,",

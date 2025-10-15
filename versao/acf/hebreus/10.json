@@ -1,9 +1,14 @@
 {
     "livro": "Hebreus",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "O sacrifício de Cristo é definitivo",
+        "19": "Devemos perseverar na fé",
+        "26": "O castigo do pecado renitente",
+        "32": "Os salvos perseveram na fé"
+    },
     "versiculos": {
-        "1": "Porque tendo a lei a sombra dos bens futuros, e não a imagem exata das coisas, nunca, pelos mesmos sacrifícios que continuamente se oferecem cada ano, pode aperfeiçoar os que a eles se chegam.",
+        "1": "PORQUE tendo a lei a sombra dos bens futuros, e não a imagem exata das coisas, nunca, pelos mesmos sacrifícios que continuamente se oferecem cada ano, pode aperfeiçoar os que a eles se chegam.",
         "2": "Doutra maneira, teriam deixado de se oferecer, porque, purificados uma vez os ministrantes, nunca mais teriam consciência de pecado.",
         "3": "Nesses sacrifícios, porém, cada ano se faz comemoração dos pecados,",
         "4": "Porque é impossível que o sangue dos touros e dos bodes tire os pecados.",

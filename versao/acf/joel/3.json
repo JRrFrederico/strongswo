@@ -1,9 +1,12 @@
 {
     "livro": "Joel",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "O juízo de Deus sobre os pagãos",
+        "17": "Yahweh zela e abençoa seu povo"
+    },
     "versiculos": {
-        "1": "Porque, eis que naqueles dias, e naquele tempo, em que removerei o cativeiro de Judá e de Jerusalém,",
+        "1": "PORQUE, eis que naqueles dias, e naquele tempo, em que removerei o cativeiro de Judá e de Jerusalém,",
         "2": "Congregarei todas as nações, e as farei descer ao vale de Jeosafá; e ali com elas entrarei em juízo, por causa do meu povo, e da minha herança, Israel, a quem elas espalharam entre as nações e repartiram a minha terra.",
         "3": "E lançaram sortes sobre o meu povo, e deram um menino por uma meretriz, e venderam uma menina por vinho, para beberem.",
         "4": "E também que tendes vós comigo, Tiro e Sidom, e todas as regiões da Filístia? É tal o pago que vós me dais? Pois se me pagais assim, bem depressa vos farei tornar a vossa paga sobre a vossa cabeça.",

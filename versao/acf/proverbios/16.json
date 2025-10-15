@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "O amor e a soberania do Senhor"
+    },
     "versiculos": {
-        "1": "Do homem são as preparações do coração, mas do Senhor a resposta da língua.",
+        "1": "DO homem são as preparações do coração, mas do Senhor a resposta da língua.",
         "2": "Todos os caminhos do homem são puros aos seus olhos, mas o Senhor pesa o espírito.",
         "3": "Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos.",
         "4": "O Senhor fez todas as coisas para atender aos seus próprios desígnios, até o ímpio para o dia do mal.",

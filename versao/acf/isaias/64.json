@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 64,
-    "titulos": {},
+    "titulos": {
+        "1": "Seguem as confissões e súplicas"
+    },
     "versiculos": {
-        "1": "Oh! Se fendesses os céus, e descesses, e os montes se escoassem de diante da tua face,",
+        "1": "OH! Se fendesses os céus, e descesses, e os montes se escoassem de diante da tua face,",
         "2": "Como o fogo abrasador de fundição, fogo que faz ferver as águas, para fazeres notório o teu nome aos teus adversários, e assim as nações tremessem da tua presença!",
         "3": "Quando fazias coisas terríveis, que nunca esperávamos, descias, e os montes se escoavam diante da tua face.",
         "4": "Porque desde a antiguidade não se ouviu, nem com ouvidos se percebeu, nem com os olhos se viu um Deus além de ti que trabalha para aquele que nele espera.",

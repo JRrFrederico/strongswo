@@ -1,9 +1,13 @@
 {
     "livro": "Gálatas",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Saudação apostólica",
+        "6": "Só há um Evangelho",
+        "11": "Paulo foi convocado por Cristo"
+    },
     "versiculos": {
-        "1": "Paulo, apóstolo (não da parte dos homens, nem por homem algum, mas por Jesus Cristo, e por Deus Pai, que o ressuscitou dentre os mortos),",
+        "1": "PAULO, apóstolo (não da parte dos homens, nem por homem algum, mas por Jesus Cristo, e por Deus Pai, que o ressuscitou dentre os mortos),",
         "2": "E todos os irmãos que estão comigo, às igrejas da Galácia:",
         "3": "Graça a vós e paz da parte de Deus Pai e do nosso Senhor Jesus Cristo,",
         "4": "O qual se deu a si mesmo por nossos pecados, para nos livrar do presente século mau, segundo a vontade de Deus nosso Pai,",

@@ -1,9 +1,11 @@
 {
     "livro": "Jonas",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Jonas prega a Palavra em Nínive"
+    },
     "versiculos": {
-        "1": "E veio a palavra do Senhor segunda vez a Jonas, dizendo:",
+        "1": "E VEIO a palavra do Senhor segunda vez a Jonas, dizendo:",
         "2": "Levanta-te, e vai à grande cidade de Nínive, e prega contra ela a mensagem que eu te digo.",
         "3": "E levantou-se Jonas, e foi a Nínive, segundo a palavra do Senhor. Ora, Nínive era uma cidade muito grande, de três dias de caminho.",
         "4": "E começou Jonas a entrar pela cidade caminho de um dia, e pregava, dizendo: Ainda quarenta dias, e Nínive será subvertida.",

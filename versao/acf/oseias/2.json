@@ -1,9 +1,11 @@
 {
     "livro": "Oséias",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "O castigo e a restauração de Israel"
+    },
     "versiculos": {
-        "1": "Dizei a vossos irmãos: Ami; e a vossas irmãs: Ruama.",
+        "1": "DIZEI a vossos irmãos: Ami; e a vossas irmãs: Ruama.",
         "2": "Contendei com vossa mãe, contendei, porque ela não é minha mulher, e eu não sou seu marido; e desvie ela as suas prostituições da sua vista e os seus adultérios de entre os seus seios.",
         "3": "Para que eu não a despoje, ficando ela nua, e a ponha como no dia em que nasceu, e a faça como um deserto, e a torne como uma terra seca, e a mate à sede;",
         "4": "E não me compadeça de seus filhos, porque são filhos de prostituições.",

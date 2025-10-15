@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 69,
-    "titulos": {},
+    "titulos": {
+        "1": "O lamento do Messias, o Cristo"
+    },
     "versiculos": {
-        "1": "Livra-me, ó Deus, pois as águas entraram até à minha alma.",
+        "1": "LIVRA-ME, ó Deus, pois as águas entraram até à minha alma.",
         "2": "Atolei-me em profundo lamaçal, onde se não pode estar em pé; entrei na profundeza das águas, onde a corrente me leva.",
         "3": "Estou cansado de clamar; a minha garganta se secou; os meus olhos desfalecem esperando o meu Deus.",
         "4": "Aqueles que me odeiam sem causa são mais do que os cabelos da minha cabeça; aqueles que procuram destruir-me, sendo injustamente meus inimigos, são poderosos; então restituí o que não furtei.",

@@ -1,9 +1,12 @@
 {
     "livro": "Mateus",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "João Batista prepara o caminho",
+        "13": "O batismo de Jesus"
+    },
     "versiculos": {
-        "1": "E, naqueles dias, apareceu João o Batista pregando no deserto da Judeia,",
+        "1": "E, NAQUELES dias, apareceu João o Batista pregando no deserto da Judeia,",
         "2": "E dizendo: Arrependei-vos, porque está próximo o reino dos céus.",
         "3": "Porque este é o anunciado pelo profeta Isaías, que disse: Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas.",
         "4": "E este João tinha as suas vestes de pelos de camelo, e um cinto de couro em torno de seus lombos; e alimentava-se de gafanhotos e de mel silvestre.",

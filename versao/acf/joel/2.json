@@ -1,9 +1,14 @@
 {
     "livro": "Joel",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "O Dia de Yahweh está próximo",
+        "12": "Nova chamada ao arrependimento",
+        "18": "A promessa de Yahweh, o Eterno",
+        "28": "Eis que chega o Dia do SENHOR"
+    },
     "versiculos": {
-        "1": "Tocai a trombeta em Sião, e clamai em alta voz no meu santo monte; tremam todos os moradores da terra, porque o dia do Senhor vem, já está perto;",
+        "1": "TOCAI a trombeta em Sião, e clamai em alta voz no meu santo monte; tremam todos os moradores da terra, porque o dia do Senhor vem, já está perto;",
         "2": "Dia de trevas e de escuridão; dia de nuvens e densas trevas, como a alva espalhada sobre os montes; povo grande e poderoso, qual nunca houve desde o tempo antigo, nem depois dele haverá pelos anos adiante, de geração em geração.",
         "3": "Diante dele um fogo consome, e atrás dele uma chama abrasa; a terra diante dele é como o jardim do Éden, mas atrás dele um desolado deserto; sim, nada lhe escapará.",
         "4": "A sua aparência é como a de cavalos; e como cavaleiros assim correm.",

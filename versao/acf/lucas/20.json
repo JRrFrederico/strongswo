@@ -1,9 +1,16 @@
 {
     "livro": "Lucas",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "A autoridade de Jesus é questionada",
+        "9": "A parábola dos vinicultores maus",
+        "20": "Tributos pagos a Deus e a César",
+        "27": "A verdade sobre a ressurreição",
+        "41": "O Cristo é Senhor de Davi",
+        "45": "Jesus previne aos seus discípulos"
+    },
     "versiculos": {
-        "1": "E aconteceu num daqueles dias que, estando ele ensinando o povo no templo, e anunciando o evangelho, sobrevieram os principais sacerdotes e os escribas com os anciãos,",
+        "1": "E ACONTECEU num daqueles dias que, estando ele ensinando o povo no templo, e anunciando o evangelho, sobrevieram os principais sacerdotes e os escribas com os anciãos,",
         "2": "E falaram-lhe, dizendo: Dize-nos, com que autoridade fazes estas coisas? Ou, quem é que te deu esta autoridade?",
         "3": "E, respondendo ele, disse-lhes: Também eu vos farei uma pergunta: Dizei-me pois:",
         "4": "O batismo de João era do céu ou dos homens?",

@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "Bildade censura seu amigo Jó"
+    },
     "versiculos": {
-        "1": "Então respondeu Bildade, o suíta, e disse:",
+        "1": "ENTÃO respondeu Bildade, o suíta, e disse:",
         "2": "Até quando poreis fim às palavras? Considerai bem, e então falaremos.",
         "3": "Por que somos tratados como animais, e como imundos aos vossos olhos?",
         "4": "Oh tu, que despedaças a tua alma na tua ira, será a terra deixada por tua causa? Remover-se-ão as rochas do seu lugar?",

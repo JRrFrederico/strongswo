@@ -1,9 +1,13 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Exemplos do Antigo Testamento",
+        "14": "A Ceia de Cristo e a ceia dos demônios",
+        "23": "Os limites da liberdade cristã"
+    },
     "versiculos": {
-        "1": "Ora, irmãos, não quero que ignoreis que nossos pais estiveram todos debaixo da nuvem, e todos passaram pelo mar.",
+        "1": "ORA, irmãos, não quero que ignoreis que nossos pais estiveram todos debaixo da nuvem, e todos passaram pelo mar.",
         "2": "E todos foram batizados em Moisés, na nuvem e no mar,",
         "3": "E todos comeram de uma mesma comida espiritual,",
         "4": "E beberam todos de uma mesma bebida espiritual, porque bebiam da pedra espiritual que os seguia; e a pedra era Cristo.",

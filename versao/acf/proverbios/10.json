@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "A justiça e a malignidade"
+    },
     "versiculos": {
-        "1": "Provérbios de Salomão: O filho sábio alegra a seu pai, mas o filho insensato é a tristeza de sua mãe.",
+        "1": "PROVÉRBIOS de Salomão: O filho sábio alegra a seu pai, mas o filho insensato é a tristeza de sua mãe.",
         "2": "Os tesouros da impiedade de nada aproveitam; mas a justiça livra da morte.",
         "3": "O Senhor não deixa o justo passar fome, mas rechaça a aspiração dos perversos.",
         "4": "O que trabalha com mão displicente empobrece, mas a mão dos diligentes enriquece.",

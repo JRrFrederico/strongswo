@@ -1,26 +1,28 @@
 {
     "livro": "Salmos",
     "capitulo": 51,
-    "titulos": {},
+    "titulos": {
+        "1": "Contrição e confissão de Davi"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe, Salmo de Davi, quando o profeta Natã veio a ele, depois dele ter estado com Bate-Seba. Tem misericórdia de mim, ó Deus, segundo a tua benignidade, segundo a multidão das tuas tenras misericórdias, apaga as minhas transgressões.",
-        "2": "Lava-me completamente de minha iniquidade, e limpa-me do meu pecado.",
-        "3": "Porque eu reconheço as minhas transgressões, e o meu pecado está sempre diante de mim.",
-        "4": "Contra ti, somente contra ti eu pequei, e cometi este mal à tua vista; para que tu pudesses ser justificado quando falares, e ser claro quando julgares.",
-        "5": "Eis que fui moldado na iniquidade, e em pecado minha mãe me concebeu.",
-        "6": "Eis que tu desejas a verdade no íntimo, e na parte escondida tu me farás conhecer a sabedoria.",
-        "7": "Purifica-me com hissopo, e serei limpo; lava-me, e ficarei mais branco do que a neve.",
-        "8": "Faz-me ouvir a felicidade e a alegria; que os ossos que tu quebraste possam se regozijar.",
-        "9": "Esconde a tua face dos meus pecados, e apaga todas as minhas iniquidades.",
-        "10": "Cria em mim um coração limpo, ó Deus, e renova um espírito correto dentro de mim.",
-        "11": "Não me expulses da tua presença, e não toma de mim o teu santo Espírito.",
-        "12": "Restaura-me a alegria da tua salvação, e sustém-me com um espírito livre.",
-        "13": "Então ensinarei aos transgressores os teus caminhos; e os pecadores se converterão a ti.",
-        "14": "Livra-me dos crimes de sangue, ó Deus, tu Deus da minha salvação, e a minha língua cantará alto a tua justiça.",
-        "15": "Ó Senhor, abre os meus lábios, e a minha boca manifestará o teu louvor.",
-        "16": "Pois tu não desejas sacrifício, senão eu o daria; tu não te agradas com ofertas queimadas.",
-        "17": "Os sacrifícios para Deus são um espírito quebrantado; um coração quebrantado e contrito, ó Deus, tu não desprezarás.",
-        "18": "Faz o bem em teu bom prazer a Sião; constrói tu os muros de Jerusalém.",
-        "19": "Então te agradarás com os sacrifícios de justiça, com a oferta queimada e a oferta queimada por inteiro; então oferecerão novilhos sobre o teu altar."
+        "1": "Tem piedade de mim, ó Deus, segundo a tua misericórdia; conforme a tua grande clemência, apaga minhas transgressões!",
+        "2": "Lava-me de toda a minha culpa e purifica-me do meu pecado.",
+        "3": "Pois no meu íntimo reconheço as minhas transgressões, e trago sempre presente o horror do meu pecado.",
+        "4": "Pequei contra ti, contra ti somente, e pratiquei o mal que tanto reprovas. Portanto, justa é a tua sentença, e incontestável, ao julgar-me condenado.",
+        "5": "Reconheço que sou pecador desde o meu nascimento. Sim, desde que me concebeu minha mãe.",
+        "6": "Sei que tu queres estabelecer a verdade no meu interior; e no meu coração ministras a tua sabedoria.",
+        "7": "Portanto, purifica-me com hissopo e ficarei limpo; lava-me, e mais branco do que a neve serei.",
+        "8": "Faze-me voltar a ouvir júbilo e alegria, e os ossos que esmagaste exultarão.",
+        "9": "Esconde o rosto do meu pecado e apaga todas as minhas iniquidades.",
+        "10": "Ó Deus meu! Cria em mim um coração puro, e renova dentro de mim um espírito inabalável.",
+        "11": "Não me afastes da tua presença, nem tires de mim teu Santo Espírito!",
+        "12": "Restitui-me a alegria da tua salvação e sustenta-me com um espírito disposto a obedecer.",
+        "13": "Então ensinarei os teus caminhos aos transgressores, para que os pecadores se voltem também para ti.",
+        "14": "Salva-me do pecado de sangue derramado, ó Eterno, Deus da minha salvação, para que minha língua seja livre para cantar exaltando a tua justiça.",
+        "15": "Ó Senhor, dá palavras corretas aos meus lábios, para que a minha boca possa proclamar o teu louvor.",
+        "16": "Não te deleitas em sacrifícios nem te comprazes em oferendas, pois se assim fosse, eu os ofereceria.",
+        "17": "O verdadeiro e aceitável sacrifício ao Eterno é o coração contrito; um coração quebrantado e arrependido jamais será desprezado por Deus!",
+        "18": "Que te regozijes em abençoar a Sião e edificar as muralhas de Jerusalém.",
+        "19": "Então te agradarás dos sacrifícios sinceros, das ofertas queimadas e dos holocaustos; e novilhos serão oferecidos sobre o teu altar."
     }
 }

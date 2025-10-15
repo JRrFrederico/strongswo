@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 141,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração da tarde por proteção divina"
+    },
     "versiculos": {
         "1": "Senhor, a ti clamo, apressa-te a mim; inclina os teus ouvidos à minha voz, quando a ti clamar.",
         "2": "Suba a minha oração perante a tua face como incenso, e as minhas mãos levantadas sejam como o sacrifício da tarde.",

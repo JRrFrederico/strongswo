@@ -1,9 +1,12 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "O crente não deve buscar juízo pagão",
+        "12": "Nosso corpo é santuário de Deus"
+    },
     "versiculos": {
-        "1": "Ousa algum de vós, tendo algum negócio contra outro, ir a juízo perante os injustos, e não perante os santos?",
+        "1": "OUSA algum de vós, tendo algum negócio contra outro, ir a juízo perante os injustos, e não perante os santos?",
         "2": "Não sabeis vós que os santos hão de julgar o mundo? Ora, se o mundo deve ser julgado por vós, sois porventura indignos de julgar as coisas mínimas?",
         "3": "Não sabeis vós que havemos de julgar os anjos? Quanto mais as coisas pertencentes a esta vida?",
         "4": "Então, se tiverdes negócios em juízo, pertencentes a esta vida, pondes para julgá-los os que são de menos estima na igreja?",

@@ -1,9 +1,13 @@
 {
     "livro": "2 Reis",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "Doença e cura de Ezequias",
+        "12": "Os mensageiros da Babilônia",
+        "20": "A morte de Ezequias"
+    },
     "versiculos": {
-        "1": "Naqueles dias adoeceu Ezequias mortalmente; e o profeta Isaías, filho de Amós, veio a ele e lhe disse: Assim diz o Senhor: Põe em ordem a tua casa, porque morrerás, e não viverás.",
+        "1": "NAQUELES dias adoeceu Ezequias mortalmente; e o profeta Isaías, filho de Amós, veio a ele e lhe disse: Assim diz o Senhor: Põe em ordem a tua casa, porque morrerás, e não viverás.",
         "2": "Então virou o rosto para a parede, e orou ao Senhor, dizendo:",
         "3": "Ah, Senhor! Suplico-te lembrar de que andei diante de ti em verdade, com o coração perfeito, e fiz o que era bom aos teus olhos. E chorou Ezequias muitíssimo.",
         "4": "Sucedeu, pois, que, não havendo Isaías ainda saído do meio do pátio, veio a ele a palavra do Senhor dizendo:",

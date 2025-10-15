@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Zofar insiste que Jó se arrependa"
+    },
     "versiculos": {
-        "1": "Então respondeu Zofar, o naamatita, e disse:",
+        "1": "ENTÃO respondeu Zofar, o naamatita, e disse:",
         "2": "Porventura não se dará resposta à multidão de palavras? E o homem falador será justificado?",
         "3": "Às tuas mentiras se hão de calar os homens? E zombarás tu sem que ninguém te envergonhe?",
         "4": "Pois dizes: A minha doutrina é pura, e limpo sou aos teus olhos.",

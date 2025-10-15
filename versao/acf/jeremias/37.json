@@ -1,9 +1,11 @@
 {
     "livro": "Jeremias",
     "capitulo": 37,
-    "titulos": {},
+    "titulos": {
+        "1": "Jeremias é encarcerado"
+    },
     "versiculos": {
-        "1": "E Zedequias, filho de Josias, a quem Nabucodonosor, rei de Babilônia, constituiu rei na terra de Judá, reinou em lugar de Conias, filho de Jeoiaquim.",
+        "1": "E ZEDEQUIAS, filho de Josias, a quem Nabucodonosor, rei de Babilônia, constituiu rei na terra de Judá, reinou em lugar de Conias, filho de Jeoiaquim.",
         "2": "Mas nem ele, nem os seus servos, nem o povo da terra deram ouvidos às palavras do Senhor que falou pelo ministério de Jeremias, o profeta.",
         "3": "Contudo mandou o rei Zedequias a Jucal, filho de Selemias, e a Sofonias, filho de Maaseias, o sacerdote, ao profeta Jeremias, para lhe dizer: Roga agora por nós ao Senhor nosso Deus.",
         "4": "E entrava e saía Jeremias entre o povo, porque não o tinham posto na prisão.",

@@ -1,9 +1,12 @@
 {
     "livro": "Êxodo",
     "capitulo": 40,
-    "titulos": {},
+    "titulos": {
+        "1": "A consagração do Tabernáculo",
+        "34": "A Glória de Yahweh guia Israel"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés, dizendo:",
         "2": "No primeiro mês, no primeiro dia do mês, levantarás o tabernáculo da tenda da congregação,",
         "3": "E porás nele a arca do testemunho, e cobrirás a arca com o véu.",
         "4": "Depois colocarás nele a mesa, e porás em ordem o que se deve pôr em ordem nela; também colocarás nele o candelabro, e acenderás as suas lâmpadas.",

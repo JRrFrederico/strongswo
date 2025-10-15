@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Oráculo contra Tiro"
+    },
     "versiculos": {
-        "1": "Peso de Tiro. Uivai, navios de Társis, porque está assolada, a ponto de não haver nela casa nenhuma, e de ninguém mais entrar nela; desde a terra de Quitim lhes foi isto revelado.",
+        "1": "PESO de Tiro. Uivai, navios de Társis, porque está assolada, a ponto de não haver nela casa nenhuma, e de ninguém mais entrar nela; desde a terra de Quitim lhes foi isto revelado.",
         "2": "Calai-vos, moradores da ilha, vós a quem encheram os mercadores de Sidom, navegando pelo mar.",
         "3": "E a sua provisão era a semente de Sior, que vinha com as muitas águas, a ceifa do Nilo, e ela era a feira das nações.",
         "4": "Envergonha-te, ó Sidom, porque o mar, a fortaleza do mar, fala, dizendo: Eu não tive dores de parto, nem dei à luz, nem ainda criei jovens, nem eduquei virgens.",

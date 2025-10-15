@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "Oráculo contra Jerusalém",
+        "15": "Profecia contra Sebna"
+    },
     "versiculos": {
-        "1": "Peso do vale da visão. Que tens agora, pois que com todos os teus subiste aos telhados?",
+        "1": "PESO do vale da visão. Que tens agora, pois que com todos os teus subiste aos telhados?",
         "2": "Tu, cheia de clamores, cidade turbulenta, cidade alegre, os teus mortos não foram mortos à espada, nem morreram na guerra.",
         "3": "Todos os teus governadores juntamente fugiram, foram atados pelos arqueiros; todos os que em ti se acharam, foram amarrados juntamente, e fugiram para longe.",
         "4": "Portanto digo: Desviai de mim a vista, e chorarei amargamente; não vos canseis mais em consolar-me pela destruição da filha do meu povo.",

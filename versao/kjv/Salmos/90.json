@@ -1,24 +1,26 @@
 {
     "livro": "Salmos",
     "capitulo": 90,
-    "titulos": {},
+    "titulos": {
+        "1": "A brevidade da vida"
+    },
     "versiculos": {
-        "1": "Oração de Moisés, o homem de Deus. Senhor, tu tens sido nossa habitação por todas as gerações.",
-        "2": "Antes que os montes fossem gerados, ou que tu formasses a terra e o mundo, mesmo de eternidade a eternidade tu és Deus.",
-        "3": "Tu levas o homem à destruição, e dizes: Retornai, vós filhos dos homens.",
-        "4": "Porque mil anos à tua vista são como o dia de ontem, quando é passado, e como uma vigília à noite.",
-        "5": "Tu os carregas para longe como uma enchente; eles são como um sono; de manhã eles são como a grama que cresce.",
-        "6": "Pela manhã ela floresce, e cresce; à tarde é cortada e murcha.",
-        "7": "Pois somos consumidos por tua ira, e pela tua cólera somos atribulados.",
-        "8": "Tu estabeleceste nossas iniquidades diante de ti, nossos pecados secretos à luz do teu semblante.",
-        "9": "Pois todos os nossos dias passam em tua ira; passamos nossos anos como um conto que é contado.",
-        "10": "Os dias dos nossos anos são setenta anos; e se por causa do vigor, chegam a oitenta anos, mas toda sua força é afã e tristeza, porque logo passam, e voamos para longe.",
-        "11": "Quem conhece o poder da tua ira? Assim de acordo com o teu temor, também é tua cólera.",
-        "12": "Então, ensina-nos a numerar nossos dias, para que possamos aplicar nossos corações sábios.",
-        "13": "Retorna, ó SENHOR, por quanto tempo? E arrepende-te em relação aos teus servos.",
-        "14": "Ó satisfaz-nos cedo com a tua misericórdia; para que possamos nos regozijar e sermos felizes todos os nossos dias.",
-        "15": "Faz-nos felizes de acordo com os dias em que tu nos afligiste, e os anos em que vimos o mal.",
-        "16": "Que a tua obra apareça aos teus servos, e a tua glória aos seus filhos.",
-        "17": "E seja sobre nós a beleza do SENHOR nosso Deus; e estabelece sobre nós a obra das nossas mãos; sim, estabelece tu a obra das nossas mãos."
+        "1": "Senhor, tu tens sido o nosso abrigo, sempre, de geração em geração.",
+        "2": "Antes que se originassem os montes e formasses o universo e a terra, de eternidade a eternidade, tu és Deus.",
+        "3": "Tu reduzes o ser humano ao pó, afirmando: “Retornai ao pó, filhos dos homens!”",
+        "4": "Verdadeiramente, mil anos aos teus olhos, são como o dia de ontem, que já passou, e como as poucas horas das primeiras vigílias da noite.",
+        "5": "Tu arrastas os homens na correnteza da vida; são breves como o sono; são todos como a relva que brota com a alvorada,",
+        "6": "germina e floresce pela manhã, mas, ao pôr do sol, murcha e seca.",
+        "7": "Porquanto somos consumidos por tua ira e perante tua indignação ficamos pasmos!",
+        "8": "Tu conheces bem nossas iniquidades; nossos pecados mais secretos não escapam à luz da tua face.",
+        "9": "Sim, todos os nossos dias dissipam-se diante do teu furor, findamos os anos como um suspiro.",
+        "10": "De fato, os dias de nossa vida chegam a setenta anos, ou a oitenta para os que têm mais saúde; entretanto, a maior parte dos anos é de labuta e sofrimentos, porquanto a vida passa muito depressa, e nós voamos!",
+        "11": "Quem é capaz de conhecer a força da tua ira e de tua cólera, segundo o temor que te é devido?",
+        "12": "Sendo assim, ensina-nos, pois, a contar nossos dias, a fim de que possamos alcançar um coração verdadeiramente sábio!",
+        "13": "Volta-te para nós, ó Eterno! Até quando haveremos de esperar? Tem compaixão dos teus servos!",
+        "14": "Sacia-nos, desde o romper da aurora, com teu amor infinito, e exultaremos de alegria, todos os nossos dias.",
+        "15": "Alegra-nos na proporção dos dias em que nos puniste, pelos anos em que passamos sob grande sofrimento.",
+        "16": "Que as tuas realizações se manifestem aos teus servos, e a teus filhos, a tua maravilhosa glória!",
+        "17": "Que a graça do Senhor, nosso Deus, pouse sobre nós; faze prosperar as obras das nossas mãos; sim, confirma a obra das nossas mãos!"
     }
 }

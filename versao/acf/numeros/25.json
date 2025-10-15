@@ -1,9 +1,11 @@
 {
     "livro": "Números",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "O povo de Israel adora Baal-Peor"
+    },
     "versiculos": {
-        "1": "E Israel deteve-se em Sitim e o povo começou a prostituir-se com as filhas dos moabitas.",
+        "1": "E ISRAEL deteve-se em Sitim e o povo começou a prostituir-se com as filhas dos moabitas.",
         "2": "Elas convidaram o povo aos sacrifícios dos seus deuses; e o povo comeu, e inclinou-se aos seus deuses.",
         "3": "Juntando-se, pois, Israel a Baal-Peor, a ira do Senhor se acendeu contra Israel.",
         "4": "Disse o Senhor a Moisés: Toma todos os cabeças do povo, e enforca-os ao Senhor diante do sol, e o ardor da ira do Senhor se retirará de Israel.",

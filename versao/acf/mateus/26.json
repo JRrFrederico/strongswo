@@ -1,9 +1,21 @@
 {
     "livro": "Mateus",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "A trama para matar Jesus",
+        "6": "Jesus é ungido para o sacrifício",
+        "14": "O pacto da traição",
+        "17": "A Ceia do Senhor",
+        "20": "Jesus revela o traidor",
+        "26": "A Ceia do Senhor",
+        "31": "Jesus prediz a traição de Pedro",
+        "36": "Jesus ora no Getsêmani",
+        "47": "Jesus é traído e preso",
+        "57": "Jesus diante do tribunal",
+        "69": "Quando Pedro negou a Jesus"
+    },
     "versiculos": {
-        "1": "E aconteceu que, quando Jesus concluiu todos estes discursos, disse aos seus discípulos:",
+        "1": "E ACONTECEU que, quando Jesus concluiu todos estes discursos, disse aos seus discípulos:",
         "2": "Bem sabeis que daqui a dois dias é a páscoa; e o Filho do homem será entregue para ser crucificado.",
         "3": "Então os principais sacerdotes, e os escribas, e os anciãos do povo reuniram-se na sala do sumo sacerdote, o qual se chamava Caifás.",
         "4": "E consultaram-se mutuamente para, com dolo, prenderem Jesus e o matarem.",

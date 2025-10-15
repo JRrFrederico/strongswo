@@ -1,9 +1,14 @@
 {
     "livro": "Josué",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "O regresso das tribos orientais",
+        "9": "Um altar erigido à beira do Jordão",
+        "21": "A razão de erguer um outro altar",
+        "30": "Restabelecimento da comunhão"
+    },
     "versiculos": {
-        "1": "Então Josué chamou os rubenitas, e os gaditas, e a meia tribo de Manassés.",
+        "1": "ENTÃO Josué chamou os rubenitas, e os gaditas, e a meia tribo de Manassés.",
         "2": "E disse-lhes: Tudo quanto Moisés, o servo do Senhor, vos ordenou, guardastes; e à minha voz obedecestes em tudo quanto vos ordenei.",
         "3": "A vossos irmãos por todo este tempo, até ao dia de hoje, não desamparastes; antes tivestes cuidado de guardar o mandamento do Senhor vosso Deus.",
         "4": "Agora o Senhor vosso Deus deu repouso a vossos irmãos, como lhes tinha prometido; voltai-vos, pois, agora, e ide-vos às vossas tendas, à terra da vossa possessão, que Moisés, o servo do Senhor, vos deu além do Jordão.",

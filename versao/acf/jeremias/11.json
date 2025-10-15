@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "A Aliança é quebrada",
+        "18": "O povo conspira contra Jeremias"
+    },
     "versiculos": {
-        "1": "A palavra que veio a Jeremias, da parte do Senhor, dizendo:",
+        "1": "A PALAVRA que veio a Jeremias, da parte do Senhor, dizendo:",
         "2": "Ouvi as palavras desta aliança, e falai aos homens de Judá, e aos habitantes de Jerusalém.",
         "3": "Dize-lhes pois: Assim diz o Senhor Deus de Israel: Maldito o homem que não escutar as palavras desta aliança,",
         "4": "Que ordenei a vossos pais no dia em que os tirei da terra do Egito, da fornalha de ferro, dizendo: Dai ouvidos à minha voz, e fazei conforme a tudo quanto vos mando; e vós sereis o meu povo, e eu serei o vosso Deus.",

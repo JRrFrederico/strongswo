@@ -1,9 +1,13 @@
 {
     "livro": "Êxodo",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Os sofrimentos dos filhos de Israel",
+        "8": "A opressão do Egito",
+        "15": "A ordem do rei às parteiras"
+    },
     "versiculos": {
-        "1": "Estes pois são os nomes dos filhos de Israel, que entraram no Egito com Jacó; cada um entrou com sua casa:",
+        "1": "ESTES pois são os nomes dos filhos de Israel, que entraram no Egito com Jacó; cada um entrou com sua casa:",
         "2": "Rúben, Simeão, Levi, e Judá;",
         "3": "Issacar, Zebulom, e Benjamim;",
         "4": "Dã e Naftali, Gade e Aser.",

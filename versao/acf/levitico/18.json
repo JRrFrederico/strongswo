@@ -1,9 +1,11 @@
 {
     "livro": "Levítico",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "Relações sexuais proibidas"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés, dizendo:",
         "2": "Fala aos filhos de Israel, e dize-lhes: Eu sou o Senhor vosso Deus.",
         "3": "Não fareis segundo as obras da terra do Egito, em que habitastes, nem fareis segundo as obras da terra de Canaã, para a qual vos levo, nem andareis nos seus estatutos.",
         "4": "Fareis conforme os meus juízos, e os meus estatutos guardareis, para andardes neles. Eu sou o Senhor vosso Deus.",

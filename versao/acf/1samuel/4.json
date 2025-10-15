@@ -1,9 +1,13 @@
 {
     "livro": "1 Samuel",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Os filisteus tomam a Arca",
+        "12": "A morte de Eli",
+        "19": "A morte da nora de Eli"
+    },
     "versiculos": {
-        "1": "E veio a palavra de Samuel a todo o Israel; e Israel saiu à peleja contra os filisteus e acampou-se junto a Ebenézer; e os filisteus se acamparam junto a Afeque.",
+        "1": "E VEIO a palavra de Samuel a todo o Israel; e Israel saiu à peleja contra os filisteus e acampou-se junto a Ebenézer; e os filisteus se acamparam junto a Afeque.",
         "2": "E os filisteus se dispuseram em ordem de batalha, para sair contra Israel; e, estendendo-se a peleja, Israel foi ferido diante dos filisteus, porque feriram na batalha, no campo, uns quatro mil homens.",
         "3": "E voltando o povo ao arraial, disseram os anciãos de Israel: Por que nos feriu o Senhor hoje diante dos filisteus? Tragamos de Siló a arca da aliança do Senhor, e venha no meio de nós, para que nos livre da mão de nossos inimigos.",
         "4": "Enviou, pois, o povo a Siló, e trouxeram de lá a arca da aliança do Senhor dos Exércitos, que habita entre os querubins; e os dois filhos de Eli, Hofni e Fineias, estavam ali com a arca da aliança de Deus.",

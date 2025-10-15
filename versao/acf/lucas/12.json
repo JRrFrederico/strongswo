@@ -1,9 +1,20 @@
 {
     "livro": "Lucas",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Os fiéis devem evitar a hipocrisia",
+        "4": "Jesus ensina o temor do Senhor",
+        "8": "Testemunhe sua fé ao mundo",
+        "13": "Jesus condena a avareza",
+        "16": "A parábola do rico insensato",
+        "22": "Os fiéis não devem viver ansiosos",
+        "35": "A parábola do servo leal e do infiel",
+        "49": "Jesus veio trazer fogo à terra",
+        "54": "Discernindo o final dos tempos",
+        "57": "Buscar a paz enquanto há tempo"
+    },
     "versiculos": {
-        "1": "Ajuntando-se entretanto muitos milhares de pessoas, de sorte que se atropelavam uns aos outros, começou a dizer aos seus discípulos: Acautelai-vos primeiramente do fermento dos fariseus, que é a hipocrisia.",
+        "1": "AJUNTANDO-SE entretanto muitos milhares de pessoas, de sorte que se atropelavam uns aos outros, começou a dizer aos seus discípulos: Acautelai-vos primeiramente do fermento dos fariseus, que é a hipocrisia.",
         "2": "Mas nada há encoberto que não haja de ser descoberto; nem oculto, que não haja de ser sabido.",
         "3": "Porquanto tudo o que em trevas dissestes, à luz será ouvido; e o que falastes ao ouvido no gabinete, sobre os telhados será apregoado.",
         "4": "E digo-vos, amigos meus: Não temais os que matam o corpo e, depois, não têm mais que fazer.",

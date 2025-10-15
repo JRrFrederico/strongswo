@@ -1,9 +1,12 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "O correto uso dos dons",
+        "26": "Ordem nas reuniões da Igreja"
+    },
     "versiculos": {
-        "1": "Segui o amor, e procurai com zelo os dons espirituais, mas principalmente o de profetizar.",
+        "1": "SEGUI o amor, e procurai com zelo os dons espirituais, mas principalmente o de profetizar.",
         "2": "Porque o que fala em língua desconhecida não fala aos homens, senão a Deus; porque ninguém o entende, e em espírito fala mistérios.",
         "3": "Mas o que profetiza fala aos homens, para edificação, exortação e consolação.",
         "4": "O que fala em língua desconhecida edifica-se a si mesmo, mas o que profetiza edifica a igreja.",

@@ -1,9 +1,11 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Há um tempo certo para tudo"
+    },
     "versiculos": {
-        "1": "Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu.",
+        "1": "TUDO tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu.",
         "2": "Há tempo de nascer, e tempo de morrer; tempo de plantar, e tempo de arrancar o que se plantou;",
         "3": "Tempo de matar, e tempo de curar; tempo de derrubar, e tempo de edificar;",
         "4": "Tempo de chorar, e tempo de rir; tempo de prantear, e tempo de dançar;",

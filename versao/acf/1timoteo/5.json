@@ -1,9 +1,11 @@
 {
     "livro": "1 Timóteo",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Recomendações aos pastores"
+    },
     "versiculos": {
-        "1": "Não repreendas asperamente o ancião, mas admoesta-o como a pai; aos moços como a irmãos;",
+        "1": "NÃO repreendas asperamente o ancião, mas admoesta-o como a pai; aos moços como a irmãos;",
         "2": "As mulheres idosas, como a mães, às moças, como a irmãs, em toda a pureza.",
         "3": "Honra as viúvas que verdadeiramente são viúvas.",
         "4": "Mas, se alguma viúva tiver filhos, ou netos, aprendam primeiro a exercer piedade para com a sua própria família, e a recompensar seus pais; porque isto é bom e agradável diante de Deus.",

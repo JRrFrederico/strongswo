@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Súplicas durante a provação"
+    },
     "versiculos": {
         "1": "Senhor, não me repreendas na tua ira, nem me castigues no teu furor.",
         "2": "Tem misericórdia de mim, Senhor, porque sou fraco; sara-me, Senhor, porque os meus ossos estão perturbados.",

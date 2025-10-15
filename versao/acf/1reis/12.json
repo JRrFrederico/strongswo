@@ -1,9 +1,13 @@
 {
     "livro": "1 Reis",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "A divisão do reino",
+        "16": "Dez tribos seguem Jeroboão",
+        "25": "Ídolos erigidos em Betel e Dã"
+    },
     "versiculos": {
-        "1": "E foi Roboão para Siquém; porque todo o Israel se reuniu em Siquém, para o fazerem rei.",
+        "1": "E FOI Roboão para Siquém; porque todo o Israel se reuniu em Siquém, para o fazerem rei.",
         "2": "Sucedeu que, Jeroboão, filho de Nebate, achando-se ainda no Egito, para onde fugira de diante do rei Salomão, e Jeroboão habitava no Egito,",
         "3": "E mandaram chamá-lo; veio, pois, Jeroboão e toda a congregação de Israel, e falaram a Roboão, dizendo:",
         "4": "Teu pai agravou o nosso jugo; agora, pois, alivia tu a dura servidão de teu pai, e o pesado jugo que nos impôs, e nós te serviremos.",

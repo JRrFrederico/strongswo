@@ -1,9 +1,12 @@
 {
     "livro": "1 Samuel",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "O chamado de Deus a Samuel",
+        "15": "Samuel conta a visão a Eli"
+    },
     "versiculos": {
-        "1": "E o jovem Samuel servia ao Senhor perante Eli; e a palavra do Senhor era de muita valia naqueles dias; não havia visão manifesta.",
+        "1": "E O JOVEM Samuel servia ao Senhor perante Eli; e a palavra do Senhor era de muita valia naqueles dias; não havia visão manifesta.",
         "2": "E sucedeu, naquele dia, que, estando Eli deitado no seu lugar (e os seus olhos começavam a escurecer, pois não podia ver),",
         "3": "E estando também Samuel já deitado, antes que a lâmpada de Deus se apagasse no templo do Senhor, onde estava a arca de Deus,",
         "4": "O Senhor chamou a Samuel, e disse ele: Eis-me aqui.",

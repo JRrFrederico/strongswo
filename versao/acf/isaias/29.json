@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 29,
-    "titulos": {},
+    "titulos": {
+        "1": "Oráculo contra a cidade de Davi",
+        "13": "Palavra de correção do SENHOR"
+    },
     "versiculos": {
-        "1": "Ai de Ariel, Ariel, a cidade onde Davi acampou! Acrescentai ano a ano, e sucedam-se as festas.",
+        "1": "AI de Ariel, Ariel, a cidade onde Davi acampou! Acrescentai ano a ano, e sucedam-se as festas.",
         "2": "Contudo porei a Ariel em aperto, e haverá pranto e tristeza; e ela será para mim como Ariel.",
         "3": "Porque te cercarei com o meu arraial, e te sitiarei com baluartes, e levantarei trincheiras contra ti.",
         "4": "Então serás abatida, falarás de debaixo da terra, e a tua fala desde o pó sairá fraca, e será a tua voz debaixo da terra, como a de um que tem espírito familiar, e a tua fala assobiará desde o pó.",

@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 137,
-    "titulos": {},
+    "titulos": {
+        "1": "Lamentação dos exilados"
+    },
     "versiculos": {
-        "1": "Junto aos rios da Babilônia, ali nos assentamos e choramos, quando nos lembramos de Sião.",
+        "1": "JUNTO aos rios da Babilônia, ali nos assentamos e choramos, quando nos lembramos de Sião.",
         "2": "Sobre os salgueiros que há no meio dela, penduramos as nossas harpas.",
         "3": "Pois lá aqueles que nos levaram cativos nos pediam uma canção; e os que nos destruíram, que os alegrássemos, dizendo: Cantai-nos uma das canções de Sião.",
         "4": "Como cantaremos a canção do Senhor em terra estranha?",

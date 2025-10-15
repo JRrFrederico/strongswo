@@ -1,9 +1,13 @@
 {
     "livro": "Números",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "4": "A serpente de bronze",
+        "10": "A viagem até a terra dos moabitas",
+        "21": "Israel vence Seom e Ogue"
+    },
     "versiculos": {
-        "1": "Ouvindo o cananeu, rei de Arade, que habitava para o lado sul, que Israel vinha pelo caminho dos espias, pelejou contra Israel, e dele levou alguns prisioneiros.",
+        "1": "OUVINDO o cananeu, rei de Arade, que habitava para o lado sul, que Israel vinha pelo caminho dos espias, pelejou contra Israel, e dele levou alguns prisioneiros.",
         "2": "Então Israel fez um voto ao Senhor, dizendo: Se de fato entregares este povo na minha mão, destruirei totalmente as suas cidades.",
         "3": "O Senhor, pois, ouviu a voz de Israel, e lhe entregou os cananeus; e os israelitas destruíram totalmente, a eles e às suas cidades; e o nome daquele lugar chamou Hormá.",
         "4": "Então partiram do monte Hor, pelo caminho do Mar Vermelho, a rodear a terra de Edom; porém a alma do povo angustiou-se naquele caminho.",

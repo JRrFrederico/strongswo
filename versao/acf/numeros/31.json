@@ -1,9 +1,14 @@
 {
     "livro": "Números",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "1": "Guerra santa contra os midianitas",
+        "13": "O retorno do exército de Israel",
+        "25": "Divisão dos despojos de guerra",
+        "48": "As ofertas dos oficiais militares"
+    },
     "versiculos": {
-        "1": "E falou o Senhor a Moisés, dizendo:",
+        "1": "E FALOU o Senhor a Moisés, dizendo:",
         "2": "Vinga os filhos de Israel dos midianitas; depois recolhido serás ao teu povo.",
         "3": "Falou, pois, Moisés ao povo, dizendo: Armem-se alguns de vós para a guerra, e saiam contra os midianitas, para fazerem a vingança do Senhor contra eles.",
         "4": "Mil de cada tribo, entre todas as tribos de Israel, enviareis à guerra.",

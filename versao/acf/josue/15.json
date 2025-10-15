@@ -1,9 +1,13 @@
 {
     "livro": "Josué",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "As terras dadas à tribo de Judá",
+        "13": "Os calebitas tomam posse da terra",
+        "21": "Os nomes das cidades de Judá"
+    },
     "versiculos": {
-        "1": "A sorte que coube à tribo dos filhos de Judá, segundo as suas famílias, foi até ao termo de Edom, o deserto de Zim, para o sul, na extremidade do lado meridional.",
+        "1": "A SORTE que coube à tribo dos filhos de Judá, segundo as suas famílias, foi até ao termo de Edom, o deserto de Zim, para o sul, na extremidade do lado meridional.",
         "2": "E foi o seu termo para o sul, desde a extremidade do Mar Salgado, desde a baía que olha para o sul;",
         "3": "E sai para o sul, até à subida de Acrabim, e passa a Zim, e sobe do sul a Cades-Barneia, e passa por Hezrom, e sobe a Adar, e vira para Carca;",
         "4": "E passa Azmom, e sai ao ribeiro do Egito, e as saídas deste termo vão até ao mar; este será o vosso termo do lado do sul.",

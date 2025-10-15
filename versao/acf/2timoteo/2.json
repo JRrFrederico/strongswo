@@ -1,9 +1,12 @@
 {
     "livro": "2 Timóteo",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "As batalhas por amor a Cristo",
+        "14": "Atitudes do obreiro de Deus"
+    },
     "versiculos": {
-        "1": "Tu, pois, meu filho, fortifica-te na graça que há em Cristo Jesus.",
+        "1": "TU, pois, meu filho, fortifica-te na graça que há em Cristo Jesus.",
         "2": "E o que de mim, entre muitas testemunhas, ouviste, confia-o a homens fiéis, que sejam idôneos para também ensinarem os outros.",
         "3": "Tu pois, sofre as aflições, como bom soldado de Jesus Cristo.",
         "4": "Ninguém que milita se embaraça com negócios desta vida, a fim de agradar àquele que o alistou para a guerra.",

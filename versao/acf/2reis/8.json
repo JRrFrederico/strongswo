@@ -1,9 +1,14 @@
 {
     "livro": "2 Reis",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Restaurados os bens da sunamita",
+        "7": "Eliseu e o rei da Síria",
+        "16": "O reinado de Jeorão, rei de Judá",
+        "25": "O reinado de Acazias, rei de Judá"
+    },
     "versiculos": {
-        "1": "E falou Eliseu àquela mulher cujo filho ele ressuscitara, dizendo: Levanta-te e vai, tu e a tua família, e peregrina onde puderes peregrinar; porque o Senhor chamou a fome, a qual também virá à terra por sete anos.",
+        "1": "E FALOU Eliseu àquela mulher cujo filho ele ressuscitara, dizendo: Levanta-te e vai, tu e a tua família, e peregrina onde puderes peregrinar; porque o Senhor chamou a fome, a qual também virá à terra por sete anos.",
         "2": "E levantou-se a mulher, e fez conforme a palavra do homem de Deus; porque foi ela com a sua família, e peregrinou na terra dos filisteus sete anos.",
         "3": "E sucedeu que, ao fim dos sete anos, a mulher voltou da terra dos filisteus, e saiu a clamar ao rei pela sua casa e pelas suas terras.",
         "4": "Ora o rei falava a Geazi, servo do homem de Deus, dizendo: Conta-me, peço-te, todas as grandes obras que Eliseu tem feito.",

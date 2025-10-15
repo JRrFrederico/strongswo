@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó questiona a severidade de Deus"
+    },
     "versiculos": {
-        "1": "A minha alma tem tédio da minha vida; darei livre curso à minha queixa, falarei na amargura da minha alma.",
+        "1": "A MINHA alma tem tédio da minha vida; darei livre curso à minha queixa, falarei na amargura da minha alma.",
         "2": "Direi a Deus: Não me condenes; faze-me saber por que contendes comigo.",
         "3": "Parece-te bem que me oprimas, que rejeites o trabalho das tuas mãos e resplandeças sobre o conselho dos ímpios?",
         "4": "Tens tu porventura olhos de carne? Vês tu como vê o homem?",

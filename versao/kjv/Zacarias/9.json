@@ -1,24 +1,28 @@
 {
     "livro": "Zacarias",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Julgamento dos inimigos de Israel",
+        "9": "Eis que é chegado o Rei de Sião!",
+        "14": "O aparecimento do SENHOR"
+    },
     "versiculos": {
-        "1": "O peso da palavra do SENHOR na terra de Hadraque, e Damasco será o seu descanso; quando os olhos do homem, e de todas as tribos de Israel, se voltarem para o SENHOR.",
-        "2": "E também Hamate fará fronteira lá; Tiro e Sidom, embora sejam sábias.",
-        "3": "E Tiro edificou para si uma fortaleza, e acumulou prata como a poeira, e ouro fino como a lama das ruas.",
-        "4": "Eis que o Senhor a destituirá, e ferirá o seu poder no mar; e ela será devorada pelo fogo.",
-        "5": "Ascalom o verá e temerá; Gaza também o verá, e terá grande dor, assim como Ecrom; pois a sua expectativa será envergonhada; e o rei perecerá desde Gaza, e Ascalom não será habitada.",
-        "6": "E um bastardo habitará em Asdode, e eu cortarei o orgulho dos filisteus.",
-        "7": "E tirarei o seu sangue pela sua boca, e as suas abominações de entre os seus dentes; mas aquele que remanescer será para o nosso Deus; e ele será como um governador em Judá, e Ecrom como um jebuseu.",
-        "8": "E acamparei ao redor da minha casa, por causa do exército, por causa daquele que passa, e por causa daquele que retorna; e nenhum opressor passará mais por eles; porque agora vi com os meus olhos.",
-        "9": "Regozija-te muito, ó filha de Sião; aclama, ó filha de Jerusalém; eis que o teu Rei virá a ti, ele é justo e tem a salvação; humilde, e montado sobre um jumento, e sobre um jumentinho, filho de jumenta.",
-        "10": "E eu cortarei a carruagem de Efraim, e os cavalos de Jerusalém, e o arco de guerra será quebrado; e ele proclamará paz aos pagãos; e o seu domínio será de mar a mar, e dos rios até as extremidades da terra.",
-        "11": "E também quanto a ti, por causa do sangue do teu pacto, libertei os teus prisioneiros do buraco, onde não há água.",
-        "12": "Voltai à fortaleza, ó prisioneiros da esperança; hoje declaro que vos darei em dobro.",
-        "13": "Quando eu tiver dobrado Judá para mim, preenchido o arco com Efraim, levantado os teus filhos, Ó Sião, contra os teus filhos, Ó Grécia, e tiver feito de ti como a espada de um homem poderoso.",
-        "14": "E o SENHOR será visto sobre eles, e sua flecha sairá como um relâmpago; e o Senhor DEUS soprará a trombeta, e irá com os redemoinhos do sul.",
-        "15": "O SENHOR dos Exércitos os defenderá; e eles devorarão e subjugarão com pedras da funda; também beberão e farão barulho como excitados pelo vinho; e se encherão como bacias, e como os cantos do altar.",
-        "16": "E o SENHOR seu Deus os salvará naquele dia, como ao rebanho do seu povo; pois serão como as pedras de uma coroa, levantados como uma insígnia sobre a sua terra.",
-        "17": "Pois, quão grande é a sua bondade, e quão grande é a sua beleza! O trigo tornará os jovens alegres, e o vinho novo, as donzelas."
+        "1": "Eis a Palavra de Yahweh contra as terras de Hadraque, que atingirá Damasco, porquanto os olhos do S ENHOR passeiam por toda a humanidade e sobre todas as tribos de Israel,",
+        "2": "assim como sobre Hamate que faz fronteira com Damasco, e sobre Tiro e Sidom, embora se achem muito cultas e invencíveis.",
+        "3": "Tiro construiu para si uma fortaleza; acumulou prata como o pó da terra, e ouro como lama nas ruas.",
+        "4": "Mas o Eterno se apossará dela e lançará no mar toda a sua riqueza, e ela será consumida pelo fogo.",
+        "5": "Ao observar esse assombro, Ascalom sentirá grande pavor; Gaza, de igual modo, se contorcerá de pavor e agonia, assim como Ecrom, porque a sua esperança fracassou. Gaza perderá o seu rei, e Ascalom ficará desabitada.",
+        "6": "Um povo bastardo ocupará Asdode, e assim Eu exterminarei com a arrogância dos filisteus.",
+        "7": "Tirarei o sangue de suas bocas, e a comida proibida dentre os seus dentes! Aquele que restar pertencerá ao nosso Elohim , Deus, e se tornará chefe em Judá. E Ecrom será como os jebuseus.",
+        "8": "Acamparei contra o exército ao redor da minha Casa, para que ninguém passe, nem retorne; eis que um opressor nunca mais passará por cima do meu povo, porquanto agora Eu observei tudo isso com meus próprios olhos!",
+        "9": "Alegra-te demasiado, ó cidade, filha, de Tsión , Sião; exulta ó filha de Jerusalém; eis que o teu Rei vem a ti; ele é Justo e traz a Salvação; ele é Humilde e vem montado sobre um burrico, um potro sagrado, cria de jumenta.",
+        "10": "Ele destruirá os carros de guerra de Efraim e os cavalos de Jerusalém, e os arcos de batalha serão todos quebrados. Ele anunciará Shalom , paz e prosperidade, às nações, e o seu domínio se estenderá de mar a mar, e desde o Rio, o Eufrates, até as extremidades da terra!",
+        "11": "Quanto a ti, por causa do sangue da minha Aliança contigo, haverei de libertar os teus cativos de um poço sem água.",
+        "12": "Retornai à fortaleza, presos com esperança; hoje também anuncio que te recompensarei em dobro.",
+        "13": "Pois curvarei Judá como se curva um arco de guerra, usarei Efraim como seta; convocarei teus filhos, ó Sião, contra os teus filhos, ó Grécia; e te farei como a espada de um valente, ó Sião.",
+        "14": "Então Yahweh surgirá sobre eles; sua flecha brilhará como relâmpago. Adonai, o S ENHOR Deus fará soar o Shofar , a trombeta, e marchará em meio às tempestades do sul;",
+        "15": "o Eterno dos Exércitos os protegerá; eles devorarão e pisotearão as pedras das atiradeiras. Eles beberão o sangue do inimigo como se fosse vinho; estarão cheios como as bacias de sacrifício, usadas para aspergir água nos cantos do altar.",
+        "16": "Naquele grande Dia, Yahweh , o seu Elohim , Deus, os salvará como rebanho do seu povo; porque serão como as joias de uma coroa reluzindo em sua terra.",
+        "17": "Ah! Quão maravilhosa é a tua bondade! Quão formosa será a nova geração! Haverá trigo e vinho com fartura, e os rapazes e as moças crescerão saudáveis, fortes e bonitos."
     }
 }

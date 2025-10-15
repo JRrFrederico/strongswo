@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "A sabedoria vale mais que ouro puro"
+    },
     "versiculos": {
-        "1": "O vinho é escarnecedor, a bebida forte alvoroçadora; e todo aquele que neles errar nunca será sábio.",
+        "1": "O VINHO é escarnecedor, a bebida forte alvoroçadora; e todo aquele que neles errar nunca será sábio.",
         "2": "Como o rugido do leão é o terror do rei; o que o provoca à ira peca contra a sua própria alma.",
         "3": "Honroso é para o homem desviar-se de questões, mas todo tolo é intrometido.",
         "4": "O preguiçoso não lavrará por causa do inverno, pelo que mendigará na sega, mas nada receberá.",

@@ -1,9 +1,13 @@
 {
     "livro": "Jeremias",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus julga e castiga os reis maus",
+        "13": "A destruição do rei Jeoaquim",
+        "24": "A destruição do rei Joaquim"
+    },
     "versiculos": {
-        "1": "Assim diz o Senhor: Desce à casa do rei de Judá, e anuncia ali esta palavra,",
+        "1": "ASSIM diz o Senhor: Desce à casa do rei de Judá, e anuncia ali esta palavra,",
         "2": "E dize: Ouve a palavra do Senhor, ó rei de Judá, que te assentas no trono de Davi, tu, e os teus servos, o teu povo, que entrais por estas portas.",
         "3": "Assim diz o Senhor: Exercei o juízo e a justiça, e livrai o espoliado da mão do opressor; e não oprimais ao estrangeiro, nem ao órfão, nem à viúva; não façais violência, nem derrameis sangue inocente neste lugar.",
         "4": "Porque, se deveras cumprirdes esta palavra, entrarão pelas portas desta casa os reis que se assentarão em lugar de Davi sobre o seu trono, andando em carros e montados em cavalos, eles, e os seus servos, e o seu povo.",

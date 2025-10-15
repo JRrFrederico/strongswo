@@ -1,9 +1,16 @@
 {
     "livro": "2 Reis",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Massacre da família real de Israel",
+        "12": "Massacre dos príncipes de Judá",
+        "15": "A morte dos ministros de Baal",
+        "18": "Destruição do templo de Baal",
+        "28": "Reinado de Jeú em Israel",
+        "32": "A morte de Jeú"
+    },
     "versiculos": {
-        "1": "E Acabe tinha setenta filhos em Samaria. Jeú escreveu cartas, e as enviou a Samaria, aos chefes de Jizreel, aos anciãos e aos tutores dos filhos de Acabe, dizendo:",
+        "1": "E ACABE tinha setenta filhos em Samaria. Jeú escreveu cartas, e as enviou a Samaria, aos chefes de Jizreel, aos anciãos e aos tutores dos filhos de Acabe, dizendo:",
         "2": "Logo, em chegando a vós esta carta, pois estão convosco os filhos de vosso senhor, como também os carros, os cavalos, a cidade fortalecida e as armas,",
         "3": "Olhai pelo melhor e mais reto dos filhos de vosso senhor, o qual ponde sobre o trono de seu pai, e pelejai pela casa de vosso senhor.",
         "4": "Porém eles temeram muitíssimo, e disseram: Eis que dois reis não puderam resistir a ele; como, pois, poderemos nós resistir-lhe?",

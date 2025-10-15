@@ -1,9 +1,13 @@
 {
     "livro": "Isaías",
     "capitulo": 33,
-    "titulos": {},
+    "titulos": {
+        "1": "A tão esperada salvação virá",
+        "10": "Oráculo contra os inimigos",
+        "17": "O retorno à Nova Jerusalém"
+    },
     "versiculos": {
-        "1": "Ai de ti, despojador, que não foste despojado, e que procedes perfidamente contra os que não procederam perfidamente contra ti! Acabando tu de despojar, serás despojado; e, acabando tu de tratar perfidamente, perfidamente te tratarão.",
+        "1": "AI de ti, despojador, que não foste despojado, e que procedes perfidamente contra os que não procederam perfidamente contra ti! Acabando tu de despojar, serás despojado; e, acabando tu de tratar perfidamente, perfidamente te tratarão.",
         "2": "Senhor, tem misericórdia de nós, por ti temos esperado; sê tu o nosso braço cada manhã, como também a nossa salvação no tempo da tribulação.",
         "3": "Ao ruído do tumulto fugirão os povos; à tua exaltação as nações serão dispersas.",
         "4": "Então ajuntar-se-á o vosso despojo como se ajunta a lagarta; como os gafanhotos saltam, assim ele saltará sobre eles.",

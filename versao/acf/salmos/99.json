@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 99,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvor à santidade do Senhor"
+    },
     "versiculos": {
         "1": "O Senhor reina; tremam os povos. Ele está assentado entre os querubins; comova-se a terra.",
         "2": "O Senhor é grande em Sião, e mais alto do que todos os povos.",

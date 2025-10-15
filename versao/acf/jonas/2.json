@@ -1,9 +1,11 @@
 {
     "livro": "Jonas",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "A oração de Jonas"
+    },
     "versiculos": {
-        "1": "E orou Jonas ao Senhor, seu Deus, das entranhas do peixe.",
+        "1": "E OROU Jonas ao Senhor, seu Deus, das entranhas do peixe.",
         "2": "E disse: Na minha angústia clamei ao Senhor, e ele me respondeu; do ventre da sepultura gritei, e tu ouviste a minha voz.",
         "3": "Porque tu me lançaste no profundo, no coração dos mares, e a corrente das águas me cercou; todas as tuas ondas e as tuas vagas têm passado por cima de mim.",
         "4": "E eu disse: Lançado estou de diante dos teus olhos; todavia tornarei a ver o teu santo templo.",

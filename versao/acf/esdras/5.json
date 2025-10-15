@@ -1,9 +1,11 @@
 {
     "livro": "Esdras",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Ageu e Zacarias exortam o povo"
+    },
     "versiculos": {
-        "1": "E os profetas Ageu e Zacarias, filho de Ido, profetizaram aos judeus que estavam em Judá, e em Jerusalém; em nome do Deus de Israel lhes profetizaram.",
+        "1": "E OS profetas Ageu e Zacarias, filho de Ido, profetizaram aos judeus que estavam em Judá, e em Jerusalém; em nome do Deus de Israel lhes profetizaram.",
         "2": "Então se levantaram Zorobabel, filho de Sealtiel, e Jesuá, filho de Jozadaque, e começaram a edificar a casa de Deus, que está em Jerusalém; e com eles os profetas de Deus, que os ajudavam.",
         "3": "Naquele tempo vieram a eles Tatenai, governador dalém do rio, e Setar-Bozenai, e os seus companheiros, e disseram-lhes assim: Quem vos deu ordem para reedificardes esta casa, e restaurardes este muro?",
         "4": "Disseram-lhes, mais: E quais são os nomes dos homens que construíram este edifício?",

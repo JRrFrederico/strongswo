@@ -1,9 +1,12 @@
 {
     "livro": "Hebreus",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus Cristo é superior a Moisés",
+        "7": "O grave perigo da incredulidade"
+    },
     "versiculos": {
-        "1": "Por isso, irmãos santos, participantes da vocação celestial, considerai a Cristo Jesus, apóstolo e sumo sacerdote da nossa confissão,",
+        "1": "POR isso, irmãos santos, participantes da vocação celestial, considerai a Cristo Jesus, apóstolo e sumo sacerdote da nossa confissão,",
         "2": "Sendo fiel ao que o constituiu, como também o foi Moisés em toda a sua casa.",
         "3": "Porque ele é tido por digno de tanto maior glória do que Moisés, quanto maior honra do que a casa tem aquele que a edificou.",
         "4": "Porque toda a casa é edificada por alguém, mas o que edificou todas as coisas é Deus.",

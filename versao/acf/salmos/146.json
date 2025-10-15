@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 146,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvor a Deus por sua misericórdia"
+    },
     "versiculos": {
-        "1": "Louvai ao Senhor. Ó minha alma, louva ao Senhor.",
+        "1": "LOUVAI ao Senhor. Ó minha alma, louva ao Senhor.",
         "2": "Louvarei ao Senhor durante a minha vida; cantarei louvores ao meu Deus enquanto eu for vivo.",
         "3": "Não confieis em príncipes, nem em filho de homem, em quem não há salvação.",
         "4": "Sai-lhe o espírito, volta para a terra; naquele mesmo dia perecem os seus pensamentos.",

@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "A paz de Deus é melhor que o ouro"
+    },
     "versiculos": {
-        "1": "É melhor um bocado seco, e com ele a tranquilidade, do que a casa cheia de iguarias e com desavença.",
+        "1": "É MELHOR um bocado seco, e com ele a tranquilidade, do que a casa cheia de iguarias e com desavença.",
         "2": "O servo prudente dominará sobre o filho que faz envergonhar; e repartirá a herança entre os irmãos.",
         "3": "O crisol é para a prata, e o forno para o ouro; mas o Senhor é quem prova os corações.",
         "4": "O ímpio atenta para o lábio iníquo, o mentiroso inclina os ouvidos à língua maligna.",

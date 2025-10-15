@@ -1,9 +1,15 @@
 {
     "livro": "Isaías",
     "capitulo": 30,
-    "titulos": {},
+    "titulos": {
+        "1": "Oráculo contra acordo com o Egito",
+        "6": "Advertência contra a embaixada",
+        "8": "Testamento",
+        "18": "A graça e o perdão divinos",
+        "27": "Oráculo contra a Assíria"
+    },
     "versiculos": {
-        "1": "Ai dos filhos rebeldes, diz o Senhor, que tomam conselho, mas não de mim; e que se cobrem, com uma cobertura, mas não do meu espírito, para acrescentarem pecado sobre pecado;",
+        "1": "AI dos filhos rebeldes, diz o Senhor, que tomam conselho, mas não de mim; e que se cobrem, com uma cobertura, mas não do meu espírito, para acrescentarem pecado sobre pecado;",
         "2": "Que descem ao Egito, sem pedirem o meu conselho; para se fortificarem com a força de Faraó, e para confiarem na sombra do Egito.",
         "3": "Porque a força de Faraó se vos tornará em vergonha, e a confiança na sombra do Egito em confusão.",
         "4": "Porque os seus príncipes já estão em Zoã, e os seus embaixadores já chegaram a Hanes.",

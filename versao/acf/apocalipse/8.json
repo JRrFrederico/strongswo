@@ -1,9 +1,16 @@
 {
     "livro": "Apocalipse",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "O sétimo selo e o incensário",
+        "6": "A visão das sete trombetas",
+        "7": "A primeira trombeta",
+        "8": "A segunda trombeta",
+        "10": "A terceira trombeta",
+        "12": "A quarta trombeta"
+    },
     "versiculos": {
-        "1": "E, havendo aberto o sétimo selo, fez-se silêncio no céu quase por meia hora.",
+        "1": "E, HAVENDO aberto o sétimo selo, fez-se silêncio no céu quase por meia hora.",
         "2": "E vi os sete anjos, que estavam diante de Deus, e foram-lhes dadas sete trombetas.",
         "3": "E veio outro anjo, e pôs-se junto ao altar, tendo um incensário de ouro; e foi-lhe dado muito incenso, para o pôr com as orações de todos os santos sobre o altar de ouro, que está diante do trono.",
         "4": "E a fumaça do incenso subiu com as orações dos santos desde a mão do anjo até diante de Deus.",

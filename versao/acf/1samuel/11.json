@@ -1,9 +1,12 @@
 {
     "livro": "1 Samuel",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Saul vence os amonitas",
+        "12": "O povo referenda Saul: rei"
+    },
     "versiculos": {
-        "1": "Então subiu Naás, amonita, e sitiou a Jabes-Gileade; e disseram todos os homens de Jabes a Naás: Faze aliança conosco, e te serviremos.",
+        "1": "ENTÃO subiu Naás, amonita, e sitiou a Jabes-Gileade; e disseram todos os homens de Jabes a Naás: Faze aliança conosco, e te serviremos.",
         "2": "Porém Naás, amonita, lhes disse: Com esta condição farei aliança convosco: que a todos vos arranque o olho direito, e assim ponha esta afronta sobre todo o Israel.",
         "3": "Então os anciãos de Jabes lhe disseram: Deixa-nos por sete dias, para que enviemos mensageiros por todos os termos de Israel, e, não havendo ninguém que nos livre, então viremos a ti.",
         "4": "E, vindo os mensageiros a Gibeá de Saul, falaram estas palavras aos ouvidos do povo. Então todo o povo levantou a sua voz, e chorou.",

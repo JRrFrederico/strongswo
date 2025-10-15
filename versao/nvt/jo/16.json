@@ -2,18 +2,30 @@
     "livro": "Jó",
     "capitulo": 16,
     "titulos": {
-        "5": "A obra do Espírito Santo",
-        "16": "A tristeza será transformada em alegria"
+        "1": "O quinto discurso de Jó: resposta a Elifaz"
     },
     "versiculos": {
-        "1": "\"Eu lhes digo estas coisas para que não desanimem da fé. Pois vocês serão expulsos das sinagogas, e virá o tempo em que aqueles que os matarem pensarão que estão prestando um serviço sagrado a Deus. Farão isso porque nunca conheceram nem o Pai nem a mim. Sim, eu lhes digo estas coisas agora para que, quando elas acontecerem, vocês se lembrem de que os avisei. Eu não lhes disse antes porque ainda estaria com vocês mais um pouco.\"",
-        "5": "\"Agora, porém, vou para aquele que me enviou, e nenhum de vocês me pergunta para onde vou. Em vez disso, entristecem-se por causa do que eu lhes disse. Mas, na verdade, é melhor para vocês que eu vá, pois, se eu não for, o Encorajador não virá. Se eu for, eu o enviarei a vocês. Quando ele vier, convencerá o mundo do pecado, da justiça e do juízo. Do pecado, porque o mundo se recusou a crer em mim; da justiça, porque eu voltarei para o Pai e não me verão mais; do juízo, porque o governante deste mundo já foi condenado.",
-        "12": "\"Há tanta coisa que ainda quero lhes dizer, mas vocês não podem suportar agora. Quando vier o Espírito da verdade, ele os conduzirá a toda a verdade. Não falará por si mesmo, mas lhes dirá o que ouviu e lhes anunciará o que ainda está para acontecer. Ele me glorificará porque lhes contará tudo que receber de mim. Tudo que pertence ao Pai é meu; por isso eu disse: ‘O Espírito lhes contará tudo que receber de mim’.\"",
-        "16": "\"Mais um pouco e vocês não me verão mais; algum tempo depois, me verão novamente.\"",
-        "17": "Alguns dos discípulos perguntaram entre si: \"O que ele quer dizer com ‘Mais um pouco e vocês não me verão’ e ‘algum tempo depois, me verão novamente’ e ‘vou para o Pai’? E o que ele quer dizer com ‘mais um pouco’? Não entendemos\".",
-        "19": "Jesus, percebendo que desejavam lhe perguntar sobre essas coisas, disse: \"Vocês perguntam entre si o que eu quis dizer quando falei: ‘Mais um pouco e vocês não me verão; algum tempo depois, me verão novamente’? Eu lhes digo a verdade: vocês chorarão e se lamentarão pelo que acontecerá comigo, mas o mundo se alegrará. Ficarão tristes, mas sua tristeza se transformará em alegria. No trabalho de parto, a mulher sente dores, mas, quando o bebê nasce, sua angústia dá lugar à alegria, pois ela trouxe ao mundo uma criança. Da mesma forma, agora vocês estão tristes, mas eu os verei novamente; então se alegrarão e ninguém lhes poderá tirar essa alegria. Naquele dia, não terão necessidade de me perguntar coisa alguma. Eu lhes digo a verdade: vocês pedirão diretamente ao Pai e ele atenderá, porque pediram em meu nome. Vocês nunca pediram desse modo. Peçam em meu nome e receberão, e terão alegria completa.",
-        "25": "\"Eu lhes falei destas coisas de maneira figurativa, mas em breve deixarei de usar esse tipo de linguagem e lhes falarei claramente a respeito do Pai. Então vocês pedirão em meu nome. Não digo que pedirei ao Pai em seu favor, pois o próprio Pai os ama, porque vocês me amam e creem que eu vim de Deus. Sim, eu vim do Pai e entrei no mundo, e agora deixo o mundo e volto para o Pai\".",
-        "29": "Então os discípulos disseram: \"Enfim o senhor fala claramente, e não de maneira figurativa. Agora entendemos que o senhor sabe todas as coisas e não há necessidade de lhe fazer perguntas. Por isso cremos que o senhor veio de Deus\".",
-        "31": "Jesus disse: \"Enfim vocês creem? Mas se aproxima o tempo, e de fato já chegou, em que vocês serão espalhados; cada um seguirá seu caminho e me deixará sozinho. Mas não ficarei sozinho, porque o Pai está comigo. Eu lhes falei tudo isso para que tenham paz em mim. Aqui no mundo vocês terão aflições, mas animem-se, pois eu venci o mundo\"."
+        "1": "Então Jó falou novamente:",
+        "2": "“Já ouvi tudo isso antes; que péssimos consoladores são vocês!",
+        "3": "Será que nunca vão parar de tagarelar? Que perturbação os faz continuar falando?",
+        "4": "Eu poderia dizer as mesmas coisas se estivessem em meu lugar, poderia berrar críticas e balançar a cabeça contra vocês.",
+        "5": "Mas eu faria diferente: eu lhes daria ânimo e tentaria aliviar seu sofrimento.",
+        "6": "Em vez disso, sofro se me defendo, e sofro igualmente se me recuso a falar.",
+        "7": "“Ó Deus, tu me esgotaste e destruíste toda a minha família!",
+        "8": "Reduziste-me a pele e osso, como para provar que pequei; minha magreza depõe contra mim.",
+        "9": "Deus me odeia e, em sua ira, me despedaçou; range os dentes contra mim e me transpassa com seu olhar.",
+        "10": "As pessoas zombam e riem de mim e, com desprezo, me dão tapas no rosto; sim, uma multidão se junta contra mim.",
+        "11": "Deus me entregou aos pecadores, atirou-me nas mãos dos perversos.",
+        "12": "“Eu vivia tranquilo, até que ele me despedaçou; pelo pescoço me agarrou e me quebrou ao meio. Fez de mim seu alvo,",
+        "13": "e agora seus arqueiros me cercam. Suas flechas me perfuram sem misericórdia, e meu sangue molha o chão.",
+        "14": "Repetidamente, ele se lança contra mim e me ataca como um guerreiro.",
+        "15": "Em minha tristeza, visto pano de saco; meu orgulho se revolve no pó.",
+        "16": "Meu rosto está vermelho de tanto chorar, e sombras escuras me circundam os olhos.",
+        "17": "No entanto, nada fiz de errado, e minha oração é pura.",
+        "18": "“Ó terra, não esconda meu sangue! Não permita que meu clamor permaneça oculto.",
+        "19": "Agora mesmo, minha testemunha está nos céus, meu advogado está nas alturas.",
+        "20": "Meus amigos me desprezam, mas derramo minhas lágrimas diante de Deus.",
+        "21": "Preciso de um mediador entre mim e Deus, como alguém que intercede por seu amigo.",
+        "22": "Pois em breve seguirei pelo caminho do qual jamais voltarei.”"
     }
 }

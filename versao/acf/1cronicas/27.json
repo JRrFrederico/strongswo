@@ -1,9 +1,13 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "Os vários escalões do exército",
+        "16": "Os líderes das Tribos de Israel",
+        "25": "Os superintendentes do rei Davi"
+    },
     "versiculos": {
-        "1": "Estes são os filhos de Israel segundo o seu número, os chefes dos pais, e os capitães dos milhares e das centenas, com os seus oficiais, que serviam ao rei em todos os negócios das turmas que entravam e saíam de mês em mês, em todos os meses do ano; cada turma de vinte e quatro mil.",
+        "1": "ESTES são os filhos de Israel segundo o seu número, os chefes dos pais, e os capitães dos milhares e das centenas, com os seus oficiais, que serviam ao rei em todos os negócios das turmas que entravam e saíam de mês em mês, em todos os meses do ano; cada turma de vinte e quatro mil.",
         "2": "Sobre a primeira turma do primeiro mês estava Jasobeão, filho de Zabdiel; e em sua turma havia vinte e quatro mil.",
         "3": "Era este dos filhos de Perez, chefe de todos os capitães dos exércitos, para o primeiro mês,",
         "4": "E sobre a turma do segundo mês estava Dodai, o aoíta, com a sua turma, cujo líder era Miclote; também em sua turma havia vinte e quatro mil.",

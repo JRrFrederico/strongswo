@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 36,
-    "titulos": {},
+    "titulos": {
+        "1": "Eliú acusa Jó de agir com arrogância"
+    },
     "versiculos": {
-        "1": "Prosseguiu ainda Eliú, e disse:",
+        "1": "PROSSEGUIU ainda Eliú, e disse:",
         "2": "Espera-me um pouco, e mostrar-te-ei que ainda há razões a favor de Deus.",
         "3": "De longe trarei o meu conhecimento; e ao meu Criador atribuirei a justiça.",
         "4": "Porque na verdade, as minhas palavras não serão falsas; contigo está um que tem perfeito conhecimento.",

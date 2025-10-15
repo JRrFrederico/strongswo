@@ -1,22 +1,25 @@
 {
     "livro": "2 Coríntios",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Orientações quanto à coleta",
+        "6": "Semeando e colhendo fartura"
+    },
     "versiculos": {
-        "1": "No tocante à ministração aos santos, é supérfluo para mim escrever-vos;",
-        "2": "porque eu conheço a presteza de vossa mente, da qual me glorio de vós para com os da Macedônia; que a Acaia estava pronta há um ano; e o vosso zelo tem estimulado a muitos.",
-        "3": "Mas eu enviei os irmãos, para que a nossa glória em vós, não seja vã nesta parte; para que, como eu disse, possais estar prontos,",
-        "4": "para que não aconteça que, se os macedônios vierem comigo, e vos acharem despreparados, nós , não fôssemos envergonhados nesta mesma glória confiante.",
-        "5": "Portanto, julguei necessário exortar os irmãos, para que eles fossem ter convosco, e preparassem de antemão a vossa liberalidade, da qual fostes informados antes, para que esteja pronta como uma questão de generosidade e não de avareza.",
-        "6": "Mas digo isto: O que semeia com moderação, também colherá com moderação; e o que semeia em abundância, em abundância também ceifará.",
-        "7": "Cada homem dê conforme propôs no seu coração, não com má vontade ou por necessidade; porque Deus ama um alegre doador.",
-        "8": "E Deus é capaz de fazer toda a graça abundar em vós, para que vós, tendo sempre toda a suficiência em todas as coisas, abundeis em todo bom trabalho;",
-        "9": "(conforme está escrito: Ele espalhou, deu aos pobres; a sua justiça permanece para sempre.",
-        "10": "Ora, aquele que ministra a semente ao que semeia, também ministre o pão para o alimento, e multiplique a vossa sementeira, e aumente os frutos da vossa justiça);",
-        "11": "sendo enriquecidos em todas as coisas para toda a generosidade, a qual faz através de nós ação de graças a Deus.",
-        "12": "Porque a administração deste serviço, não só supre as necessidades dos santos, mas é abundante também em muitas ações de graças a Deus;",
-        "13": "pois, pela experiência desta ministração, eles glorificam a Deus pela vossa submissão ao evangelho de Cristo, e pela vossa distribuição liberal para com eles e para com todos os homens;",
-        "14": "e pela sua oração por vós, ansiando por vós, por causa da superior graça de Deus em vós.",
-        "15": "Graças a Deus por seu dom inefável."
+        "1": "Ora, quanto à assistência em favor dos santos, não há necessidade de que vos escreva,",
+        "2": "porquanto estou convicto da vossa total disposição, da qual me orgulho de vós diante dos macedônios, informando que a Acaia está pronta para contribuir desde o ano passado. E a vossa dedicação tem incentivado muitos outros.",
+        "3": "No entanto, estou enviando esses irmãos, com o propósito de que nosso orgulho por vós, nesse aspecto, não se torne inútil, a fim de que estejais preparados, como afirmei que de fato estariam,",
+        "4": "a fim de que, se alguns macedônios forem comigo e os encontrarem despreparados, nós, para não vos mencionar, não sejamos envergonhados por tanta confiança que depositamos em vós.",
+        "5": "Sendo assim, considerei necessário pedir a esses irmãos que vos visitassem e preparassem de antemão a vossa contribuição, que já havia sido prometida, para que esteja pronta como oferta generosa e não como algo arrancado da avareza.",
+        "6": "Lembrai-vos: “aquele que pouco semeia, igualmente, colherá pouco, mas aquele que semeia com generosidade, da mesma forma colherá com fartura”.",
+        "7": "Cada pessoa coopere conforme tiver proposto em seu coração, não com pesar ou por constrangimento, pois Deus ama o doador que contribui com alegria.",
+        "8": "Certos de que Deus é poderoso para fazer que toda a graça vos seja acrescentada, a fim de que em todas as áreas da vida, em todo o tempo, tendo todas as vossas necessidades satisfeitas, transbordeis em toda boa obra.",
+        "9": "Como está escrito: “Distribuiu, doou dos seus bens aos necessitados; a sua fidelidade será eternamente reconhecida”.",
+        "10": "Aquele que oferta a semente ao que semeia, e pão ao que tem fome, também vos suprirá e multiplicará a semente e fará desenvolver os frutos da vossa fidelidade.",
+        "11": "Sereis enriquecidos em todas as áreas de vossas vidas, a fim de que possais ser generosos em qualquer ocasião e, por nosso intermédio, a vossa boa vontade resulte em ações de graças a Deus.",
+        "12": "Porquanto, ao ministrar essa assistência não apenas estais suprindo as necessidades dos santos, mas semelhantemente promovendo o transbordamento de variadas expressões de louvor e gratidão a Deus.",
+        "13": "Por intermédio dessa prova de verdadeiro serviço ministerial, muitos outros louvarão a Deus pela obediência que acompanha a vossa confissão do Evangelho de Cristo e pela generosidade do vosso coração em compartilhar vossos bens com eles e com todos os outros.",
+        "14": "E eles, orando em vosso favor, demonstram a profunda afeição que têm por vós, por causa da extraordinária graça de Deus que vos foi concedida.",
+        "15": "Graças a Deus por nos haver oferecido seu maior e mais indescritível dom!"
     }
 }

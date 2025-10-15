@@ -1,9 +1,16 @@
 {
     "livro": "Mateus",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus é aclamado pelas multidões",
+        "12": "O templo é casa de oração!",
+        "18": "A figueira que não deu fruto",
+        "23": "Líderes religiosos duvidam de Jesus",
+        "28": "A parábola do pai e dois filhos",
+        "33": "A parábola dos vinicultores maus"
+    },
     "versiculos": {
-        "1": "E, quando se aproximaram de Jerusalém, e chegaram a Betfagé, ao Monte das Oliveiras, enviou, então, Jesus dois discípulos, dizendo-lhes:",
+        "1": "E, QUANDO se aproximaram de Jerusalém, e chegaram a Betfagé, ao Monte das Oliveiras, enviou, então, Jesus dois discípulos, dizendo-lhes:",
         "2": "Ide à aldeia que está defronte de vós, e logo encontrareis uma jumenta presa, e um jumentinho com ela; desprendei-a, e trazei-mos.",
         "3": "E, se alguém vos disser alguma coisa, direis que o Senhor os há de mister; e logo os enviará.",
         "4": "Ora, tudo isto aconteceu para que se cumprisse o que foi dito pelo profeta, que diz:",

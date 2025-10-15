@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Os ídolos e o verdadeiro Deus",
+        "17": "O extermínio que vem no futuro"
+    },
     "versiculos": {
-        "1": "Ouvi a palavra que o Senhor vos fala a vós, ó casa de Israel.",
+        "1": "OUVI a palavra que o Senhor vos fala a vós, ó casa de Israel.",
         "2": "Assim diz o Senhor: Não aprendais o caminho dos gentios, nem vos espanteis dos sinais dos céus; porque com eles se atemorizam as nações.",
         "3": "Porque os costumes dos povos são vaidade; pois corta-se do bosque um madeiro, obra das mãos do artífice, feita com machado;",
         "4": "Com prata e com ouro o enfeitam, com pregos e com martelos o firmam, para que não se mova.",

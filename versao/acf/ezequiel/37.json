@@ -1,9 +1,14 @@
 {
     "livro": "Ezequiel",
     "capitulo": 37,
-    "titulos": {},
+    "titulos": {
+        "1": "A profecia do vale de ossos secos",
+        "11": "O significado desta visão profética",
+        "15": "Uma só nação, um só Pastor e Rei",
+        "24": "O futuro governo do Rei davídico"
+    },
     "versiculos": {
-        "1": "Veio sobre mim a mão do Senhor, e ele me fez sair no Espírito do Senhor, e me pôs no meio de um vale que estava cheio de ossos.",
+        "1": "VEIO sobre mim a mão do Senhor, e ele me fez sair no Espírito do Senhor, e me pôs no meio de um vale que estava cheio de ossos.",
         "2": "E me fez passar em volta deles; e eis que eram mui numerosos sobre a face do vale, e eis que estavam sequíssimos.",
         "3": "E me disse: Filho do homem, porventura viverão estes ossos? E eu disse: Senhor Deus, tu o sabes.",
         "4": "Então me disse: Profetiza sobre estes ossos, e dize-lhes: Ossos secos, ouvi a palavra do Senhor.",

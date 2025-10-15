@@ -1,9 +1,11 @@
 {
     "livro": "Jonas",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Chamado, fuga e punição de Jonas"
+    },
     "versiculos": {
-        "1": "E veio a palavra do Senhor a Jonas, filho de Amitai, dizendo:",
+        "1": "E VEIO a palavra do Senhor a Jonas, filho de Amitai, dizendo:",
         "2": "Levanta-te, vai à grande cidade de Nínive, e clama contra ela, porque a sua malícia subiu até à minha presença.",
         "3": "Porém, Jonas se levantou para fugir da presença do Senhor para Társis. E descendo a Jope, achou um navio que ia para Társis; pagou, pois, a sua passagem, e desceu para dentro dele, para ir com eles para Társis, para longe da presença do Senhor.",
         "4": "Mas o Senhor mandou ao mar um grande vento, e fez-se no mar uma forte tempestade, e o navio estava a ponto de quebrar-se.",

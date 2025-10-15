@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Abrão e Ló decidem separar-se",
+        "14": "A promessa de Yahweh a Abrão"
+    },
     "versiculos": {
-        "1": "Subiu, pois, Abrão do Egito para o lado do sul, ele e sua mulher, e tudo o que tinha, e com ele Ló.",
+        "1": "SUBIU, pois, Abrão do Egito para o lado do sul, ele e sua mulher, e tudo o que tinha, e com ele Ló.",
         "2": "E era Abrão muito rico em gado, em prata e em ouro.",
         "3": "E fez as suas jornadas do sul até Betel, até ao lugar onde a princípio estivera a sua tenda, entre Betel e Ai;",
         "4": "Até ao lugar do altar que outrora ali tinha feito; e Abrão invocou ali o nome do Senhor.",

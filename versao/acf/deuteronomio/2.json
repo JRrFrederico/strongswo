@@ -1,9 +1,12 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "O tempo passado no deserto",
+        "24": "A vitória sobre o rei de Hesbom"
+    },
     "versiculos": {
-        "1": "Depois viramo-nos, e caminhamos ao deserto, caminho do Mar Vermelho, como o Senhor me tinha dito, e muitos dias rodeamos o monte Seir.",
+        "1": "DEPOIS viramo-nos, e caminhamos ao deserto, caminho do Mar Vermelho, como o Senhor me tinha dito, e muitos dias rodeamos o monte Seir.",
         "2": "Então o Senhor me falou, dizendo:",
         "3": "Tendes rodeado bastante esta montanha; virai-vos para o norte.",
         "4": "E dá ordem ao povo, dizendo: Passareis pelos termos de vossos irmãos, os filhos de Esaú, que habitam em Seir; e eles terão medo de vós; porém guardai-vos bem.",

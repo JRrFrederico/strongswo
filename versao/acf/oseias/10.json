@@ -1,9 +1,11 @@
 {
     "livro": "Oséias",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Israel planta o mal e colhe destruição"
+    },
     "versiculos": {
-        "1": "Israel é uma vide estéril que dá fruto para si mesmo; conforme a abundância do seu fruto, multiplicou também os altares; conforme a bondade da sua terra, assim fizeram boas as estátuas.",
+        "1": "ISRAEL é uma vide estéril que dá fruto para si mesmo; conforme a abundância do seu fruto, multiplicou também os altares; conforme a bondade da sua terra, assim fizeram boas as estátuas.",
         "2": "O seu coração está dividido, por isso serão culpados; o Senhor demolirá os seus altares, e destruirá as suas estátuas.",
         "3": "Certamente agora dirão: Não temos rei, porque não tememos ao Senhor; e o rei, que faria por nós?",
         "4": "Falaram palavras, jurando falsamente, fazendo uma aliança; por isso florescerá o juízo como erva peçonhenta nos sulcos dos campos.",

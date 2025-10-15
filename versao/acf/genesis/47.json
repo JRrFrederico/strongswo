@@ -1,9 +1,13 @@
 {
     "livro": "Gênesis",
     "capitulo": 47,
-    "titulos": {},
+    "titulos": {
+        "1": "Israel se estabelece no Egito",
+        "13": "A fome leva o povo à escravidão",
+        "27": "O último desejo de Israel"
+    },
     "versiculos": {
-        "1": "Então veio José e anunciou a Faraó, e disse: Meu pai e os meus irmãos e as suas ovelhas, e as suas vacas, com tudo o que tem, são vindos da terra de Canaã, e eis que estão na terra de Gósen.",
+        "1": "ENTÃO veio José e anunciou a Faraó, e disse: Meu pai e os meus irmãos e as suas ovelhas, e as suas vacas, com tudo o que têm, são vindos da terra de Canaã, e eis que estão na terra de Gósen.",
         "2": "E tomou uma parte de seus irmãos, a saber, cinco homens, e os pôs diante de Faraó.",
         "3": "Então disse Faraó a seus irmãos: Qual é o vosso negócio? E eles disseram a Faraó: Teus servos são pastores de ovelhas, tanto nós como nossos pais.",
         "4": "Disseram mais a Faraó: Viemos para peregrinar nesta terra; porque não há pasto para as ovelhas de teus servos, porquanto a fome é grave na terra de Canaã; agora, pois, rogamos-te que teus servos habitem na terra de Gósen.",

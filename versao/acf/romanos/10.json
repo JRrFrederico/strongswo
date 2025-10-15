@@ -1,9 +1,12 @@
 {
     "livro": "Romanos",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Paulo suplica a Israel que creia",
+        "16": "Israel não tem como se escusar"
+    },
     "versiculos": {
-        "1": "Irmãos, o bom desejo do meu coração e a oração a Deus por Israel é para sua salvação.",
+        "1": "IRMÃOS, o bom desejo do meu coração e a oração a Deus por Israel é para sua salvação.",
         "2": "Porque lhes dou testemunho de que têm zelo de Deus, mas não com entendimento.",
         "3": "Porquanto, não conhecendo a justiça de Deus, e procurando estabelecer a sua própria justiça, não se sujeitaram à justiça de Deus.",
         "4": "Porque o fim da lei é Cristo para justiça de todo aquele que crê.",

@@ -1,12 +1,14 @@
 {
     "livro": "Salmos",
     "capitulo": 70,
-    "titulos": {},
+    "titulos": {
+        "1": "Súplica pelo socorro de Deus"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe, Salmo de Davi, para trazer à lembrança. Apressa-te, ó Deus, para me livrar; apressa-te para me socorrer, ó SENHOR.",
-        "2": "Sejam envergonhados e confundidos aqueles que buscam a minha alma; voltem para trás e confundam-se aqueles que desejam me ferir.",
-        "3": "Que eles se virem para trás como recompensa por sua vergonha, aqueles que dizem: Ah! Ah!",
-        "4": "Que todos aqueles que te buscam se regozijem e fiquem felizes em ti; e que aqueles que amam a tua salvação digam continuamente: Magnificado seja Deus.",
-        "5": "Mas eu sou pobre e necessitado; apressa-te a mim, Ó Deus. Tu és o meu socorro e o meu libertador; ó SENHOR, não te demores."
+        "1": "Ó Deus, para minha libertação, apressa-te, S ENHOR , em socorrer-me!",
+        "2": "Cubram-se de vergonha e confusão os que me demandam a própria vida! Recuem, cobertos de desonra, os que se divertem com a minha desgraça!",
+        "3": "Recuem, cobertos de vergonha, os que maliciosamente murmuram: “Bem-feito! Bem-feito!”",
+        "4": "Contudo, que se alegrem e regozijem, por tua causa, todos os que te buscam! “Deus é grande!” Proclamem sem cessar os que amam a tua salvação!",
+        "5": "Sendo eu um pobre aflito, ó Deus, apressa-te em valer-me! Tu és meu auxílio e meu Libertador: S ENHOR , não tardes mais!"
     }
 }

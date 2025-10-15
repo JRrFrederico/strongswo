@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó não espera nada deste mundo"
+    },
     "versiculos": {
-        "1": "O meu espírito se vai consumindo, os meus dias se vão apagando, e só tenho perante mim a sepultura.",
+        "1": "O MEU espírito se vai consumindo, os meus dias se vão apagando, e só tenho perante mim a sepultura.",
         "2": "Deveras estou cercado de zombadores, e os meus olhos contemplam as suas provocações.",
         "3": "Promete agora, e dá-me um fiador para contigo; quem há que me dê a mão?",
         "4": "Porque aos seus corações encobriste o entendimento, por isso não os exaltarás.",

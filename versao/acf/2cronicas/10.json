@@ -1,9 +1,11 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Discórdias e a divisão do reino"
+    },
     "versiculos": {
-        "1": "E foi Roboão a Siquém, porque todo o Israel tinha vindo a Siquém para fazê-lo rei.",
+        "1": "E FOI Roboão a Siquém, porque todo o Israel tinha vindo a Siquém para fazê-lo rei.",
         "2": "Sucedeu que, ouvindo-o Jeroboão, filho de Nebate (o qual estava então no Egito para onde fugira da presença do rei Salomão), voltou do Egito,",
         "3": "Porque enviaram a ele, e o chamaram; e vieram, Jeroboão e todo o Israel, e falaram a Roboão dizendo:",
         "4": "Teu pai fez duro o nosso jugo; agora, pois, alivia tu a dura servidão de teu pai, e o pesado jugo que nos impôs, e nós te serviremos.",

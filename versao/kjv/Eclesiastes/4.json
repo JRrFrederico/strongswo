@@ -1,23 +1,26 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Os males e as injustiças da vida",
+        "13": "O poder é ilusório e fugaz"
+    },
     "versiculos": {
-        "1": "Então retornei, e considerei todas as opressões que se fazem debaixo do sol; e eis que vi as lágrimas daqueles que foram oprimidos, e eles não tinham um consolador, e ao lado dos seus opressores havia poder; mas eles não tinham um consolador.",
-        "2": "Por isso eu louvei os que já morreram, mais do que os que ainda vivem.",
-        "3": "Sim, melhor do que estes está aquele que ainda não existe; aquele que não viu as más obras que se fazem debaixo do sol.",
-        "4": "Novamente, considerei todo o trabalho, e toda a obra correta, pela qual um homem é invejado pelo seu próximo. Isto também é vaidade e angústia de espírito.",
-        "5": "O tolo cruza as suas mãos, e come a sua própria carne.",
-        "6": "Melhor é a mão cheia de quietude do que ambas as mãos cheias com trabalho, e angústia de espírito.",
-        "7": "Então retornei, e vi vaidade debaixo do sol.",
-        "8": "Há somente um, e não há um segundo; sim ele não tem filho ou irmão; e contudo não há fim para todo o seu trabalho, e também seus olhos não se satisfazem com riqueza; e nem ele diz: Para quem eu trabalho, e privo a minha alma do que é bom? Isto também é vaidade, sim, é um trabalho doloroso.",
-        "9": "Melhor é serem dois do que um, porque têm melhor recompensa por seu trabalho.",
-        "10": "Porque se eles caírem, um levantará o seu companheiro; mas ai do que estiver só quando cair, porquanto não haverá outro que o levante.",
-        "11": "Também, se dois dormirem juntos, eles se aquecerão; porém como poderá um só se aquecer?",
-        "12": "E, se alguém prevalecer sobre ele, os dois lhe resistirão; e o cordão de três dobras não se quebra tão depressa.",
-        "13": "Melhor é a criança pobre e sábia do que um rei velho e tolo, que não se deixa mais admoestar.",
-        "14": "Porque do cárcere ele sai para reinar; enquanto outro, que nasceu em seu reino, torna-se pobre.",
-        "15": "Considerei todos os viventes que andam debaixo do sol com a criança, a sucessora, que ficará no seu lugar.",
-        "16": "Não há um fim de todas as pessoas, até de todas que foram antes delas; tampouco os que lhe sucederem se regozijarão nele. Na verdade, isto também é vaidade e angústia de espírito."
+        "1": "Fiz nova análise e observei as opressões todas que se cometem debaixo do sol: Vi as lágrimas dos oprimidos, e notei que eles não têm quem os console; o poder está à disposição dos opressores em toda parte, e os oprimidos não encontram quem lhes dê apoio.",
+        "2": "Isso me levou a considerar os mortos mais felizes do que os vivos, pois estes ainda têm que atravessar a vida!",
+        "3": "Todavia, mais feliz que ambos é aquele que ainda não nasceu, que não viu e não teve contato com a malignidade que se pratica debaixo do sol.",
+        "4": "Observei também que todo trabalho e todo êxito ocorre porque há uma competição entre companheiros. Isso também é vazio e um despropósito tal como correr atrás do vento.",
+        "5": "O insensato cruza os braços e se deixa consumir a si mesmo.",
+        "6": "Muito mais vale conquistar um punhado com paz e tranquilidade do que dois punhados em desatino, correndo atrás do vento.",
+        "7": "Descobri ainda outra situação louca debaixo do sol:",
+        "8": "‘Havia um homem solitário, que não tendo filho, irmão, nem qualquer parente, dedicava sua vida exclusivamente ao trabalho. No entanto, seus olhos não se satisfaziam com as riquezas que acumulava. E ele nem pensava em se questionar: ‘Para quem estou trabalhando tanto, afinal? Por que não desfruto um pouco do que já tenho?’ Ora, isso é uma insensatez, uma ilusão e um trabalho ingrato!",
+        "9": "Melhor é serem dois do que um, porque há melhor recompensa no trabalho de duas pessoas.",
+        "10": "Porquanto, se um cair, o outro levantará seu companheiro. Mas pobre do que estiver sozinho e cair, assim não haverá quem o ajude a se reerguer!",
+        "11": "Também, se dois dormirem juntos, ficarão ambos aquecidos; mas como um só poderá manter-se aquecido?",
+        "12": "Um homem sozinho pode ser mais facilmente derrotado, mas duas pessoas conseguem resistir. Um cordão de três dobras não se rebenta com facilidade!",
+        "13": "Mais vale um jovem pobre e sábio do que um rei ancião e insensato, que em sua arrogância já não aceita mais conselhos.",
+        "14": "Ainda que o jovem seja um ex-detento ou tenha nascido em uma família de mendigos poderá chegar ao trono e governar uma nação.",
+        "15": "Observei que, apesar das dificuldades, o povo que vivia debaixo do sol seguia aquele jovem, o sucessor do rei.",
+        "16": "A sua popularidade se tornou impressionante, e o número de seus apoiadores era incontável. A geração seguinte; contudo, não teve a mesma simpatia e satisfação por ele. Ora, isso também não faz o menor sentido; tudo é como um contínuo correr atrás do vento."
     }
 }

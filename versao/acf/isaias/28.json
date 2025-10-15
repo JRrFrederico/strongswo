@@ -1,9 +1,13 @@
 {
     "livro": "Isaías",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "Oráculo contra Efraim e Judá",
+        "14": "Oráculo contra os maus conselheiros",
+        "23": "Yahweh é magnífico em sabedoria"
+    },
     "versiculos": {
-        "1": "Ai da coroa de soberba dos bêbados de Efraim, cujo glorioso ornamento é como a flor que cai, que está sobre a cabeça do fértil vale dos vencidos do vinho.",
+        "1": "AI da coroa de soberba dos bêbados de Efraim, cujo glorioso ornamento é como a flor que cai, que está sobre a cabeça do fértil vale dos vencidos do vinho.",
         "2": "Eis que o Senhor tem um forte e poderoso; como tempestade de saraiva, tormenta destruidora, e como tempestade de impetuosas águas que transbordam, ele, com a mão, derrubará por terra.",
         "3": "A coroa de soberba dos bêbados de Efraim será pisada aos pés.",
         "4": "E a flor caída do seu glorioso ornamento, que está sobre a cabeça do fértil vale, será como o fruto temporão antes do verão, que, vendo-o alguém, e tendo-o ainda na mão, o engole.",

@@ -1,9 +1,12 @@
 {
     "livro": "Números",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Missão exploratória de Canaã",
+        "25": "O relatório dos missionários"
+    },
     "versiculos": {
-        "1": "E falou o Senhor a Moisés, dizendo:",
+        "1": "E FALOU o Senhor a Moisés, dizendo:",
         "2": "Envia homens que espiem a terra de Canaã, que eu hei de dar aos filhos de Israel; de cada tribo de seus pais enviareis um homem, sendo cada um príncipe entre eles.",
         "3": "E enviou-os Moisés do deserto de Parã, segundo a ordem do Senhor; todos aqueles homens eram cabeças dos filhos de Israel.",
         "4": "E estes são os seus nomes: Da tribo de Rúben, Samua, filho de Zacur;",

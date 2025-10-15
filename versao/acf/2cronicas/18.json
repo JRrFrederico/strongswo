@@ -1,9 +1,12 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecia contra Acabe, rei de Israel",
+        "28": "A profecia se cumpre e Acabe morre"
+    },
     "versiculos": {
-        "1": "Tinha, pois, Jeosafá riquezas e glória em abundância, e aparentou-se com Acabe.",
+        "1": "TINHA, pois, Jeosafá riquezas e glória em abundância, e aparentou-se com Acabe.",
         "2": "E depois de alguns anos desceu ele para Acabe em Samaria; e Acabe matou ovelhas e bois em abundância, para ele e para o povo que vinha com ele; e o persuadiu a subir com ele a Ramote de Gileade.",
         "3": "Porque Acabe, rei de Israel, disse a Jeosafá, rei de Judá: Irás tu comigo a Ramote de Gileade? E ele lhe disse: Como tu és, serei eu; e o meu povo, como o teu povo; iremos contigo à guerra.",
         "4": "Disse mais Jeosafá ao rei de Israel: Peço-te, consulta hoje a palavra do Senhor.",

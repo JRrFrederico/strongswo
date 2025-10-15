@@ -1,19 +1,21 @@
 {
     "livro": "Salmos",
     "capitulo": 143,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração por livramento e salvação"
+    },
     "versiculos": {
-        "1": "Salmo de Davi. Ouve a minha oração, ó SENHOR, dá ouvidos às minhas súplicas; responde-me em tua fidelidade, e na tua justiça.",
-        "2": "E não entres em juízo com o teu servo, pois à tua vista nenhum homem vivo se justificará.",
-        "3": "Pois o inimigo perseguiu a minha alma; castigou a minha alma até ao chão; fez-me habitar nas trevas, como aqueles que há muito morreram.",
-        "4": "Portanto, meu espírito está sobrecarregado dentro de mim; meu coração dentro de mim está desolado.",
-        "5": "Lembro-me dos velhos dias; medito em todas as tuas obras; eu medito sobre a obra das tuas mãos.",
-        "6": "Estendo as minhas mãos para ti; minha alma tem sede de ti, como terra sedenta. Selá.",
-        "7": "Ouve-me depressa, ó SENHOR; o meu espírito desfalece. Não escondas a tua face de mim, para que eu não seja como aqueles que descem à cova.",
-        "8": "Faze-me ouvir a tua benignidade pela manhã, pois em ti confio; faze-me conhecer o caminho pelo qual devo caminhar, pois elevo a minha alma a ti.",
-        "9": "Livra-me, ó SENHOR, dos meus inimigos; fujo para ti, para me esconder.",
-        "10": "Ensina-me a fazer a tua vontade, pois tu és o meu Deus. O teu Espírito é bom; guie-me para a terra da retidão.",
-        "11": "Vivifica-me, ó SENHOR, por causa do teu nome; por causa da tua justiça, traz a minha alma para fora da tribulação.",
-        "12": "E por tua misericórdia corta fora os meus inimigos, e destrói todos aqueles que afligem a minha alma; pois sou teu servo."
+        "1": "S ENHOR , escuta minha oração, presta ouvido às minhas súplicas; responde-me por tua fidelidade e justiça!",
+        "2": "Entretanto, não leves teu servo a julgamento, pois nenhum ser vivo é justo diante da tua presença.",
+        "3": "Pois o inimigo perseguiu-me e prostrou-me por terra; ele me fez morar nas trevas, como os que há muito morreram.",
+        "4": "Esmorece em mim meu espírito; meu coração, dentro de mim, está em pânico.",
+        "5": "Lembro-me dos dias de outrora, medito em todas as tuas ações, reflito sobre as obras de tuas mãos.",
+        "6": "Estendo para ti as minhas mãos; eis-me diante de ti, qual uma terra sedenta!",
+        "7": "Depressa responde-me, ó Eterno! Porquanto meu espírito desfalece. Não ocultes de mim a tua face, senão serei igual aos que já baixam à sepultura.",
+        "8": "Faze-me ouvir pela manhã, do teu amor leal e perene, pois em ti depositei toda a minha confiança! Dá-me a conhecer o caminho que devo seguir, pois a ti elevo a minha alma.",
+        "9": "S ENHOR , livra-me dos meus inimigos, pois me refugiei junto a ti!",
+        "10": "Ensina-me a fazer tua vontade, pois tu és o meu Deus. Teu bondoso Espírito me guie por terra plana!",
+        "11": "Pela honra do teu Nome, S ENHOR , tu me farás viver; por tua justiça me farás sair da angústia;",
+        "12": "por teu amor leal e justo acabarás com meus inimigos e farás perecer todos os meus adversários, pois sou teu servo!"
     }
 }

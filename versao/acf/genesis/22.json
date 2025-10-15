@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "O sacrifício de Abraão a Deus",
+        "20": "Os descendentes de Naor"
+    },
     "versiculos": {
-        "1": "E aconteceu depois destas coisas, que provou Deus a Abraão, e disse-lhe: Abraão! E ele disse: Eis-me aqui.",
+        "1": "E ACONTECEU depois destas coisas, que provou Deus a Abraão, e disse-lhe: Abraão! E ele disse: Eis-me aqui.",
         "2": "E disse: Toma agora o teu filho, o teu único filho, Isaque, a quem amas, e vai-te à terra de Moriá, e oferece-o ali em holocausto sobre uma das montanhas, que eu te direi.",
         "3": "Então se levantou Abraão pela manhã de madrugada, e albardou o seu jumento, e tomou consigo dois de seus moços e Isaque seu filho; e cortou lenha para o holocausto, e levantou-se, e foi ao lugar que Deus lhe dissera.",
         "4": "Ao terceiro dia levantou Abraão os seus olhos, e viu o lugar de longe.",

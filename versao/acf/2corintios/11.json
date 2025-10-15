@@ -1,9 +1,12 @@
 {
     "livro": "2 Coríntios",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Cuidado com a lábia do Diabo",
+        "16": "Fracos na carne, fortes em Cristo"
+    },
     "versiculos": {
-        "1": "Quisera eu me suportásseis um pouco na minha loucura! Suportai-me, porém, ainda.",
+        "1": "QUISERA eu me suportásseis um pouco na minha loucura! Suportai-me, porém, ainda.",
         "2": "Porque estou zeloso de vós com zelo de Deus; porque vos tenho preparado para vos apresentar como uma virgem pura a um marido, a saber, a Cristo.",
         "3": "Mas temo que, assim como a serpente enganou Eva com a sua astúcia, assim também sejam de alguma sorte corrompidos os vossos sentidos, e se apartem da simplicidade que há em Cristo.",
         "4": "Porque, se alguém vindo pregar-vos outro Jesus que nós não temos pregado, ou se recebeis outro espírito que não recebestes, ou outro evangelho que não abraçastes, com razão o sofreríeis.",

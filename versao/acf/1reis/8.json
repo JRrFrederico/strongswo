@@ -1,9 +1,16 @@
 {
     "livro": "1 Reis",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "O traslado da Arca da Aliança",
+        "10": "Deus se manifesta no Templo",
+        "14": "Discurso de Salomão ao povo",
+        "22": "A oração de dedicação",
+        "52": "Conclusão da oração e bênção",
+        "62": "A dedicação do Templo"
+    },
     "versiculos": {
-        "1": "Então congregou Salomão os anciãos de Israel, e todos os cabeças das tribos, os chefes dos pais dos filhos de Israel, diante de si em Jerusalém; para fazerem subir a arca da aliança do Senhor da cidade de Davi, que é Sião.",
+        "1": "ENTÃO congregou Salomão os anciãos de Israel, e todos os cabeças das tribos, os chefes dos pais dos filhos de Israel, diante de si em Jerusalém; para fazerem subir a arca da aliança do Senhor da cidade de Davi, que é Sião.",
         "2": "E todos os homens de Israel se congregaram ao rei Salomão, na ocasião da festa, no mês de Etanim, que é o sétimo mês.",
         "3": "E vieram todos os anciãos de Israel; e os sacerdotes alçaram a arca.",
         "4": "E trouxeram a arca do Senhor para cima, e o tabernáculo da congregação, juntamente com todos os objetos sagrados que havia no tabernáculo; assim os trouxeram para cima os sacerdotes e os levitas.",
@@ -37,7 +44,7 @@
         "32": "Ouve tu, então, nos céus e age e julga a teus servos, condenando ao injusto, fazendo recair o seu proceder sobre a sua cabeça, e justificando ao justo, rendendo-lhe segundo a sua justiça.",
         "33": "Quando o teu povo Israel for ferido diante do inimigo, por ter pecado contra ti, e se converterem a ti, e confessarem o teu nome, e orarem e suplicarem a ti nesta casa,",
         "34": "Ouve tu então nos céus, e perdoa o pecado do teu povo Israel, e torna-o a levar à terra que tens dado a seus pais.",
-        "35": "Quando os céus se fechar, e não houver chuva, por terem pecado contra ti, e orarem neste lugar, e confessarem o teu nome, e se converterem dos seus pecados, havendo-os tu afligido,",
+        "35": "Quando os céus se fecharem, e não houver chuva, por terem pecado contra ti, e orarem neste lugar, e confessarem o teu nome, e se converterem dos seus pecados, havendo-os tu afligido,",
         "36": "Ouve tu então nos céus, e perdoa o pecado de teus servos e do teu povo Israel, ensinando-lhes o bom caminho em que andem, e dá chuva na tua terra que deste ao teu povo em herança.",
         "37": "Quando houver fome na terra, quando houver peste, quando houver queima de searas, ferrugem, gafanhotos ou pulgão, quando o seu inimigo o cercar na terra das suas portas, ou houver alguma praga ou doença,",
         "38": "Toda a oração, toda a súplica, que qualquer homem de todo o teu povo Israel fizer, conhecendo cada um a chaga do seu coração, e estendendo as suas mãos para esta casa,",

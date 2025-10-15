@@ -1,9 +1,12 @@
 {
     "livro": "Êxodo",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "Leis sobre roubos e prejuízos",
+        "16": "Leis civis e religiosas"
+    },
     "versiculos": {
-        "1": "Se alguém furtar boi ou ovelha, e o degolar ou vender, por um boi pagará cinco bois, e pela ovelha quatro ovelhas.",
+        "1": "SE alguém furtar boi ou ovelha, e o degolar ou vender, por um boi pagará cinco bois, e pela ovelha quatro ovelhas.",
         "2": "Se o ladrão for achado roubando, e for ferido, e morrer, o que o feriu não será culpado do sangue.",
         "3": "Se o sol houver saído sobre ele, o agressor será culpado do sangue; o ladrão fará restituição total; e se não tiver com que pagar, será vendido por seu furto.",
         "4": "Se o furto for achado vivo na sua mão, seja boi, ou jumento, ou ovelha, pagará o dobro.",

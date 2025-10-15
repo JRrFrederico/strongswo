@@ -1,9 +1,11 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 33,
-    "titulos": {},
+    "titulos": {
+        "1": "Moisés abençoa o povo de Deus"
+    },
     "versiculos": {
-        "1": "Esta, porém, é a bênção com que Moisés, homem de Deus, abençoou os filhos de Israel antes da sua morte.",
+        "1": "ESTA, porém, é a bênção com que Moisés, homem de Deus, abençoou os filhos de Israel antes da sua morte.",
         "2": "Disse pois: O Senhor veio de Sinai, e lhes subiu de Seir; resplandeceu desde o monte Parã, e veio com dez milhares de santos; à sua direita havia para eles o fogo da lei.",
         "3": "Na verdade ama os povos; todos os seus santos estão na sua mão; postos serão no meio, entre os teus pés, e cada um receberá das tuas palavras.",
         "4": "Moisés nos deu a lei, como herança da congregação de Jacó.",

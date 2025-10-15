@@ -1,17 +1,19 @@
 {
     "livro": "Salmos",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Súplicas durante a provação"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe de Neginote sobre Seminite, Salmo de Davi. Ó SENHOR, não me repreendas na tua ira, nem me castigues no teu ardente descontentamento.",
-        "2": "Tem misericórdia de mim, Ó SENHOR, porque sou fraco; ó SENHOR, sara-me porque os meus ossos estão perturbados.",
-        "3": "Minha alma também está dolorosamente perturbada; mas tu, ó SENHOR, por quanto tempo?",
-        "4": "Retorna, ó SENHOR, liberta a minha alma; ó salva-me por causa das tuas misericórdias.",
-        "5": "Porque na morte não há lembrança de ti; no túmulo quem te dará graças?",
-        "6": "Estou cansado do meu gemido, toda a noite faço a minha cama nadar; molho o meu leito com as minhas lágrimas.",
-        "7": "Meu olho está consumido por causa da mágoa; ele envelheceu por causa de todos os meus inimigos.",
-        "8": "Apartai-vos de mim todos vós trabalhadores da iniquidade; porque o SENHOR ouviu a voz do meu pranto.",
-        "9": "O SENHOR ouviu a minha súplica; o SENHOR receberá a minha oração.",
-        "10": "Que todos os meus inimigos sejam envergonhados e dolorosamente perturbados; que eles retornem e sejam envergonhados repentinamente."
+        "1": "S ENHOR , não me castigues na tua ira nem me corrijas no teu furor!",
+        "2": "Tem piedade de mim, ó S ENHOR , pois estou perdendo as forças. Cura-me, S ENHOR ! Pois estremecem meus ossos.",
+        "3": "E a minha alma está extremamente apavorada. Até quando, S ENHOR ! Até quando?",
+        "4": "Volta-te, S ENHOR , e liberta minha alma; salva-me por teu amor misericordioso!",
+        "5": "Porque entre os mortos não há adoração a ti; no túmulo, quem poderá te render louvores?",
+        "6": "Estou esgotado de tanto gemer, todas as noites eu choro na cama, banhando meu leito com lágrimas.",
+        "7": "Meus olhos derretem-se de tristeza pela insolência dos meus opressores.",
+        "8": "Afastai-vos de mim, malfeitores todos; porque o S ENHOR escutou a voz do meu pranto!",
+        "9": "O S ENHOR ouviu a minha súplica; o S ENHOR respondeu a minha oração!",
+        "10": "Serão humilhados e aterrorizados todos os meus inimigos; cobertos de vergonha se retirarão depressa!"
     }
 }

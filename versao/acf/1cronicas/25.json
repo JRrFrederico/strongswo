@@ -1,9 +1,11 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "O ministério dos músicos"
+    },
     "versiculos": {
-        "1": "E Davi, juntamente com os capitães do exército, separou para o ministério os filhos de Asafe, e de Hemã, e de Jedutum, para profetizarem com harpas, com címbalos, e com saltérios; e este foi o número dos homens aptos para a obra do seu ministério:",
+        "1": "E DAVI, juntamente com os capitães do exército, separou para o ministério os filhos de Asafe, e de Hemã, e de Jedutum, para profetizarem com harpas, com címbalos, e com saltérios; e este foi o número dos homens aptos para a obra do seu ministério:",
         "2": "Dos filhos de Asafe: Zacur, José, Netanias, e Asarela, filhos de Asafe; a cargo de Asafe, que profetizava debaixo das ordens do rei Davi.",
         "3": "Quanto a Jedutum, os filhos: Gedalias, Zeri, Jesaías, Hasabias, e Matitias, seis, a cargo de seu pai, Jedutum, o qual profetizava com a harpa, louvando e dando graças ao Senhor.",
         "4": "Quanto a Hemã, os filhos: Buquias, Matanias, Uziel, Sebuel, Jerimote, Hananias, Hanani, Eliata, Gidalti, Romanti-Ezer, Josbecasa, Maloti, Hotir, e Maaziote.",

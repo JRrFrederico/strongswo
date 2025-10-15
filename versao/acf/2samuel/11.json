@@ -1,9 +1,11 @@
 {
     "livro": "2 Samuel",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Adultério e homicídio de Davi"
+    },
     "versiculos": {
-        "1": "E aconteceu que, tendo decorrido um ano, no tempo em que os reis saem à guerra, enviou Davi a Joabe, e com ele os seus servos, e a todo o Israel; e eles destruíram os filhos de Amom, e cercaram a Rabá; porém Davi ficou em Jerusalém.",
+        "1": "E ACONTECEU que, tendo decorrido um ano, no tempo em que os reis saem à guerra, enviou Davi a Joabe, e com ele os seus servos, e a todo o Israel; e eles destruíram os filhos de Amom, e cercaram a Rabá; porém Davi ficou em Jerusalém.",
         "2": "E aconteceu que numa tarde Davi se levantou do seu leito, e andava passeando no terraço da casa real, e viu do terraço a uma mulher que se estava lavando; e era esta mulher mui formosa à vista.",
         "3": "E mandou Davi indagar quem era aquela mulher; e disseram: Porventura não é esta Bate-Seba, filha de Eliã, mulher de Urias, o heteu?",
         "4": "Então enviou Davi mensageiros, e mandou trazê-la; e ela veio, e ele se deitou com ela (pois já estava purificada da sua imundícia); então voltou ela para sua casa.",

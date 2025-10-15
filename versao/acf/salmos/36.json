@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 36,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus vence todo o mal"
+    },
     "versiculos": {
-        "1": "A transgressão do ímpio diz no íntimo do meu coração: Não há temor de Deus perante os seus olhos.",
+        "1": "A TRANSGRESSÃO do ímpio diz no íntimo do meu coração: Não há temor de Deus perante os seus olhos.",
         "2": "Porque em seus olhos se lisonjeia, até que a sua iniquidade se descubra ser detestável.",
         "3": "As palavras da sua boca são malícia e engano; deixou de entender e de fazer o bem.",
         "4": "Projeta a malícia na sua cama; põe-se no caminho que não é bom; não aborrece o mal.",

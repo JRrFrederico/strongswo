@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Lucros de uma vida sábia"
+    },
     "versiculos": {
-        "1": "Filho meu, se aceitares as minhas palavras, e esconderes contigo os meus mandamentos,",
+        "1": "FILHO meu, se aceitares as minhas palavras, e esconderes contigo os meus mandamentos,",
         "2": "Para fazeres o teu ouvido atento à sabedoria; e inclinares o teu coração ao entendimento;",
         "3": "Se clamares por conhecimento, e por inteligência alçares a tua voz,",
         "4": "Se como a prata a buscares e como a tesouros escondidos a procurares,",

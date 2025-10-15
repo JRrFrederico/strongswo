@@ -1,9 +1,16 @@
 {
     "livro": "Êxodo",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "A Páscoa de Deus: A libertação",
+        "15": "A festa dos pães matsá, ázimos",
+        "21": "A décima e última praga: A morte",
+        "29": "A morte dos primogênitos egípcios",
+        "31": "Início do Êxodo pelo deserto",
+        "43": "As leis para celebrar a Páscoa"
+    },
     "versiculos": {
-        "1": "E falou o Senhor a Moisés e a Arão na terra do Egito, dizendo:",
+        "1": "E FALOU o Senhor a Moisés e a Arão na terra do Egito, dizendo:",
         "2": "Este mesmo mês vos será o princípio dos meses; este vos será o primeiro dos meses do ano.",
         "3": "Falai a toda a congregação de Israel, dizendo: Aos dez deste mês tome cada um para si um cordeiro, segundo as casas dos pais, um cordeiro para cada família.",
         "4": "Mas se a família for pequena para um cordeiro, então tome um só com seu vizinho perto de sua casa, conforme o número das almas; cada um conforme ao seu comer, fareis a conta conforme ao cordeiro.",

@@ -1,9 +1,15 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Casos de homicídios ocultos",
+        "10": "A esposa, prisioneira de guerra",
+        "15": "O direito do filho primogênito",
+        "18": "Como agir com o filho pervertido",
+        "22": "O morto é suspenso no madeiro"
+    },
     "versiculos": {
-        "1": "Quando na terra que te der o Senhor teu Deus, para possuí-la, se achar um morto, caído no campo, sem que se saiba quem o matou,",
+        "1": "QUANDO na terra que te der o Senhor teu Deus, para possuí-la, se achar um morto, caído no campo, sem que se saiba quem o matou,",
         "2": "Então sairão os teus anciãos e os teus juízes, e medirão a distância até as cidades que estiverem em redor do morto;",
         "3": "E, na cidade mais próxima ao morto, os anciãos da mesma cidade tomarão uma novilha da manada, que não tenha trabalhado nem tenha puxado com o jugo;",
         "4": "E os anciãos daquela cidade trarão a novilha a um vale áspero, que nunca foi lavrado nem semeado; e ali, naquele vale, degolarão a novilha;",

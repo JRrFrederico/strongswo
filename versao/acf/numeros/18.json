@@ -1,9 +1,14 @@
 {
     "livro": "Números",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "A obra dos sacerdotes e levitas",
+        "8": "Ofertas aos levitas e sacerdotes",
+        "20": "A parte dos levitas",
+        "25": "Os dízimos e os levitas"
+    },
     "versiculos": {
-        "1": "Então disse o Senhor a Arão: Tu, e teus filhos, e a casa de teu pai contigo, levareis sobre vós a iniquidade do santuário; e tu e teus filhos contigo levareis sobre vós a iniquidade do vosso sacerdócio.",
+        "1": "ENTÃO disse o Senhor a Arão: Tu, e teus filhos, e a casa de teu pai contigo, levareis sobre vós a iniquidade do santuário; e tu e teus filhos contigo levareis sobre vós a iniquidade do vosso sacerdócio.",
         "2": "E também farás chegar contigo a teus irmãos, a tribo de Levi, a tribo de teu pai, para que se ajuntem a ti, e te sirvam; mas tu e teus filhos contigo estareis perante a tenda do testemunho.",
         "3": "E eles cumprirão as tuas ordens e terão o encargo de toda a tenda; mas não se chegarão aos utensílios do santuário, nem ao altar, para que não morram, tanto eles como vós.",
         "4": "Mas se ajuntarão a ti, e farão o serviço da tenda da congregação em todo o ministério da tenda; e o estranho não se chegará a vós.",

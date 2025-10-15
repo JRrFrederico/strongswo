@@ -1,9 +1,15 @@
 {
     "livro": "Êxodo",
     "capitulo": 30,
-    "titulos": {},
+    "titulos": {
+        "1": "O altar dos aromas e perfumes",
+        "11": "O imposto para manter a Tenda",
+        "17": "A bacia para a purificação",
+        "22": "O óleo santo para as unções",
+        "34": "O aroma sagrado na Tenda"
+    },
     "versiculos": {
-        "1": "E farás um altar para queimar o incenso; de madeira de acácia o farás.",
+        "1": "E FARÁS um altar para queimar o incenso; de madeira de acácia o farás.",
         "2": "O seu comprimento será de um côvado, e a sua largura de um côvado; será quadrado, e dois côvados a sua altura; dele mesmo serão as suas pontas.",
         "3": "E com ouro puro o forrarás, o seu teto, e as suas paredes ao redor, e as suas pontas; e lhe farás uma coroa de ouro ao redor.",
         "4": "Também lhe farás duas argolas de ouro debaixo da sua coroa; nos dois cantos as farás, de ambos os lados; e serão para lugares dos varais, com que será levado.",

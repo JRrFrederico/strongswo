@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "Os setenta anos de cativeiro",
+        "15": "O cálice da ira de Deus"
+    },
     "versiculos": {
-        "1": "A palavra que veio a Jeremias acerca de todo o povo de Judá no quarto ano de Jeoiaquim, filho de Josias, rei de Judá (que é o primeiro ano de Nabucodonosor, rei de Babilônia),",
+        "1": "A PALAVRA que veio a Jeremias acerca de todo o povo de Judá no quarto ano de Jeoiaquim, filho de Josias, rei de Judá (que é o primeiro ano de Nabucodonosor, rei de Babilônia),",
         "2": "A qual anunciou o profeta Jeremias a todo o povo de Judá, e a todos os habitantes de Jerusalém, dizendo:",
         "3": "Desde o ano treze de Josias, filho de Amom, rei de Judá, até o dia de hoje, período de vinte e três anos, tem vindo a mim a palavra do Senhor, e vo-la tenho anunciado, madrugando e falando; mas vós não escutastes.",
         "4": "Também vos enviou o Senhor todos os seus servos, os profetas, madrugando e enviando-os, mas vós não escutastes, nem inclinastes os vossos ouvidos para ouvir,",

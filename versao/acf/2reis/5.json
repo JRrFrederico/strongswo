@@ -1,9 +1,12 @@
 {
     "livro": "2 Reis",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "A cura da lepra de Naamã",
+        "20": "Geazi é castigado"
+    },
     "versiculos": {
-        "1": "E Naamã, capitão do exército do rei da Síria, era um grande homem diante do seu senhor, e de muito respeito; porque por ele o Senhor dera livramento aos sírios; e era este homem herói valoroso, porém leproso.",
+        "1": "E NAAMÃ, capitão do exército do rei da Síria, era um grande homem diante do seu senhor, e de muito respeito; porque por ele o Senhor dera livramento aos sírios; e era este homem herói valoroso, porém leproso.",
         "2": "E saíram tropas da Síria, da terra de Israel, e levaram presa uma menina que ficou ao serviço da mulher de Naamã.",
         "3": "E disse esta à sua senhora: Antes o meu senhor estivesse diante do profeta que está em Samaria; ele o restauraria da sua lepra.",
         "4": "Então foi Naamã e notificou ao seu senhor, dizendo: Assim e assim falou a menina que é da terra de Israel.",

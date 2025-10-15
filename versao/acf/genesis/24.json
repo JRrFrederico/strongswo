@@ -1,9 +1,11 @@
 {
     "livro": "Gênesis",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "O casamento de Isaque"
+    },
     "versiculos": {
-        "1": "E era Abraão já velho e adiantado em idade, e o Senhor havia abençoado a Abraão em tudo.",
+        "1": "E ERA Abraão já velho e adiantado em idade, e o Senhor havia abençoado a Abraão em tudo.",
         "2": "E disse Abraão ao seu servo, o mais velho da casa, que tinha o governo sobre tudo o que possuía: Põe agora a tua mão debaixo da minha coxa,",
         "3": "Para que eu te faça jurar pelo Senhor Deus dos céus e Deus da terra, que não tomarás para meu filho mulher das filhas dos cananeus, no meio dos quais eu habito.",
         "4": "Mas que irás à minha terra e à minha parentela, e dali tomarás mulher para meu filho Isaque.",

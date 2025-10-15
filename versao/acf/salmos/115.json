@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 115,
-    "titulos": {},
+    "titulos": {
+        "1": "O único Deus verdadeiro"
+    },
     "versiculos": {
-        "1": "Não a nós, Senhor, não a nós, mas ao teu nome dá glória, por amor da tua benignidade e da tua verdade.",
+        "1": "NÃO a nós, Senhor, não a nós, mas ao teu nome dá glória, por amor da tua benignidade e da tua verdade.",
         "2": "Por que dirão os gentios: Onde está o seu Deus?",
         "3": "Mas o nosso Deus está nos céus; fez tudo o que lhe agradou.",
         "4": "Os ídolos deles são prata e ouro, obra das mãos dos homens.",

@@ -1,9 +1,11 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "A queda de Israel e a morte de Saul"
+    },
     "versiculos": {
-        "1": "E os filisteus pelejaram com Israel; e os homens de Israel fugiram de diante dos filisteus, e caíram mortos nas montanhas de Gilboa.",
+        "1": "E OS filisteus pelejaram com Israel; e os homens de Israel fugiram de diante dos filisteus, e caíram mortos nas montanhas de Gilboa.",
         "2": "E os filisteus perseguiram a Saul e aos seus filhos; e os filisteus mataram a Jônatas, a Abinadabe e a Malquisua, filhos de Saul.",
         "3": "E a peleja se agravou contra Saul, e os flecheiros o alcançaram; e temeu muito aos flecheiros.",
         "4": "Então disse Saul ao seu escudeiro: Arranca a tua espada, e atravessa-me com ela; para que porventura não venham estes incircuncisos e escarneçam de mim. Porém o seu escudeiro não quis, porque temia muito; então tomou Saul a espada, e se lançou sobre ela.",

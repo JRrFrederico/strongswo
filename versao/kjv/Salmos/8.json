@@ -1,16 +1,18 @@
 {
     "livro": "Salmos",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "A glória do Criador"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe sobre Gitite, Salmo de Davi. Ó SENHOR, nosso Senhor, quão excelente é teu nome em toda a terra! Que estabeleceste a tua glória sobre os céus.",
-        "2": "Da boca dos bebês e das crianças de peito, tu ordenaste a força por causa dos teus inimigos, para que pudesses parar o inimigo e o vingador.",
-        "3": "Quando considero os teus céus, o trabalho dos teus dedos, a lua e as estrelas que tu ordenaste;",
-        "4": "o que é o homem, para que sejas cuidadoso com ele? E o filho do homem, para que o visites?",
-        "5": "Porque o fizeste por um pouco, menor do que os anjos, e o coroaste com glória e honra.",
-        "6": "Tu fizeste com que ele tivesse domínio sobre as obras de tuas mãos; tu puseste todas as coisas debaixo de seus pés:",
-        "7": "Todas as ovelhas e bois, sim, e os animais do campo;",
-        "8": "As aves do ar, e os peixes do mar, e tudo o que passa pelas veredas dos mares.",
-        "9": "Ó SENHOR, nosso Senhor, quão excelente é o teu nome em toda a terra!"
+        "1": "S ENHOR , nosso soberano Deus, como é majestoso o teu Nome por toda a terra! Tu cuja glória é cantada acima dos céus!",
+        "2": "Pela boca das crianças e dos recém-nascidos instruíste os sábios e poderosos, silenciando os inimigos e maldosos, porque são adversários teus.",
+        "3": "Quando admiro os teus céus, obra dos teus dedos, a lua e as estrelas que ali estabeleceste,",
+        "4": "pergunto: Que é o homem para que com ele te importes? E o filho de Adão para que venhas visitá-lo?",
+        "5": "Tu o fizeste um pouco menor do que os anjos e o coroaste de glória e de honra.",
+        "6": "Tu o fizeste dominar sobre as obras das tuas mãos; tudo sujeitaste debaixo dos seus pés:",
+        "7": "todos os rebanhos e manadas e os animais selvagens também,",
+        "8": "as aves do céu, os peixes do oceano e tudo o que percorre as correntes marítimas.",
+        "9": "S ENHOR , nosso soberano Deus, como é majestoso o teu nome por toda a terra!"
     }
 }

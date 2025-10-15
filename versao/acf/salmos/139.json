@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 139,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvor à onisciência de Deus"
+    },
     "versiculos": {
         "1": "Senhor, tu me sondaste, e me conheces.",
         "2": "Tu sabes o meu assentar e o meu levantar; de longe entendes o meu pensamento.",
@@ -9,7 +11,7 @@
         "4": "Não havendo ainda palavra alguma na minha língua, eis que logo, ó Senhor, tudo conheces.",
         "5": "Tu me cercaste por detrás e por diante, e puseste sobre mim a tua mão.",
         "6": "Tal conhecimento é para mim maravilhosíssimo; tão alto que não o posso atingir.",
-        "7": "Para onde me irei do teu Espírito, ou para onde fugirei da tua face?",
+        "7": "Para onde me irei do teu espírito, ou para onde fugirei da tua face?",
         "8": "Se subir ao céu, lá tu estás; se fizer no inferno a minha cama, eis que tu ali estás também.",
         "9": "Se tomar as asas da alva, se habitar nas extremidades do mar,",
         "10": "Até ali a tua mão me guiará e a tua destra me susterá.",

@@ -1,9 +1,14 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "O rei Joás restaura o templo",
+        "15": "Morre Joiada. Apostasia em Judá",
+        "20": "O profeta Zacarias adverte o povo",
+        "23": "Deus acerta contas a Joás"
+    },
     "versiculos": {
-        "1": "Tinha Joás sete anos de idade quando começou a reinar, e quarenta anos reinou em Jerusalém; e era o nome da sua mãe Zíbia, de Berseba.",
+        "1": "TINHA Joás sete anos de idade quando começou a reinar, e quarenta anos reinou em Jerusalém; e era o nome da sua mãe Zíbia, de Berseba.",
         "2": "E fez Joás o que era reto aos olhos do Senhor, todos os dias do sacerdote Joiada.",
         "3": "E tomou-lhe Joiada duas mulheres, e gerou filhos e filhas.",
         "4": "E, depois disto, Joás resolveu renovar a casa do Senhor.",

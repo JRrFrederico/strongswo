@@ -1,9 +1,11 @@
 {
     "livro": "Gênesis",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "A origem dos árabes ismaelitas"
+    },
     "versiculos": {
-        "1": "Ora Sarai, mulher de Abrão, não lhe dava filhos, e ele tinha uma serva egípcia, cujo nome era Agar.",
+        "1": "ORA Sarai, mulher de Abrão, não lhe dava filhos, e ele tinha uma serva egípcia, cujo nome era Agar.",
         "2": "E disse Sarai a Abrão: Eis que o Senhor me tem impedido de dar à luz; toma, pois, a minha serva; porventura terei filhos dela. E ouviu Abrão a voz de Sarai.",
         "3": "Assim tomou Sarai, mulher de Abrão, a Agar egípcia, sua serva, e deu-a por mulher a Abrão seu marido, ao fim de dez anos que Abrão habitara na terra de Canaã.",
         "4": "E ele possuiu a Agar, e ela concebeu; e vendo ela que concebera, foi sua senhora desprezada aos seus olhos.",

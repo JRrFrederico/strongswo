@@ -1,9 +1,12 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 30,
-    "titulos": {},
+    "titulos": {
+        "1": "Ezequias restitui a Páscoa em Israel",
+        "15": "A Páscoa e festa dos Ázimos"
+    },
     "versiculos": {
-        "1": "Depois disto Ezequias enviou mensageiros por todo o Israel e Judá, e escreveu também cartas a Efraim e a Manassés para que viessem à casa do Senhor em Jerusalém, para celebrarem a páscoa ao Senhor Deus de Israel.",
+        "1": "DEPOIS disto Ezequias enviou mensageiros por todo o Israel e Judá, e escreveu também cartas a Efraim e a Manassés para que viessem à casa do Senhor em Jerusalém, para celebrarem a páscoa ao Senhor Deus de Israel.",
         "2": "Porque o rei tivera conselho com os seus príncipes, e com toda a congregação em Jerusalém, para celebrarem a páscoa no segundo mês.",
         "3": "Porquanto não a puderam celebrar no tempo próprio, porque não se tinham santificado sacerdotes em número suficiente, e o povo não se tinha ajuntado em Jerusalém.",
         "4": "E isto pareceu bem aos olhos do rei, e de toda a congregação.",

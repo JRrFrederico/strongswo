@@ -1,9 +1,11 @@
 {
     "livro": "Gênesis",
     "capitulo": 40,
-    "titulos": {},
+    "titulos": {
+        "1": "José interpreta sonhos na prisão"
+    },
     "versiculos": {
-        "1": "E aconteceu, depois destas coisas, que o copeiro do rei do Egito, e o seu padeiro, ofenderam o seu senhor, o rei do Egito.",
+        "1": "E ACONTECEU, depois destas coisas, que o copeiro do rei do Egito, e o seu padeiro, ofenderam o seu senhor, o rei do Egito.",
         "2": "E indignou-se Faraó muito contra os seus dois oficiais, contra o copeiro-mor e contra o padeiro-mor.",
         "3": "E entregou-os à prisão, na casa do capitão da guarda, na casa do cárcere, no lugar onde José estava preso.",
         "4": "E o capitão da guarda pô-los a cargo de José, para que os servisse; e estiveram muitos dias na prisão.",

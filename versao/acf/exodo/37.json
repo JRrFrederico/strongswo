@@ -1,9 +1,14 @@
 {
     "livro": "Êxodo",
     "capitulo": 37,
-    "titulos": {},
+    "titulos": {
+        "1": "A Arca da Aliança",
+        "10": "A mesa dos pães e seus utensílios",
+        "17": "Candelabro de ouro",
+        "25": "O altar do incenso e o óleo da unção"
+    },
     "versiculos": {
-        "1": "Fez também Bezalel a arca de madeira de acácia; o seu comprimento era de dois côvados e meio; e a sua largura de um côvado e meio; e a sua altura de um côvado e meio.",
+        "1": "FEZ também Bezalel a arca de madeira de acácia; o seu comprimento era de dois côvados e meio; e a sua largura de um côvado e meio; e a sua altura de um côvado e meio.",
         "2": "E cobriu-a de ouro puro por dentro e por fora; e fez-lhe uma coroa de ouro ao redor;",
         "3": "E fundiu-lhe quatro argolas de ouro nos seus quatro cantos; num lado duas argolas, e no outro lado duas argolas;",
         "4": "E fez varais de madeira de acácia, e os cobriu de ouro;",

@@ -1,9 +1,12 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "O rei do Egito ataca a tribo de Judá",
+        "13": "O governo do rei Roboão"
+    },
     "versiculos": {
-        "1": "Sucedeu que, havendo Roboão confirmado o reino, e havendo-se fortalecido, deixou a lei do Senhor, e com ele todo o Israel.",
+        "1": "SUCEDEU que, havendo Roboão confirmado o reino, e havendo-se fortalecido, deixou a lei do Senhor, e com ele todo o Israel.",
         "2": "E sucedeu que, no quinto ano do rei Roboão, Sisaque, rei do Egito, subiu contra Jerusalém (porque tinham transgredido contra o Senhor)",
         "3": "Com mil e duzentos carros e com sessenta mil cavaleiros; e era inumerável o povo que vinha com ele do Egito, de líbios, suquitas e etíopes.",
         "4": "E tomou as cidades fortificadas, que Judá tinha; e chegou até Jerusalém.",

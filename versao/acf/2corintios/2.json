@@ -1,9 +1,12 @@
 {
     "livro": "2 Coríntios",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "5": "Perdoando o pecador",
+        "12": "Ministros da Nova Aliança"
+    },
     "versiculos": {
-        "1": "Mas deliberei isto comigo mesmo: não ir mais ter convosco em tristeza.",
+        "1": "MAS deliberei isto comigo mesmo: não ir mais ter convosco em tristeza.",
         "2": "Porque, se eu vos entristeço, quem é que me alegrará, senão aquele que por mim foi contristado?",
         "3": "E escrevi-vos isto mesmo, para que, quando lá for, não tenha tristeza da parte dos que deveriam alegrar-me; confiando em vós todos, que a minha alegria é a de todos vós.",
         "4": "Porque em muita tribulação e angústia do coração vos escrevi, com muitas lágrimas, não para que vos entristecêsseis, mas para que conhecêsseis o amor que abundantemente vos tenho.",

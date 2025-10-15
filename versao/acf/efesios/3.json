@@ -1,9 +1,12 @@
 {
     "livro": "Efésios",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Um judeu, apóstolo dos gentios",
+        "14": "A oração do apóstolo pela Igreja"
+    },
     "versiculos": {
-        "1": "Por esta causa eu, Paulo, sou o prisioneiro de Jesus Cristo por vós, os gentios;",
+        "1": "POR esta causa eu, Paulo, sou o prisioneiro de Jesus Cristo por vós, os gentios;",
         "2": "Se é que tendes ouvido a dispensação da graça de Deus, que para convosco me foi dada;",
         "3": "Como me foi este mistério manifestado pela revelação, como antes um pouco vos escrevi;",
         "4": "Por isso, quando ledes, podeis perceber a minha compreensão do mistério de Cristo,",

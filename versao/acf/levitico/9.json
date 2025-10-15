@@ -1,9 +1,11 @@
 {
     "livro": "Levítico",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Início do ministério sacerdotal"
+    },
     "versiculos": {
-        "1": "E aconteceu, ao dia oitavo, que Moisés chamou a Arão e seus filhos, e os anciãos de Israel,",
+        "1": "E ACONTECEU, ao dia oitavo, que Moisés chamou a Arão e seus filhos, e os anciãos de Israel,",
         "2": "E disse a Arão: Toma um bezerro, para expiação do pecado, e um carneiro para holocausto, sem defeito; e traze-os perante o Senhor.",
         "3": "Depois falarás aos filhos de Israel, dizendo: Tomai um bode para expiação do pecado, e um bezerro, e um cordeiro de um ano, sem defeito, para holocausto;",
         "4": "Também um boi e um carneiro por sacrifício pacífico, para sacrificar perante o Senhor, e oferta de alimentos, amassada com azeite; porquanto hoje o Senhor vos aparecerá.",

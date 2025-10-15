@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 136,
-    "titulos": {},
+    "titulos": {
+        "1": "As misericórdias do Senhor"
+    },
     "versiculos": {
-        "1": "Louvai ao Senhor, porque ele é bom; porque a sua benignidade dura para sempre.",
+        "1": "LOUVAI ao Senhor, porque ele é bom; porque a sua benignidade dura para sempre.",
         "2": "Louvai ao Deus dos deuses; porque a sua benignidade dura para sempre.",
         "3": "Louvai ao Senhor dos senhores; porque a sua benignidade dura para sempre.",
         "4": "Aquele que só faz grandes maravilhas; porque a sua benignidade dura para sempre.",

@@ -1,9 +1,15 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 34,
-    "titulos": {},
+    "titulos": {
+        "1": "O rei Josias acaba com a idolatria",
+        "3": "A purificação do templo e do culto",
+        "14": "O Livro da Torá, Lei é encontrado",
+        "22": "Profecia sobre a ruína de Jerusalém",
+        "29": "Josias faz um pacto com Deus"
+    },
     "versiculos": {
-        "1": "Tinha Josias oito anos quando começou a reinar, e trinta e um anos reinou em Jerusalém.",
+        "1": "TINHA Josias oito anos quando começou a reinar, e trinta e um anos reinou em Jerusalém.",
         "2": "E fez o que era reto aos olhos do Senhor; e andou nos caminhos de Davi, seu pai, sem se desviar deles nem para a direita nem para a esquerda.",
         "3": "Porque no oitavo ano do seu reinado, sendo ainda moço, começou a buscar o Deus de Davi, seu pai; e no duodécimo ano começou a purificar a Judá e a Jerusalém, dos altos, e dos bosques, e das imagens de escultura e de fundição.",
         "4": "E derrubaram perante ele os altares de Baalins; e despedaçou as imagens, que estavam acima deles; e os bosques, e as imagens de escultura e de fundição quebrou e reduziu a pó, e o aspergiu sobre as sepulturas dos que lhes tinham sacrificado.",

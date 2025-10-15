@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 76,
-    "titulos": {},
+    "titulos": {
+        "1": "Canto de vitória"
+    },
     "versiculos": {
-        "1": "Conhecido é Deus em Judá; grande é o seu nome em Israel.",
+        "1": "CONHECIDO é Deus em Judá; grande é o seu nome em Israel.",
         "2": "E em Salém está o seu tabernáculo, e a sua morada em Sião.",
         "3": "Ali quebrou as flechas do arco; o escudo, e a espada, e a guerra. (Selá.)",
         "4": "Tu és mais ilustre e glorioso do que os montes de caça.",

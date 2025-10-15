@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 43,
-    "titulos": {},
+    "titulos": {
+        "1": "Jeremias é forçado a ir para o Egito",
+        "8": "Nabucodonosor invadirá o Egito"
+    },
     "versiculos": {
-        "1": "E sucedeu que, acabando Jeremias de falar a todo o povo todas as palavras do Senhor seu Deus, com as quais o Senhor seu Deus lho havia enviado, para que lhes dissesse todas estas palavras,",
+        "1": "E SUCEDEU que, acabando Jeremias de falar a todo o povo todas as palavras do Senhor seu Deus, com as quais o Senhor seu Deus lho havia enviado, para que lhes dissesse todas estas palavras,",
         "2": "Então falaram Azarias, filho de Hosaías, e Joanã, filho de Careá, e todos os homens soberbos, dizendo a Jeremias: Tu dizes mentiras; o Senhor nosso Deus não te enviou a dizer: Não entreis no Egito, para ali habitar;",
         "3": "Mas Baruque, filho de Nerias, te incita contra nós, para entregar-nos na mão dos caldeus, para nos matarem, ou para nos levarem cativos para Babilônia.",
         "4": "Não obedeceu, pois, Joanã, filho de Careá, nem nenhum de todos os capitães dos exércitos, nem o povo todo, à voz do Senhor, para ficarem na terra de Judá.",

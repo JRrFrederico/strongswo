@@ -1,9 +1,12 @@
 {
     "livro": "Mateus",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "A linhagem real de Cristo",
+        "18": "A linhagem divina de Cristo"
+    },
     "versiculos": {
-        "1": "Livro da geração de Jesus Cristo, filho de Davi, filho de Abraão.",
+        "1": "LIVRO da geração de Jesus Cristo, filho de Davi, filho de Abraão.",
         "2": "Abraão gerou a Isaque; e Isaque gerou a Jacó; e Jacó gerou a Judá e a seus irmãos;",
         "3": "E Judá gerou, de Tamar, a Perez e a Zerá; e Perez gerou a Esrom; e Esrom gerou a Arão;",
         "4": "E Arão gerou a Aminadabe; e Aminadabe gerou a Naassom; e Naassom gerou a Salmom;",

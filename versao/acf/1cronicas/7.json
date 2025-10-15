@@ -1,9 +1,16 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "A descendência de Issacar",
+        "6": "A descendência de Benjamim",
+        "13": "A descendência de Naftali",
+        "14": "A descendência de Manassés",
+        "20": "A descendência de Efraim",
+        "30": "A descendência de Aser"
+    },
     "versiculos": {
-        "1": "E quanto aos filhos de Issacar, foram: Tola, Pua, Jasube e Sinrom, quatro.",
+        "1": "E QUANTO aos filhos de Issacar, foram: Tola, Pua, Jasube e Sinrom, quatro.",
         "2": "E os filhos de Tola foram: Uzi, Refaías, Jeriel, Jamai, Ibsão e Semuel, chefes das casas de seus pais, descendentes de Tola, homens valentes nas suas gerações; o seu número, nos dias de Davi, foi de vinte e dois mil e seiscentos.",
         "3": "E o filho de Uzi: Izraías; e os filhos de Izraías foram: Mical, Obadias, Joel e Issias; todos estes cinco chefes.",
         "4": "E houve com eles nas suas gerações, segundo as suas casas paternas, em tropas de guerra, trinta e seis mil; porque tiveram muitas mulheres e filhos.",
@@ -36,7 +43,7 @@
         "31": "E os filhos de Berias: Héber e Malquiel; este foi o pai de Birzavite.",
         "32": "E Héber gerou a Jaflete, e a Somer, e a Hotão, e a Suá, irmã deles.",
         "33": "E foram os filhos de Jaflete: Pasaque, e Bimal e Asvate; estes foram os filhos de Jaflete.",
-        "34": "E os filhos de Semer: Aí, Roga, Jeubá, e Arã.",
+        "34": "E os filhos de Semer: Ai, Roga, Jeubá, e Arã.",
         "35": "E os filhos de seu irmão Helém: Zofa, e Imna, e Seles, e Amal.",
         "36": "Os filhos de Zofa: Suá, e Harnefer, e Sual, e Beri, e Inra,",
         "37": "Bezer, Hode, Samá, Silsa, Itrã, e Beera.",

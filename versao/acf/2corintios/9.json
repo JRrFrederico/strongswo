@@ -1,9 +1,12 @@
 {
     "livro": "2 Coríntios",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Orientações quanto à coleta",
+        "6": "Semeando e colhendo fartura"
+    },
     "versiculos": {
-        "1": "Quanto à administração que se faz a favor dos santos, não necessito escrever-vos;",
+        "1": "QUANTO à administração que se faz a favor dos santos, não necessito escrever-vos;",
         "2": "Porque bem sei a prontidão do vosso ânimo, da qual me glorio de vós para com os macedônios; que a Acaia está pronta desde o ano passado; e o vosso zelo tem estimulado muitos.",
         "3": "Mas enviei estes irmãos, para que a nossa glória, acerca de vós, não seja vã nesta parte; para que (como já disse) possais estar prontos,",
         "4": "A fim de, se acaso os macedônios vierem comigo, e vos acharem desapercebidos, não nos envergonharmos nós (para não dizermos vós) deste firme fundamento de glória.",

@@ -1,9 +1,14 @@
 {
     "livro": "2 Samuel",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "2": "Os filhos de Davi em Hebrom",
+        "6": "Abner faz um acordo com Davi",
+        "22": "Joabe vinga-se e mata Abner",
+        "31": "Davi chora a morte de Abner"
+    },
     "versiculos": {
-        "1": "E houve uma longa guerra entre a casa de Saul e a casa de Davi; porém Davi ia se fortalecendo, mas os da casa de Saul se iam enfraquecendo.",
+        "1": "E HOUVE uma longa guerra entre a casa de Saul e a casa de Davi; porém Davi ia se fortalecendo, mas os da casa de Saul se iam enfraquecendo.",
         "2": "E a Davi nasceram filhos em Hebrom; e foi o seu primogênito Amnom, de Ainoã a jizreelita;",
         "3": "E seu segundo, Quileabe, de Abigail, mulher de Nabal, o carmelita; e o terceiro Absalão, filho de Maaca, filha de Talmai, rei de Gesur;",
         "4": "E o quarto, Adonias, filho de Hagite; e o quinto, Sefatias, filho de Abital;",

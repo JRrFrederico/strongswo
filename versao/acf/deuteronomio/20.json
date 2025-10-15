@@ -1,9 +1,11 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "As leis das guerras e dos soldados"
+    },
     "versiculos": {
-        "1": "Quando saíres à peleja contra teus inimigos, e vires cavalos, e carros, e povo maior em número do que tu, deles não terás temor; pois o Senhor teu Deus, que te tirou da terra do Egito, está contigo.",
+        "1": "QUANDO saíres à peleja contra teus inimigos, e vires cavalos, e carros, e povo maior em número do que tu, deles não terás temor; pois o Senhor teu Deus, que te tirou da terra do Egito, está contigo.",
         "2": "E será que, quando vos achegardes à peleja, o sacerdote se adiantará, e falará ao povo,",
         "3": "E dir-lhe-á: Ouvi, ó Israel, hoje vos achegais à peleja contra os vossos inimigos; não se amoleça o vosso coração: não temais nem tremais, nem vos aterrorizeis diante deles,",
         "4": "Pois o Senhor vosso Deus é o que vai convosco, a pelejar contra os vossos inimigos, para salvar-vos.",

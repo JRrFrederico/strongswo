@@ -1,9 +1,13 @@
 {
     "livro": "Oséias",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "O casamento do profeta Oseias",
+        "2": "A esposa e os filhos de Oseias",
+        "10": "A restauração para Israel e Judá"
+    },
     "versiculos": {
-        "1": "Palavra do Senhor, que foi dirigida a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz, Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.",
+        "1": "PALAVRA do Senhor, que foi dirigida a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz, Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.",
         "2": "O princípio da palavra do Senhor por meio de Oseias. Disse, pois, o Senhor a Oseias: Vai, toma uma mulher de prostituições, e filhos de prostituição; porque a terra certamente se prostitui, desviando-se do Senhor.",
         "3": "Foi, pois, e tomou a Gômer, filha de Diblaim, e ela concebeu, e lhe deu um filho.",
         "4": "E disse-lhe o Senhor: Põe-lhe o nome de Jizreel; porque daqui a pouco visitarei o sangue de Jizreel sobre a casa de Jeú, e farei cessar o reino da casa de Israel.",

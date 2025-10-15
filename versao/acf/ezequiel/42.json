@@ -1,9 +1,11 @@
 {
     "livro": "Ezequiel",
     "capitulo": 42,
-    "titulos": {},
+    "titulos": {
+        "1": "Os aposentos dos sacerdotes"
+    },
     "versiculos": {
-        "1": "Depois disto fez-me sair para fora, ao átrio exterior, para o lado do caminho do norte; e me levou às câmaras que estavam defronte do lugar separado, e que estavam defronte do edifício, do lado norte.",
+        "1": "DEPOIS disto fez-me sair para fora, ao átrio exterior, para o lado do caminho do norte; e me levou às câmaras que estavam defronte do lugar separado, e que estavam defronte do edifício, do lado norte.",
         "2": "Do comprimento de cem côvados, era a entrada do norte; e a largura era de cinquenta côvados.",
         "3": "Em frente dos vinte côvados, que tinha o átrio interior, e em frente do pavimento que tinha o átrio exterior, havia galeria contra galeria em três andares.",
         "4": "E diante das câmaras havia um passeio de dez côvados de largo, do lado de dentro, e um caminho de um côvado, e as suas entradas eram para o lado do norte.",

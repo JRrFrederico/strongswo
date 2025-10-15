@@ -1,9 +1,22 @@
 {
     "livro": "Mateus",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "A parábola do semeador",
+        "10": "O propósito das parábolas",
+        "18": "Jesus explica essa parábola",
+        "24": "O trigo e o joio",
+        "31": "O grão de mostarda",
+        "33": "O fermento",
+        "36": "Jesus explica a parábola do joio",
+        "44": "O tesouro escondido",
+        "45": "A pérola de grande valor",
+        "47": "Os bons e os maus peixes",
+        "51": "O mestre é um pai de família",
+        "53": "O profeta não é honrado pelos seus"
+    },
     "versiculos": {
-        "1": "Tendo Jesus saído de casa, naquele dia, estava assentado junto ao mar;",
+        "1": "TENDO Jesus saído de casa, naquele dia, estava assentado junto ao mar;",
         "2": "E ajuntou-se muita gente a ele, de sorte que, entrando num barco, se assentou; e toda a multidão estava em pé na praia.",
         "3": "E falou-lhe de muitas coisas por parábolas, dizendo: Eis que o semeador saiu a semear.",
         "4": "E, quando semeava, uma parte da semente caiu junto ao caminho, e vieram as aves, e comeram-na;",
@@ -43,7 +56,7 @@
         "38": "O campo é o mundo; e a boa semente são os filhos do reino; e o joio são os filhos do maligno;",
         "39": "O inimigo, que o semeou, é o diabo; e a ceifa é o fim do mundo; e os ceifeiros são os anjos.",
         "40": "Assim como o joio é colhido e queimado no fogo, assim será na consumação deste mundo.",
-        "41": "Mandará o Filho do homem os seus anjos, e eles colherão do seu reino tudo o que causa escândalo, e os que cometem iniquidade.",
+        "41": "Mandará o Filho do homem os seus anjos, e eles colherão do seu reino tudo o que causa escândalo, e os que cometem iniqüidade.",
         "42": "E lançá-los-ão na fornalha de fogo; ali haverá pranto e ranger de dentes.",
         "43": "Então os justos resplandecerão como o sol, no reino de seu Pai. Quem tem ouvidos para ouvir, ouça.",
         "44": "Também o reino dos céus é semelhante a um tesouro escondido num campo, que um homem achou e escondeu; e, pelo gozo dele, vai, vende tudo quanto tem, e compra aquele campo.",

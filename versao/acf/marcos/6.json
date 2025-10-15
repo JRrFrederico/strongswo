@@ -1,9 +1,16 @@
 {
     "livro": "Marcos",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus é rejeitado pelos seus",
+        "7": "Jesus envia os Doze em Missão",
+        "14": "João Batista é executado",
+        "30": "Jesus multiplica o pão",
+        "45": "Jesus caminha sobre as águas",
+        "53": "Muitos creram e foram curados"
+    },
     "versiculos": {
-        "1": "E, partindo dali, chegou à sua pátria, e os seus discípulos o seguiram.",
+        "1": "E, PARTINDO dali, chegou à sua pátria, e os seus discípulos o seguiram.",
         "2": "E, chegando o sábado, começou a ensinar na sinagoga; e muitos, ouvindo-o, se admiravam, dizendo: De onde lhe vêm estas coisas? E que sabedoria é esta que lhe foi dada? E como se fazem tais maravilhas por suas mãos?",
         "3": "Não é este o carpinteiro, filho de Maria, e irmão de Tiago, e de José, e de Judas e de Simão? E não estão aqui conosco suas irmãs? E escandalizavam-se nele.",
         "4": "E Jesus lhes dizia: Não há profeta sem honra senão na sua pátria, entre os seus parentes, e na sua casa.",
@@ -13,7 +20,7 @@
         "8": "E ordenou-lhes que nada tomassem para o caminho, senão somente um cajado; nem alforje, nem pão, nem dinheiro no cinto;",
         "9": "Mas que calçassem sandálias, e que não vestissem duas túnicas.",
         "10": "E dizia-lhes: Na casa em que entrardes, ficai nela até partirdes dali.",
-        "11": "E tantos quantos vos não receberem, nem vos ouvirem, saindo dali, sacudi o pó que estiver debaixo dos vossos pés, em testemunho contra eles. Em verdade vos digo que haverá mais tolerância no dia de juízo para Sodoma e Gomorra, do que para aquela cidade.",
+        "11": "E tantos quantos vos não receberem, nem vos ouvirem, saindo dali, sacudi o pó que estiver debaixo dos vossos pés, em testemunho contra eles. Em verdade vos digo que haverá mais tolerância no dia de juízo para Sodoma e Gomorra, do que para os daquela cidade.",
         "12": "E, saindo eles, pregavam que se arrependessem.",
         "13": "E expulsavam muitos demônios, e ungiam muitos enfermos com óleo, e os curavam.",
         "14": "E ouviu isto o rei Herodes (porque o seu nome se tornara notório), e disse: João, o que batizava, ressuscitou dentre os mortos, e por isso estas maravilhas operam nele.",

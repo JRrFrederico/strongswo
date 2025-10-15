@@ -1,9 +1,13 @@
 {
     "livro": "1 Pedro",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "O crente morre para o pecado",
+        "7": "O relacionamento dos crentes",
+        "12": "O privilégio de sofrer por Cristo"
+    },
     "versiculos": {
-        "1": "Ora, pois, já que Cristo padeceu por nós na carne, armai-vos também vós com este mesmo pensamento, que aquele que padeceu na carne já cessou do pecado;",
+        "1": "ORA, pois, já que Cristo padeceu por nós na carne, armai-vos também vós com este mesmo pensamento, que aquele que padeceu na carne já cessou do pecado;",
         "2": "Para que, no tempo que vos resta na carne, não vivais mais segundo as concupiscências dos homens, mas segundo a vontade de Deus.",
         "3": "Porque nos basta que no tempo passado da vida fizéssemos a vontade dos gentios, andando em dissoluções, concupiscências, embriaguezes, glutonarias, bebedices e abomináveis idolatrias;",
         "4": "E acham estranho não correrdes com eles no mesmo desenfreamento de dissolução, blasfemando de vós.",

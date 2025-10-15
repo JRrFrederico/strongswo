@@ -1,9 +1,11 @@
 {
     "livro": "Ezequiel",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "A Glória de Deus deixa o Templo"
+    },
     "versiculos": {
-        "1": "Depois olhei, e eis que no firmamento, que estava por cima da cabeça dos querubins, apareceu sobre eles uma como pedra de safira, semelhante a forma de um trono.",
+        "1": "DEPOIS olhei, e eis que no firmamento, que estava por cima da cabeça dos querubins, apareceu sobre eles uma como pedra de safira, semelhante a forma de um trono.",
         "2": "E falou ao homem vestido de linho, dizendo: Vai por entre as rodas, até debaixo do querubim, e enche as tuas mãos de brasas acesas dentre os querubins e espalha-as sobre a cidade. E ele entrou à minha vista.",
         "3": "E os querubins estavam ao lado direito da casa, quando entrou aquele homem; e uma nuvem encheu o átrio interior.",
         "4": "Então se levantou a glória do Senhor de sobre o querubim indo para a entrada da casa; e encheu-se a casa de uma nuvem, e o átrio se encheu do resplendor da glória do Senhor.",

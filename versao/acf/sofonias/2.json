@@ -1,9 +1,15 @@
 {
     "livro": "Sofonias",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecias contra as nações pagãs",
+        "4": "O castigo sobre os filisteus",
+        "8": "O castigo sobre Moabe e Amom",
+        "12": "O castigo de Deus sobre a Etiópia",
+        "13": "O castigo de Deus contra a Assíria"
+    },
     "versiculos": {
-        "1": "Congregai-vos, sim, congregai-vos, ó nação não desejável;",
+        "1": "CONGREGAI-VOS, sim, congregai-vos, ó nação não desejável;",
         "2": "Antes que o decreto produza o seu efeito, e o dia passe como a pragana; antes que venha sobre vós o furor da ira do Senhor, antes que venha sobre vós o dia da ira do Senhor.",
         "3": "Buscai ao Senhor, vós todos os mansos da terra, que tendes posto por obra o seu juízo; buscai a justiça, buscai a mansidão; pode ser que sejais escondidos no dia da ira do Senhor.",
         "4": "Porque Gaza será desamparada, e Ascalom assolada; Asdode ao meio-dia será expelida, e Ecrom será desarraigada.",

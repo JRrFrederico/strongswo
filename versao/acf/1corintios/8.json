@@ -1,9 +1,11 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Acerca dos alimentos oferecidos aos ídolos"
+    },
     "versiculos": {
-        "1": "Ora, no tocante às coisas sacrificadas aos ídolos, sabemos que todos temos conhecimento. O conhecimento incha, mas o amor edifica.",
+        "1": "ORA, no tocante às coisas sacrificadas aos ídolos, sabemos que todos temos conhecimento. O conhecimento incha, mas o amor edifica.",
         "2": "E, se alguém cuida saber alguma coisa, ainda não sabe como convém saber.",
         "3": "Mas, se alguém ama a Deus, esse é conhecido dele.",
         "4": "Assim que, quanto ao comer das coisas sacrificadas aos ídolos, sabemos que o ídolo nada é no mundo, e que não há outro Deus, senão um só.",

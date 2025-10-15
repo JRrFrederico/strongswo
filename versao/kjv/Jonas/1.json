@@ -1,24 +1,26 @@
 {
     "livro": "Jonas",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Chamado, fuga e punição de Jonas"
+    },
     "versiculos": {
-        "1": "Ora, a Palavra do SENHOR veio a Jonas, filho de Amitai, dizendo:",
-        "2": "Levanta-te, vai à Nínive, aquela grande cidade, e clama contra ela, pois a sua maldade subiu diante de mim.",
-        "3": "Mas Jonas se levantou para fugir para Társis, longe da presença do SENHOR, e desceu a Jope, onde encontrou um navio que ia para Társis; pagou, pois, a sua passagem, e desceu para dentro dele, para ir com eles para Társis, longe da presença do SENHOR.",
-        "4": "Mas o SENHOR enviou um grande vento ao mar, e houve uma poderosa tempestade no mar, de modo que o navio estava a ponto de quebrar-se.",
-        "5": "Então os marinheiros ficaram com medo, e cada homem clamou ao seu deus, e lançaram as cargas que estavam no navio ao mar, para o aliviarem. Mas Jonas desceu ao porão do navio, e deitado, dormiu profundamente.",
-        "6": "E o mestre do navio dirigiu-se a ele, e disse-lhe: que tens, ó dorminhoco? Levanta-te, clama ao teu Deus, talvez assim, Deus pensará em nós, para que não pereçamos.",
-        "7": "E disseram cada um ao seu companheiro: vinde, e lancemos sorte, para que saibamos por que causa esse mal está sobre nós. Assim eles lançaram sorte, e a sorte caiu sobre Jonas.",
-        "8": "Então eles lhe disseram: diga-nos, lhe pedimos, por causa de quem este mal está sobre nós? Qual é a tua ocupação? De onde vens? Qual é a tua terra? E de que povo és tu?",
-        "9": "E ele lhes disse: eu sou hebreu, e temo ao SENHOR, o Deus do céu, que fez o mar e a terra seca.",
-        "10": "Então os homens se encheram de medo, e disseram-lhe: por que tu fizeste isto? Pois os homens sabiam que ele fugia da presença do SENHOR, porque ele lhes tinha dito.",
-        "11": "Então disseram-lhe: o que devemos fazer contigo, para que o mar se acalme para nós? Pois o mar estava agitado e tempestuoso.",
-        "12": "E ele lhes disse: levantai-me, e lançai-me ao mar, para que ele se acalme; pois eu sei que é por minha causa que esta grande tempestade está sobre vós.",
-        "13": "Entretanto, os homens remaram forte, para trazer o navio à terra, mas eles não conseguiram, pois o mar estava agitado e tempestuoso contra eles.",
-        "14": "Por isso eles clamaram ao SENHOR, e disseram: nós te rogamos, ó SENHOR! Nós te rogamos, que não nos deixe perecer por causa da vida deste homem, e que não ponha sobre nós sangue inocente; pois tu, ó SENHOR, fizeste o que desejavas.",
-        "15": "Então eles tomaram Jonas, e o lançaram ao mar, e cessou o mar da sua fúria.",
-        "16": "Então os homens temeram muito ao SENHOR, ofereceram sacrifício ao SENHOR e fizeram votos.",
-        "17": "Mas o SENHOR havia preparado um grande peixe, para que engolisse Jonas. E ele esteve no ventre do peixe três dias e três noites."
+        "1": "A Palavra de Yahweh veio a Yonáh ben‘Amittay , Jonas filho de Amitai, com esta ordem:",
+        "2": "“Dispõe-te e vai à grande cidade de Niynveh , Nínive, quer dizer, Morada de Ninus, e prega contra ela, porque a sua malignidade subiu até a minha presença!”",
+        "3": "Entretanto, Jonas decidiu fugir da presença de Yahweh , o S ENHOR , e partiu na direção de Tarshish , Társis, isto é, Jaspe Amarelo. Descendo para a cidade de Yâphô , Jope, ou seja, Formosa, encontrou um navio pronto à zarpar para Társis, pagou a passagem e embarcou nele, a fim de ir para a cidade de Társis, tentando escapar da presença de Yahweh .",
+        "4": "Contudo, Yahweh , fez soprar um forte vento sobre o mar, e caiu uma tempestade tão devastadora que o barco ameaçava arrebentar-se.",
+        "5": "Todos os marinheiros foram tomados de grande pânico, e cada um daqueles homens passou a clamar ao seu próprio deus. Em seguida lançaram ao mar a carga do navio, com o propósito de deixar a embarcação mais leve. Jonas, no entanto, havia se refugiado no porão do navio; e, tendo-se deitado, dormia profundamente.",
+        "6": "O capitão dirigiu-se a ele e indagou: “Como consegues ficar dormindo numa hora dessas? Levanta-te agora mesmo e começa a clamar também ao teu deus! Talvez assim ele se lembre de nós para que não venhamos todos a perecer!",
+        "7": "Então os marinheiros chegaram a uma conclusão entre si: “Vinde e lancemos sortes, para saber quem é o responsável por essa desgraça que se abateu sobre nós!” E, de fato, jogaram as sortes, e a sorte caiu sobre Jonas.",
+        "8": "Imediatamente lhe perguntaram: “Declara-nos, pois, neste momento, por culpa de quem nos sobreveio esta tragédia? Quem és tu e qual a tua ocupação? De onde vens e qual a tua terra? A que povo pertences tu?",
+        "9": "E Jonas passou a responder-lhes: “Eu sou hebreu, e temo a Yahweh , Elohim, o Deus dos céus, que fez o mar e a terra!”",
+        "10": "Então aqueles homens ficaram horrorizados e lhe repreenderam: “Que é isso que fizeste?” Porquanto os homens sabiam que ele fugia do S ENHOR , pois ele já lhes havia contado tudo.",
+        "11": "Considerando que o mar estava cada vez mais revoltoso, os marinheiros lhe inquiriram: “O que devemos fazer contigo, a fim de acalmar este mar?”",
+        "12": "Diante do que Jonas lhes aconselhou: “Pegai-me e lançai-me ao mar, e ele haverá de se aquietar; pois sei que esta violenta tempestade caiu sobre vós por minha causa!”",
+        "13": "Contudo, os homens ainda se esforçavam ao máximo para remar de volta à terra; todavia sem sucesso, e o mar ficava cada vez mais tempestuoso.",
+        "14": "Por isso suplicaram a Yahweh nestes termos: “Ó S ENHOR ! Eis que nós te rogamos, ó Yahweh ! Não nos deixe morrer por conta da vida deste homem, e que não nos culpes pelo sangue inocente; porque tu, ó Yahweh , fizeste como te aprouve fazer!”",
+        "15": "Então agarraram Jonas e o lançaram ao mar enfurecido; e logo este se acalmou.",
+        "16": "Assim que notaram que o mar se aquietara, todos os homens adoraram e louvaram a Yahweh com grande temor, oferecendo-lhe sacrifícios e fazendo-lhe votos.",
+        "17": "Entrementes, Yahweh , o S ENHOR , fez com que um grande peixe engolisse Jonas, e ele ficou dentro desse peixe durante três dias e três noites."
     }
 }

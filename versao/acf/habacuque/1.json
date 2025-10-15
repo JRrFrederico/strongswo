@@ -1,9 +1,13 @@
 {
     "livro": "Habacuque",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Primeira questão do profeta a Deus",
+        "5": "Resposta de Deus: Estou agindo!",
+        "12": "Segunda questão do profeta a Deus"
+    },
     "versiculos": {
-        "1": "O peso que viu o profeta Habacuque.",
+        "1": "O PESO que viu o profeta Habacuque.",
         "2": "Até quando, Senhor, clamarei eu, e tu não me escutarás? Gritar-te-ei: Violência! E não salvarás?",
         "3": "Por que razão me mostras a iniquidade, e me fazes ver a opressão? Pois que a destruição e a violência estão diante de mim, havendo também quem suscite a contenda e o litígio.",
         "4": "Por esta causa a lei se afrouxa, e o juízo nunca se manifesta; porque o ímpio cerca o justo, e o juízo se manifesta torcido.",

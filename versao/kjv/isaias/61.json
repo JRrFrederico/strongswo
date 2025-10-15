@@ -1,18 +1,21 @@
 {
     "livro": "Isaías",
     "capitulo": 61,
-    "titulos": {},
+    "titulos": {
+        "1": "O ano da proclamação do Senhor",
+        "10": "Ações de graças a Yahweh"
+    },
     "versiculos": {
-        "1": "O Espírito do Senhor DEUS está sobre mim, porque o SENHOR tem me ungido para pregar boas novas ao pobre. Ele tem me enviado para atar as feridas do dilacerado, para proclamar liberdade aos cativos e a abertura da prisão para aqueles que estão encarcerados.",
-        "2": "Para proclamar o ano aceitável do SENHOR, e o dia da vingança do nosso Deus, para confortar todos que pranteiam.",
-        "3": "Para nomear aqueles que pranteiam em Sião, para dar-lhes beleza em lugar de cinzas, o óleo de alegria em lugar de pranto, a veste de louvor em lugar de espírito de opressão, para que eles possam ser chamados árvores de justiça, a plantação do SENHOR, para que ele possa ser glorificado.",
-        "4": "E eles edificarão as ruínas antigas. Eles irão levantar escombros do passado e repararão as cidades devastadas, os escombros de muitas gerações.",
-        "5": "E estrangeiros levantar-se-ão e alimentarão vossos rebanhos, e os filhos do estrangeiro serão os vossos fazendeiros e os vossos vinhateiros.",
-        "6": "Mas vós sereis denominados, os sacerdotes do SENHOR. Homens vos chamarão, os ministros de nosso Deus. Vós comereis as riquezas dos gentios e na glória deles vos vangloriareis.",
-        "7": "No lugar da vossa vergonha, vós tereis dupla honra, e no lugar de humilhação eles regozijarão na sua herança; portanto, na terra deles eles possuirão dupla honra. Alegria eterna estará sobre eles.",
-        "8": "Porque eu, o SENHOR, amo a justiça. Eu odeio o roubo, como oferta queimada. E eu dar-lhes-ei seu salário fielmente, e farei um pacto eterno com eles.",
-        "9": "E a posteridade deles será conhecida entre os gentios, e a descendência deles entre os povos. Todos que os veem irão admitir que eles são a semente que o SENHOR tem abençoado.",
-        "10": "Eu me regozijarei grandemente no SENHOR, minha alma estará exultante no meu Deus, porque ele me tem vestido com as vestes de salvação. Ele tem-me coberto com o manto de justiça, como um noivo no dia do casamento adorna a si mesmo com ornamentos e como uma noiva no dia do casamento adorna a si mesma com as suas joias.",
-        "11": "Porque, como a terra produz seu renovo, e como o jardim faz brotar suas sementes, assim, o Senhor DEUS fará surgir justiça e louvor perante todas as nações."
+        "1": "Eis que o Espírito de Yahweh , o Soberano, está sobre mim, porque o S ENHOR me ungiu para anunciar a Boa Nova aos pobres. Enviou-me para cuidar dos que estão com o coração quebrantado, proclamar liberdade aos cativos e libertação do mundo das trevas aos prisioneiros da escuridão;",
+        "2": "para anunciar a todos o ano aceitável de Yahweh , e o Dia da vingança do nosso Deus; para consolar todos os que andam tristes,",
+        "3": "e dar a todos os que estão de luto e amargurados em Tsión , Sião, uma linda coroa em vez de cinzas; óleo de júbilo em vez de pranto, e um manto festivo de louvor em lugar de um espírito abatido. Eles serão chamados Carvalhos de Justiça, plantação de Yahweh para manifestação do esplendor da sua glória.",
+        "4": "Eles reconstruirão as velhas ruínas e restaurarão os antigos escombros; renovarão as cidades assoladas que têm sido destruídas de geração em geração.",
+        "5": "Estrangeiros estarão aí para apascentar os vossos rebanhos; pessoas de outras nações trabalharão em vossos campos e vinhas.",
+        "6": "Contudo, sereis chamados sacerdotes de Yahweh , ministros do nosso Deus. Alimentar-vos-eis das riquezas das nações; haveis de suceder-lhes na sua glória.",
+        "7": "Em lugar da vergonha que tendes sofrido, tereis porção dobrada de honra, em vez de humilhação, bradareis de júbilo em vossa herança; porquanto recebereis porção dupla em sua terra, e terás alegria eterna.",
+        "8": "“Com efeito, Eu, Yahweh , que amo o direito e detesto a desonestidade, o roubo e toda a malignidade, lhes darei fielmente a sua recompensa e estabelecerei com eles uma Aliança por toda a eternidade.",
+        "9": "A sua posteridade será conhecida entre as nações, a sua descendência no meio dos povos. Todos aqueles que os virem reconhecerão que eles são um povo abençoado por Yahweh ”.",
+        "10": "Transbordo de alegria em Yahweh , o S ENHOR , a minha alma se regozija no meu Deus, porque ele me vestiu com as vestes da Salvação, cobriu-me com o manto da Justiça, como um noivo que se adorna com uma coroa sacerdotal, qual noiva que se enfeita com as mais ricas joias.",
+        "11": "Porque, assim como a terra faz brotar a planta e o jardim faz germinar a semente, assim o Soberano, Yahweh , fará nascer a justiça e o louvor diante de todas as nações!"
     }
 }

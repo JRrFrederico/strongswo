@@ -1,9 +1,19 @@
 {
     "livro": "Marcos",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "João Batista revela o caminho",
+        "7": "A mensagem de João",
+        "9": "Jesus é batizado",
+        "12": "Jesus é tentado",
+        "14": "Jesus convoca seus discípulos",
+        "21": "Jesus ensina na sinagoga",
+        "29": "O poder de Jesus sobre doenças e demônios",
+        "35": "Jesus retira-se para orar",
+        "40": "A cura do leproso que creu"
+    },
     "versiculos": {
-        "1": "Princípio do Evangelho de Jesus Cristo, Filho de Deus;",
+        "1": "PRINCÍPIO do Evangelho de Jesus Cristo, Filho de Deus;",
         "2": "Como está escrito nos profetas: Eis que eu envio o meu anjo ante a tua face, o qual preparará o teu caminho diante de ti.",
         "3": "Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas.",
         "4": "Apareceu João batizando no deserto, e pregando o batismo de arrependimento, para remissão dos pecados.",

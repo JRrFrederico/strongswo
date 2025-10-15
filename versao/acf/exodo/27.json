@@ -1,9 +1,13 @@
 {
     "livro": "Êxodo",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "O altar para os holocaustos",
+        "9": "O átrio: O pátio do Tabernáculo",
+        "20": "O azeite puro para o candelabro"
+    },
     "versiculos": {
-        "1": "Farás também o altar de madeira de acácia; cinco côvados será o comprimento, e cinco côvados a largura (será quadrado o altar), e três côvados a sua altura.",
+        "1": "FARÁS também o altar de madeira de acácia; cinco côvados será o comprimento, e cinco côvados a largura (será quadrado o altar), e três côvados a sua altura.",
         "2": "E farás as suas pontas nos seus quatro cantos; as suas pontas serão do mesmo, e o cobrirás de cobre.",
         "3": "Far-lhe-ás também os seus recipientes, para recolher a sua cinza, e as suas pás, e as suas bacias, e os seus garfos e os seus braseiros; todos os seus utensílios farás de cobre.",
         "4": "Far-lhe-ás também um crivo de cobre em forma de rede, e farás a esta rede quatro argolas de metal nos seus quatro cantos.",

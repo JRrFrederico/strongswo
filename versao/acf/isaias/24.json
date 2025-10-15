@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "Yahweh castigará o mundo",
+        "7": "Cântico sobre a cidade destruída"
+    },
     "versiculos": {
-        "1": "Eis que o Senhor esvazia a terra, e a desola, e transtorna a sua superfície, e dispersa os seus moradores.",
+        "1": "EIS que o Senhor esvazia a terra, e a desola, e transtorna a sua superfície, e dispersa os seus moradores.",
         "2": "E o que suceder ao povo, assim sucederá ao sacerdote; ao servo, como ao seu senhor; à serva, como à sua senhora; ao comprador, como ao vendedor; ao que empresta, como ao que toma emprestado; ao que dá usura, como ao que paga usura.",
         "3": "De todo se esvaziará a terra, e de todo será saqueada, porque o Senhor pronunciou esta palavra.",
         "4": "A terra pranteia e se murcha; o mundo enfraquece e se murcha; enfraquecem os mais altos do povo da terra.",

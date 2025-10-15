@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 52,
-    "titulos": {},
+    "titulos": {
+        "1": "Jerusalém é invadida e arrasada",
+        "31": "Libertação e honra de Joaquim"
+    },
     "versiculos": {
-        "1": "Era Zedequias da idade de vinte e um anos quando começou a reinar, e reinou onze anos em Jerusalém; e o nome de sua mãe era Hamutal, filha de Jeremias, de Libna.",
+        "1": "ERA Zedequias da idade de vinte e um anos quando começou a reinar, e reinou onze anos em Jerusalém; e o nome de sua mãe era Hamutal, filha de Jeremias, de Libna.",
         "2": "E fez o que era mau aos olhos do Senhor, conforme tudo o que fizera Jeoiaquim.",
         "3": "Assim, por causa da ira do Senhor, contra Jerusalém e Judá, ele os lançou de diante dele, e Zedequias se rebelou contra o rei de Babilônia.",
         "4": "E aconteceu, que no ano nono do seu reinado, no décimo mês, no décimo dia do mês, veio Nabucodonosor, rei de Babilônia, contra Jerusalém, ele e todo o seu exército, e se acamparam contra ela, e levantaram contra ela trincheiras ao redor.",

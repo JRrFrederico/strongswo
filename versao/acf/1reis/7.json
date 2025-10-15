@@ -1,9 +1,16 @@
 {
     "livro": "1 Reis",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Salomão constrói seu palácio",
+        "13": "Os elementos do Templo",
+        "15": "As duas colunas do Templo",
+        "23": "O Mar de bronze",
+        "27": "Os pequenos carros de bronze",
+        "40": "Alguns objetos do Templo"
+    },
     "versiculos": {
-        "1": "Porém a sua casa edificou Salomão em treze anos; e acabou toda a sua casa.",
+        "1": "PORÉM a sua casa edificou Salomão em treze anos; e acabou toda a sua casa.",
         "2": "Também edificou a casa do bosque do Líbano de cem côvados de comprimento, e de cinquenta côvados de largura, e de trinta côvados de altura, sobre quatro ordens de colunas de cedro, e vigas de cedro sobre as colunas.",
         "3": "E por cima estava coberta de cedro sobre as vigas, que estavam sobre quarenta e cinco colunas, quinze em cada ordem.",
         "4": "E havia três ordens de janelas; e uma janela estava defronte da outra janela, em três ordens.",

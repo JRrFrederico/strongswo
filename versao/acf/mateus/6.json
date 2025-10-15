@@ -1,9 +1,17 @@
 {
     "livro": "Mateus",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Como viver no Reino",
+        "5": "A oração modelo",
+        "16": "Jejuar é adorar a Deus",
+        "19": "Investir os recursos no céu",
+        "22": "Um corpo iluminado",
+        "24": "Servir somente a Deus",
+        "25": "Descanso na providência divina"
+    },
     "versiculos": {
-        "1": "Guardai-vos de fazer a vossa esmola diante dos homens, para serdes vistos por eles; aliás, não tendes galardão junto de vosso Pai, que está nos céus.",
+        "1": "GUARDAI-VOS de fazer a vossa esmola diante dos homens, para serdes vistos por eles; aliás, não tendes galardão junto de vosso Pai, que está nos céus.",
         "2": "Quando, pois, deres esmola, não faças tocar trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem glorificados pelos homens. Em verdade vos digo que já têm o seu galardão.",
         "3": "Mas, quando tu deres esmola, não saiba a tua mão esquerda o que faz a tua direita;",
         "4": "Para que a tua esmola seja dada em secreto; e teu Pai, que vê em secreto, ele mesmo te recompensará publicamente.",

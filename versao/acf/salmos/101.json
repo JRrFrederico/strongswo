@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 101,
-    "titulos": {},
+    "titulos": {
+        "1": "Modelo do governante ideal"
+    },
     "versiculos": {
-        "1": "Cantarei a misericórdia e o juízo; a ti, Senhor, cantarei.",
+        "1": "CANTAREI a misericórdia e o juízo; a ti, Senhor, cantarei.",
         "2": "Portar-me-ei com inteligência no caminho reto. Quando virás a mim? Andarei em minha casa com um coração sincero.",
         "3": "Não porei coisa má diante dos meus olhos. Odeio a obra daqueles que se desviam; não se me pegará a mim.",
         "4": "Um coração perverso se apartará de mim; não conhecerei o homem mau.",

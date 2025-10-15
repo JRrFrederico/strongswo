@@ -1,9 +1,17 @@
 {
     "livro": "Tiago",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Apresentação e saudação",
+        "2": "Como atravessar as provações",
+        "5": "Como ganhar sabedoria",
+        "9": "Tudo passa, e passa depressa",
+        "12": "Provação e tentação se diferem",
+        "16": "Deus nos gerou para abençoar",
+        "19": "Como viver a Palavra de Deus"
+    },
     "versiculos": {
-        "1": "Tiago, servo de Deus, e do Senhor Jesus Cristo, às doze tribos que andam dispersas, saúde.",
+        "1": "TIAGO, servo de Deus, e do Senhor Jesus Cristo, às doze tribos que andam dispersas, saúde.",
         "2": "Meus irmãos, tende grande alegria quando enfrentardes várias tentações;",
         "3": "Sabendo que a prova da vossa fé opera a paciência.",
         "4": "Tenha, porém, a paciência a sua obra perfeita, para que sejais perfeitos e completos, sem faltar em coisa alguma.",

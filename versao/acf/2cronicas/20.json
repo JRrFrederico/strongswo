@@ -1,9 +1,12 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus concede vitórias a Josafá",
+        "31": "O final do império de Josafá"
+    },
     "versiculos": {
-        "1": "E sucedeu que, depois disto, os filhos de Moabe, e os filhos de Amom, e com eles outros dos amonitas, vieram à peleja contra Jeosafá.",
+        "1": "E SUCEDEU que, depois disto, os filhos de Moabe, e os filhos de Amom, e com eles outros dos amonitas, vieram à peleja contra Jeosafá.",
         "2": "Então vieram alguns que avisaram a Jeosafá, dizendo: Vem contra ti uma grande multidão dalém do mar e da Síria; e eis que já estão em Hazazom-Tamar, que é En-Gedi.",
         "3": "Então Jeosafá temeu, e pôs-se a buscar o Senhor, e apregoou jejum em todo o Judá.",
         "4": "E Judá se ajuntou, para pedir socorro ao Senhor; também de todas as cidades de Judá vieram para buscar ao Senhor.",

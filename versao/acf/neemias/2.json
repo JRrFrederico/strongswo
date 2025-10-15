@@ -1,9 +1,12 @@
 {
     "livro": "Neemias",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Neemias vai a Jerusalém em missão",
+        "11": "Avaliação dos muros de Jerusalém"
+    },
     "versiculos": {
-        "1": "Sucedeu, pois, no mês de Nisã, no ano vigésimo do rei Artaxerxes, que estava posto vinho diante dele, e eu peguei o vinho e o dei ao rei; porém eu nunca estivera triste diante dele.",
+        "1": "SUCEDEU, pois, no mês de Nisã, no ano vigésimo do rei Artaxerxes, que estava posto vinho diante dele, e eu peguei o vinho e o dei ao rei; porém eu nunca estivera triste diante dele.",
         "2": "E o rei me disse: Por que está triste o teu rosto, pois não estás doente? Não é isto senão tristeza de coração; então temi sobremaneira.",
         "3": "E disse ao rei: Viva o rei para sempre! Como não estaria triste o meu rosto, estando a cidade, o lugar dos sepulcros de meus pais, assolada, e tendo sido consumidas as suas portas a fogo?",
         "4": "E o rei me disse: Que me pedes agora? Então orei ao Deus dos céus,",

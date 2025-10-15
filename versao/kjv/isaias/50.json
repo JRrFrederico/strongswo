@@ -1,18 +1,20 @@
 {
     "livro": "Isaías",
     "capitulo": 50,
-    "titulos": {},
+    "titulos": {
+        "1": "O sofrimento do Servo de Yahweh"
+    },
     "versiculos": {
-        "1": "Assim diz o SENHOR: Onde está a certidão de divórcio de tua mãe, a quem eu tenha repudiado? Ou qual de meus credores é aquele a quem eu vos tenha vendido? Eis que por vossas iniquidades fostes vendidos e por causa de vossas transgressões é vossa mãe rejeitada.",
-        "2": "Por esta razão quando eu vim não havia nenhum homem? Quando eu chamei não havia ninguém para responder? Está minha mão encurtada de alguma forma que não possa redimir? Ou não tenho eu poder para livrar? Eis que à minha repreensão eu seco o mar. Eu faço de rios um deserto. Seus peixes cheiram mal, porquanto não há água, e morrem de sede.",
-        "3": "Eu visto os céus com escuridão e faço da vestimenta de pano de saco suas cobertas.",
-        "4": "O Senhor DEUS me tem dado a língua do instruído, a fim de que eu deva saber como dizer uma palavra adequada para aquele que está cansado. Ele me acorda manhã após manhã. Ele desperta meu ouvido para ouvir como o erudito.",
-        "5": "O Senhor DEUS tem aberto meu ouvido e eu não fui rebelde, nem retrocedi.",
-        "6": "Eu dei minhas costas para os golpeadores, e minhas bochechas para aqueles que arrancaram o cabelo. Eu não escondi minha face da vergonha e das cusparadas.",
-        "7": "Porquanto, o Senhor DEUS me ajudará; portanto, eu não serei confundido. Por conseguinte, eu tenho disposto minha face como uma pederneira; e eu sei que não serei envergonhado.",
-        "8": "Aquele que me justifica está próximo; quem contenderá comigo? Apresentemo-nos juntos; quem é meu adversário? Deixe-o aproximar-se de mim.",
-        "9": "Eis que o Senhor DEUS me ajudará. Quem é aquele que me condenará? Veja! Eles todos tornar-se-ão velhos como uma roupa. A traça os devorará inteiramente.",
-        "10": "Quem é entre vós que teme ao SENHOR, que observa a voz de seu servo? Que anda nas trevas e não tem luz? Deixai-o confiar no nome do SENHOR e permanecer no seu Deus.",
-        "11": "Eis que, todos vós que acendeis um fogo, que circundais em torno de vós mesmos com faíscas. Andai na luz de vosso fogo e nas faíscas que vós tendes acendido. Isto vós tereis da minha mão; vós vos deitareis em tristeza."
+        "1": "Assim diz Yahweh : “Onde está a certidão de divórcio de vossa mãe, mediante a qual Eu a teria mandado embora? A qual de meus credores Eu vos vendi como escravos? Ora, foi por vossas maldades que fostes vendidos, e por vossas transgressões vossa mãe foi rejeitada.",
+        "2": "Por que vim e não havia ninguém? Por que chamei e ninguém respondeu? Porventura foi meu braço muito curto para chegar até vós e os resgatar? Será que me falta força ou capacidade para redimi-los? Ora, com uma simples repreensão Eu seco o mar, transformo rios em deserto; seus peixes apodrecem por falta de água e morrem de sede.",
+        "3": "Revisto os céus de trevas e transformo vestes de luto e lamento em suas cobertas!”",
+        "4": "É, pois, o Eterno, Yahweh , que concedeu-me a língua dos instruídos para que eu saiba o que dizer ao que está cansado; ele me acorda todas as manhãs; desperta-me o ouvido para que eu possa escutar como discípulo.",
+        "5": "O S ENHOR , Yahweh , abriu-me os ouvidos e eu não fui rebelde, nem me afastei.",
+        "6": "Ofereci as minhas costas aos que me feriam, e a minha face, aos que me arrancavam a barba; não escondi o rosto dos que me afrontavam e me cuspiam.",
+        "7": "Porque Yahweh , o Eterno, me ajuda, não serei jamais constrangido. Por isso eu me opus firme como sólido rochedo e sei que não haverei de permanecer frustrado.",
+        "8": "Aquele que me defende está muito próximo; quem se atreverá a contender comigo? Apresentemo-nos juntos; quem é meu adversário? Eis que se apresente!",
+        "9": "É o Eterno Yahweh que me socorrerá, quem será aquele que me condenará? Certamente todos eles se desgastarão como uma veste: a traça os devorará.",
+        "10": "Quem dentre vós teme a Yahweh e ouve a voz do seu servo? Aquele que tem caminhado nas trevas, sem nenhuma luz, ponha a sua confiança no Nome de Yahweh , tome como arrimo e total apoio, o seu Deus.",
+        "11": "Mas todos vós que acendeis um fogo, que vos munis de setas incendiárias, ide e andai na luz do próprio fogo e das tochas que acendestes. Contudo, por minha mão isto vos há de sobrevir: deitar-vos-eis no meio dos tormentos."
     }
 }

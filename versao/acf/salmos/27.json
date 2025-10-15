@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "Minha luz e salvação"
+    },
     "versiculos": {
         "1": "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a força da minha vida; de quem me recearei?",
         "2": "Quando os malvados, meus adversários e meus inimigos, se chegaram contra mim, para comerem as minhas carnes, tropeçaram e caíram.",

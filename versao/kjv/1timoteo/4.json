@@ -1,23 +1,25 @@
 {
     "livro": "1 Timóteo",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Recomendações a Timóteo"
+    },
     "versiculos": {
-        "1": "Ora, o Espírito expressamente diz que, nos últimos tempos, alguns deixarão a fé, dando ouvidos a espíritos enganadores e a doutrinas de demônios,",
-        "2": "falando mentiras em hipocrisia, tendo a sua própria consciência cauterizada com ferro quente,",
-        "3": "proibindo o casamento e ordenando a abstinência de carnes que Deus criou para ser recebido, com ação de graças, pelos que creem e conhecem a verdade;",
-        "4": "porque toda criatura de Deus é boa, e não há nada que rejeitar, sendo recebido com ações de graças,",
-        "5": "porque é santificada pela palavra de Deus e pela oração.",
-        "6": "Propondo estas coisas aos irmãos, serás bom ministro de Jesus Cristo, nutrido com as palavras da fé e da boa doutrina que tens alcançado.",
-        "7": "Todavia, recusa as fábulas profanas e de velhas e exercita-te a ti mesmo em piedade.",
-        "8": "Porque o exercício corporal para pouco aproveita, mas a piedade para todas as coisas é proveitosa, tendo a promessa da vida que agora é, e da que há de vir.",
-        "9": "Esta é uma palavra fiel e digna de toda a aceitação.",
-        "10": "Porque para isto trabalhamos e sofremos reprovação, porque confiamos no Deus vivo, que é o Salvador de todos os homens, especialmente daqueles que creem.",
-        "11": "Ordena estas coisas e ensina-as.",
-        "12": "Ninguém despreze a tua juventude; mas sê tu um exemplo dos fiéis, em palavra, em conversação, em caridade, em espírito, em fé, em pureza.",
-        "13": "Até que eu chegue, dedique-se à leitura, à exortação e à doutrina.",
-        "14": "Não negligencies o dom que há em ti, o qual te foi dado por profecia, com a imposição das mãos do presbitério.",
-        "15": "Medita sobre estas coisas, entrega-te a ti mesmo inteiramente a elas, para que o teu aproveitamento apareça a todos.",
-        "16": "Tem cuidado de ti mesmo e da doutrina; persevera nelas; porque, fazendo isto, te salvarás, tanto a ti mesmo como aos que te ouvem."
+        "1": "O Espírito Santo afirma expressamente que, nos últimos tempos, alguns se desviarão da fé e darão ouvidos a espíritos enganadores e à doutrina de demônios,",
+        "2": "sob a influência da hipocrisia de pessoas mentirosas, que têm a consciência cauterizada.",
+        "3": "São líderes que proíbem o casamento e ordenam a abstinência de alimentos que Deus criou para serem recebidos com ações de graças pelos que são fiéis e estão bem firmados na verdade.",
+        "4": "Pois tudo o que Deus criou é bom, e, nada deve ser rejeitado, se puder ser recebido com ações de graças.",
+        "5": "Porquanto é santificado pela Palavra de Deus e pela oração.",
+        "6": "Orientando aos irmãos quanto a esses assuntos serás bom ministro de Cristo Jesus, nutrido pelas palavras da fé e da boa teologia que tens seguido.",
+        "7": "Mas rejeita as fábulas profanas e os falatórios dos insensatos. Exercita-te, porém, na piedade.",
+        "8": "O exercício físico, de fato, é de algum valor; no entanto, a piedade para tudo é proveitosa, porquanto traz consigo a promessa da vida presente e futura.",
+        "9": "Esta palavra é uma afirmação digna de todo crédito e plena aceitação!",
+        "10": "Pois é justamente para isso que trabalhamos e lutamos, porquanto temos depositado nossa esperança no Deus vivo, o Salvador de todos os homens, especialmente dos que crêem.",
+        "11": "Ordena, pois, e transmite esses ensinos!",
+        "12": "Ninguém menospreze o fato de seres jovem, mas procura ser exemplo para os fiéis, na palavra, no comportamento, no amor, na fé e na pureza.",
+        "13": "Enquanto aguardas a minha chegada, aplica-te à leitura, à exortação e ao ensino.",
+        "14": "Não deixes de desenvolver o dom que há em ti, que te foi outorgado por mensagem profética, com imposição de mãos por parte dos presbíteros.",
+        "15": "Dedica-te plenamente ao cumprimento dessas responsabilidades, para que todos possam testemunhar o teu progresso.",
+        "16": "Tem cuidado de ti mesmo e do teu ensino; persevera nesses deveres, pois agindo assim, salvarás tanto a tua própria vida quanto a todos que te derem ouvidos."
     }
 }

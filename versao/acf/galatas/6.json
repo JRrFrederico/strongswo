@@ -1,9 +1,14 @@
 {
     "livro": "Gálatas",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "A mutualidade cristã",
+        "6": "Colhemos aquilo que semeamos",
+        "11": "A nova criação supera a Lei",
+        "18": "Bênção apostólica final"
+    },
     "versiculos": {
-        "1": "Irmãos, se algum homem chegar a ser surpreendido nalguma ofensa, vós, que sois espirituais, encaminhai o tal com espírito de mansidão; olhando por ti mesmo, para que não sejas também tentado.",
+        "1": "IRMÃOS, se algum homem chegar a ser surpreendido nalguma ofensa, vós, que sois espirituais, encaminhai o tal com espírito de mansidão; olhando por ti mesmo, para que não sejas também tentado.",
         "2": "Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo.",
         "3": "Porque, se alguém cuida ser alguma coisa, não sendo nada, engana-se a si mesmo.",
         "4": "Mas prove cada um a sua própria obra, e terá glória só em si mesmo, e não noutro.",

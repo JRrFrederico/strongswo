@@ -1,9 +1,11 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "O altar e o tanque de fundição"
+    },
     "versiculos": {
-        "1": "Também fez um altar de metal, de vinte côvados de comprimento, de vinte côvados de largura e de dez côvados de altura.",
+        "1": "TAMBÉM fez um altar de metal, de vinte côvados de comprimento, de vinte côvados de largura e de dez côvados de altura.",
         "2": "Fez também o mar de fundição, de dez côvados de uma borda até a outra, totalmente redondo, e de cinco côvados de altura; cingia-o ao redor um cordão de trinta côvados.",
         "3": "E por baixo dele havia figuras de bois, que cingiam o mar ao redor, dez em cada côvado, contornando-o; e tinha duas fileiras de bois, fundidos juntamente com o mar.",
         "4": "E o mar estava posto sobre doze bois; três que olhavam para o norte, três que olhavam para o ocidente, três que olhavam para o sul e três que olhavam para o oriente; e o mar estava posto sobre eles; e as suas partes posteriores estavam todas para o lado de dentro.",

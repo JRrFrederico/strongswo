@@ -2,23 +2,30 @@
     "livro": "Atos",
     "capitulo": 28,
     "titulos": {
-        "1": "Paulo na ilha de Malta",
-        "11": "Paulo chega a Roma",
-        "17": "Paulo prega e ensina em Roma"
+        "10": "O sonho de Jacó em Betel"
     },
     "versiculos": {
-        "1": "Uma vez a salvo em terra, descobrimos que estávamos na ilha de Malta. O povo de lá nos tratou com muita bondade. Por ser um dia frio e chuvoso, fizeram uma fogueira na praia para nos receber.",
-        "3": "Enquanto Paulo juntava um monte de gravetos e os colocava no fogo, uma cobra venenosa que fugia do calor mordeu sua mão. Quando os habitantes da ilha viram a cobra pendurada na mão de Paulo, disseram uns aos outros: \"Sem dúvida ele é um assassino! Embora tenha escapado do mar, a justiça não lhe permitiu viver\". Mas Paulo sacudiu a cobra no fogo e não sofreu nenhum mal. O povo esperava que ele inchasse ou caísse morto de repente. No entanto, depois de esperarem muito tempo e verem que nada havia acontecido, mudaram de ideia e começaram a dizer que ele era um deus.",
-        "7": "Perto da praia, havia uma propriedade pertencente a Públio, a principal autoridade da ilha. Por três dias, ele nos hospedou e nos tratou com bondade. Aconteceu que o pai de Públio estava doente, com febre e disenteria. Paulo entrou, orou por ele e, impondo as mãos sobre sua cabeça, o curou. Então os demais enfermos da ilha vieram e foram curados. Como resultado, fomos cobertos de presentes e honras e, chegada a hora de partirmos, o povo nos forneceu todos os suprimentos necessários à viagem.",
-        "11": "Três meses depois do naufrágio, embarcamos em outro navio, que havia passado o inverno na ilha. Era um navio alexandrino, que tinha na parte da frente a figura dos deuses gêmeos. Aportamos em Siracusa, onde ficamos três dias. Dali navegamos até Régio. Um dia depois, um vento sul começou a soprar, de modo que no dia seguinte prosseguimos até Potéoli. Ali encontramos alguns irmãos que nos convidaram a passar uma semana com eles. Depois fomos para Roma.",
-        "15": "Os irmãos em Roma souberam que estávamos chegando e vieram ao nosso encontro no Fórum da Via Ápia. Outros se juntaram a nós nas Três Vendas. Ao vê-los, Paulo se animou e agradeceu a Deus.",
-        "16": "Quando chegamos a Roma, Paulo recebeu permissão de ter sua própria moradia, sob a guarda de um soldado.",
-        "17": "Três dias depois de chegar, Paulo convocou os líderes judeus locais e lhes disse: \"Irmãos, embora eu não tenha feito nada contra nosso povo nem contra os costumes de nossos antepassados, fui preso em Jerusalém e entregue ao governo romano. Os romanos me interrogaram e queriam me soltar, pois não encontraram motivo para me condenar à morte. Mas, quando os líderes judeus protestaram contra a decisão, considerei necessário apelar a César, embora não tivesse acusação alguma contra meu próprio povo. Por isso pedi a vocês que viessem aqui hoje para que nos conhecêssemos, e também para que eu pudesse explicar que estou preso com estas correntes porque creio na esperança de Israel\".",
-        "21": "Eles responderam: \"Não recebemos nenhuma carta da Judeia, e ninguém que veio de lá nos informou alguma coisa contra você. Contudo, queremos ouvir o que você pensa, pois o que sabemos a respeito desse movimento é que ele é contestado em toda parte\".",
-        "23": "Então marcaram uma data e, nesse dia, muita gente foi à casa de Paulo. Ele explicou e testemunhou sobre o reino de Deus e, desde cedo até a noite, procurou convencê-los acerca de Jesus com base na lei de Moisés e nos livros dos profetas. Alguns foram convencidos pelas coisas que ele disse, mas outros não creram. E, depois de discutirem entre si, foram embora com estas palavras finais de Paulo: \"O Espírito Santo estava certo quando disse a nossos antepassados por meio do profeta Isaías:",
-        "26": "‘Vá e diga a este povo: Quando ouvirem o que digo, não entenderão. Quando virem o que faço, não compreenderão.",
-        "27": "Pois o coração deste povo está endurecido; ouvem com dificuldade e têm os olhos fechados, de modo que seus olhos não veem, e seus ouvidos não ouvem, e seu coração não entende, e não se voltam para mim, nem permitem que eu os cure’.",
-        "28": "Portanto, quero que saibam que esta salvação vinda de Deus também foi oferecida aos gentios, e eles a aceitarão\". Depois de ele ter dito essas palavras, os judeus partiram, em grande desacordo uns com os outros.",
-        "30": "Durante os dois anos seguintes, Paulo morou em Roma, às próprias custas. A todos que o visitavam ele recebia, proclamando corajosamente o reino de Deus e ensinando a respeito do Senhor Jesus Cristo sem restrição alguma."
+        "1": "Então Isaque mandou chamar Jacó, o abençoou e disse: “Não se case com uma mulher cananita.",
+        "2": "Em vez disso, vá de imediato a Padã-Arã, à casa de seu avô Betuel, e case-se com uma das filhas de seu tio Labão.",
+        "3": "Que o Deus Todo-poderoso o abençoe e lhe dê muitos filhos, e que eles se multipliquem e venham a ser muitas nações.",
+        "4": "Que Deus dê a você e a seus descendentes as bênçãos que ele prometeu a Abraão. Que você venha a possuir esta terra na qual vive agora como estrangeiro, pois Deus entregou esta terra a Abraão”.",
+        "5": "Assim, Isaque se despediu de Jacó, que foi a Padã-Arã morar com seu tio Labão, irmão de Rebeca, filho de Betuel, o arameu.",
+        "6": "Esaú soube que seu pai, Isaque, havia abençoado Jacó e o enviado a Padã-Arã para encontrar uma esposa e que, ao abençoá-lo, tinha advertido a seu irmão: “Não se case com uma mulher cananita”.",
+        "7": "Também soube que Jacó havia obedecido aos pais e ido a Padã-Arã.",
+        "8": "Quando ficou evidente que seu pai não aprovava as mulheres cananitas,",
+        "9": "Esaú foi visitar a família de seu tio Ismael e, além das duas mulheres cananitas com as quais havia se casado, tomou para si uma das filhas de Ismael. O nome de sua nova mulher era Maalate, irmã de Nebaiote e filha de Ismael, filho de Abraão.",
+        "10": "Nesse meio-tempo, Jacó partiu de Berseba e rumou para Harã.",
+        "11": "Quando o sol se pôs, chegou a um bom local para acampar e ali passou a noite. Encontrou uma pedra para descansar a cabeça e se deitou para dormir.",
+        "12": "Enquanto dormia, sonhou com uma escada que ia da terra ao céu e viu os anjos de Deus, que subiam e desciam pela escada.",
+        "13": "No topo da escada estava o Senhor, que lhe disse: “Eu sou o Senhor, o Deus de seu avô, Abraão, e o Deus de seu pai, Isaque. A terra na qual você está deitado lhe pertence. Eu a darei a você e a seus descendentes.",
+        "14": "Seus descendentes serão tão numerosos quanto o pó da terra! Eles se espalharão por todas as direções: leste e oeste, norte e sul. E todas as famílias da terra serão abençoadas por seu intermédio e de sua descendência.",
+        "15": "Além disso, estarei com você e o protegerei aonde quer que vá. Um dia, trarei você de volta a esta terra. Não o deixarei enquanto não tiver terminado de lhe dar tudo que prometi”.",
+        "16": "Então Jacó acordou e disse: “Certamente o Senhor está neste lugar, e eu não havia percebido!”.",
+        "17": "Contudo, também teve medo e disse: “Como é temível este lugar! Não é outro, senão a casa de Deus; é a porta para os céus!”.",
+        "18": "Na manhã seguinte, Jacó se levantou bem cedo. Pegou a pedra na qual havia descansado a cabeça, colocou-a em pé, como coluna memorial, e derramou azeite de oliva sobre ela.",
+        "19": "Chamou o lugar de Betel, embora anteriormente se chamasse Luz.",
+        "20": "Então Jacó fez o seguinte voto: “Se, de fato, Deus for comigo e me proteger nesta jornada, se ele me providenciar alimento e roupa,",
+        "21": "e se eu voltar são e salvo à casa de meu pai, então o Senhor certamente será o meu Deus.",
+        "22": "E esta coluna memorial que eu levantei será um lugar de adoração a Deus, e eu entregarei a Deus a décima parte de tudo que ele me der”."
     }
 }

@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 50,
-    "titulos": {},
+    "titulos": {
+        "1": "A essência da adoração a Deus"
+    },
     "versiculos": {
-        "1": "O Deus poderoso, o Senhor, falou e chamou a terra desde o nascimento do sol até ao seu ocaso.",
+        "1": "O DEUS poderoso, o Senhor, falou e chamou a terra desde o nascimento do sol até ao seu ocaso.",
         "2": "Desde Sião, a perfeição da formosura, resplandeceu Deus.",
         "3": "Virá o nosso Deus, e não se calará; um fogo se irá consumindo diante dele, e haverá grande tormenta ao redor dele.",
         "4": "Chamará os céus lá do alto, e a terra, para julgar o seu povo.",

@@ -1,9 +1,11 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "O reinado de Josafá, filho de Asa"
+    },
     "versiculos": {
-        "1": "E Jeosafá, seu filho, reinou em seu lugar; e fortificou-se contra Israel.",
+        "1": "E JEOSAFÁ, seu filho, reinou em seu lugar; e fortificou-se contra Israel.",
         "2": "E pôs soldados em todas as cidades fortificadas de Judá, e estabeleceu guarnições na terra de Judá, como também nas cidades de Efraim, que Asa seu pai tinha tomado.",
         "3": "E o Senhor era com Jeosafá; porque andou nos primeiros caminhos de Davi seu pai, e não buscou a Baalins.",
         "4": "Antes buscou ao Deus de seu pai, andou nos seus mandamentos, e não segundo as obras de Israel.",

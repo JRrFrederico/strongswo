@@ -1,9 +1,13 @@
 {
     "livro": "Números",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "A expulsão das pessoas impuras",
+        "5": "A restituição",
+        "11": "A oferta pelo ciúme"
+    },
     "versiculos": {
-        "1": "E falou o Senhor a Moisés, dizendo:",
+        "1": "E FALOU o Senhor a Moisés, dizendo:",
         "2": "Ordena aos filhos de Israel que lancem fora do arraial a todo o leproso, e a todo o que padece fluxo, e a todos os imundos por causa de contato com algum morto.",
         "3": "Desde o homem até a mulher os lançareis; fora do arraial os lançareis; para que não contaminem os seus arraiais, no meio dos quais eu habito.",
         "4": "E os filhos de Israel fizeram assim, e os lançaram fora do arraial; como o Senhor falara a Moisés, assim fizeram os filhos de Israel.",

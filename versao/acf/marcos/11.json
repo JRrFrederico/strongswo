@@ -1,9 +1,14 @@
 {
     "livro": "Marcos",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "A entrada triunfal de Jesus",
+        "12": "Jesus purifica o templo",
+        "20": "O poder da oração de fé",
+        "27": "A autoridade de Jesus é divina"
+    },
     "versiculos": {
-        "1": "E, logo que se aproximaram de Jerusalém, de Betfagé e de Betânia, junto do Monte das Oliveiras, enviou dois dos seus discípulos,",
+        "1": "E, LOGO que se aproximaram de Jerusalém, de Betfagé e de Betânia, junto do Monte das Oliveiras, enviou dois dos seus discípulos,",
         "2": "E disse-lhes: Ide à aldeia que está defronte de vós; e, logo que ali entrardes, encontrareis preso um jumentinho, sobre o qual ainda não montou homem algum; soltai-o, e trazei-mo.",
         "3": "E, se alguém vos disser: Por que fazeis isso? Dizei-lhe que o Senhor precisa dele, e logo o deixará trazer para aqui.",
         "4": "E foram, e encontraram o jumentinho preso fora da porta, entre dois caminhos, e o soltaram.",

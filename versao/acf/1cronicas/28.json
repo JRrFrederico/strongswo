@@ -1,9 +1,12 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "Orientações de Davi a Salomão",
+        "11": "Davi dá a Salomão a planta da Casa"
+    },
     "versiculos": {
-        "1": "Então Davi reuniu em Jerusalém todos os príncipes de Israel, os príncipes das tribos, e os capitães das turmas, que serviam o rei, e os capitães dos milhares, e os capitães das centenas, e os administradores de toda a fazenda e possessão do rei, e de seus filhos, como também os oficiais, os poderosos, e todo o homem valente.",
+        "1": "ENTÃO Davi reuniu em Jerusalém todos os príncipes de Israel, os príncipes das tribos, e os capitães das turmas, que serviam o rei, e os capitães dos milhares, e os capitães das centenas, e os administradores de toda a fazenda e possessão do rei, e de seus filhos, como também os oficiais, os poderosos, e todo o homem valente.",
         "2": "E pôs-se o rei Davi em pé, e disse: Ouvi-me, irmãos meus, e povo meu; em meu coração propus eu edificar uma casa de repouso para a arca da aliança do Senhor e para o estrado dos pés do nosso Deus, e eu tinha feito o preparo para a edificar.",
         "3": "Porém Deus me disse: Não edificarás casa ao meu nome, porque és homem de guerra, e derramaste muito sangue.",
         "4": "E o Senhor Deus de Israel escolheu-me de toda a casa de meu pai, para que eternamente fosse rei sobre Israel; porque a Judá escolheu por soberano, e a casa de meu pai na casa de Judá; e entre os filhos de meu pai se agradou de mim para me fazer reinar sobre todo o Israel.",

@@ -1,23 +1,26 @@
 {
     "livro": "Hebreus",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "O descanso sabático dos crentes",
+        "14": "Jesus é o grande sumo sacerdote"
+    },
     "versiculos": {
-        "1": "Portanto, temamos, a fim de que, uma promessa nos foi deixada de entrar em seu descanso, qualquer um de vocês deve parecer estar aquém disso.",
-        "2": "Porque para nós o evangelho foi pregado, assim também como a eles, mas a palavra pregada não lhes serviu, não estando esta misturada com a fé daqueles que a ouviram.",
-        "3": "Porque nós, que temos crido, entramos no repouso, tal como ele disse: Assim como jurei na minha ira eles não entrarão no meu repouso; embora as obras estivessem consumadas desde a fundação do mundo.",
-        "4": "Porque ele falou em um determinado lugar do sétimo dia: E Deus repousou no sétimo dia de todas as suas obras.",
-        "5": "E neste lugar novamente: Não entrarão no meu repouso.",
-        "6": "Vendo, portanto, que ainda há alguns que devem entrar, e que aqueles que primeiro receberam a pregação não entraram por causa da incredulidade,",
-        "7": "novamente, ele determina um certo dia, dizendo através de Davi: Hoje, depois de muito tempo, como está dito: Hoje, se ouvirdes a sua voz, não endureçais os vossos corações.",
-        "8": "Porque, se Jesus lhes houvesse dado repouso, não teria falado depois disso a respeito de um outro dia.",
-        "9": "Portanto, ainda resta um repouso para o povo de Deus.",
-        "10": "Porque aquele que entrou no seu repouso, também cessou as suas próprias obras, assim como Deus repousou das suas.",
-        "11": "Esforcemo-nos, portanto, para entrar naquele repouso, a fim de que nenhum homem caia no mesmo exemplo de incredulidade.",
-        "12": "Porque a palavra de Deus é viva e poderosa, e mais afiada do que qualquer espada de dois gumes, penetrando até a divisão da alma e do espírito, e das juntas e medulas, e discerne os pensamentos e intenções do coração.",
-        "13": "E não há criatura alguma que não se manifeste à sua vista; porém todas as coisas estão nuas e abertas aos olhos daquele a quem temos de prestar contas.",
-        "14": "Sabendo que temos um grande sumo sacerdote, que adentrou os céus, Jesus, o Filho de Deus, retenhamos firmemente a nossa fé.",
-        "15": "Porque não temos um sumo sacerdote que não possa ser tocado com o sentimento de nossas fraquezas, porém um que em todos os pontos foi tentado, assim como nós, porém sem pecado.",
-        "16": "Portanto, acheguemo-nos confiantemente ao trono da graça, para que possamos obter misericórdia e achar graça e auxílio em tempo de necessidade."
+        "1": "Portanto, ainda que nos tenha sido outorgada a promessa de ingressar no descanso de Deus, tememos que algum de vós pareça ter falhado.",
+        "2": "Pois as boas novas foram pregadas também a nós, tanto quanto a eles; entretanto, a mensagem que eles ouviram de nada lhes valeu, pois não foi acompanhada de fé por aqueles que a ouviram.",
+        "3": "Porquanto, somos nós, os que temos crido, que entramos no descanso, conforme Deus declarou: “Assim jurei na minha ira: Jamais entrarão no meu descanso”, muito embora suas obras estivessem concluídas desde a fundação do mundo.",
+        "4": "Pois em certa passagem, Ele se referiu ao sétimo dia, nestes termos: “No sétimo dia, Deus descansou de toda obra a que realizara”.",
+        "5": "E novamente, no texto citado há pouco, confirma: “Jamais entrarão no meu descanso”.",
+        "6": "Portanto, considerando que ainda faltam alguns para entrar, e aqueles a quem antes foram pregadas as boas novas não ingressaram por causa da desobediência,",
+        "7": "determina Deus, uma nova oportunidade, e a chama de “hoje”, ao declarar muito tempo depois, por intermédio de Davi e conforme o que já fora proclamado antes: “Hoje, se ouvirdes a sua voz, não endureçais o vosso coração”.",
+        "8": "Porque, se Josué lhes tivesse oferecido descanso, Deus não teria feito declaração posterior a respeito de outro dia.",
+        "9": "Sendo assim, ainda resta um descanso sabático para o povo de Deus;",
+        "10": "pois toda pessoa que entra no repouso de Deus, também descansa de suas obras, como Deus descansou das suas.",
+        "11": "Diante disso, esforcemo-nos por entrar naquele descanso, para que ninguém caia no mesmo exemplo de desobediência.",
+        "12": "Porquanto a Palavra de Deus é viva e eficaz, mais cortante que qualquer espada de dois gumes; capaz de penetrar até ao ponto de dividir alma e espírito, juntas e medulas, e é sensível para perceber os pensamentos e intenções do coração.",
+        "13": "E não há criatura alguma incógnita aos olhos de Deus. Absolutamente tudo está descoberto e às claras diante daquele a quem deveremos prestar contas.",
+        "14": "Concluindo, tendo em vista que temos um grande sumo sacerdote que foi capaz de adentrar os céus, Jesus, o Filho de Deus, mantenhamos com firmeza nossa declaração pública de fé.",
+        "15": "Pois não temos um sumo sacerdote que não seja capaz de compadecer-se das nossas fraquezas, mas temos o Sacerdote Supremo que, à nossa semelhança, foi tentado de todas as formas, porém sem pecado algum.",
+        "16": "Portanto, acheguemo-nos com toda a confiança ao trono da graça, para que recebamos misericórdia e encontremos o poder que nos socorre no momento da necessidade."
     }
 }

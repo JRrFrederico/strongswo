@@ -1,9 +1,11 @@
 {
     "livro": "Jeremias",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "Submissão à Babilônia é prudente"
+    },
     "versiculos": {
-        "1": "No princípio do reinado de Jeoiaquim, filho de Josias, rei de Judá, veio esta palavra a Jeremias da parte do Senhor, dizendo:",
+        "1": "NO princípio do reinado de Jeoiaquim, filho de Josias, rei de Judá, veio esta palavra a Jeremias da parte do Senhor, dizendo:",
         "2": "Assim me disse o Senhor: Faze uns grilhões e jugos, e põe-nos ao teu pescoço.",
         "3": "E envia-os ao rei de Edom, e ao rei de Moabe, e ao rei dos filhos de Amom, e ao rei de Tiro, e ao rei de Sidom, pela mão dos mensageiros que vêm a Jerusalém a ter com Zedequias, rei de Judá.",
         "4": "E lhes ordenarás, que digam aos seus senhores: Assim diz o Senhor dos Exércitos, o Deus de Israel: Assim direis a vossos senhores:",

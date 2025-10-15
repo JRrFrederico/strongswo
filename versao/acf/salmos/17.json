@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração do oprimido"
+    },
     "versiculos": {
-        "1": "Ouve, Senhor, a justiça; atende ao meu clamor; dá ouvidos à minha oração, que não é feita com lábios enganosos.",
+        "1": "OUVE, Senhor, a justiça; atende ao meu clamor; dá ouvidos à minha oração, que não é feita com lábios enganosos.",
         "2": "Saia a minha sentença de diante do teu rosto; atendam os teus olhos à razão.",
         "3": "Provaste o meu coração; visitaste-me de noite; examinaste-me, e nada achaste; propus que a minha boca não transgredirá.",
         "4": "Quanto ao trato dos homens, pela palavra dos teus lábios me guardei das veredas do destruidor.",

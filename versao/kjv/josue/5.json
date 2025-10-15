@@ -1,22 +1,26 @@
 {
     "livro": "Josué",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "A circuncisão de Israel em Guilgal",
+        "10": "Celebração de Pêssah, Páscoa",
+        "13": "O comandante do exército de Deus"
+    },
     "versiculos": {
-        "1": "E sucedeu que, quando todos os reis dos amorreus, que estavam no lado oeste do Jordão, e todos os reis dos cananeus, que estavam perto do mar, ouviram que o SENHOR havia secado as águas do Jordão diante dos filhos de Israel, até que tivessem atravessado, o seu coração derreteu, tampouco restou neles espírito, por causa dos filhos de Israel.",
-        "2": "Naqueles dias o SENHOR disse a Josué: Faz para ti facas afiadas e circuncida novamente os filhos de Israel pela segunda vez.",
-        "3": "E Josué fez para si facas afiadas, e circuncidou os filhos de Israel no outeiro dos prepúcios.",
-        "4": "E esta é a causa pela qual Josué circuncidou: todo o povo que veio do Egito, os que eram machos, todos os homens de guerra, morreram no deserto pelo caminho, depois de saírem do Egito.",
-        "5": "Assim, todo o povo que saiu era circuncidado, mas todo o povo que nasceu no deserto, pelo caminho, enquanto eles saíam do Egito, eles não haviam circuncidado.",
-        "6": "Porque os filhos de Israel caminharam quarenta anos no deserto, até que todas as pessoas, que eram homens de guerra, que saíram do Egito, foram consumidas, porque elas não obedeceram a voz do SENHOR, aos quais o SENHOR jurou que não lhes mostraria a terra, a que o SENHOR jurou aos seus pais que nos daria: uma terra da qual flui leite e mel.",
-        "7": "E os seus filhos, os quais ele levantou em seu lugar, a estes Josué circuncidou, pois eram incircuncisos, porque não os haviam circuncidado ao longo do caminho.",
-        "8": "E sucedeu que, quando eles terminaram de circuncidar todo o povo, eles permaneceram nos seus lugares no acampamento, até ficarem curados.",
-        "9": "E o SENHOR disse a Josué: Neste dia eu revolvi de sobre vós a reprovação do Egito. Portanto, o nome do lugar é chamado Gilgal até este dia.",
-        "10": "E os filhos de Israel acamparam em Gilgal, e celebraram a páscoa no décimo quarto dia do mês, ao entardecer, nas planícies de Jericó.",
-        "11": "E eles comeram do velho grão da terra, na manhã seguinte à páscoa, pães ázimos e semente tostada nesse mesmo dia.",
-        "12": "E cessou o maná na manhã após eles terem comido do velho grão da terra; os filhos de Israel também não tiveram mais o maná; mas naquele ano eles comeram do fruto da terra de Canaã.",
-        "13": "E sucedeu que, quando Josué estava próximo de Jericó, levantou ele os olhos e olhou, e eis que havia lá um homem que se lhe opunha com a sua espada desembainhada em sua mão; e Josué foi até ele e lhe disse: És tu por nós, ou pelos nossos adversários?",
-        "14": "E ele disse: Não, mas venho agora como capitão do exército do SENHOR. E Josué caiu com a sua face em terra, e o adorou, e disse-lhe: O que diz o meu senhor ao seu servo?",
-        "15": "E o capitão do exército do SENHOR disse a Josué: Desata o teu calçado do teu pé; pois o lugar sobre o qual tu estás é santo. E Josué assim o fez."
+        "1": "Aconteceu que todos os reis amorreus que habitavam a oeste do Jordão e todos os reis cananeus que viviam ao longo do litoral do mar Mediterrâneo foram informados de como Yahweh tinha secado o Jordão diante dos filhos de Israel até que tivessem passado, e ficaram apavorados e sem coragem para enfrentar os israelitas.",
+        "2": "Naquela ocasião Yahweh falou a Josué: “Faze facas de pedra e circuncida os filhos de Israel.”",
+        "3": "Josué lapidou então facas de pedra e circuncidou os filhos de Israel no local que passou a ser conhecido como Gui vat Haaralot , Colina dos Prepúcios.",
+        "4": "Esta é a razão por que Josué os circuncidou: todo o povo que saiu do Egito, os homens, todos os homens de guerra morreram no deserto, no caminho, depois da sua saída do Egito.",
+        "5": "Ora, todo o povo que saíra havia sido circuncidado; mas todo o povo que nascera no deserto, no caminho depois da sua saída do Egito, não havia sido circuncidado;",
+        "6": "porque os filhos de Israel andaram durante quarenta anos no deserto, até que pereceu toda a nação, os homens de guerra que saíram do Egito; visto que não obedeceram à voz do S ENHOR , jurou-lhes Yahweh que não veriam a terra que aos seus antepassados havia prometido sob juramento dar-nos, terra onde manam leite e mel.",
+        "7": "Quanto a seus filhos, estabeleceu-os em seu lugar; a estes Josué circuncidou, visto que não haviam sido circuncidados no caminho.",
+        "8": "E quando toda a nação foi circuncidada, repousaram no seu lugar, no acampamento, até que saíram.",
+        "9": "Então Yahweh falou a Josué: “Hoje removi de sobre vós a humilhação sofrida no Egito!” Por este motivo o lugar ficou conhecido até hoje como Guilgal , monumento de pedras.",
+        "10": "Enquanto os filhos de Israel estavam acampados em Guilgal, celebraram o sacrifício de Pêssah , Páscoa, no décimo quarto dia do mês, ao pôr do sol, nas planícies de Jericó.",
+        "11": "No dia seguinte à Páscoa, comeram dos produtos daquela terra: pães sem fermento e grãos de trigo tostados.",
+        "12": "Ao comerem o fruto da nova terra, no dia seguinte, cessou o maná de cair do céu. E os filhos de Israel nunca mais tiveram o maná, todavia deste ano em diante começaram a se alimentar dos frutos da terra de Canaã.",
+        "13": "Encontrando-se Josué já nas proximidades de Jericó; de repente, ao olhar para cima, viu um homem em pé, empunhando uma espada. Aproximou-se dele e perguntou-lhe: “És tu dos nossos ou dos nossos adversários?”",
+        "14": "Então o homem lhe informou: “Não sou dos teus nem pelejo contra ti! Venho com a responsabilidade de comandante do exército do S ENHOR !” Então Josué prostrou-se, com o rosto rente à terra, em sinal de reverência, e lhe indagou: “Que mensagem o meu Senhor tem para o seu servo?”",
+        "15": "O chefe do exército de Yahweh respondeu a Josué: “Descalça as sandálias dos teus pés, porque o lugar em que pisas é santo!” E assim procedeu Josué."
     }
 }

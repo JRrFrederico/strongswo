@@ -1,9 +1,11 @@
 {
     "livro": "Oséias",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "O adultério espiritual de Israel"
+    },
     "versiculos": {
-        "1": "Não te alegres, ó Israel, não exultes, como os povos; porque ao prostituir-te abandonaste o teu Deus; amaste a paga de meretriz sobre todas as eiras de trigo.",
+        "1": "NÃO te alegres, ó Israel, não exultes, como os povos; porque ao prostituir-te abandonaste o teu Deus; amaste a paga de meretriz sobre todas as eiras de trigo.",
         "2": "A eira e o lagar não os manterão; e o mosto lhes faltará.",
         "3": "Na terra do Senhor não permanecerão; mas Efraim tornará ao Egito, e na Assíria comerão comida imunda.",
         "4": "Não derramarão libações de vinho ao Senhor, nem lhe agradarão as suas ofertas. Os seus sacrifícios lhes serão como pão de pranteadores; todos os que dele comerem serão imundos, porque o seu pão será somente para si mesmos; não entrará na casa do Senhor.",

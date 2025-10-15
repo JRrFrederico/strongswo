@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 62,
-    "titulos": {},
+    "titulos": {
+        "1": "Exortação à confiança em Deus"
+    },
     "versiculos": {
-        "1": "A minha alma espera somente em Deus; dele vem a minha salvação.",
+        "1": "A MINHA alma espera somente em Deus; dele vem a minha salvação.",
         "2": "Só ele é a minha rocha e a minha salvação; é a minha defesa; não serei grandemente abalado.",
         "3": "Até quando maquinareis o mal contra um homem? Sereis mortos todos vós, sereis como uma parede encurvada e uma sebe prestes a cair.",
         "4": "Eles somente consultam como o hão de derrubar da sua excelência; deleitam-se em mentiras; com a boca bendizem, mas nas suas entranhas maldizem. (Selá.)",

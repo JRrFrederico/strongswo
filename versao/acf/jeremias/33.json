@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 33,
-    "titulos": {},
+    "titulos": {
+        "1": "Outra promessa de restauração",
+        "10": "Paz e alegria voltam a Jerusalém"
+    },
     "versiculos": {
-        "1": "E veio a palavra do Senhor a Jeremias, segunda vez, estando ele ainda encarcerado no pátio da guarda, dizendo:",
+        "1": "E VEIO a palavra do Senhor a Jeremias, segunda vez, estando ele ainda encarcerado no pátio da guarda, dizendo:",
         "2": "Assim diz o Senhor que faz isto, o Senhor que forma isto, para o estabelecer; o Senhor é o seu nome.",
         "3": "Clama a mim, e responder-te-ei, e anunciar-te-ei coisas grandes e firmes que não sabes.",
         "4": "Porque assim diz o Senhor, o Deus de Israel, acerca das casas desta cidade, e das casas dos reis de Judá, que foram derrubadas com os aríetes e à espada.",

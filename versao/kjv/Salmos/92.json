@@ -1,22 +1,24 @@
 {
     "livro": "Salmos",
     "capitulo": 92,
-    "titulos": {},
+    "titulos": {
+        "1": "Hino sabático de gratidão a Deus"
+    },
     "versiculos": {
-        "1": "Salmo ou Canção para o dia do Shabat. Bom é dar graças ao SENHOR, e cantar louvores ao teu nome, ó Altíssimo.",
-        "2": "Para anunciar a tua benignidade de manhã, e a tua fidelidade toda noite.",
-        "3": "Sobre um instrumento de dez cordas, e sobre o saltério; sobre a harpa com um som solene.",
-        "4": "Pois tu, SENHOR, fizeste-me feliz por meio da tua obra; triunfarei nas obras das tuas mãos.",
-        "5": "Ó SENHOR, quão grandes são as tuas obras! E os teus pensamentos são mui profundos.",
-        "6": "Um homem brutal não conhece; nem um tolo entende isto.",
-        "7": "Quando os perversos brotam como a grama, e quando todos os trabalhadores da iniquidade florescerem, é que serão destruídos para sempre.",
-        "8": "Mas tu, SENHOR, és Altíssimo para sempre.",
-        "9": "Pois eis que os teus inimigos, ó SENHOR, pois eis que os teus inimigos perecerão; todos os trabalhadores da iniquidade serão dispersados.",
-        "10": "Mas o meu chifre tu exaltarás como o chifre de um unicórnio; eu serei ungido com óleo fresco.",
-        "11": "Meu olho também verá o meu desejo sobre os meus inimigos, e os meus ouvidos ouvirão o meu desejo sobre os perversos que se levantam contra mim.",
-        "12": "O justo florescerá como a palmeira; ele crescerá como o cedro no Líbano.",
-        "13": "Aqueles que estão plantados na casa do SENHOR florescerão nos átrios do nosso Deus.",
-        "14": "Eles gerarão frutos na velhice; serão gordos e prósperos.",
-        "15": "Para mostrarem que o SENHOR é justo; ele é a minha rocha, e não há injustiça nele."
+        "1": "É muito bom exaltar ao S ENHOR , ó Eterno, e entoar salmos em honra ao teu Nome, ó Altíssimo!",
+        "2": "Proclamar desde o amanhecer o teu amor leal e durante a noite a tua fidelidade,",
+        "3": "ao som da lira de dez cordas e da cítara, bem como da melodia com harpa.",
+        "4": "Porquanto tu me alegras a alma, com os teus feitos; as obras das tuas mãos motivam-me a cantar jubiloso.",
+        "5": "Quão maravilhosas são as tuas obras, ó Eterno, e insondáveis os teus desígnios!",
+        "6": "O insensato fica sem entender nada, e o néscio não percebe o menor sentido.",
+        "7": "Se os ímpios brotam como mato bravo, e florescem todos os malfeitores, é para serem exterminados para sempre!",
+        "8": "Mas tu, ó S ENHOR , eternamente és excelso.",
+        "9": "Eis que teus inimigos, ó Eterno; sim, os teus adversários serão aniquilados; todos que praticam a malignidade serão dispersos!",
+        "10": "Tu reergueste, como chifre de búfalo, a minha fronte; derramaste, sobre mim, óleo balsâmico e revigorante.",
+        "11": "Os meus olhos contemplam a derrota dos meus inimigos; os meus ouvidos escutaram a debandada dos malfeitores que tramavam contra a minha vida.",
+        "12": "Os justos florescerão como a palmeira, crescerão altaneiros como o cedro do Líbano;",
+        "13": "plantados na Casa do S ENHOR , florescerão nos átrios do nosso Deus.",
+        "14": "Mesmo na velhice, cheios de seiva e viço produzirão muitos frutos,",
+        "15": "para proclamar que o S ENHOR é justo. Ele é a minha Rocha; nele não há injustiça!"
     }
 }

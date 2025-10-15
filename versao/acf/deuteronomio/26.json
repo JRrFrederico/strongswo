@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "As primícias da nova terra",
+        "12": "O dízimo trienal",
+        "16": "Fim do segundo discurso de Moisés"
+    },
     "versiculos": {
-        "1": "E será que, quando entrares na terra que o Senhor teu Deus te der por herança, e a possuíres, e nela habitares,",
+        "1": "E SERÁ que, quando entrares na terra que o Senhor teu Deus te der por herança, e a possuíres, e nela habitares,",
         "2": "Então tomarás das primícias de todos os frutos do solo, que recolheres da terra, que te dá o Senhor teu Deus, e as porás num cesto, e irás ao lugar que escolher o Senhor teu Deus, para ali fazer habitar o seu nome.",
         "3": "E irás ao sacerdote, que houver naqueles dias, e dir-lhe-ás: Hoje declaro perante o Senhor teu Deus que entrei na terra que o Senhor jurou a nossos pais dar-nos.",
         "4": "E o sacerdote tomará o cesto da tua mão, e o porá diante do altar do Senhor teu Deus.",

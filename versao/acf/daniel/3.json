@@ -1,9 +1,13 @@
 {
     "livro": "Daniel",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "O ídolo de ouro de Nabucodonosor",
+        "8": "Os judeus são atirados na fornalha",
+        "24": "Deus livra os seus e muda o rei"
+    },
     "versiculos": {
-        "1": "O rei Nabucodonosor fez uma estátua de ouro, cuja altura era de sessenta côvados, e a sua largura de seis côvados; levantou-a no campo de Dura, na província de Babilônia.",
+        "1": "O REI Nabucodonosor fez uma estátua de ouro, cuja altura era de sessenta côvados, e a sua largura de seis côvados; levantou-a no campo de Dura, na província de Babilônia.",
         "2": "Então o rei Nabucodonosor mandou reunir os príncipes, os prefeitos, os governadores, os conselheiros, os tesoureiros, os juízes, os capitães, e todos os oficiais das províncias, para que viessem à consagração da estátua que o rei Nabucodonosor tinha levantado.",
         "3": "Então se reuniram os príncipes, os prefeitos e governadores, os capitães, os juízes, os tesoureiros, os conselheiros, e todos os oficiais das províncias, à consagração da estátua que o rei Nabucodonosor tinha levantado; e estavam em pé diante da imagem que Nabucodonosor tinha levantado.",
         "4": "E o arauto apregoava em alta voz: Ordena-se a vós, ó povos, nações e línguas:",

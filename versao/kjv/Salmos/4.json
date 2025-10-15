@@ -1,15 +1,17 @@
 {
     "livro": "Salmos",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "A segurança do fiel a Deus"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe de Neginote, Salmo de Davi. Ouve-me quando eu chamar, ó Deus da minha justiça; tu me ampliaste quando eu estava aflito; tem misericórdia de mim e ouve a minha oração.",
-        "2": "Ó vós, filhos dos homens, por quanto tempo tornareis minha glória em vergonha? Por quanto tempo amareis a vaidade e buscareis a mentira? Selá.",
-        "3": "Mas sabei que o SENHOR separou aquele que é piedoso para si; o SENHOR ouvirá quando eu o chamar.",
-        "4": "Permanecei no temor e não pequeis; conversai com o vosso próprio coração sobre a vossa cama, e ficai quietos. Selá.",
-        "5": "Oferecei sacrifícios de justiça, e ponde vossa confiança no SENHOR.",
-        "6": "Há muitos que dizem: Quem nos mostrará algum bem? SENHOR, levanta a luz do teu semblante sobre nós.",
-        "7": "Puseste alegria no meu coração, mais do que no tempo em que se lhes multiplicaram o trigo e o vinho.",
-        "8": "Eu tanto me deitarei em paz quanto dormirei; porque tu, SENHOR, somente me fazes habitar em segurança."
+        "1": "Quando te invoco, responde-me, ó Deus, minha justiça! Na angústia tu me aliviaste: tem misericórdia de mim e ouve as minhas súplicas!",
+        "2": "Ó filhos dos homens, até quando difamareis minha honra? Até quando estareis amando ilusões e procurando a falsidade?",
+        "3": "Sabei que o S ENHOR faz maravilhas para o seu fiel; o S ENHOR me ouve quando eu o invoco.",
+        "4": "Estremecei de ira, mas não pequeis; refleti em vosso leito e acalmai-vos.",
+        "5": "Oferecei sacrifícios justos como Deus requer e depositai toda a vossa confiança no S ENHOR .",
+        "6": "Numerosos são os que dizem: “Quem nos fará ver a felicidade?” Faze, ó S ENHOR , resplandecer sobre nós a luz da tua face!",
+        "7": "Colocaste em meu coração mais alegria do que a daqueles que têm fartura nas épocas de trigo e vinho.",
+        "8": "Em paz me deito e logo adormeço, porque só tu, ó S ENHOR , me fazes viver seguro e sem medo."
     }
 }

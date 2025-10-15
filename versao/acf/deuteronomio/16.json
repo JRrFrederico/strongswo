@@ -1,9 +1,15 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "A celebração da Páscoa",
+        "9": "A festa da colheita ou semanas",
+        "13": "A festa das tendas ou tabernáculos",
+        "18": "Os juízes e suas obrigações",
+        "21": "Advertência contra a idolatria"
+    },
     "versiculos": {
-        "1": "Guarda o mês de Abibe, e celebra a páscoa ao Senhor teu Deus; porque no mês de Abibe o Senhor teu Deus te tirou do Egito, de noite.",
+        "1": "GUARDA o mês de Abibe, e celebra a páscoa ao Senhor teu Deus; porque no mês de Abibe o Senhor teu Deus te tirou do Egito, de noite.",
         "2": "Então sacrificarás a páscoa ao Senhor teu Deus, das ovelhas e das vacas, no lugar que o Senhor escolher para ali fazer habitar o seu nome.",
         "3": "Nela não comerás levedado; sete dias nela comerás pães ázimos, pão de aflição (porquanto apressadamente saíste da terra do Egito), para que te lembres do dia da tua saída da terra do Egito, todos os dias da tua vida.",
         "4": "Levedado não aparecerá contigo por sete dias em todos os teus termos; também da carne que matares à tarde, no primeiro dia, nada ficará até à manhã.",

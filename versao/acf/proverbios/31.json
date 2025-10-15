@@ -1,9 +1,12 @@
 {
     "livro": "Provérbios",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "1": "Palavras proféticas do rei Lemuel",
+        "10": "Acróstico da mulher virtuosa"
+    },
     "versiculos": {
-        "1": "Palavras do rei Lemuel, a profecia que lhe ensinou a sua mãe.",
+        "1": "PALAVRAS do rei Lemuel, a profecia que lhe ensinou a sua mãe.",
         "2": "Como, filho meu? E como, filho do meu ventre? E como, filho dos meus votos?",
         "3": "Não dês às mulheres a tua força, nem os teus caminhos ao que destrói os reis.",
         "4": "Não é próprio dos reis, ó Lemuel, não é próprio dos reis beber vinho, nem dos príncipes o desejar bebida forte;",

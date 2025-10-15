@@ -1,9 +1,11 @@
 {
     "livro": "Jeremias",
     "capitulo": 48,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecia acerca de Moabe"
+    },
     "versiculos": {
-        "1": "Contra Moabe, assim diz o Senhor dos Exércitos, Deus de Israel: Ai de Nebo, porque foi destruída; envergonhada está Quiriataim, já está tomada; Misgabe está envergonhada e desanimada.",
+        "1": "CONTRA Moabe, assim diz o Senhor dos Exércitos, Deus de Israel: Ai de Nebo, porque foi destruída; envergonhada está Quiriataim, já está tomada; Misgabe está envergonhada e desanimada.",
         "2": "A glória de Moabe já não existe mais; em Hesbom tramaram mal contra ela, dizendo: Vinde, e exterminemo-la, para que não seja mais nação; também tu, ó Madmém, serás silenciada; a espada te perseguirá.",
         "3": "Voz de clamor de Horonaim; ruína e grande destruição!",
         "4": "Está destruída Moabe; seus filhinhos fizeram ouvir um clamor.",

@@ -1,22 +1,24 @@
 {
     "livro": "Amós",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Israel é culpado de malignidade"
+    },
     "versiculos": {
-        "1": "Ouvi esta palavra que o ­SENHOR fala contra vós, ó filhos de Israel, contra toda a família que fiz subir da terra do Egito, dizendo:",
-        "2": "Só a vós vos tenho conhecido, de todas as famílias da terra; portanto eu vos punirei por todas as vossas iniquidades.",
-        "3": "Podem dois caminharem juntos, se não estiverem de acordo?",
-        "4": "Rugirá o leão na floresta, sem que tenha presa? Levantará o leãozinho no seu covil a sua voz, se nada tiver apanhado?",
-        "5": "Poderá um pássaro cair no laço sobre a terra, se não houver armadilha para ele? Levantar-se-á da terra o laço, sem que tenha apanhado coisa alguma?",
-        "6": "Tocar-se-á a trombeta na cidade, e o povo não temerá? Sucederá algum mal a uma cidade, sem que o SENHOR o tenha feito?",
-        "7": "Certamente o Senhor DEUS não fará nada sem ter revelado seu segredo aos seus servos, os profetas.",
-        "8": "Rugiu o leão, quem não temerá? O Senhor DEUS falou, quem não profetizará?",
-        "9": "Proclamai nos palácios de Asdode, e nos palácios da terra do Egito, e dizei: Ajuntai-vos sobre os montes de Samaria, e vede que grandes alvoroços há no meio dela, e os oprimidos no meio dela.",
-        "10": "Pois não sabem fazer o que é reto, diz o ­SENHOR, aqueles que armazenam violência e roubo em seus palácios.",
-        "11": "Portanto, assim diz o Senhor DEUS: um inimigo virá, e cercará a terra, e ele derrubará a tua fortaleza, e os teus palácios serão saqueados.",
-        "12": "Assim diz o ­SENHOR: como o pastor livra da boca do leão duas pernas, ou um pedaço de uma orelha, assim também serão livrados os filhos de Israel que habitam em Samaria, no canto de uma cama, e em Damasco, em um leito.",
-        "13": "Ouvi, e testemunhai contra a casa de Jacó, diz o Senhor DEUS, o Deus dos Exércitos;",
-        "14": "pois no dia em que eu visitar as transgressões de Israel, também visitarei os altares de Betel; e os chifres do altar serão cortados, e cairão no chão.",
-        "15": "E eu derrubarei a casa de inverno juntamente com a casa de verão; e as casas de marfim perecerão, e as grandes casas terão fim, diz o ­SENHOR."
+        "1": "Ó povo de Israel, escutai atentamente o que Yahweh Elohim , Deus, fala contra vós, contra toda esta Casa que tirei do Egito:",
+        "2": "“Atentai para o fato de que Eu escolhi tão somente vós dentre todas as famílias da terra; por isso Eu mesmo vos castigarei por todas as malignidades que cometestes!”",
+        "3": "Ora, duas pessoas poderão caminhar lado a lado se não estiverem de acordo?",
+        "4": "O leão rugirá na floresta sem que tenha uma presa em vista? O leão novo ruge em sua toca se nada caçou?",
+        "5": "Cai o pássaro numa arapuca que não foi armada? Será que uma armadilha se desarma sem que nada tenha ficado preso dentro dela?",
+        "6": "Alguém tocará o Shofar , trombeta, na cidade sem que o povo se assuste e fique preocupado? Pode ocorrer alguma desgraça na cidade sem que o próprio Yahweh tenha ordenado?",
+        "7": "Com certeza Adonai , o S ENHOR Soberano, não realizará nada sobre a terra sem primeiro revelar o seu desígnio aos seus servos escolhidos, os profetas.",
+        "8": "Ora, o leão rugiu, quem não temerá? Yahweh Adonai , Deus Soberano, falou, quem não profetizará as suas palavras?",
+        "9": "Sendo assim, proclamai nas fortalezas de Asdode e nos palácios da terra do Egito, e dizei: “Ajuntai-vos sobre os montes de Samaria a fim de observardes os grandes tumultos que ocorrem ali, e quanta opressão existe no meio do seu povo!”",
+        "10": "“Eis que eles não sabem agir de acordo com o direito!” Afirma o S ENHOR , “essa gente, que acumula em seus palácios o que roubam e saqueiam.”",
+        "11": "Portanto, assim declara Yahweh , o Soberano: “Um inimigo cercará toda a tua terra; destruirá as tuas fortalezas e saqueará os teus palácios!”",
+        "12": "Assim afirma o S ENHOR : “Do mesmo modo como um pastor consegue salvar da boca de um leão faminto apenas duas pernas e uma orelha de sua ovelha, assim também serão livrados apenas alguns israelitas que moram em Samaria, com um pedaço do leito e uma almofada de Damasco.",
+        "13": "Ouvi e protestai contra a linhagem de Jacó, diz Yahweh Adonai, Elohim ! O S ENHOR , o Deus dos Exércitos:",
+        "14": "“No dia em que Eu castigar Israel por causa dos seus erros e pecados, arrebentarei os altares de Betel; as pontas do altar serão cortadas e jogadas no chão.",
+        "15": "Derrubarei a casa de inverno juntamente com a casa de verão; as casas adornadas de marfim serão, igualmente, destruídas, e as mansões ficarão completamente arrasadas e desaparecerão!” Garante Yahweh , o S ENHOR ."
     }
 }

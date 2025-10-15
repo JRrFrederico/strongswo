@@ -1,9 +1,13 @@
 {
     "livro": "Tiago",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Advertência aos poderosos",
+        "7": "Coragem no dia do sofrimento",
+        "12": "Orientações finais"
+    },
     "versiculos": {
-        "1": "Eia, pois, agora vós, ricos, chorai e pranteai, por vossas misérias, que sobre vós hão de vir.",
+        "1": "EIA, pois, agora vós, ricos, chorai e pranteai, por vossas misérias, que sobre vós hão de vir.",
         "2": "As vossas riquezas estão apodrecidas, e as vossas vestes estão comidas de traça.",
         "3": "O vosso ouro e a vossa prata se enferrujaram; e a sua ferrugem dará testemunho contra vós, e comerá como fogo a vossa carne. Entesourastes para os últimos dias.",
         "4": "Eis que o salário dos trabalhadores que ceifaram as vossas terras, e que por vós foi diminuído, clama; e os clamores dos que ceifaram entraram nos ouvidos do Senhor dos exércitos.",

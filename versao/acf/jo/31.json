@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó reitera sua integridade"
+    },
     "versiculos": {
-        "1": "Fiz aliança com os meus olhos; como, pois, os fixaria numa virgem?",
+        "1": "FIZ aliança com os meus olhos; como, pois, os fixaria numa virgem?",
         "2": "Que porção teria eu do Deus lá de cima, ou que herança do Todo-Poderoso desde as alturas?",
         "3": "Porventura não é a perdição para o perverso, o desastre para os que praticam iniquidade?",
         "4": "Ou não vê ele os meus caminhos, e não conta todos os meus passos?",

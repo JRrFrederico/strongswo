@@ -1,9 +1,17 @@
 {
     "livro": "Mateus",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus prediz o final dos tempos",
+        "3": "O princípio das dores",
+        "15": "A grande tribulação",
+        "29": "O retorno de Cristo em glória",
+        "32": "A lição da figueira: o Dia do Senhor",
+        "36": "Só Deus sabe o dia e a hora exatos",
+        "45": "O destino do bom e do mau servo"
+    },
     "versiculos": {
-        "1": "E, quando Jesus ia saindo do templo, aproximaram-se dele os seus discípulos para lhe mostrarem a estrutura do templo.",
+        "1": "E, QUANDO Jesus ia saindo do templo, aproximaram-se dele os seus discípulos para lhe mostrarem a estrutura do templo.",
         "2": "Jesus, porém, lhes disse: Não vedes tudo isto? Em verdade vos digo que não ficará aqui pedra sobre pedra que não seja derrubada.",
         "3": "E, estando assentado no Monte das Oliveiras, chegaram-se a ele os seus discípulos em particular, dizendo: Dize-nos, quando serão essas coisas, e que sinal haverá da tua vinda e do fim do mundo?",
         "4": "E Jesus, respondendo, disse-lhes: Acautelai-vos, que ninguém vos engane;",

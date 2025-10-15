@@ -1,9 +1,11 @@
 {
     "livro": "1 Timóteo",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Recomendações aos líderes"
+    },
     "versiculos": {
-        "1": "Esta é uma palavra fiel: se alguém deseja o episcopado, excelente obra deseja.",
+        "1": "ESTA é uma palavra fiel: se alguém deseja o episcopado, excelente obra deseja.",
         "2": "É necessário, pois, que o bispo seja irrepreensível, marido de uma mulher, vigilante, sóbrio, honesto, hospitaleiro, apto para ensinar;",
         "3": "Não dado ao vinho, não espancador, não cobiçoso de torpe ganância, mas moderado, não contencioso, não avarento;",
         "4": "Que governe bem a sua própria casa, tendo seus filhos em sujeição, com toda a modéstia",

@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 74,
-    "titulos": {},
+    "titulos": {
+        "1": "Lamento sobre a ruína do templo"
+    },
     "versiculos": {
-        "1": "Ó Deus, por que nos rejeitaste para sempre? Por que se acende a tua ira contra as ovelhas do teu pasto?",
+        "1": "Ó DEUS, por que nos rejeitaste para sempre? Por que se acende a tua ira contra as ovelhas do teu pasto?",
         "2": "Lembra-te da tua congregação, que compraste desde a antiguidade; da vara da tua herança, que remiste; deste monte Sião, em que habitaste.",
         "3": "Levanta os teus pés para as perpétuas assolações, para tudo o que o inimigo tem feito de mal no santuário.",
         "4": "Os teus inimigos bramam no meio dos teus lugares santos; põem neles as suas insígnias por sinais.",

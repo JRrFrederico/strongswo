@@ -1,9 +1,15 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "O rei louva a Deus e abençoa o povo",
+        "12": "Oração de consagração do templo",
+        "32": "Ouve a oração do não-judeu",
+        "34": "Ouve Israel, teu povo, nas aflições",
+        "40": "Conclusão da oração do rei de Israel"
+    },
     "versiculos": {
-        "1": "Então falou Salomão: O Senhor disse que habitaria nas trevas.",
+        "1": "ENTÃO falou Salomão: O Senhor disse que habitaria nas trevas.",
         "2": "E eu te tenho edificado uma casa para morada, e um lugar para a tua eterna habitação.",
         "3": "Então o rei virou o seu rosto, e abençoou a toda a congregação de Israel, e toda a congregação de Israel estava em pé.",
         "4": "E ele disse: Bendito seja o Senhor Deus de Israel, que falou pela sua boca a Davi meu pai; e pelas suas mãos o cumpriu, dizendo:",

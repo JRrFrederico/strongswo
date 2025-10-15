@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 80,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração pela restauração de Israel"
+    },
     "versiculos": {
-        "1": "Tu, que és pastor de Israel, dá ouvidos; tu, que guias a José como a um rebanho; tu, que te assentas entre os querubins, resplandece.",
+        "1": "TU, que és pastor de Israel, dá ouvidos; tu, que guias a José como a um rebanho; tu, que te assentas entre os querubins, resplandece.",
         "2": "Perante Efraim, Benjamim e Manassés, desperta o teu poder, e vem salvar-nos.",
         "3": "Faze-nos voltar, ó Deus, e faze resplandecer o teu rosto, e seremos salvos.",
         "4": "Ó Senhor Deus dos Exércitos, até quando te indignarás contra a oração do teu povo?",

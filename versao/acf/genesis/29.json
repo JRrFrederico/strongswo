@@ -1,9 +1,13 @@
 {
     "livro": "Gênesis",
     "capitulo": 29,
-    "titulos": {},
+    "titulos": {
+        "1": "Jacó encontra-se com Raquel",
+        "15": "A luta de Jacó por amor a Raquel",
+        "31": "Os descendentes de Jacó"
+    },
     "versiculos": {
-        "1": "Então pôs-se Jacó a caminho e foi à terra do povo do oriente;",
+        "1": "ENTÃO pôs-se Jacó a caminho e foi à terra do povo do oriente;",
         "2": "E olhou, e eis um poço no campo, e eis três rebanhos de ovelhas que estavam deitados junto a ele; porque daquele poço davam de beber aos rebanhos; e havia uma grande pedra sobre a boca do poço.",
         "3": "E ajuntavam ali todos os rebanhos, e removiam a pedra de sobre a boca do poço, e davam de beber às ovelhas; e tornavam a pôr a pedra sobre a boca do poço, no seu lugar.",
         "4": "E disse-lhes Jacó: Meus irmãos, donde sois? E disseram: Somos de Harã.",

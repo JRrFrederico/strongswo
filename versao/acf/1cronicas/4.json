@@ -1,9 +1,16 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "A outra descendência de Judá",
+        "3": "Os filhos de Hur",
+        "5": "Os filhos de Asur",
+        "11": "Calebe",
+        "21": "Selá",
+        "24": "Os filhos de Simeão"
+    },
     "versiculos": {
-        "1": "Os filhos de Judá foram: Perez, Hezrom, Carmi, Hur, e Sobal.",
+        "1": "OS filhos de Judá foram: Perez, Hezrom, Carmi, Hur, e Sobal.",
         "2": "E Reaías, filho de Sobal gerou a Jaate, e Jaate gerou a Aumai e a Laade; estas são as famílias dos zoratitas.",
         "3": "E estes foram os filhos do pai de Etã: Jizreel, Isma e Idbas; e era o nome de sua irmã Hazelelponi.",
         "4": "E mais Penuel, pai de Gedor, e Ezer, pai de Husá; estes foram os filhos de Hur, o primogênito de Efrata, pai de Belém.",
@@ -38,7 +45,7 @@
         "33": "E todas as suas aldeias, que estavam em redor destas cidades, até Baal. Estas foram as suas habitações e suas genealogias.",
         "34": "Porém Mesobabe, e Janleque e Josa, filho de Amazias,",
         "35": "E Joel, e Jeú, filho de Josibias, filho de Seraías, filho de Asiel,",
-        "36": "E Elioenai e Jaacobá, Jesoaías, Asaías, Adiel, Jesimiel, Benaia,",
+        "36": "E Elioenai e Jaacobá, Jesoaías, Asaías, Adiel, Jesimiel, Benaias,",
         "37": "E Ziza, filho de Sifi, filho de Alom, filho de Jedaías, filho de Sinri, filho de Semaías;",
         "38": "Estes, registrados por seus nomes, foram príncipes nas suas famílias; e as famílias de seus pais se multiplicaram abundantemente.",
         "39": "E chegaram até à entrada de Gedor, ao oriente do vale, a buscar pasto para os seus rebanhos.",

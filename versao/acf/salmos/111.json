@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 111,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvor a Deus por suas obras"
+    },
     "versiculos": {
-        "1": "Louvai ao Senhor. Louvarei ao Senhor de todo o meu coração, na assembleia dos justos e na congregação.",
+        "1": "LOUVAI ao Senhor. Louvarei ao Senhor de todo o meu coração, na assembleia dos justos e na congregação.",
         "2": "Grandes são as obras do Senhor, procuradas por todos os que nelas tomam prazer.",
         "3": "A sua obra tem glória e majestade, e a sua justiça permanece para sempre.",
         "4": "Fez com que as suas maravilhas fossem lembradas; piedoso e misericordioso é o Senhor.",

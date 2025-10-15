@@ -1,9 +1,12 @@
 {
     "livro": "Juízes",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "O casamento de Sansão",
+        "12": "O enigma de Sansão"
+    },
     "versiculos": {
-        "1": "E desceu Sansão a Timnate; e, vendo em Timnate uma mulher das filhas dos filisteus,",
+        "1": "E DESCEU Sansão a Timnate; e, vendo em Timnate uma mulher das filhas dos filisteus,",
         "2": "Subiu, e declarou-o a seu pai e a sua mãe, e disse: Vi uma mulher em Timnate, das filhas dos filisteus; agora, pois, tomai-ma por mulher.",
         "3": "Porém seu pai e sua mãe lhe disseram: Não há, porventura, mulher entre as filhas de teus irmãos, nem entre todo o meu povo, para que tu vás tomar mulher dos filisteus, daqueles incircuncisos? E disse Sansão a seu pai: Toma-me esta, porque ela agrada aos meus olhos.",
         "4": "Mas seu pai e sua mãe não sabiam que isto vinha do Senhor; pois buscava ocasião contra os filisteus; porquanto naquele tempo os filisteus dominavam sobre Israel.",

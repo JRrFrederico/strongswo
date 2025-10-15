@@ -1,9 +1,13 @@
 {
     "livro": "Jeremias",
     "capitulo": 38,
-    "titulos": {},
+    "titulos": {
+        "1": "Jeremias é jogado numa cisterna",
+        "14": "Outra conversa secreta com o rei",
+        "17": "O rei é intimado a render-se"
+    },
     "versiculos": {
-        "1": "Ouviram, pois, Sefatias, filho de Matã, e Gedalias, filho de Pasur, e Jucal, filho de Selemias, e Pasur, filho de Malquias, as palavras que anunciava Jeremias a todo o povo, dizendo:",
+        "1": "OUVIRAM, pois, Sefatias, filho de Matã, e Gedalias, filho de Pasur, e Jucal, filho de Selemias, e Pasur, filho de Malquias, as palavras que anunciava Jeremias a todo o povo, dizendo:",
         "2": "Assim diz o Senhor: O que ficar nesta cidade morrerá à espada, de fome e de pestilência; mas o que sair aos caldeus viverá; porque a sua alma lhe será por despojo, e viverá.",
         "3": "Assim diz o Senhor: Esta cidade infalivelmente será entregue na mão do exército do rei de Babilônia, e ele a tomará.",
         "4": "E disseram os príncipes ao rei: Morra este homem, visto que ele assim enfraquece as mãos dos homens de guerra que restam nesta cidade, e as mãos de todo o povo, dizendo-lhes tais palavras; porque este homem não busca a paz para este povo, porém o mal.",

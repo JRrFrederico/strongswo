@@ -1,9 +1,12 @@
 {
-    "livro": "Miquéias",
+    "livro": "Miqueias",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus leva seu povo a julgamento",
+        "9": "Deus condena a injustiça"
+    },
     "versiculos": {
-        "1": "Ouvi agora o que diz o Senhor: Levanta-te, contende com os montes, e ouçam os outeiros a tua voz.",
+        "1": "OUVI agora o que diz o Senhor: Levanta-te, contende com os montes, e ouçam os outeiros a tua voz.",
         "2": "Ouvi, montes, a demanda do Senhor, e vós, fortes fundamentos da terra; porque o Senhor tem uma demanda com o seu povo, e com Israel entrará em juízo.",
         "3": "Ó povo meu; que te tenho feito? E com que te enfadei? Testifica contra mim.",
         "4": "Pois te fiz subir da terra do Egito, e da casa da servidão te remi; e enviei adiante de ti a Moisés, Arão e Miriã.",

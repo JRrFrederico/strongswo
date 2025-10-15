@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "A glória futura do povo de Deus",
+        "6": "O Dia de Yahweh, o SENHOR"
+    },
     "versiculos": {
-        "1": "Palavra que viu Isaías, filho de Amós, a respeito de Judá e de Jerusalém.",
+        "1": "PALAVRA que viu Isaías, filho de Amós, a respeito de Judá e de Jerusalém.",
         "2": "E acontecerá nos últimos dias que se firmará o monte da casa do Senhor no cume dos montes, e se elevará por cima dos outeiros; e concorrerão a ele todas as nações.",
         "3": "E irão muitos povos, e dirão: Vinde, subamos ao monte do Senhor, à casa do Deus de Jacó, para que nos ensine os seus caminhos, e andemos nas suas veredas; porque de Sião sairá a lei, e de Jerusalém a palavra do Senhor.",
         "4": "E ele julgará entre as nações, e repreenderá a muitos povos; e estes converterão as suas espadas em enxadões e as suas lanças em foices; uma nação não levantará espada contra outra nação, nem aprenderão mais a guerrear.",

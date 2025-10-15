@@ -1,9 +1,11 @@
 {
     "livro": "Oséias",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "O amor do Pai pelo filho Israel"
+    },
     "versiculos": {
-        "1": "Quando Israel era menino, eu o amei; e do Egito chamei a meu filho.",
+        "1": "QUANDO Israel era menino, eu o amei; e do Egito chamei a meu filho.",
         "2": "Mas, como os chamavam, assim se iam da sua face; sacrificavam a baalins, e queimavam incenso às imagens de escultura.",
         "3": "Todavia, eu ensinei a andar a Efraim; tomando-os pelos seus braços, mas não entenderam que eu os curava.",
         "4": "Atraí-os com cordas humanas, com laços de amor, e fui para eles como os que tiram o jugo de sobre as suas queixadas, e lhes dei mantimento.",

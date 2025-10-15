@@ -1,9 +1,14 @@
 {
     "livro": "Jeremias",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "A corrupção moral de Judá",
+        "7": "Rumores de destruição e exílio",
+        "17": "Tristeza pelo sofrimento de Sião",
+        "22": "O maior dos saberes é amar a Deus"
+    },
     "versiculos": {
-        "1": "Oh! Se a minha cabeça se tornasse em águas, e os meus olhos numa fonte de lágrimas! Então choraria de dia e de noite os mortos da filha do meu povo.",
+        "1": "OH! Se a minha cabeça se tornasse em águas, e os meus olhos numa fonte de lágrimas! Então choraria de dia e de noite os mortos da filha do meu povo.",
         "2": "Oh! Se tivesse no deserto uma estalagem de caminhantes! Então deixaria o meu povo, e me apartaria dele, porque todos eles são adúlteros, um bando de aleivosos.",
         "3": "E encurvam a língua como se fosse o seu arco, para a mentira; fortalecem-se na terra, mas não para a verdade; porque avançam de malícia em malícia, e a mim não me conhecem, diz o Senhor.",
         "4": "Guardai-vos cada um do seu próximo, e de irmão nenhum vos fieis; porque todo o irmão não faz mais do que enganar, e todo o próximo anda caluniando.",

@@ -1,9 +1,12 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Pregação no poder do Espírito",
+        "6": "A sabedoria que vem do Espírito"
+    },
     "versiculos": {
-        "1": "E eu, irmãos, quando fui ter convosco, anunciando-vos o testemunho de Deus, não fui com sublimidade de palavras ou de sabedoria.",
+        "1": "E EU, irmãos, quando fui ter convosco, anunciando-vos o testemunho de Deus, não fui com sublimidade de palavras ou de sabedoria.",
         "2": "Porque nada me propus saber entre vós, senão a Jesus Cristo, e este crucificado.",
         "3": "E eu estive convosco em fraqueza, e em temor, e em grande tremor.",
         "4": "E a minha palavra, e a minha pregação, não consistiram em palavras persuasivas de sabedoria humana, mas em demonstração do Espírito e de poder;",

@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó reclama um julgamento justo"
+    },
     "versiculos": {
-        "1": "Eis que tudo isto viram os meus olhos, e os meus ouvidos o ouviram e entenderam.",
+        "1": "EIS que tudo isto viram os meus olhos, e os meus ouvidos o ouviram e entenderam.",
         "2": "Como vós o sabeis, também eu o sei; não vos sou inferior.",
         "3": "Mas eu falarei ao Todo-Poderoso, e quero defender-me perante Deus.",
         "4": "Vós, porém, sois inventores de mentiras, e vós todos médicos que não valem nada.",

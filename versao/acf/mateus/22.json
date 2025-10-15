@@ -1,9 +1,15 @@
 {
     "livro": "Mateus",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "A parábola do banquete nupcial",
+        "15": "Dai a César o que é de César",
+        "23": "Os saduceus e a ressurreição",
+        "34": "O maior dos mandamentos",
+        "41": "Jesus é o Senhor de Davi"
+    },
     "versiculos": {
-        "1": "Então Jesus, respondendo, tornou a falar-lhes em parábolas, dizendo:",
+        "1": "ENTÃO Jesus, respondendo, tornou a falar-lhes em parábolas, dizendo:",
         "2": "O reino dos céus é semelhante a um certo rei que celebrou as bodas de seu filho;",
         "3": "E enviou os seus servos a chamar os convidados para as bodas, e estes não quiseram vir.",
         "4": "Depois, enviou outros servos, dizendo: Dizei aos convidados: Eis que tenho o meu jantar preparado, os meus bois e cevados já mortos, e tudo já pronto; vinde às bodas.",

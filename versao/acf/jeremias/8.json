@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "O pecado do povo entristece a Deus",
+        "8": "Os sacerdotes manipulam as leis"
+    },
     "versiculos": {
-        "1": "Naquele tempo, diz o Senhor, tirarão para fora das suas sepulturas os ossos dos reis de Judá, e os ossos dos seus príncipes, e os ossos dos sacerdotes, e os ossos dos profetas, e os ossos dos habitantes de Jerusalém;",
+        "1": "NAQUELE tempo, diz o Senhor, tirarão para fora das suas sepulturas os ossos dos reis de Judá, e os ossos dos seus príncipes, e os ossos dos sacerdotes, e os ossos dos profetas, e os ossos dos habitantes de Jerusalém;",
         "2": "E expô-los-ão ao sol, e à lua, e a todo o exército do céu, a quem tinham amado, e a quem tinham servido, e após quem tinham ido, e a quem tinham buscado e diante de quem se tinham prostrado; não serão recolhidos nem sepultados; serão como esterco sobre a face da terra.",
         "3": "E será escolhida antes a morte do que a vida por todos os que restarem desta raça maligna, que ficarem em todos os lugares onde os lancei, diz o Senhor dos Exércitos.",
         "4": "Dize-lhes mais: Assim diz o Senhor: Porventura cairão e não se tornarão a levantar? Desviar-se-ão, e não voltarão?",

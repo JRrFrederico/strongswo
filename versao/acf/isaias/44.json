@@ -1,9 +1,13 @@
 {
     "livro": "Isaías",
     "capitulo": 44,
-    "titulos": {},
+    "titulos": {
+        "1": "A soberania de Yahweh",
+        "6": "A total insensatez da idolatria",
+        "21": "Só Yahweh é criador e salvador"
+    },
     "versiculos": {
-        "1": "Agora, pois, ouve, ó Jacó, servo meu, e tu, ó Israel, a quem escolhi.",
+        "1": "AGORA, pois, ouve, ó Jacó, servo meu, e tu, ó Israel, a quem escolhi.",
         "2": "Assim diz o Senhor que te criou e te formou desde o ventre, e que te ajudará: Não temas, ó Jacó, servo meu, e tu, Jesurum, a quem escolhi.",
         "3": "Porque derramarei água sobre o sedento, e rios sobre a terra seca; derramarei o meu Espírito sobre a tua posteridade, e a minha bênção sobre os teus descendentes.",
         "4": "E brotarão como a erva, como salgueiros junto aos ribeiros das águas.",

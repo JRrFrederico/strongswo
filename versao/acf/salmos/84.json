@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 84,
-    "titulos": {},
+    "titulos": {
+        "1": "Saudades da Casa de Deus"
+    },
     "versiculos": {
-        "1": "Quão amáveis são os teus tabernáculos, Senhor dos Exércitos!",
+        "1": "QUÃO amáveis são os teus tabernáculos, Senhor dos Exércitos!",
         "2": "A minha alma está desejosa, e desfalece pelos átrios do Senhor; o meu coração e a minha carne clamam pelo Deus vivo.",
         "3": "Até o pardal encontrou casa, e a andorinha ninho para si, onde ponha seus filhos, até mesmo nos teus altares, Senhor dos Exércitos, Rei meu e Deus meu.",
         "4": "Bem-aventurados os que habitam em tua casa; louvar-te-ão continuamente. (Selá.)",

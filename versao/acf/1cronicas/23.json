@@ -1,9 +1,14 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Os levitas e seu ministério",
+        "7": "A descendência de Gérson",
+        "12": "A descendência de Coate",
+        "21": "A descendência de Merari"
+    },
     "versiculos": {
-        "1": "Sendo, pois, Davi já velho, e cheio de dias, fez a Salomão, seu filho, rei sobre Israel.",
+        "1": "SENDO, pois, Davi já velho, e cheio de dias, fez a Salomão, seu filho, rei sobre Israel.",
         "2": "E reuniu a todos os príncipes de Israel, como também aos sacerdotes e levitas.",
         "3": "E foram contados os levitas de trinta anos para cima; e foi o número deles, segundo as suas cabeças, trinta e oito mil homens.",
         "4": "Destes havia vinte e quatro mil, para promoverem a obra da casa do Senhor, e seis mil oficiais e juízes,",

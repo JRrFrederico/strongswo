@@ -1,9 +1,17 @@
 {
     "livro": "Levítico",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "Atos de dedicação ao SENHOR Pessoas:",
+        "9": "Animais:",
+        "14": "Casas:",
+        "16": "Terrenos e lavouras:",
+        "26": "Resgate dos primogênitos",
+        "28": "Quanto ao que é anátema",
+        "30": "Quanto aos dízimos"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés, dizendo:",
         "2": "Fala aos filhos de Israel, e dize-lhes: Quando alguém fizer particular voto, segundo a tua avaliação serão as pessoas ao Senhor.",
         "3": "Se for a tua avaliação de um homem, da idade de vinte anos até a idade de sessenta, será a tua avaliação de cinquenta siclos de prata, segundo o siclo do santuário.",
         "4": "Porém, se for mulher, a tua avaliação será de trinta siclos.",

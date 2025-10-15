@@ -1,9 +1,11 @@
 {
     "livro": "Naum",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "O juízo de Yahweh chega à Nínive"
+    },
     "versiculos": {
-        "1": "Peso de Nínive. Livro da visão de Naum, o elcosita.",
+        "1": "PESO de Nínive. Livro da visão de Naum, o elcosita.",
         "2": "O Senhor é Deus zeloso e vingador; o Senhor é vingador e cheio de furor; o Senhor toma vingança contra os seus adversários, e guarda a ira contra os seus inimigos.",
         "3": "O Senhor é tardio em irar-se, mas grande em poder, e ao culpado não tem por inocente; o Senhor tem o seu caminho na tormenta e na tempestade, e as nuvens são o pó dos seus pés.",
         "4": "Ele repreende ao mar, e o faz secar, e esgota todos os rios; desfalecem Basã e o Carmelo, e a flor do Líbano murcha.",

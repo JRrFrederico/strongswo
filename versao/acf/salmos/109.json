@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 109,
-    "titulos": {},
+    "titulos": {
+        "1": "Prece contra os caluniadores"
+    },
     "versiculos": {
-        "1": "Ó Deus do meu louvor, não te cales,",
+        "1": "Ó DEUS do meu louvor, não te cales,",
         "2": "Pois a boca do ímpio e a boca do enganador estão abertas contra mim. Têm falado contra mim com uma língua mentirosa.",
         "3": "Eles me cercaram com palavras odiosas, e pelejaram contra mim sem causa.",
         "4": "Em recompensa do meu amor são meus adversários; mas eu faço oração.",

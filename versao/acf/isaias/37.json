@@ -1,9 +1,13 @@
 {
     "livro": "Isaías",
     "capitulo": 37,
-    "titulos": {},
+    "titulos": {
+        "1": "Ezequias consulta o profeta Isaías",
+        "14": "Eis a oração do rei Ezequias",
+        "21": "Deus consola em forma de poesia"
+    },
     "versiculos": {
-        "1": "E aconteceu que, tendo ouvido isso, o rei Ezequias rasgou as suas vestes, e se cobriu de saco, e entrou na casa do Senhor.",
+        "1": "E ACONTECEU que, tendo ouvido isso, o rei Ezequias rasgou as suas vestes, e se cobriu de saco, e entrou na casa do Senhor.",
         "2": "Então enviou Eliaquim, o mordomo, e Sebna, o escrivão, e os anciãos dos sacerdotes, cobertos de sacos, ao profeta Isaías, filho de Amós.",
         "3": "E disseram-lhe: Assim diz Ezequias: Este dia é dia de angústia, e de vitupério, e de blasfêmias; porque chegados são os filhos ao parto, e força não há para dá-los à luz.",
         "4": "Porventura o Senhor teu Deus terá ouvido as palavras de Rabsaqué, a quem o rei da Assíria, seu senhor, enviou para afrontar o Deus vivo, e para vituperá-lo com as palavras que o Senhor teu Deus tem ouvido; faze oração pelo remanescente que ficou.",

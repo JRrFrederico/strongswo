@@ -1,9 +1,12 @@
 {
     "livro": "Romanos",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "A relação entre Lei e Graça",
+        "7": "A Lei condena, Jesus liberta"
+    },
     "versiculos": {
-        "1": "Não sabeis vós, irmãos (pois que falo aos que sabem a lei), que a lei tem domínio sobre o homem por todo o tempo que vive?",
+        "1": "NÃO sabeis vós, irmãos (pois que falo aos que sabem a lei), que a lei tem domínio sobre o homem por todo o tempo que vive?",
         "2": "Porque a mulher que está sujeita ao marido, enquanto ele viver, está-lhe ligada pela lei; mas, morto o marido, está livre da lei do marido.",
         "3": "De sorte que, vivendo o marido, será chamada adúltera se for de outro homem; mas, morto o marido, livre está da lei, e assim não será adúltera, se for de outro marido.",
         "4": "Assim, meus irmãos, também vós estais mortos para a lei pelo corpo de Cristo, para que sejais de outro, daquele que ressuscitou dentre os mortos, a fim de que demos fruto para Deus.",

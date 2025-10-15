@@ -1,9 +1,14 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 29,
-    "titulos": {},
+    "titulos": {
+        "1": "Doações de Davi e dos seus servos",
+        "9": "Ação de graças de Davi",
+        "21": "Alegria e oferta de sacrifícios",
+        "26": "A morte do rei Davi"
+    },
     "versiculos": {
-        "1": "Disse mais o rei Davi a toda a congregação: Salomão, meu filho, o único a quem Deus escolheu, é ainda moço e tenro, e esta obra é grande; porque não é o palácio para homem, mas para o Senhor Deus.",
+        "1": "DISSE mais o rei Davi a toda a congregação: Salomão, meu filho, o único a quem Deus escolheu, é ainda moço e tenro, e esta obra é grande; porque não é o palácio para homem, mas para o Senhor Deus.",
         "2": "Eu, pois, com todas as minhas forças já tenho preparado para a casa de meu Deus ouro para as obras de ouro, e prata para as de prata, e cobre para as de cobre, ferro para as de ferro e madeira para as de madeira, pedras de ônix, e as de engaste, e pedras ornamentais, e pedras de diversas cores, e toda a sorte de pedras preciosas, e pedras de mármore em abundância.",
         "3": "E ainda, porque tenho afeto à casa de meu Deus, o ouro e prata particular que tenho eu dou para a casa do meu Deus, afora tudo quanto tenho preparado para a casa do santuário:",
         "4": "Três mil talentos de ouro de Ofir; e sete mil talentos de prata purificada, para cobrir as paredes das casas.",

@@ -1,9 +1,11 @@
 {
     "livro": "Oséias",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Vem o Dia do Juízo de Israel"
+    },
     "versiculos": {
-        "1": "Põe a trombeta à tua boca. Ele virá como a águia contra a casa do Senhor, porque transgrediram a minha aliança, e se rebelaram contra a minha lei.",
+        "1": "PÕE a trombeta à tua boca. Ele virá como a águia contra a casa do Senhor, porque transgrediram a minha aliança, e se rebelaram contra a minha lei.",
         "2": "E a mim clamarão: Deus meu! Nós, Israel, te conhecemos.",
         "3": "Israel rejeitou o bem; o inimigo persegui-lo-á.",
         "4": "Eles fizeram reis, mas não por mim; constituíram príncipes, mas eu não o soube; da sua prata e do seu ouro fizeram ídolos para si, para serem destruídos.",

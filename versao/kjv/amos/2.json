@@ -1,23 +1,26 @@
 {
     "livro": "Amós",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "O juízo do Eterno contra Moabe",
+        "4": "O juízo sobre Judá e Israel"
+    },
     "versiculos": {
-        "1": "Assim diz o ­SENHOR: Por três transgressões de Moabe, e por quatro, não retirarei o seu castigo, pois ele queimou os ossos do rei de Edom, até os reduzir a cal.",
-        "2": "Mas eu enviarei fogo a Moabe, e consumirá os palácios de Queriote; e Moabe morrerá com tumulto, com gritos, e com o som de trombeta;",
-        "3": "e exterminarei o juiz do meio dele, e com ele matarei todos os seus príncipes, diz o ­SENHOR.",
-        "4": "Assim diz o ­SENHOR: Por três transgressões de Judá, e por quatro, não retirarei o seu castigo, pois eles desprezaram a lei do ­SENHOR, e não guardaram os seus mandamentos; e suas mentiras os enganaram, após as quais andaram seus pais;",
-        "5": "mas eu enviarei fogo a Judá, e ele consumirá os palácios de Jerusalém.",
-        "6": "Assim diz o ­SENHOR: Por três transgressões de Israel, e por quatro, não retirarei o seu castigo, pois eles venderam o justo por prata, e o pobre por um par de sandálias;",
-        "7": "suspirando pelo pó da terra, sobre a cabeça dos pobres, pervertem o caminho dos mansos; e um homem e seu pai entram à mesma moça, para profanarem o meu santo nome;",
-        "8": "e eles deitaram-se sobre roupas colocadas para penhorar por todo altar, e bebem o vinho dos condenados na casa de seu deus.",
-        "9": "Todavia eu destruí diante deles o amorreu, cuja altura era como a altura dos cedros, e era tão forte quanto os carvalhos; ainda assim destruí seu fruto por cima, e suas raízes por baixo.",
-        "10": "Também vos fiz subir da terra do Egito, e vos guiei através do deserto por quarenta anos, para que possuísseis a terra do amorreu.",
-        "11": "E levantei profetas dentre vossos filhos e dentre os vossos jovens nazireus. Não é isto assim, ó filhos de Israel? Diz o ­SENHOR.",
-        "12": "Mas vós destes aos nazireus vinho a beber, e ordenaste aos profetas, dizendo: não profetizareis.",
-        "13": "Eis que vos apertarei no vosso lugar, como se aperta uma carruagem cheia de feixes.",
-        "14": "Portanto, o ágil perecerá em seu voo, nem o forte corroborará a sua força, nem o valente salvará a sua vida;",
-        "15": "e não ficará em pé o que maneja o arco, e aquele que é ligeiro de pés não se livrará, nem tampouco se livrará o que vai montado a cavalo.",
-        "16": "E o mais corajoso entre os valentes fugirá nu naquele dia, diz o ­SENHOR."
+        "1": "Assim afirma Yahweh : “Por três transgressões de Moabe e ainda mais por uma quarta falta, não sustarei o castigo a ele reservado; porque queimou os ossos do rei de Edom, até reduzi-los a cal.",
+        "2": "Por essa razão, atearei fogo a Moabe, e as chamas aniquilarão todos os seus palácios fortificados em Queriote, e Moabe cairá morto em meio a grande tumulto, com gritos de guerra e ao som de perigo do Shofar , trombeta.",
+        "3": "Exterminarei o seu juiz governante e com ele matarei todos os príncipes e líderes do povo!” Afirma Yahweh .",
+        "4": "Assim declara Yahweh : “Pelas três transgressões de Judá, sim, e por mais um quarto pecado, não cancelarei a punição que lhe é devida; porquanto rejeitaram a Torá , Lei, de Yahweh , do S ENHOR , e não obedeceram aos seus decretos, mas se deixaram iludir por imagens e objetos idólatras, repetindo o mesmo caminho de mentiras feito por seus pais e antepassados.",
+        "5": "Portanto, atearei fogo a Judá, e as chamas extinguirão as fortalezas e palácios de Jerusalém!”",
+        "6": "E assim afirma Yahweh : “Por três transgressões de Israel, e ainda mais por um quarto pecado, não sustarei o castigo que lhes determinei; pois chegam a vender o justo por prata, e trocam o pobre por um par de sandálias.",
+        "7": "E mais, pisam a cabeça dos necessitados do mesmo jeito que pisam sobre o pó da terra. Negam o direito e a justiça aos oprimidos. Pai e filho deitam-se com a mesma mulher, profanando assim o meu santo Nome.",
+        "8": "Prestam culto diante de qualquer altar, e se assentam sobre roupas tomadas como penhor ilícito. Comem dos sacrifícios oferecidos aos ídolos; e, para comprar o vinho que bebem no templo de suas divindades, usam a prata que tomaram mediante multas injustas.",
+        "9": "Fui Eu que exterminei os amorreus diante dos olhos de Israel, embora fossem homens altos como o cedro e fortes como o carvalho; eis que destruí seu fruto na parte de cima e suas raízes na parte de baixo.",
+        "10": "Eu, pessoalmente, vos tirei da terra do Egito e vos conduzi no deserto por quarenta anos, para que possuísseis as terras dos amorreus.",
+        "11": "Escolhi alguns de vossos filhos para serem profetas, e alguns de vossos jovens para se consagrarem como nazireus. Agora, pois, respondei! Não foi de fato assim, ó israelitas?” Oráculo de Yahweh .",
+        "12": "Contudo, fizestes com que os nazireus bebessem vinho e ordenastes aos profetas: “Não profetizeis!”",
+        "13": "Agora, pois, Eu vos triturarei em vossa própria cidade como uma carroça esmaga os pedregulhos quando passa pelo caminho carregada de trigo.",
+        "14": "Sendo assim, o mais esperto não escapará, tampouco o forte conseguirá reunir as suas forças, e ao guerreiro não lhe será possível salvar a própria vida.",
+        "15": "O arqueiro não manterá a sua posição, o que corre não se livrará, e o cavaleiro não poderá salvar a si mesmo;",
+        "16": "naquele terrível Dia, o mais corajoso entre os valentes fugirá completamente despido!” Assevera o S ENHOR ."
     }
 }

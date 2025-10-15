@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 148,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvor ao Deus do Universo"
+    },
     "versiculos": {
-        "1": "Louvai ao Senhor. Louvai ao Senhor desde os céus, louvai-o nas alturas.",
+        "1": "LOUVAI ao Senhor. Louvai ao Senhor desde os céus, louvai-o nas alturas.",
         "2": "Louvai-o, todos os seus anjos; louvai-o, todos os seus exércitos.",
         "3": "Louvai-o, sol e lua; louvai-o, todas as estrelas luzentes.",
         "4": "Louvai-o, céus dos céus, e as águas que estão sobre os céus.",

@@ -1,9 +1,12 @@
 {
     "livro": "Números",
     "capitulo": 36,
-    "titulos": {},
+    "titulos": {
+        "1": "A lei da herança das mulheres",
+        "13": "Conclusão"
+    },
     "versiculos": {
-        "1": "E chegaram os chefes dos pais da família de Gileade, filho de Maquir, filho de Manassés, das famílias dos filhos de José, e falaram diante de Moisés, e diante dos príncipes, chefes dos pais dos filhos de Israel,",
+        "1": "E CHEGARAM os chefes dos pais da família de Gileade, filho de Maquir, filho de Manassés, das famílias dos filhos de José, e falaram diante de Moisés, e diante dos príncipes, chefes dos pais dos filhos de Israel,",
         "2": "E disseram: O Senhor mandou a meu senhor que, por sorte, desse esta terra em herança aos filhos de Israel; e a meu senhor foi ordenado pelo Senhor, que a herança do nosso irmão Zelofeade se desse às suas filhas.",
         "3": "E, casando-se elas com alguns dos filhos das outras tribos dos filhos de Israel, então a sua herança será diminuída da herança de nossos pais, e acrescentada à herança da tribo a que vierem a pertencer; assim se tirará da sorte da nossa herança.",
         "4": "Vindo também o ano do jubileu dos filhos de Israel, a sua herança será acrescentada à herança da tribo daqueles com que se casarem; assim a sua herança será tirada da herança da tribo de nossos pais.",

@@ -1,9 +1,12 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "A família e o palácio do rei Davi",
+        "8": "Davi vence os filisteus"
+    },
     "versiculos": {
-        "1": "Então Hirão, rei de Tiro, mandou mensageiros a Davi, e madeira de cedro, e pedreiros, e carpinteiros, para lhe edificarem uma casa.",
+        "1": "ENTÃO Hirão, rei de Tiro, mandou mensageiros a Davi, e madeira de cedro, e pedreiros, e carpinteiros, para lhe edificarem uma casa.",
         "2": "E entendeu Davi que o Senhor o tinha confirmado rei sobre Israel; porque o seu reino tinha sido muito exaltado por amor do seu povo Israel.",
         "3": "E Davi tomou ainda mais mulheres em Jerusalém; e gerou Davi ainda mais filhos e filhas.",
         "4": "E estes são os nomes dos filhos que teve em Jerusalém: Samua, Sobabe, Natã, Salomão,",

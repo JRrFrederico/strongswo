@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "O dia da angústia"
+    },
     "versiculos": {
         "1": "O Senhor te ouça no dia da angústia, o nome do Deus de Jacó te proteja.",
         "2": "Envie-te socorro desde o seu santuário, e te sustenha desde Sião.",

@@ -1,9 +1,12 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "O feliz reinado de Uzias",
+        "16": "A lepra ataca o orgulho de Uzias"
+    },
     "versiculos": {
-        "1": "Então todo o povo de Judá tomou a Uzias, que tinha dezesseis anos, e o fizeram rei em lugar de Amazias seu pai.",
+        "1": "ENTÃO todo o povo de Judá tomou a Uzias, que tinha dezesseis anos, e o fizeram rei em lugar de Amazias seu pai.",
         "2": "Este edificou a Elote, e a restituiu a Judá, depois que o rei dormiu com seus pais.",
         "3": "Tinha Uzias dezesseis anos quando começou a reinar, e cinquenta e dois anos reinou em Jerusalém; e era o nome de sua mãe Jecolia, de Jerusalém.",
         "4": "E fez o que era reto aos olhos do Senhor; conforme a tudo o que fizera Amazias seu pai.",

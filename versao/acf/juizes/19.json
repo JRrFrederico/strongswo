@@ -1,9 +1,11 @@
 {
     "livro": "Juízes",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "O levita e sua concubina"
+    },
     "versiculos": {
-        "1": "Aconteceu também naqueles dias, em que não havia rei em Israel, que houve um homem levita, que, peregrinando aos lados da montanha de Efraim, tomou para si uma concubina, de Belém de Judá.",
+        "1": "ACONTECEU também naqueles dias, em que não havia rei em Israel, que houve um homem levita, que, peregrinando aos lados da montanha de Efraim, tomou para si uma concubina, de Belém de Judá.",
         "2": "Porém a sua concubina adulterou contra ele, e deixando-o, foi para a casa de seu pai, em Belém de Judá, e esteve ali alguns dias, a saber, quatro meses.",
         "3": "E seu marido se levantou, e foi atrás dela, para lhe falar conforme ao seu coração, e para tornar a trazê-la; e o seu moço e um par de jumentos iam com ele; e ela o levou à casa de seu pai, e, vendo-o o pai da moça, alegrou-se ao encontrar-se com ele.",
         "4": "E seu sogro, o pai da moça, o deteve, e ficou com ele três dias; e comeram e beberam, e passaram ali a noite.",

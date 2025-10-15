@@ -1,13 +1,15 @@
 {
     "livro": "Neemias",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Os voluntários e mãos à obra"
+    },
     "versiculos": {
-        "1": "E levantou-se Eliasibe, o sumo sacerdote, com os seus irmãos, os sacerdotes, e reedificaram a porta das ovelhas, a qual consagraram; e levantaram as suas portas, e até à torre de Meá consagraram, e até à torre de Hananel.",
-        "2": "E junto a ele edificaram os homens de Jericó; também ao seu lado edificou Zacur, filho de Inri.",
+        "1": "E LEVANTOU-SE Eliasibe, o sumo sacerdote, com os seus irmãos, os sacerdotes, e reedificaram a porta das ovelhas, a qual consagraram; e levantaram as suas portas, e até à torre de Meá consagraram, e até à torre de Hananel.",
+        "2": "E junto a ele edificaram os homens de Jericó; também ao seu lado edificou Zacur, filho de Imri.",
         "3": "E à porta do peixe edificaram os filhos de Hassenaá; a qual emadeiraram, e levantaram as suas portas com as suas fechaduras e os seus ferrolhos.",
         "4": "E ao seu lado reparou Meremote, filho de Urias, o filho de Coz; e ao seu lado reparou Mesulão, filho de Berequias, o filho de Mesezabeel; e ao seu lado reparou Zadoque, filho de Baana.",
-        "5": "E ao seu lado repararam os tecoítas; porém os seus nobres não submeteram a cerviz ao serviço de seu Senhor.",
+        "5": "E ao seu lado repararam os tecoítas; porém os seus nobres não submeteram a cerviz ao serviço de seu senhor.",
         "6": "E a porta velha repararam-na Joiada, filho de Paseia, e Mesulão, filho de Besodias; estes a emadeiraram, e levantaram as suas portas com as suas fechaduras e os seus ferrolhos.",
         "7": "E ao seu lado repararam Melatias, o gibeonita, e Jadom, meronotita, homens de Gibeom e Mizpá, que pertenciam ao domínio do governador dalém do rio.",
         "8": "Ao seu lado reparou Uziel, filho de Haraías, um dos ourives; e ao seu lado reparou Hananias, filho de um dos boticários; e fortificaram a Jerusalém até ao muro largo.",

@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "Oráculo contra o Egito",
+        "16": "Conversão do Egito"
+    },
     "versiculos": {
-        "1": "Peso do Egito. Eis que o Senhor vem cavalgando numa nuvem ligeira, e entrará no Egito; e os ídolos do Egito estremecerão diante dele, e o coração dos egípcios se derreterá no meio deles.",
+        "1": "PESO do Egito. Eis que o Senhor vem cavalgando numa nuvem ligeira, e entrará no Egito; e os ídolos do Egito estremecerão diante dele, e o coração dos egípcios se derreterá no meio deles.",
         "2": "Porque farei com que os egípcios, se levantem contra os egípcios, e cada um pelejará contra o seu irmão, e cada um contra o seu próximo, cidade contra cidade, reino contra reino.",
         "3": "E o espírito do Egito se esvaecerá no seu interior, e destruirei o seu conselho; e eles consultarão aos seus ídolos, e encantadores, e aqueles que têm espíritos familiares e feiticeiros.",
         "4": "E entregarei os egípcios nas mãos de um senhor cruel, e um rei rigoroso os dominará, diz o Senhor, o Senhor dos Exércitos.",

@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "A Aliança de Deus com Noé",
+        "18": "A caminhada de Noé e seus filhos"
+    },
     "versiculos": {
-        "1": "E abençoou Deus a Noé e a seus filhos, e disse-lhes: Frutificai e multiplicai-vos e enchei a terra.",
+        "1": "E ABENÇOOU Deus a Noé e a seus filhos, e disse-lhes: Frutificai e multiplicai-vos e enchei a terra.",
         "2": "E o temor de vós e o pavor de vós virão sobre todo o animal da terra, e sobre toda a ave dos céus; tudo o que se move sobre a terra, e todos os peixes do mar, nas vossas mãos são entregues.",
         "3": "Tudo quanto se move, que é vivente, será para vosso mantimento; tudo vos tenho dado como a erva verde.",
         "4": "A carne, porém, com sua vida, isto é, com seu sangue, não comereis.",

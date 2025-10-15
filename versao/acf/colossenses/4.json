@@ -1,9 +1,14 @@
 {
     "livro": "Colossenses",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "2": "Orar, vigiar e render graças",
+        "7": "Paulo envia conservos em missão",
+        "10": "Saudações finais",
+        "18": "Bênção apostólica"
+    },
     "versiculos": {
-        "1": "Vós, senhores, fazei o que for de justiça e equidade a vossos servos, sabendo que também tendes um Senhor nos céus.",
+        "1": "VÓS, senhores, fazei o que for de justiça e equidade a vossos servos, sabendo que também tendes um Senhor nos céus.",
         "2": "Perseverai em oração, velando nela com ação de graças;",
         "3": "Orando também juntamente por nós, para que Deus nos abra a porta da palavra, a fim de falarmos do mistério de Cristo, pelo qual estou também preso;",
         "4": "Para que o manifeste, como me convém falar.",

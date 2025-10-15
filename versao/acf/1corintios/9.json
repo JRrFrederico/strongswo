@@ -1,9 +1,13 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Os direitos dos apóstolos",
+        "15": "Visão e missão de Paulo",
+        "24": "Um verdadeiro atleta de Cristo"
+    },
     "versiculos": {
-        "1": "Não sou eu apóstolo? Não sou livre? Não vi eu a Jesus Cristo Senhor nosso? Não sois vós a minha obra no Senhor?",
+        "1": "NÃO sou eu apóstolo? Não sou livre? Não vi eu a Jesus Cristo Senhor nosso? Não sois vós a minha obra no Senhor?",
         "2": "Se eu não sou apóstolo para os outros, ao menos o sou para vós; porque vós sois o selo do meu apostolado no Senhor.",
         "3": "Esta é minha defesa para com os que me condenam.",
         "4": "Não temos nós direito de comer e beber?",

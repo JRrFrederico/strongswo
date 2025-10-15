@@ -1,9 +1,13 @@
 {
     "livro": "Isaías",
     "capitulo": 51,
-    "titulos": {},
+    "titulos": {
+        "1": "A grande restauração de Israel",
+        "9": "Súplica à ação salvadora de Deus",
+        "17": "O despertar de Jerusalém"
+    },
     "versiculos": {
-        "1": "Ouvi-me, vós os que seguis a justiça, os que buscais ao Senhor. Olhai para a rocha de onde fostes cortados, e para a caverna do poço de onde fostes cavados.",
+        "1": "OUVI-ME, vós os que seguis a justiça, os que buscais ao Senhor. Olhai para a rocha de onde fostes cortados, e para a caverna do poço de onde fostes cavados.",
         "2": "Olhai para Abraão, vosso pai, e para Sara, que vos deu à luz; porque, sendo ele só, o chamei, e o abençoei e o multipliquei.",
         "3": "Porque o Senhor consolará a Sião; consolará a todos os seus lugares assolados, e fará o seu deserto como o Éden, e a sua solidão como o jardim do Senhor; gozo e alegria se achará nela, ação de graças, e voz de melodia.",
         "4": "Atendei-me, povo meu, e nação minha, inclinai os ouvidos para mim; porque de mim sairá a lei, e o meu juízo farei repousar para a luz dos povos.",

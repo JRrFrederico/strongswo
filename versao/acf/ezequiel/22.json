@@ -1,9 +1,13 @@
 {
     "livro": "Ezequiel",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "As práticas pagãs de Jerusalém",
+        "17": "O castigo divino à Casa de Israel",
+        "23": "Profecia contra os lideres infiéis"
+    },
     "versiculos": {
-        "1": "E veio a mim a palavra do Senhor, dizendo:",
+        "1": "E VEIO a mim a palavra do Senhor, dizendo:",
         "2": "Tu, pois, ó filho do homem, porventura julgarás, julgarás a cidade sanguinária? Faze-lhe conhecer, pois, todas as suas abominações.",
         "3": "E dize: Assim diz o Senhor Deus: Ai da cidade que derrama o sangue no meio de si para que venha o seu tempo! Que faz ídolos contra si mesma, para se contaminar!",
         "4": "Pelo teu sangue que derramaste te fizeste culpada, e pelos teus ídolos que fabricaste te contaminaste, e fizeste aproximarem-se os teus dias, e tem chegado o fim dos teus anos; por isso eu te fiz o opróbrio das nações e o escárnio de todas as terras.",

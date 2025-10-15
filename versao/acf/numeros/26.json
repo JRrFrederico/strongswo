@@ -1,9 +1,13 @@
 {
     "livro": "Números",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "O segundo censo do povo de Israel",
+        "52": "As regras para a divisão da terra",
+        "57": "O segundo censo entre os levitas"
+    },
     "versiculos": {
-        "1": "Aconteceu, pois, que, depois daquela praga, falou o Senhor a Moisés, e a Eleazar, filho de Arão, o sacerdote, dizendo:",
+        "1": "ACONTECEU, pois, que, depois daquela praga, falou o Senhor a Moisés, e a Eleazar, filho de Arão, o sacerdote, dizendo:",
         "2": "Tomai a soma de toda a congregação dos filhos de Israel, da idade de vinte anos para cima, segundo as casas de seus pais; todos os que em Israel podem sair à guerra.",
         "3": "Falaram-lhes, pois, Moisés e Eleazar, o sacerdote, nas campinas de Moabe, junto ao Jordão na altura de Jericó, dizendo:",
         "4": "Conta o povo da idade de vinte anos para cima, como o Senhor ordenara a Moisés e aos filhos de Israel, que saíram do Egito.",

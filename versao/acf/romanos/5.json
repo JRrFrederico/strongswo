@@ -1,9 +1,12 @@
 {
     "livro": "Romanos",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "O justificado tem Paz com Deus",
+        "12": "Morte em Adão, Vida em Cristo"
+    },
     "versiculos": {
-        "1": "Tendo sido, pois, justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo;",
+        "1": "TENDO sido, pois, justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo;",
         "2": "Pelo qual também temos entrada pela fé a esta graça, na qual estamos firmes, e nos gloriamos na esperança da glória de Deus.",
         "3": "E não somente isto, mas também nos gloriamos nas tribulações; sabendo que a tribulação produz a paciência,",
         "4": "E a paciência a experiência, e a experiência a esperança.",

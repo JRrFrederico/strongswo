@@ -1,10 +1,14 @@
 {
     "livro": "Romanos",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "A vida como culto espiritual",
+        "3": "Como servir por meio dos dons",
+        "9": "O amor é a base dos dons"
+    },
     "versiculos": {
-        "1": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional.",
-        "2": "E não sejais conformados com este mundo, mas sede transformados pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável, e perfeita vontade de Deus.",
+        "1": "ROGO-VOS, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional.",
+        "2": "E não sede conformados com este mundo, mas sede transformados pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável, e perfeita vontade de Deus.",
         "3": "Porque pela graça que me é dada, digo a cada um dentre vós que não pense de si mesmo além do que convém; antes, pense com moderação, conforme a medida da fé que Deus repartiu a cada um.",
         "4": "Porque assim como em um corpo temos muitos membros, e nem todos os membros têm a mesma operação,",
         "5": "Assim nós, que somos muitos, somos um só corpo em Cristo, mas individualmente somos membros uns dos outros.",

@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus ouve a oração do aflito e vence o mal"
+    },
     "versiculos": {
-        "1": "Por que estás ao longe, Senhor? Por que te escondes nos tempos de angústia?",
+        "1": "POR QUE estás ao longe, Senhor? Por que te escondes nos tempos de angústia?",
         "2": "Os ímpios na sua arrogância perseguem furiosamente o pobre; sejam apanhados nas ciladas que maquinaram.",
         "3": "Porque o ímpio gloria-se do desejo da sua alma; bendiz ao avarento, e renuncia ao Senhor.",
         "4": "Pela altivez do seu rosto o ímpio não busca a Deus; todas as suas cogitações são que não há Deus.",

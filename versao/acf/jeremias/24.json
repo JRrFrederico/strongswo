@@ -1,9 +1,11 @@
 {
     "livro": "Jeremias",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "A visão dos dois cestos de figos"
+    },
     "versiculos": {
-        "1": "Fez-me o Senhor ver, e eis dois cestos de figos, postos diante do templo do Senhor, depois que Nabucodonosor, rei de Babilônia, levou em cativeiro a Jeconias, filho de Jeoiaquim, rei de Judá, e os príncipes de Judá, e os carpinteiros, e os ferreiros de Jerusalém, e os trouxe a Babilônia.",
+        "1": "FEZ-ME o Senhor ver, e eis dois cestos de figos, postos diante do templo do Senhor, depois que Nabucodonosor, rei de Babilônia, levou em cativeiro a Jeconias, filho de Jeoiaquim, rei de Judá, e os príncipes de Judá, e os carpinteiros, e os ferreiros de Jerusalém, e os trouxe a Babilônia.",
         "2": "Um cesto tinha figos muito bons, como os figos temporãos; mas o outro cesto tinha figos muito ruins, que não se podiam comer, de ruins que eram.",
         "3": "E disse-me o Senhor: Que vês tu, Jeremias? E eu disse: Figos: os figos bons, muito bons e os ruins, muito ruins, que não se podem comer, de ruins que são.",
         "4": "Então veio a mim a palavra do Senhor, dizendo:",

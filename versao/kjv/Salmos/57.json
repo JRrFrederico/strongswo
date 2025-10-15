@@ -1,18 +1,20 @@
 {
     "livro": "Salmos",
     "capitulo": 57,
-    "titulos": {},
+    "titulos": {
+        "1": "O perfeito refúgio está em Deus"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe, Al-Tachete, Mictã de Davi, quando ele fugiu de Saul para a caverna. Sê misericordioso para comigo, ó Deus, sê misericordioso para comigo, pois minha alma confia em ti; sim, na sombra das tuas asas eu farei o meu refúgio, até que estas calamidades tenham passado.",
-        "2": "Clamarei ao Deus Altíssimo; ao Deus que realiza todas as coisas por mim.",
-        "3": "Ele enviará do céu, e me salvará da vergonha daquele que quer me engolir. Selá. Deus enviará a sua misericórdia e a sua verdade.",
-        "4": "Minha alma está entre leões, e eu estou entre aqueles que são incendiados, os filhos dos homens, cujos dentes são lanças e flechas, e a sua língua uma espada afiada.",
-        "5": "Sê tu exaltado, ó Deus, sobre os céus; que a tua glória esteja sobre toda a terra.",
-        "6": "Eles prepararam uma rede para os meus passos; minha alma está prostrada. Cavaram uma cova diante de mim, no meio dela eles mesmos caíram. Selá.",
-        "7": "Meu coração está firme, ó Deus, meu coração está firme; eu cantarei e darei louvores.",
-        "8": "Acorda, minha glória; acordai, saltério e harpa. Eu acordarei cedo.",
-        "9": "Te louvarei, ó Senhor, entre os povos; eu cantarei a ti entre as nações.",
-        "10": "Pois a tua misericórdia é grande até os céus, e a tua verdade até as nuvens.",
-        "11": "Sê tu exaltado, ó Deus, sobre os céus; esteja a tua glória sobre toda a terra."
+        "1": "Tem misericórdia de mim, ó Deus, tem piedade de mim! Pois em ti a minha alma encontra refúgio. Eu me refugiarei à sombra das tuas asas, até que passe o perigo que me persegue.",
+        "2": "Clamo a Deus, o Altíssimo, ao Deus que sempre me dispensou sua proteção.",
+        "3": "Dos céus Ele me enviará o seu livramento e a salvação, me protegerá com seu amor misericordioso e fará fracassar todos os intentos daqueles que me perseguem impiedosamente.",
+        "4": "A minha alma está cercada por leões ferozes, tenho de repousar entre homens perversos, que por dentes têm lanças e flechas e por língua uma espada afiada!",
+        "5": "Ó Deus, eleva-te sobre os céus e sobre toda a terra, com tua glória!",
+        "6": "Estenderam uma rede para os meus passos: isso abateu minha alma. Diante de mim cavaram um fosso: porém, eles mesmos nele caíram.",
+        "7": "Meu coração está disposto, ó Deus, meu coração está livre do medo: quero cantar e entoar louvores.",
+        "8": "Desperta, ó minha alma! Harpa e saltério, despertai! Quero despertar a aurora.",
+        "9": "Graças te darei, Senhor, entre as nações te cantarei louvores,",
+        "10": "pois teu amor se eleva até os céus e tua fidelidade, até as nuvens.",
+        "11": "Ó Deus, eleva-te sobre os céus e sobre toda a terra, com tua glória!"
     }
 }

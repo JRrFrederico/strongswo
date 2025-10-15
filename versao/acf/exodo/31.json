@@ -1,9 +1,12 @@
 {
     "livro": "Êxodo",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "12": "O dia do shabbãth, o sábado",
+        "18": "Deus entrega a Lei a Moisés"
+    },
     "versiculos": {
-        "1": "Depois falou o Senhor a Moisés, dizendo:",
+        "1": "DEPOIS falou o Senhor a Moisés, dizendo:",
         "2": "Eis que eu tenho chamado por nome a Bezalel, o filho de Uri, filho de Hur, da tribo de Judá,",
         "3": "E o enchi do Espírito de Deus, de sabedoria, e de entendimento, e de conhecimento, em todo o lavor,",
         "4": "Para elaborar projetos, e trabalhar em ouro, em prata, e em cobre,",

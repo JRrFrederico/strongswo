@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 38,
-    "titulos": {},
+    "titulos": {
+        "1": "A doença e a cura do rei Ezequias",
+        "9": "Louvor de Ezequias a Yahweh"
+    },
     "versiculos": {
-        "1": "Naqueles dias Ezequias adoeceu de uma enfermidade mortal; e veio a ele o profeta Isaías, filho de Amós, e lhe disse: Assim diz o Senhor: Põe em ordem a tua casa, porque morrerás, e não viverás.",
+        "1": "NAQUELES dias Ezequias adoeceu de uma enfermidade mortal; e veio a ele o profeta Isaías, filho de Amós, e lhe disse: Assim diz o Senhor: Põe em ordem a tua casa, porque morrerás, e não viverás.",
         "2": "Então virou Ezequias o seu rosto para a parede, e orou ao Senhor.",
         "3": "E disse: Ah! Senhor, peço-te, lembra-te agora, de que andei diante de ti em verdade, e com coração perfeito, e fiz o que era reto aos teus olhos. E chorou Ezequias muitíssimo.",
         "4": "Então veio a palavra do Senhor a Isaías, dizendo:",

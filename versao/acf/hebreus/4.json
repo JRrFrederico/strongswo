@@ -1,9 +1,12 @@
 {
     "livro": "Hebreus",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "O descanso sabático dos crentes",
+        "14": "Jesus é o grande sumo sacerdote"
+    },
     "versiculos": {
-        "1": "Temamos, pois, que, porventura, deixada a promessa de entrar no seu repouso, pareça que algum de vós fica para trás.",
+        "1": "TEMAMOS, pois, que, porventura, deixada a promessa de entrar no seu repouso, pareça que algum de vós fica para trás.",
         "2": "Porque também a nós foram pregadas as boas novas, como a eles, mas a palavra da pregação nada lhes aproveitou, porquanto não estava misturada com a fé naqueles que a ouviram.",
         "3": "Porque nós, os que temos crido, entramos no repouso, tal como disse: Assim jurei na minha ira que não entrarão no meu repouso; embora as suas obras estivessem acabadas desde a fundação do mundo.",
         "4": "Porque em certo lugar disse assim do dia sétimo: E repousou Deus de todas as suas obras no sétimo dia.",

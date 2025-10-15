@@ -1,9 +1,11 @@
 {
     "livro": "1 Samuel",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi poupa a vida de Saul"
+    },
     "versiculos": {
-        "1": "E sucedeu que, voltando Saul de perseguir os filisteus, anunciaram-lhe, dizendo: Eis que Davi está no deserto de En-Gedi.",
+        "1": "E SUCEDEU que, voltando Saul de perseguir os filisteus, anunciaram-lhe, dizendo: Eis que Davi está no deserto de En-Gedi.",
         "2": "Então tomou Saul três mil homens, escolhidos dentre todo o Israel, e foi em busca de Davi e dos seus homens, até sobre os cumes das penhas das cabras montesas.",
         "3": "E chegou a uns currais de ovelhas no caminho, onde estava uma caverna; e entrou nela Saul, a cobrir seus pés; e Davi e os seus homens estavam nos fundos da caverna.",
         "4": "Então os homens de Davi lhe disseram: Eis aqui o dia, do qual o Senhor te diz: Eis que te dou o teu inimigo nas tuas mãos, e far-lhe-ás como te parecer bem aos teus olhos. E levantou-se Davi, e mansamente cortou a orla do manto de Saul.",

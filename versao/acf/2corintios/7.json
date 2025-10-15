@@ -1,9 +1,12 @@
 {
     "livro": "2 Coríntios",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "2": "Consolo em meio às aflições",
+        "5": "É Deus quem consola o abatido"
+    },
     "versiculos": {
-        "1": "Ora, amados, pois que temos tais promessas, purifiquemo-nos de toda a imundícia da carne e do espírito, aperfeiçoando a santificação no temor de Deus.",
+        "1": "ORA, amados, pois que temos tais promessas, purifiquemo-nos de toda a imundícia da carne e do espírito, aperfeiçoando a santificação no temor de Deus.",
         "2": "Recebei-nos em vossos corações; a ninguém agravamos, a ninguém corrompemos, de ninguém buscamos o nosso proveito.",
         "3": "Não digo isto para vossa condenação; pois já antes tinha dito que estais em nossos corações para juntamente morrer e viver.",
         "4": "Grande é a ousadia da minha fala para convosco, e grande a minha glória a respeito de vós; estou cheio de consolação; transbordo de gozo em todas as nossas tribulações.",

@@ -1,9 +1,11 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "A sabedoria é o dom mais excelente"
+    },
     "versiculos": {
-        "1": "Assim como as moscas mortas fazem exalar mau cheiro e inutilizar o unguento do perfumador, assim é, para o famoso em sabedoria e em honra, um pouco de estultícia.",
+        "1": "ASSIM como as moscas mortas fazem exalar mau cheiro e inutilizar o unguento do perfumador, assim é, para o famoso em sabedoria e em honra, um pouco de estultícia.",
         "2": "O coração do sábio está à sua direita, mas o coração do tolo está à sua esquerda.",
         "3": "E, até quando o tolo vai pelo caminho, falta-lhe o seu entendimento e diz a todos que é tolo.",
         "4": "Levantando-se contra ti o espírito do governador, não deixes o teu lugar, porque a submissão é um remédio que aplaca grandes ofensas.",

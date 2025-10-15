@@ -12,20 +12,20 @@
 /*                             - Navegação, carregamento e eventos da interface  */
 /*===============================================================================*/
 
-console.log("[slide_biblia_interface.js] Script iniciado.")                                    // Indica o início do módulo de interface da janela slide
+console.log("[slide_biblia_interface.js] Script iniciado.") // Indica o início do módulo de interface da janela slide
 
 // Este bloco cria a função que gera o HTML completo da janela slide.
 function gerarHtmlJanelaSlide(
-    livroAtual,
-    capituloAtual,
-    versiculoAtual,
-    versaoAtual,
-    todaContagemJSON,
-    livrosOrdemJSON,
-    livroAcentuadosParaSemAcentos,
-    livroAcentuado,
+  livroAtual,
+  capituloAtual,
+  versiculoAtual,
+  versaoAtual,
+  todaContagemJSON,
+  livrosOrdemJSON,
+  livroAcentuadosParaSemAcentos,
+  livroAcentuado,
 ) {
-    return `
+  return `
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -33,6 +33,7 @@ function gerarHtmlJanelaSlide(
     <meta charset="UTF-8">                                                                     <!-- Define a codificação de caracteres               -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">                     <!-- Configura a viewport para responsividade         -->
     <link rel="stylesheet" href="../css/slide_biblia.css">                                     <!-- Carrega o arquivo CSS de estilos                 -->
+    ${versaoAtual === "original" ? '<link rel="stylesheet" href="../css/versoes.css">' : ""}
 </head>
 <body>
     <div id="marcadagua"></div>                                                                <!-- Div para marca d'água (se houver)                -->
@@ -112,7 +113,15 @@ function gerarHtmlJanelaSlide(
             try {                                                                                                      // Inicia o bloco try-catch para tratamento de erros
                 const response = await fetch(caminho);                                                                 // Faz a requisição HTTP para carregar o arquivo
                 if (!response.ok) throw new Error(\`HTTP \${response.status} em \${caminho}\`);                        // Verifica se a resposta foi bem-sucedida
-                dadosCapitulo = isJsonFile ? await response.json() : new DOMParser().parseFromString(await response.text(), 'text/html');  // Processa o arquivo (JSON ou HTML)
+                
+                if (isJsonFile) {
+                    const jsonData = await response.json();
+                    // Para a versão original, o JSON é um array com um objeto
+                    dadosCapitulo = Array.isArray(jsonData) ? jsonData[0] : jsonData;
+                } else {
+                    dadosCapitulo = new DOMParser().parseFromString(await response.text(), 'text/html');
+                }
+                
                 console.log(\`Capítulo \${isJsonFile ? 'JSON' : 'HTML'} carregado.\`);                                 // Loga o sucesso do carregamento
                 carregarVersiculo(versiculoAtual);                                                                     // Carrega o versículo específico
             } catch (error) {                                                                                          // Captura qualquer erro que ocorra
@@ -125,40 +134,62 @@ function gerarHtmlJanelaSlide(
         // Este bloco cria a função que extrai e exibe um versículo específico do capítulo carregado
         function carregarVersiculo(versiculoNum) {
             console.log(\`Carregando \${livroAtual} \${capituloAtual}:\${versiculoNum}\`);                             // Loga qual versículo está sendo carregado
-            let conteudo = '', tituloSecao = '';                                                                       // Inicializa variáveis para conteúdo e título da seção
-            const livroAcentuado = obterNomeAcentuado(livroAtual);                                                     // Obtém o nome acentuado do livro
+            let conteudo = '', tituloSecao = '';
+            const livroAcentuado = obterNomeAcentuado(livroAtual);
 
-            if (!dadosCapitulo) {                                                                                      // Verifica se os dados do capítulo foram carregados
-                versiculoConteiner.innerHTML = '<div class="texto-versiculo fade-in" style="color:orange;">Dados não carregados.</div>'; // Exibe mensagem de erro
-                atualizarBotoes(); return;                                                                             // Atualiza os botões e retorna
+            if (!dadosCapitulo) {
+                versiculoConteiner.innerHTML = '<div class="texto-versiculo fade-in" style="color:orange;">Dados não carregados.</div>';
+                atualizarBotoes(); return;
             }
 
-            if (isJsonFile) {                                                                                          // Se for arquivo JSON
-                if (dadosCapitulo.versiculos && dadosCapitulo.versiculos[versiculoNum]) {                              // Verifica se o versículo existe no JSON
-                    conteudo = dadosCapitulo.versiculos[versiculoNum];                                                 // Obtém o conteúdo do versículo
-                    if (dadosCapitulo.titulos && dadosCapitulo.titulos[versiculoNum]) {                                // Verifica se existe título para o versículo
-                        tituloSecao = '<strong class="section-title">' + dadosCapitulo.titulos[versiculoNum] + '</strong>';      // Cria o título da seção
+            if (isJsonFile) {
+                if (dadosCapitulo.versiculos && dadosCapitulo.versiculos[versiculoNum]) {
+                    const versiculoData = dadosCapitulo.versiculos[versiculoNum];
+                    
+                    if (versaoBiblia === 'original' && typeof versiculoData === 'object' && versiculoData.traducao_completa) {
+                        // Renderiza a tradução completa
+                        conteudo = '<p class="traducao-completa">' + versiculoData.traducao_completa + '</p>';
+                        
+                        // Renderiza as palavras com hebraico, transliteração e tradução
+                        if (versiculoData.palavras && Array.isArray(versiculoData.palavras)) {
+                            conteudo += '<div class="palavras-container">';
+                            versiculoData.palavras.forEach(function(palavra) {
+                                conteudo += '<div class="word-detail-item">';
+                                conteudo += '<div class="hebrew">' + (palavra.hebraico || '') + '</div>';
+                                conteudo += '<div class="transliteration">' + (palavra.transliteracao || '') + '</div>';
+                                conteudo += '<div class="translation">' + (palavra.traducao_palavra || '') + '</div>';
+                                conteudo += '</div>';
+                            });
+                            conteudo += '</div>';
+                        }
+                    } else {
+                        // Para outras versões, usa o conteúdo direto
+                        conteudo = versiculoData;
                     }
-                } else conteudo = 'Versículo não encontrado (JSON).';                                                  // Mensagem se o versículo não for encontrado
-            } else {                                                                                                   // Se for arquivo HTML
-                const el = dadosCapitulo.querySelector('#versiculo-' + versiculoNum);                                  // Procura o elemento do versículo no HTML
-                if (el) {                                                                                              // Se o elemento foi encontrado
-                    const strongChild = Array.from(el.children).find(c => c.tagName === 'STRONG');                     // Procura por elemento STRONG filho
-                    if (strongChild && el.textContent.trim().startsWith(strongChild.textContent.trim())) {             // Verifica se o STRONG é o início do texto
-                        tituloSecao = '<strong class="section-title">' + strongChild.innerHTML + '</strong>';          // Cria o título da seção
-                        let temp = document.createElement('div'); temp.innerHTML = el.innerHTML;                       // Cria elemento temporário para manipular o HTML
-                        let firstStrong = temp.querySelector('strong');                                                // Procura o primeiro STRONG no elemento temporário
-                        if (firstStrong && temp.innerHTML.trim().startsWith(firstStrong.outerHTML.trim())) firstStrong.remove(); // Remove o STRONG se for o início
-                        conteudo = temp.innerHTML.trim();                                                              // Obtém o conteúdo sem o título
-                    } else conteudo = el.innerHTML.trim();                                                             // Se não houver STRONG no início, usa todo o HTML
-                    if (!conteudo && el.textContent) conteudo = el.textContent.trim();                                 // Se não houver HTML, usa o texto puro
-                } else conteudo = 'Versículo não encontrado (HTML).';                                                  // Mensagem se o versículo não for encontrado
+                    
+                    if (dadosCapitulo.titulos && dadosCapitulo.titulos[versiculoNum]) {
+                        tituloSecao = '<strong class="section-title">' + dadosCapitulo.titulos[versiculoNum] + '</strong>';
+                    }
+                } else conteudo = 'Versículo não encontrado (JSON).';
+            } else {
+                const el = dadosCapitulo.querySelector('#versiculo-' + versiculoNum);
+                if (el) {
+                    const strongChild = Array.from(el.children).find(c => c.tagName === 'STRONG');
+                    if (strongChild && el.textContent.trim().startsWith(strongChild.textContent.trim())) {
+                        tituloSecao = '<strong class="section-title">' + strongChild.innerHTML + '</strong>';
+                        let temp = document.createElement('div'); temp.innerHTML = el.innerHTML;
+                        let firstStrong = temp.querySelector('strong');
+                        if (firstStrong && temp.innerHTML.trim().startsWith(firstStrong.outerHTML.trim())) firstStrong.remove();
+                        conteudo = temp.innerHTML.trim();
+                    } else conteudo = el.innerHTML.trim();
+                    if (!conteudo && el.textContent) conteudo = el.textContent.trim();
+                } else conteudo = 'Versículo não encontrado (HTML).';
             }
 
-            tituloElement.innerText = \`\${livroAcentuado.toUpperCase()} \${capituloAtual}:\${versiculoNum}\`;         // Atualiza o título com o versículo atual
-            versiculoConteiner.innerHTML = (tituloSecao || '') + '<div class="texto-versiculo">' + conteudo + '</div>';// Exibe o título da seção e o conteúdo do versículo
-            atualizarBotoes();                                                                                         // Atualiza o estado dos botões de navegação
-            document.body.classList.add('loaded');                                                                     // Mostra o conteúdo quando estiver pronto
+            tituloElement.innerText = \`\${livroAcentuado.toUpperCase()} \${capituloAtual}:\${versiculoNum}\`;
+            versiculoConteiner.innerHTML = (tituloSecao || '') + '<div class="texto-versiculo">' + conteudo + '</div>';
+            atualizarBotoes();
+            document.body.classList.add('loaded');
         }
 
         // Este bloco cria a função que habilita/desabilita os botões de navegação
@@ -260,10 +291,10 @@ function gerarHtmlJanelaSlide(
 
 // Este bloco cria função que escreve o HTML na janela do slide.
 function escreverHtmlNaJanela(janela, html) {
-    janela.document.open()                                                                  // Abre o documento da janela para escrita
-    janela.document.write(html)                                                             // Escreve o HTML na janela
-    janela.document.close()                                                                 // Fecha o documento da janela
-    console.log("[slide_biblia_interface.js] Conteúdo escrito na janela do slide.")         // Loga o sucesso da operação
+  janela.document.open() // Abre o documento da janela para escrita
+  janela.document.write(html) // Escreve o HTML na janela
+  janela.document.close() // Fecha o documento da janela
+  console.log("[slide_biblia_interface.js] Conteúdo escrito na janela do slide.") // Loga o sucesso da operação
 }
 
 /*===============================================================================*/

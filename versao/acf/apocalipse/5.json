@@ -1,9 +1,11 @@
 {
     "livro": "Apocalipse",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "A visão do livro do Cordeiro"
+    },
     "versiculos": {
-        "1": "E vi na destra do que estava assentado sobre o trono um livro escrito por dentro e por fora, selado com sete selos.",
+        "1": "E VI na destra do que estava assentado sobre o trono um livro escrito por dentro e por fora, selado com sete selos.",
         "2": "E vi um anjo forte, bradando com grande voz: Quem é digno de abrir o livro e de desatar os seus selos?",
         "3": "E ninguém no céu, nem na terra, nem debaixo da terra, podia abrir o livro, nem olhar para ele.",
         "4": "E eu chorava muito, porque ninguém fora achado digno de abrir o livro, nem de o ler, nem de olhar para ele.",

@@ -1,9 +1,15 @@
 {
     "livro": "Números",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "Leis sobre sacerdotes e ofertas",
+        "17": "As primícias do pão",
+        "22": "Perdão às faltas involuntárias",
+        "32": "O desrespeito ao shabbãth",
+        "37": "Os pingentes das capas"
+    },
     "versiculos": {
-        "1": "Depois falou o Senhor a Moisés, dizendo:",
+        "1": "DEPOIS falou o Senhor a Moisés, dizendo:",
         "2": "Fala aos filhos de Israel, e dize-lhes: Quando entrardes na terra das vossas habitações, que eu vos hei de dar,",
         "3": "E ao Senhor fizerdes oferta queimada, holocausto, ou sacrifício, para cumprir um voto, ou em oferta voluntária, ou nas vossas solenidades, para fazerdes ao Senhor um cheiro suave de ovelhas ou gado,",
         "4": "Então aquele que apresentar a sua oferta ao Senhor, por oferta de alimentos trará uma décima de flor de farinha misturada com a quarta parte de um him de azeite.",

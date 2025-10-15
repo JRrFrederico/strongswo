@@ -1,9 +1,11 @@
 {
     "livro": "Gênesis",
     "capitulo": 33,
-    "titulos": {},
+    "titulos": {
+        "1": "Esaú corre ao encontro de Jacó"
+    },
     "versiculos": {
-        "1": "E levantou Jacó os seus olhos, e olhou, e eis que vinha Esaú, e quatrocentos homens com ele. Então repartiu os filhos entre Lia, e Raquel, e as duas servas.",
+        "1": "E LEVANTOU Jacó os seus olhos, e olhou, e eis que vinha Esaú, e quatrocentos homens com ele. Então repartiu os filhos entre Lia, e Raquel, e as duas servas.",
         "2": "E pôs as servas e seus filhos na frente, e a Lia e seus filhos atrás; porém a Raquel e José os derradeiros.",
         "3": "E ele mesmo passou adiante deles e inclinou-se à terra sete vezes, até que chegou a seu irmão.",
         "4": "Então Esaú correu-lhe ao encontro, e abraçou-o, e lançou-se sobre o seu pescoço, e beijou-o; e choraram.",

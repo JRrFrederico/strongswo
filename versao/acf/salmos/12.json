@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "O mundo falso"
+    },
     "versiculos": {
-        "1": "Salva-nos, Senhor, porque faltam os homens bons; porque são poucos os fiéis entre os filhos dos homens.",
+        "1": "SALVA-NOS, Senhor, porque faltam os homens bons; porque são poucos os fiéis entre os filhos dos homens.",
         "2": "Cada um fala com falsidade ao seu próximo; falam com lábios lisonjeiros e coração dobrado.",
         "3": "O Senhor cortará todos os lábios lisonjeiros e a língua que fala soberbamente.",
         "4": "Pois dizem: Com a nossa língua prevaleceremos; são nossos os lábios; quem é senhor sobre nós?",

@@ -1,9 +1,13 @@
 {
     "livro": "Gálatas",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "A fé em Cristo supera a Lei",
+        "15": "A Lei e a graça da Promessa",
+        "26": "Filhos de Deus mediante Cristo"
+    },
     "versiculos": {
-        "1": "Ó insensatos gálatas! Quem vos fascinou para não obedecerdes à verdade, a vós, perante os olhos de quem Jesus Cristo foi evidenciado, crucificado, entre vós?",
+        "1": "Ó INSENSATOS gálatas! Quem vos fascinou para não obedecerdes à verdade, a vós, perante os olhos de quem Jesus Cristo foi evidenciado, crucificado, entre vós?",
         "2": "Só quisera saber isto de vós: recebestes o Espírito pelas obras da lei ou pela pregação da fé?",
         "3": "Sois vós tão insensatos que, tendo começado pelo Espírito, acabeis agora pela carne?",
         "4": "Será em vão que tenhais padecido tanto? Se é que isso também foi em vão.",

@@ -1,9 +1,12 @@
 {
     "livro": "Tito",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "5": "A missão de Tito em Creta"
+    },
     "versiculos": {
-        "1": "Paulo, servo de Deus, e apóstolo de Jesus Cristo, segundo a fé dos eleitos de Deus, e o conhecimento da verdade, que é segundo a piedade,",
+        "1": "PAULO, servo de Deus, e apóstolo de Jesus Cristo, segundo a fé dos eleitos de Deus, e o conhecimento da verdade, que é segundo a piedade,",
         "2": "Em esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos tempos dos séculos;",
         "3": "Mas a seu tempo manifestou a sua palavra pela pregação que me foi confiada segundo o mandamento de Deus, nosso Salvador;",
         "4": "A Tito, meu verdadeiro filho, segundo a fé comum: Graça, misericórdia, e paz da parte de Deus Pai, e da do Senhor Jesus Cristo, nosso Salvador.",

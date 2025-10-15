@@ -1,9 +1,11 @@
 {
     "livro": "Êxodo",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus provê maná e codornas"
+    },
     "versiculos": {
-        "1": "E partindo de Elim, toda a congregação dos filhos de Israel veio ao deserto de Sim, que está entre Elim e Sinai, aos quinze dias do mês segundo, depois de sua saída da terra do Egito.",
+        "1": "E PARTINDO de Elim, toda a congregação dos filhos de Israel veio ao deserto de Sim, que está entre Elim e Sinai, aos quinze dias do mês segundo, depois de sua saída da terra do Egito.",
         "2": "E toda a congregação dos filhos de Israel murmurou contra Moisés e contra Arão no deserto.",
         "3": "E os filhos de Israel disseram-lhes: Quem dera tivéssemos morrido por mão do Senhor na terra do Egito, quando estávamos sentados junto às panelas de carne, quando comíamos pão até fartar! Porque nos tendes trazido a este deserto, para matardes de fome a toda esta multidão.",
         "4": "Então disse o Senhor a Moisés: Eis que vos farei chover pão dos céus, e o povo sairá, e colherá diariamente a porção para cada dia, para que eu o prove se anda em minha lei ou não.",

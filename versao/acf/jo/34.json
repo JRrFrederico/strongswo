@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 34,
-    "titulos": {},
+    "titulos": {
+        "1": "Eliú acusa Jó de blasfemar"
+    },
     "versiculos": {
-        "1": "Respondeu mais Eliú, dizendo:",
+        "1": "RESPONDEU mais Eliú, dizendo:",
         "2": "Ouvi, vós, sábios, as minhas razões; e vós, entendidos, inclinai os ouvidos para mim.",
         "3": "Porque o ouvido prova as palavras, como o paladar experimenta a comida.",
         "4": "O que é direito escolhamos para nós; e conheçamos entre nós o que é bom.",

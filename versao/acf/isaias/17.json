@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "Oráculo contra Damasco"
+    },
     "versiculos": {
-        "1": "Peso de Damasco. Eis que Damasco será tirada, e já não será cidade, antes será um montão de ruínas.",
+        "1": "PESO de Damasco. Eis que Damasco será tirada, e já não será cidade, antes será um montão de ruínas.",
         "2": "As cidades de Aroer serão abandonadas; hão de ser para os rebanhos que se deitarão sem que alguém os espante.",
         "3": "E a fortaleza de Efraim cessará, como também o reino de Damasco e o restante da Síria; serão como a glória dos filhos de Israel, diz o Senhor dos Exércitos.",
         "4": "E naquele dia será diminuída a glória de Jacó, e a gordura da sua carne ficará emagrecida.",

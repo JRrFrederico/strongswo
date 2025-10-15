@@ -1,9 +1,11 @@
 {
     "livro": "Ezequiel",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "A parábola das duas irmãs iníquas"
+    },
     "versiculos": {
-        "1": "Veio mais a mim a palavra do Senhor, dizendo:",
+        "1": "VEIO mais a mim a palavra do Senhor, dizendo:",
         "2": "Filho do homem, houve duas mulheres, filhas de uma mesma mãe.",
         "3": "Estas se prostituíram no Egito; prostituíram-se na sua mocidade; ali foram apertados os seus seios, e ali foram apalpados os seios da sua virgindade.",
         "4": "E os seus nomes eram: Aolá, a mais velha, e Aolibá, sua irmã; e foram minhas, e tiveram filhos e filhas; e, quanto aos seus nomes, Samaria é Aolá, e Jerusalém é Aolibá.",

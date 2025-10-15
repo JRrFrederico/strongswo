@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Bildade repreende Jó"
+    },
     "versiculos": {
-        "1": "Então respondendo Bildade o suíta, disse:",
+        "1": "ENTÃO respondendo Bildade o suíta, disse:",
         "2": "Até quando falarás tais coisas, e as palavras da tua boca serão como um vento impetuoso?",
         "3": "Porventura perverteria Deus o direito? E perverteria o Todo-Poderoso a justiça?",
         "4": "Se teus filhos pecaram contra ele, também ele os lançou na mão da sua transgressão.",

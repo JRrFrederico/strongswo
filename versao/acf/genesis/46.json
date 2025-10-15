@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 46,
-    "titulos": {},
+    "titulos": {
+        "1": "Israel emigra para o Egito",
+        "28": "A recepção de José aos seus"
+    },
     "versiculos": {
-        "1": "E partiu Israel com tudo quanto tinha, e veio a Berseba, e ofereceu sacrifícios ao Deus de seu pai Isaque.",
+        "1": "E PARTIU Israel com tudo quanto tinha, e veio a Berseba, e ofereceu sacrifícios ao Deus de seu pai Isaque.",
         "2": "E falou Deus a Israel em visões de noite, e disse: Jacó, Jacó! E ele disse: Eis-me aqui.",
         "3": "E disse: Eu sou Deus, o Deus de teu pai; não temas descer ao Egito, porque eu te farei ali uma grande nação.",
         "4": "E descerei contigo ao Egito, e certamente te farei tornar a subir, e José porá a sua mão sobre os teus olhos.",

@@ -1,9 +1,13 @@
 {
     "livro": "1 Tessalonicenses",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "A verdadeira pregação da Palavra",
+        "13": "A Igreja deve acatar a Palavra",
+        "17": "O amor de Paulo pelos discípulos"
+    },
     "versiculos": {
-        "1": "Porque vós mesmos, irmãos, bem sabeis que a nossa entrada para convosco não foi vã;",
+        "1": "PORQUE vós mesmos, irmãos, bem sabeis que a nossa entrada para convosco não foi vã;",
         "2": "Mas, mesmo depois de termos antes padecido, e sido insultados em Filipos, como sabeis, tornamo-nos ousados em nosso Deus, para vos falar o evangelho de Deus com grande combate.",
         "3": "Porque a nossa exortação não foi com engano, nem com imundícia, nem com fraudulência;",
         "4": "Mas, como fomos aprovados de Deus para que o evangelho nos fosse confiado, assim falamos, não como para agradar aos homens, mas a Deus, que prova os nossos corações.",

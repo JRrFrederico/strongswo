@@ -1,9 +1,16 @@
 {
     "livro": "Jeremias",
     "capitulo": 49,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecia acerca de Amom",
+        "7": "Profecia acerca de Edom",
+        "14": "Os pecados e o castigo de Edom",
+        "23": "Profecia acerca de Damasco",
+        "28": "Profecia acerca de Quedar e Hazor",
+        "34": "Profecia acerca de Elão"
+    },
     "versiculos": {
-        "1": "Contra os filhos de Amom. Assim diz o Senhor: Acaso Israel não tem filhos, nem tem herdeiro? Por que, pois, herdou o rei deles a Gade e o seu povo habitou nas suas cidades?",
+        "1": "CONTRA os filhos de Amom. Assim diz o Senhor: Acaso Israel não tem filhos, nem tem herdeiro? Por que, pois, herdou o rei deles a Gade e o seu povo habitou nas suas cidades?",
         "2": "Portanto, eis que vêm dias, diz o Senhor, em que farei ouvir em Rabá dos filhos de Amom o alarido de guerra, e tornar-se-á num montão de ruínas, e os lugares da sua jurisdição serão queimados a fogo; e Israel herdará aos que o herdaram, diz o Senhor.",
         "3": "Lamenta, ó Hesbom, porque é destruída Ai; clamai, ó filhas de Rabá, cingi-vos de sacos, lamentai, e dai voltas pelos valados; porque o rei deles irá em cativeiro, juntamente com seus sacerdotes e os seus príncipes.",
         "4": "Por que te glorias nos vales, teus luxuriantes vales, ó filha rebelde, que confias nos teus tesouros, dizendo: Quem virá contra mim?",
@@ -29,7 +36,7 @@
         "24": "Enfraquecida está Damasco; virou as costas para fugir, e o tremor a tomou; angústia e dores a tomaram como da que está de parto.",
         "25": "Como está abandonada a cidade do louvor, a cidade da minha alegria!",
         "26": "Portanto cairão os seus jovens nas suas ruas; e todos os homens de guerra serão consumidos naquele dia, diz o Senhor dos Exércitos.",
-        "27": "E acenderei fogo no muro de Damasco, e consumirá os palácios de Ben-Hadade.",
+        "27": "E acenderei fogo no muro de Damasco, e consumirá os palácios de Bene-Hadade.",
         "28": "Acerca de Quedar, e dos reinos de Hazor, que Nabucodonosor, rei de Babilônia, feriu. Assim diz o Senhor: Levantai-vos, subi contra Quedar, e destruí os filhos do oriente.",
         "29": "Tomarão as suas tendas, os seus gados, as suas cortinas e todos os seus utensílios, e os seus camelos levarão para si; e lhes clamarão: Há medo por todos os lados.",
         "30": "Fugi, desviai-vos para muito longe, buscai profundezas para habitar, ó moradores de Hazor, diz o Senhor; porque Nabucodonosor, rei de Babilônia, tomou conselho contra vós, e formou um desígnio contra vós.",

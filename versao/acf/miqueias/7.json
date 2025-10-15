@@ -1,9 +1,13 @@
 {
-    "livro": "Miquéias",
+    "livro": "Miqueias",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "O juízo sobre a corrupção de Israel",
+        "8": "O ressurgimento de Israel",
+        "14": "Oração pela misericórdia de Deus"
+    },
     "versiculos": {
-        "1": "Ai de mim! Porque estou feito como as colheitas de frutas do verão, como os rabiscos da vindima; não há cacho de uvas para comer, nem figos temporãos que a minha alma deseja.",
+        "1": "AI de mim! Porque estou feito como as colheitas de frutas do verão, como os rabiscos da vindima; não há cacho de uvas para comer, nem figos temporãos que a minha alma deseja.",
         "2": "Já pereceu da terra o homem piedoso, e não há entre os homens um que seja justo; todos armam ciladas para sangue; cada um caça a seu irmão com a rede,",
         "3": "As suas mãos fazem diligentemente o mal; assim demanda o príncipe, e o juiz julga pela recompensa, e o grande fala da corrupção da sua alma, e assim todos eles tecem o mal.",
         "4": "O melhor deles é como um espinho; o mais reto é pior do que a sebe de espinhos; veio o dia dos teus vigias, veio o dia da tua punição; agora será a sua confusão.",

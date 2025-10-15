@@ -1,9 +1,11 @@
 {
     "livro": "Gênesis",
     "capitulo": 38,
-    "titulos": {},
+    "titulos": {
+        "1": "A história de Judá e Tamar"
+    },
     "versiculos": {
-        "1": "E aconteceu no mesmo tempo que Judá desceu de entre seus irmãos e entrou na casa de um homem de Adulão, cujo nome era Hira,",
+        "1": "E ACONTECEU no mesmo tempo que Judá desceu de entre seus irmãos e entrou na casa de um homem de Adulão, cujo nome era Hira,",
         "2": "E viu Judá ali a filha de um homem cananeu, cujo nome era Sua; e tomou-a por mulher, e a possuiu.",
         "3": "E ela concebeu e deu à luz um filho, e chamou o seu nome Er.",
         "4": "E tornou a conceber e deu à luz um filho, e ela chamou o seu nome Onã.",

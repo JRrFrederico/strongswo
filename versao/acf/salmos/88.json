@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 88,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração em dias de grande aflição"
+    },
     "versiculos": {
         "1": "Senhor Deus da minha salvação, diante de ti tenho clamado de dia e de noite.",
         "2": "Chegue a minha oração perante a tua face, inclina os teus ouvidos ao meu clamor;",

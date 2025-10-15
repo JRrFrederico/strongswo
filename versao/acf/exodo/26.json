@@ -1,9 +1,13 @@
 {
     "livro": "Êxodo",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "O Tabernáculo: a Tenda de Deus",
+        "14": "A coberta de peles e as Tábuas",
+        "31": "O véu que separa o Santíssimo"
+    },
     "versiculos": {
-        "1": "E o tabernáculo farás de dez cortinas de linho fino torcido, e azul, púrpura, e carmesim; com querubins as farás de obra esmerada.",
+        "1": "E O TABERNÁCULO farás de dez cortinas de linho fino torcido, e azul, púrpura, e carmesim; com querubins as farás de obra esmerada.",
         "2": "O comprimento de uma cortina será de vinte e oito côvados, e a largura de uma cortina de quatro côvados; todas estas cortinas serão de uma medida.",
         "3": "Cinco cortinas se enlaçarão uma à outra; e as outras cinco cortinas se enlaçarão uma com a outra.",
         "4": "E farás laçadas de azul na orla de uma cortina, na extremidade, e na juntura; assim também farás na orla da extremidade da outra cortina, na segunda juntura.",

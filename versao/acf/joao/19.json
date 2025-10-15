@@ -1,9 +1,17 @@
 {
     "livro": "João",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus é humilhado e espancado",
+        "5": "Pilatos cede ao clamor dos judeus",
+        "17": "A crucificação de Cristo",
+        "25": "A mãe e os amigos junto à cruz",
+        "28": "Está tudo consumado",
+        "31": "Jesus foi traspassado",
+        "38": "Jesus é sepultado"
+    },
     "versiculos": {
-        "1": "Pilatos, pois, tomou então a Jesus, e o açoitou.",
+        "1": "PILATOS, pois, tomou então a Jesus, e o açoitou.",
         "2": "E os soldados, tecendo uma coroa de espinhos, lha puseram sobre a cabeça, e lhe vestiram roupa de púrpura.",
         "3": "E diziam: Salve, Rei dos Judeus. E davam-lhe bofetadas.",
         "4": "Então Pilatos saiu outra vez fora, e disse-lhes: Eis aqui vo-lo trago fora, para que saibais que não acho nele crime algum.",
@@ -26,7 +34,7 @@
         "21": "Diziam, pois, os principais sacerdotes dos judeus a Pilatos: Não escrevas, O Rei dos Judeus, mas que ele disse: Sou o Rei dos Judeus.",
         "22": "Respondeu Pilatos: O que escrevi, escrevi.",
         "23": "Tendo, pois, os soldados crucificado a Jesus, tomaram as suas vestes, e fizeram quatro partes, para cada soldado uma parte; e também a túnica. A túnica, porém, tecida toda de alto a baixo, não tinha costura.",
-        "24": "Disseram, pois, uns aos outros: Não a rasguemos, mas lancemos sortes sobre ela, para ver de quem será. Para que se cumprisse a Escritura que diz: Repartiram entre si as minhas vestes, e sobre a minha vestidura lançaram sortes. Os soldados, pois, fizeram estas coisas.",
+        "24": "Disseram, pois, uns aos outros: Não a rasguemos, mas lancemos sortes sobre ela, para ver de quem será. Para que se cumprisse a Escritura que diz: Repartiram entre si as  minhas vestes, e sobre a minha vestidura lançaram sortes. Os soldados, pois, fizeram estas coisas.",
         "25": "E junto à cruz de Jesus estava sua mãe, e a irmã de sua mãe, Maria mulher de Clopas, e Maria Madalena.",
         "26": "Ora Jesus, vendo ali sua mãe, e que o discípulo a quem ele amava estava presente, disse a sua mãe: Mulher, eis aí o teu filho.",
         "27": "Depois disse ao discípulo: Eis aí tua mãe. E desde aquela hora o discípulo a recebeu em sua casa.",

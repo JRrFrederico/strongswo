@@ -1,9 +1,13 @@
 {
     "livro": "Gênesis",
     "capitulo": 50,
-    "titulos": {},
+    "titulos": {
+        "1": "Os funerais de Jacó",
+        "15": "A exemplar misericórdia de José",
+        "22": "A morte de José"
+    },
     "versiculos": {
-        "1": "Então José se lançou sobre o rosto de seu pai e chorou sobre ele, e o beijou.",
+        "1": "ENTÃO José se lançou sobre o rosto de seu pai e chorou sobre ele, e o beijou.",
         "2": "E José ordenou aos seus servos, os médicos, que embalsamassem a seu pai; e os médicos embalsamaram a Israel.",
         "3": "E cumpriram-se-lhe quarenta dias; porque assim se cumprem os dias daqueles que se embalsamam; e os egípcios o choraram setenta dias.",
         "4": "Passados, pois, os dias de seu choro, falou José à casa de Faraó, dizendo: Se agora tenho achado graça aos vossos olhos, rogo-vos que faleis aos ouvidos de Faraó, dizendo:",

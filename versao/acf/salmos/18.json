@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus soberano salvador"
+    },
     "versiculos": {
-        "1": "Eu te amarei, ó Senhor, fortaleza minha.",
+        "1": "EU te amarei, ó Senhor, fortaleza minha.",
         "2": "O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação, e o meu alto refúgio.",
         "3": "Invocarei o nome do Senhor, que é digno de louvor, e ficarei livre dos meus inimigos.",
         "4": "Tristezas de morte me cercaram, e torrentes de impiedade me assombraram.",

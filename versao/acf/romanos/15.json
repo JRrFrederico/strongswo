@@ -1,9 +1,13 @@
 {
     "livro": "Romanos",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "Devemos viver em concórdia",
+        "14": "Paulo, apóstolo para os gentios",
+        "23": "Paulo quer ver os irmãos em Roma"
+    },
     "versiculos": {
-        "1": "Mas nós, que somos fortes, devemos suportar as fraquezas dos fracos, e não agradar a nós mesmos.",
+        "1": "MAS nós, que somos fortes, devemos suportar as fraquezas dos fracos, e não agradar a nós mesmos.",
         "2": "Portanto cada um de nós agrade ao seu próximo no que é bom para edificação.",
         "3": "Porque também Cristo não agradou a si mesmo, mas, como está escrito: Sobre mim caíram as injúrias dos que te injuriavam.",
         "4": "Porque tudo o que dantes foi escrito, para nosso ensino foi escrito, para que pela paciência e consolação das Escrituras tenhamos esperança.",

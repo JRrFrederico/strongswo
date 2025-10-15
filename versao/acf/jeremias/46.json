@@ -1,9 +1,13 @@
 {
     "livro": "Jeremias",
     "capitulo": 46,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecia acerca do Egito",
+        "13": "A invasão e a tomada do Egito",
+        "27": "Palavra de consolo a Israel"
+    },
     "versiculos": {
-        "1": "A palavra do Senhor, que veio a Jeremias, o profeta, contra os gentios,",
+        "1": "A PALAVRA do Senhor, que veio a Jeremias, o profeta, contra os gentios,",
         "2": "Acerca do Egito, contra o exército de Faraó-Neco, rei do Egito, que estava junto ao rio Eufrates em Carquemis, ao qual feriu Nabucodonosor, rei de Babilônia, no ano quarto de Jeoiaquim, filho de Josias, rei de Judá.",
         "3": "Preparai o escudo e o pavês, e chegai-vos para a peleja.",
         "4": "Selai os cavalos e montai, cavaleiros, e apresentai-vos com elmos; limpai as lanças, vesti-vos de couraças.",

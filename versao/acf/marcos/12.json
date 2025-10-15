@@ -1,9 +1,17 @@
 {
     "livro": "Marcos",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Parábola dos vinicultores maus",
+        "13": "Adorar a Deus e honrar o Estado",
+        "18": "A ressurreição de todos os mortos",
+        "28": "O principal dos mandamentos",
+        "35": "Cristo é o Senhor de Davi",
+        "38": "Jesus condena os escribas",
+        "41": "A valiosa oferta da viúva pobre"
+    },
     "versiculos": {
-        "1": "E começou a falar-lhes por parábolas: Um homem plantou uma vinha, e cercou-a de um valado, e fundou nela um lagar, e edificou uma torre, e arrendou-a a uns lavradores, e partiu para fora da terra.",
+        "1": "E COMEÇOU a falar-lhes por parábolas: Um homem plantou uma vinha, e cercou-a de um valado, e fundou nela um lagar, e edificou uma torre, e arrendou-a a uns lavradores, e partiu para fora da terra.",
         "2": "E, chegado o tempo, mandou um servo aos lavradores para que recebesse, dos lavradores, do fruto da vinha.",
         "3": "Mas estes, apoderando-se dele, o feriram e o mandaram embora vazio.",
         "4": "E tornou a enviar-lhes outro servo; e eles, apedrejando-o, o feriram na cabeça, e o mandaram embora, tendo-o afrontado.",

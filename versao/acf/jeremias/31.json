@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus ama e restaurará Israel",
+        "31": "A promessa de uma nova Ali"
+    },
     "versiculos": {
-        "1": "Naquele tempo, diz o Senhor, serei o Deus de todas as famílias de Israel, e elas serão o meu povo.",
+        "1": "NAQUELE tempo, diz o Senhor, serei o Deus de todas as famílias de Israel, e elas serão o meu povo.",
         "2": "Assim diz o Senhor: O povo dos que escaparam da espada achou graça no deserto. Israel mesmo, quando eu o fizer descansar.",
         "3": "Há muito que o Senhor me apareceu, dizendo: Porquanto com amor eterno te amei, por isso com benignidade te atraí.",
         "4": "Ainda te edificarei, e serás edificada, ó virgem de Israel! Ainda serás adornada com os teus tamboris, e sairás nas danças dos que se alegram.",

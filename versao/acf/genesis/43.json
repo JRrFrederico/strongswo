@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 43,
-    "titulos": {},
+    "titulos": {
+        "1": "O retorno ao Egito",
+        "15": "E os sonhos de José se cumprem"
+    },
     "versiculos": {
-        "1": "E a fome era gravíssima na terra.",
+        "1": "E A FOME era gravíssima na terra.",
         "2": "E aconteceu que, como acabaram de comer o mantimento que trouxeram do Egito, disse-lhes seu pai: Voltai, comprai-nos um pouco de alimento.",
         "3": "Mas Judá respondeu-lhe, dizendo: Fortemente nos protestou aquele homem, dizendo: Não vereis a minha face, se o vosso irmão não vier convosco.",
         "4": "Se enviares conosco o nosso irmão, desceremos e te compraremos alimento;",

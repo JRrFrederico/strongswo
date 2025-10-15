@@ -1,9 +1,13 @@
 {
     "livro": "João",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "O primeiro milagre de Jesus",
+        "13": "Jesus purifica o templo",
+        "23": "Jesus conhece a índole humana"
+    },
     "versiculos": {
-        "1": "E, ao terceiro dia, fizeram-se umas bodas em Caná da Galileia; e estava ali a mãe de Jesus.",
+        "1": "E, AO terceiro dia, fizeram-se umas bodas em Caná da Galileia; e estava ali a mãe de Jesus.",
         "2": "E foi também convidado Jesus e os seus discípulos para as bodas.",
         "3": "E, faltando vinho, a mãe de Jesus lhe disse: Não têm vinho.",
         "4": "Disse-lhe Jesus: Mulher, que tenho eu contigo? Ainda não é chegada a minha hora.",

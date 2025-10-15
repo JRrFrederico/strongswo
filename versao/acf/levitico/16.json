@@ -1,9 +1,12 @@
 {
     "livro": "Levítico",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "O grande dia do Perdão",
+        "29": "A comemoração do Dia do Perdão"
+    },
     "versiculos": {
-        "1": "E falou o Senhor a Moisés, depois da morte dos dois filhos de Arão, que morreram quando se chegaram diante do Senhor.",
+        "1": "E FALOU o Senhor a Moisés, depois da morte dos dois filhos de Arão, que morreram quando se chegaram diante do Senhor.",
         "2": "Disse, pois, o Senhor a Moisés: Dize a Arão, teu irmão, que não entre no santuário em todo o tempo, para dentro do véu, diante do propiciatório que está sobre a arca, para que não morra; porque eu aparecerei na nuvem sobre o propiciatório.",
         "3": "Com isto Arão entrará no santuário: com um novilho, para expiação do pecado, e um carneiro para holocausto.",
         "4": "Vestirá ele a túnica santa de linho, e terá ceroulas de linho sobre a sua carne, e cingir-se-á com um cinto de linho, e se cobrirá com uma mitra de linho; estas são vestes santas; por isso banhará a sua carne na água, e as vestirá.",

@@ -1,9 +1,11 @@
 {
     "livro": "Levítico",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "Castigos para diversos pecados"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés, dizendo:",
         "2": "Também dirás aos filhos de Israel: Qualquer que, dos filhos de Israel, ou dos estrangeiros que peregrinam em Israel, der da sua descendência a Moloque, certamente morrerá; o povo da terra o apedrejará.",
         "3": "E eu porei a minha face contra esse homem, e o extirparei do meio do seu povo, porquanto deu da sua descendência a Moloque, para contaminar o meu santuário e profanar o meu santo nome.",
         "4": "E, se o povo da terra de alguma maneira esconder os seus olhos daquele homem, quando der da sua descendência a Moloque, para não o matar,",

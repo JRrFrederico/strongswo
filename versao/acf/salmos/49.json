@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 49,
-    "titulos": {},
+    "titulos": {
+        "1": "O engano das riquezas"
+    },
     "versiculos": {
-        "1": "Ouvi isto, vós todos os povos; inclinai os ouvidos, todos os moradores do mundo,",
+        "1": "OUVI isto, vós todos os povos; inclinai os ouvidos, todos os moradores do mundo,",
         "2": "Tanto baixos como altos, tanto ricos como pobres.",
         "3": "A minha boca falará de sabedoria, e a meditação do meu coração será de entendimento.",
         "4": "Inclinarei os meus ouvidos a uma parábola; declararei o meu enigma na harpa.",

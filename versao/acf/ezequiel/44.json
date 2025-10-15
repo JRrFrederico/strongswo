@@ -1,9 +1,13 @@
 {
     "livro": "Ezequiel",
     "capitulo": 44,
-    "titulos": {},
+    "titulos": {
+        "1": "Novo ministério da Casa de Deus",
+        "15": "O ministério dos filhos de Zadoque",
+        "28": "A herança destinada aos sacerdotes"
+    },
     "versiculos": {
-        "1": "Então me fez voltar para o caminho da porta exterior do santuário, que olha para o oriente, a qual estava fechada.",
+        "1": "ENTÃO me fez voltar para o caminho da porta exterior do santuário, que olha para o oriente, a qual estava fechada.",
         "2": "E disse-me o Senhor: Esta porta permanecerá fechada, não se abrirá; ninguém entrará por ela, porque o Senhor, o Deus de Israel entrou por ela; por isso permanecerá fechada.",
         "3": "Quanto ao príncipe, por ser príncipe, se assentará nela para sempre, para comer o pão diante do Senhor; pelo caminho do vestíbulo da porta entrará e por esse mesmo caminho sairá.",
         "4": "Depois me levou pelo caminho da porta do norte, diante da casa; e olhei, e eis que a glória do Senhor encheu a casa do Senhor; então caí sobre o meu rosto.",

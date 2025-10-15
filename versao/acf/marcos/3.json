@@ -1,9 +1,15 @@
 {
     "livro": "Marcos",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus cura as deformidades",
+        "7": "Jesus cura multidões na praia",
+        "13": "Jesus convoca os Doze",
+        "20": "O pecado sem perdão",
+        "31": "Jesus, sua mãe e seus irmãos"
+    },
     "versiculos": {
-        "1": "E outra vez entrou na sinagoga, e estava ali um homem que tinha uma das mãos mirrada.",
+        "1": "E OUTRA vez entrou na sinagoga, e estava ali um homem que tinha uma das mãos mirrada.",
         "2": "E estavam observando-o se curaria no sábado, para o acusarem.",
         "3": "E disse ao homem que tinha a mão mirrada: Levanta-te e vem para o meio.",
         "4": "E perguntou-lhes: É lícito no sábado fazer bem, ou fazer mal? Salvar a vida, ou matar? E eles calaram-se.",

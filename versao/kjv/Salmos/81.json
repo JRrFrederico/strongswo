@@ -1,23 +1,25 @@
 {
     "livro": "Salmos",
     "capitulo": 81,
-    "titulos": {},
+    "titulos": {
+        "1": "Exortação ao culto e à obediência"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe, sobre Gitite, Salmo de Asafe. Cantai alto a Deus, nossa força; fazei um alegre barulho ao Deus de Jacó.",
-        "2": "Tomai um salmo, e trazei junto o tamborim, a harpa agradável com o saltério.",
-        "3": "Tocai a trombeta na lua nova, no tempo designado, em nosso solene dia de festa.",
-        "4": "Pois este foi um estatuto para Israel, e uma lei do Deus de Jacó.",
-        "5": "Isto ele ordenou em José por testemunho, quando ele saiu pela terra do Egito, onde ouvi uma língua que eu não entendia.",
-        "6": "Eu removi do seu ombro o fardo; suas mãos foram libertas dos potes.",
-        "7": "Tu clamaste na tribulação, e eu te livrei; te respondi no lugar secreto do trovão; provei-te nas águas de Meribá. Selá.",
-        "8": "Ouve, ó meu povo, e testemunharei a ti; ó Israel, se tu me ouvires.",
-        "9": "Não haverá deus estranho em ti; nem tu adorarás nenhum deus estranho.",
-        "10": "Eu sou o SENHOR teu Deus, que te trouxe da terra do Egito; abre bem a tua boca, e eu a encherei.",
-        "11": "Mas o meu povo não quis ouvir a minha voz, e Israel não quis nada de mim.",
-        "12": "Então, eu os entreguei à luxúria dos seus próprios corações, e eles caminharam em seus próprios conselhos.",
-        "13": "Oh, se meu povo tivesse me ouvido, e Israel tivesse andado em meus caminhos!",
-        "14": "Eu logo teria subjugado os seus inimigos, e virado minha mão contra os seus adversários.",
-        "15": "Os que odeiam o SENHOR deveriam ter se submetido a ele; mas o seu tempo duraria para sempre.",
-        "16": "Ele os teria alimentado com o mais fino do trigo; e eu te satisfaria com o mel tirado da rocha."
+        "1": "Cantai de júbilo a Deus, nossa força; celebrai o Deus de Jacó.",
+        "2": "Salmodiai e fazei soar os pandeiros, tocai a lira e a harpa melodiosa.",
+        "3": "Fazei ressoar a trompa, na lua nova, na lua cheia, no dia de nossa festa!",
+        "4": "Porque é uma lei para Israel, um preceito do Deus de Jacó,",
+        "5": "uma regra que Ele impôs a José, quando saiu contra a terra do Egito. Ali ouvimos uma língua que não compreendíamos.",
+        "6": "Ele declara: “Tirei o fardo dos teus ombros, e tuas mãos ficaram livres dos cestos de cargas.",
+        "7": "Quando clamaste na aflição, Eu te libertei; Eu te respondi, oculto no trovão; provei-te junto às águas de Meribá.",
+        "8": "Escuta, povo meu! Quero admoestar-te. Tomara que tu, Israel, me escutes!",
+        "9": "Não haja no meio de ti deus estranho, não adorarás qualquer entidade diferente de mim!",
+        "10": "Eu Sou o Eterno, teu Deus, que te fez subir da terra do Egito; abre bem a tua boca, e Eu te satisfarei!",
+        "11": "Contudo, meu povo preferiu não me dar ouvidos; Israel não quis obedecer-me.",
+        "12": "Por isso os entreguei a seu próprio coração teimoso, a fim de que seguissem seus intentos e desejos!",
+        "13": "Ah! Se meu povo me escutasse! Se Israel andasse pelos meus caminhos,",
+        "14": "prontamente, Eu mesmo venceria seus inimigos, voltaria a minha mão contra todos os seus adversários;",
+        "15": "os que odeiam o S ENHOR se renderiam diante dele, e receberiam uma punição perpétua.",
+        "16": "Então, Eu sustentaria Israel com o melhor trigo e, com mel retirado da rocha, Eu, pessoalmente, o satisfaria”."
     }
 }

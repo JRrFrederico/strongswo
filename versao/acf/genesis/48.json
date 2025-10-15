@@ -1,9 +1,11 @@
 {
     "livro": "Gênesis",
     "capitulo": 48,
-    "titulos": {},
+    "titulos": {
+        "1": "Israel abençoa os filhos de José"
+    },
     "versiculos": {
-        "1": "E aconteceu, depois destas coisas, que alguém disse a José: Eis que teu pai está enfermo. Então tomou consigo os seus dois filhos, Manassés e Efraim.",
+        "1": "E ACONTECEU, depois destas coisas, que alguém disse a José: Eis que teu pai está enfermo. Então tomou consigo os seus dois filhos, Manassés e Efraim.",
         "2": "E alguém participou a Jacó, e disse: Eis que José teu filho vem a ti. E esforçou-se Israel, e assentou-se sobre a cama.",
         "3": "E Jacó disse a José: O Deus Todo-Poderoso me apareceu em Luz, na terra de Canaã, e me abençoou.",
         "4": "E me disse: Eis que te farei frutificar e multiplicar, e tornar-te-ei uma multidão de povos e darei esta terra à tua descendência depois de ti, em possessão perpétua.",

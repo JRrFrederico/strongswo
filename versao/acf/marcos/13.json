@@ -1,9 +1,15 @@
 {
     "livro": "Marcos",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Os sinais do final dos tempos",
+        "14": "A grande tribulação",
+        "24": "O glorioso retorno de Jesus",
+        "28": "A parábola da boa figueira",
+        "32": "Só Deus sabe o dia e a hora. Vigiai!"
+    },
     "versiculos": {
-        "1": "E, saindo ele do templo, disse-lhe um dos seus discípulos: Mestre, olha que pedras, e que edifícios!",
+        "1": "E, SAINDO ele do templo, disse-lhe um dos seus discípulos: Mestre, olha que pedras, e que edifícios!",
         "2": "E, respondendo Jesus, disse-lhe: Vês estes grandes edifícios? Não ficará pedra sobre pedra que não seja derrubada.",
         "3": "E, assentando-se ele no Monte das Oliveiras, defronte do templo, Pedro, e Tiago, e João e André lhe perguntaram em particular:",
         "4": "Dize-nos, quando serão essas coisas, e que sinal haverá quando todas elas estiverem para se cumprir.",

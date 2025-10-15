@@ -1,9 +1,12 @@
 {
     "livro": "2 Reis",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Juízo de Deus sobre Acazias",
+        "9": "Elias invoca o fogo de Deus"
+    },
     "versiculos": {
-        "1": "E depois da morte de Acabe, Moabe se rebelou contra Israel.",
+        "1": "E DEPOIS da morte de Acabe, Moabe se rebelou contra Israel.",
         "2": "E caiu Acazias pelas grades de um quarto alto, que tinha em Samaria, e adoeceu; e enviou mensageiros, e disse-lhes: Ide, e perguntai a Baal-Zebube, deus de Ecrom, se sararei desta doença.",
         "3": "Mas o anjo do Senhor disse a Elias, o tisbita: Levanta-te, sobe para te encontrares com os mensageiros do rei de Samaria, e dize-lhes: Porventura não há Deus em Israel, para irdes consultar a Baal-Zebube, deus de Ecrom?",
         "4": "E por isso assim diz o Senhor: Da cama, a que subiste, não descerás, mas sem falta morrerás. Então Elias partiu.",

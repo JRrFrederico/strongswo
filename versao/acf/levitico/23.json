@@ -1,9 +1,20 @@
 {
     "livro": "Levítico",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Festas e dias santificados a Deus",
+        "3": "Shabbãth, o sábado",
+        "4": "A Páscoa e os Pães Ázimos",
+        "9": "A cerimônia da primeira colheita",
+        "15": "A festa das Semanas",
+        "23": "A festa das Trombetas",
+        "26": "Yom Kippur, o dia da Expiação",
+        "33": "A festa das Tendas ou Cabanas",
+        "37": "Conclusão",
+        "39": "Ainda sobre a festa das Tendas"
+    },
     "versiculos": {
-        "1": "Depois falou o Senhor a Moisés, dizendo:",
+        "1": "DEPOIS falou o Senhor a Moisés, dizendo:",
         "2": "Fala aos filhos de Israel, e dize-lhes: As solenidades do Senhor, que convocareis, serão santas convocações; estas são as minhas solenidades:",
         "3": "Seis dias trabalho se fará, mas o sétimo dia será o sábado do descanso, santa convocação; nenhum trabalho fareis; sábado do Senhor é em todas as vossas habitações.",
         "4": "Estas são as solenidades do Senhor, as santas convocações, que convocareis ao seu tempo determinado:",

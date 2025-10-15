@@ -1,9 +1,13 @@
 {
     "livro": "Ester",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "O banquete do rei Assuero, Xerxes",
+        "9": "A rainha Vasti afronta a ordem do rei",
+        "13": "Vasti é condenada à pena exemplar"
+    },
     "versiculos": {
-        "1": "E sucedeu nos dias de Assuero, o Assuero que reinou desde a Índia até a Etiópia, sobre cento e vinte e sete províncias,",
+        "1": "E SUCEDEU nos dias de Assuero, o Assuero que reinou desde a Índia até a Etiópia, sobre cento e vinte e sete províncias,",
         "2": "Que, naqueles dias, assentando-se o rei Assuero no trono do seu reino, que estava na fortaleza de Susã,",
         "3": "No terceiro ano do seu reinado, fez um banquete a todos os seus príncipes e seus servos, estando assim perante ele o poder da Pérsia e Média e os nobres e príncipes das províncias,",
         "4": "Para mostrar as riquezas da glória do seu reino, e o esplendor da sua excelente grandeza, por muitos dias, a saber: cento e oitenta dias.",

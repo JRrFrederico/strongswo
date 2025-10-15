@@ -1,25 +1,27 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Advertência contra o paganismo"
+    },
     "versiculos": {
-        "1": "Se entre vós se levantar um profeta, ou um sonhador de sonhos, e te der um sinal ou um prodígio,",
-        "2": "e acontecer o sinal ou o prodígio de que ele vos tiver falado, dizendo: Sigamos outros deuses, que não conheces, e vamos servi-los;",
-        "3": "não ouvirás as palavras desse profeta, ou sonhador de sonhos, porque o SENHOR vosso Deus vos prova, para saber se amais ao SENHOR vosso Deus com todo o vosso coração e com toda a vossa alma.",
-        "4": "Andareis após o SENHOR vosso Deus, e o temereis, e guardareis os seus mandamentos, e obedecereis à sua voz, e o servireis e vos apegareis a ele.",
-        "5": "E esse profeta, ou sonhador de sonhos será morto, porque falou para vos afastar do SENHOR vosso Deus, que vos tirou da terra do Egito, e vos resgatou da casa de servidão, para te tirar do caminho em que o SENHOR teu Deus ordenou que andasses. Assim tirarás o mal do meio de ti.",
-        "6": "Se teu irmão, o filho da tua mãe, ou o teu filho, ou a tua filha, ou a esposa do teu seio, ou o teu amigo, que é como a tua própria alma, te seduzir secretamente, dizendo: Vamos e sirvamos outros deuses, que não conheces, nem tu, nem os teus pais;",
-        "7": "a saber, os deuses dos povos que estão à vossa volta, perto de ti ou longe de ti, desde uma extremidade da terra até a outra extremidade da terra;",
-        "8": "não consentirás com ele, nem lhe darás ouvidos; nem o teu olho terá piedade dele, nem o pouparás, nem o ocultarás;",
-        "9": "mas certamente o matarás; a tua mão será a primeira para matá-lo, e depois dela a mão de todo o povo.",
-        "10": "E o apedrejarás com pedras, para que morra; porque procurou te afastar do SENHOR teu Deus, que te tirou da terra do Egito, da casa de servidão.",
-        "11": "E todo Israel ouvirá, e temerá, e não deverá fazer nenhuma impiedade desse tipo entre vós.",
-        "12": "Se ouvires dizer em alguma das tuas cidades, que o SENHOR teu Deus te deu, para que habites ali, dizendo:",
-        "13": "Certos homens, os filhos de Belial, saíram do meio de vós, e retiraram os habitantes da sua cidade, dizendo: Vamos e sirvamos a outros deuses que não conhecestes;",
-        "14": "e então investigarás, e buscarás e perguntarás diligentemente; e eis que, se for verdade, e for certo que aconteceu essa abominação entre vós;",
-        "15": "tu certamente ferirás os habitantes dessa cidade com o fio da espada, destruindo-a completamente, e a tudo o que nela existe, e o seu gado, com o fio da espada.",
-        "16": "E reunirás todos os seus despojos no meio da sua rua, e queimará com fogo a cidade e todos os seus despojos, para o SENHOR teu Deus, e será um monte para sempre; não será construída novamente.",
-        "17": "E não pegará nada da coisa amaldiçoada na tua mão, para que o SENHOR possa se afastar do furor de sua ira, e te mostrar misericórdia, e ter compaixão de ti, e te multiplicar, como jurou aos teus pais;",
-        "18": "quando ouvires a voz do SENHOR teu Deus, para guardares todos os seus mandamentos que te ordeno neste dia, para que faças o que é reto aos olhos do SENHOR teu Deus."
+        "1": "Quando surgir em teu meio um profeta ou um intérprete de sonhos, e te apresentar um sinal ou um prodígio,",
+        "2": "se esta obra maravilhosa que ele anunciou se realiza e ele te exorta: ‘Vinde e sigamos a outros deuses (que não é o Deus que tu conheceste) e passemos a serví-los!’",
+        "3": "Não deis ouvidos às palavras desse pregador ou sonhador. Porquanto é Yahweh vosso Deus que vos está pondo à prova para aflorar diante de todos o quanto, de fato, amais ao S ENHOR de todo o coração e com toda a alma.",
+        "4": "Seguireis, pois, somente a Yahweh vosso Deus e a Ele amareis com reverência, cumprindo fielmente seus mandamentos e obedecendo à sua Palavra. A Ele tão somente servireis e vos apegareis!",
+        "5": "Quanto àquele profeta ou vidente, deverá ser morto, pois pregou a rebeldia contra o S ENHOR vosso Deus, que vos libertou e vos fez sair da terra do Egito e vos resgatou da casa da escravidão; tal impostor, tentou vos afastar do Caminho em que o próprio Yahweh teu Deus te ordenou caminhar. Deste modo extirparás o mal do teu meio!",
+        "6": "Se teu irmão, filho do teu pai ou da tua mãe, teu filho, tua filha, ou tua esposa amada ou o teu amigo mais chegado, tentar secretamente instiga-lo, argumentando: ‘Vamos servir a outros deuses!’, deuses que nem tu nem teus pais conheceram,",
+        "7": "deuses de povos pagãos, vizinhos ou distantes de ti, de uma extremidade da terra à outra,",
+        "8": "não te deixes convencer tampouco ouças o que esta pessoa têm a te dizer. Não tenhas a menor piedade nem compaixão de qualquer um destes, nem o protejas.",
+        "9": "Pelo contrário: teu dever é matar sumariamente tal pessoa! Tua mão será a primeira a levantar-se contra este infiel para matá-lo, e depois as mãos de todo o povo de Israel.",
+        "10": "Apedreja-o até que morra, pois tentou afastar-te do S ENHOR , o teu Deus, que te libertou e te fez sair do Egito, da terra da servidão.",
+        "11": "Assim, todo o Israel saberá deste fato, ficará com grande pavor e nunca mais se fará uma ação má como esta em teu meio.",
+        "12": "Caso ouças dizer que, numa das cidades que o S ENHOR teu Deus te dará para habitar,",
+        "13": "homens perversos, procedentes do teu meio, seduziram os moradores da sua cidade, convidando: ‘Vamos servir a outros deuses’, que não conhecestes,",
+        "14": "deverás investigar, fazendo uma pesquisa e interrogando diligentemente. Caso seja verdade, se o fato for comprovado, se esta abominação foi realmente praticada em teu meio,",
+        "15": "deverás então passar ao fio da espada os habitantes daquela cidade. Tu a sacrificarás como anátema, juntamente com tudo o que nela existe.",
+        "16": "Reunirás todos os seus despojos no meio da praça pública, e queimarás completamente a cidade e todos os seus pertences para Yahweh teu Deus. Ela ficará em ruínas para sempre e nunca mais será reconstruída.",
+        "17": "Nada do que for sacrificado como anátema, oferta, ficará em tua mão, a fim de que o S ENHOR afaste o fogo da sua indignação e ira. Ele, em seguida, te concederá a bênção da sua misericórdia e perdão, e te multiplique, conforme prometeu sob juramente aos teus antepassados,",
+        "18": "somente no caso de teres obedecido à Palavra de Yahweh teu Deus, guardando todos os seus mandamentos, que hoje te ordeno, e praticando o que é justo aos olhos do S ENHOR teu Deus!"
     }
 }

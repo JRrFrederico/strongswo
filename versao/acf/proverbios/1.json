@@ -1,9 +1,13 @@
 {
     "livro": "Provérbios",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "O princípio da sabedoria",
+        "8": "Advertências contra as seduções",
+        "20": "Exortação à sabedoria"
+    },
     "versiculos": {
-        "1": "Provérbios de Salomão, filho de Davi, rei de Israel;",
+        "1": "PROVÉRBIOS de Salomão, filho de Davi, rei de Israel;",
         "2": "Para se conhecer a sabedoria e a instrução; para se entenderem, as palavras da prudência.",
         "3": "Para se receber a instrução do entendimento, a justiça, o juízo e a equidade;",
         "4": "Para dar aos simples, prudência, e aos moços, conhecimento e discernimento;",

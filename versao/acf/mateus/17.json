@@ -1,9 +1,14 @@
 {
     "livro": "Mateus",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "A transfiguração de Jesus",
+        "14": "A cura do menino possesso",
+        "22": "Jesus prediz novamente seu martírio",
+        "24": "Jesus paga o imposto secular"
+    },
     "versiculos": {
-        "1": "Seis dias depois, tomou Jesus consigo a Pedro, e a Tiago, e a João, seu irmão, e os conduziu em particular a um alto monte,",
+        "1": "SEIS dias depois, tomou Jesus consigo a Pedro, e a Tiago, e a João, seu irmão, e os conduziu em particular a um alto monte,",
         "2": "E transfigurou-se diante deles; e o seu rosto resplandeceu como o sol, e as suas vestes se tornaram brancas como a luz.",
         "3": "E eis que lhes apareceram Moisés e Elias, falando com ele.",
         "4": "E Pedro, respondendo, disse a Jesus: Senhor, bom é estarmos aqui; se queres, façamos aqui três tabernáculos, um para ti, um para Moisés, e um para Elias.",

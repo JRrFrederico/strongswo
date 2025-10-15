@@ -1,25 +1,28 @@
 {
     "livro": "Gênesis",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Abrão e Ló decidem separar-se",
+        "14": "A promessa de Yahweh a Abrão"
+    },
     "versiculos": {
-        "1": "E Abrão saiu do Egito para o sul, ele, e sua esposa, e tudo que tinha, e Ló com ele.",
-        "2": "E Abrão era muito rico em gado, em prata e em ouro.",
-        "3": "E ele foi em suas viagens do sul até Betel, até o lugar em que sua tenda havia estado no início, entre Betel e Ai,",
-        "4": "até o lugar do altar, que ele fizera ali no início. E ali Abrão invocou o nome do SENHOR.",
-        "5": "E Ló também, que foi com Abrão, tinha rebanhos, e gado, e tendas.",
-        "6": "E a terra não foi capaz de comportá-los, para que eles pudessem habitar juntos. Porque eram muitos os seus bens, de modo que não puderam habitar juntos.",
-        "7": "E houve contenda entre os pastores do gado de Abrão e os pastores do gado de Ló, e os cananeus e os perizeus habitavam na terra nesse tempo.",
-        "8": "E Abrão disse a Ló: Que não haja contenda, eu te suplico, entre mim e ti, e entre meus pastores e teus pastores, pois somos irmãos.",
-        "9": "Não está a terra toda diante de ti? Suplico-te que te apartes de mim. Se tomares a esquerda, então eu irei para a direita. Se te apartares para a direita, então eu irei para a esquerda.",
-        "10": "E Ló levantou os olhos, e viu toda a planície do Jordão, que era bem regada em todo lugar, antes do SENHOR ter destruído Sodoma e Gomorra, como o jardim do SENHOR, como a terra do Egito, quando se entra em Zoar.",
-        "11": "Então, Ló escolheu para si toda a planície do Jordão, e Ló viajou para o leste, e eles se apartaram um do outro.",
-        "12": "Abrão habitou na terra de Canaã, e Ló habitou nas cidades da planície, e armou sua tenda em direção a Sodoma.",
-        "13": "Mas os homens de Sodoma eram extremamente perversos e pecadores diante do SENHOR.",
-        "14": "E o SENHOR disse a Abrão, depois que Ló se apartou dele: Eleva agora os teus olhos, e olha do lugar em que estás para o norte, e para o sul, e para o leste, e para o oeste.",
-        "15": "Porque toda a terra que tu vês, para sempre eu te darei, e à tua semente.",
-        "16": "E eu farei a tua semente como o pó da terra, de modo que se um homem puder contar o pó da terra, então também a tua semente será contada.",
-        "17": "Levanta-te, caminha pela terra no seu comprimento e na sua largura, pois a ti eu a darei.",
-        "18": "Então Abrão removeu a sua tenda, e veio e habitou na planície de Manre, que é Hebrom, e ali edificou um altar ao SENHOR."
+        "1": "Do Egito, Abrão, com sua mulher e tudo o que possuía, subiu em direção ao sul de Canaã. E Ló, seu sobrinho, foi com ele.",
+        "2": "Abrão havia enriquecido muito, era proprietário de muitas cabeças de gado, possuía muita prata e ouro também.",
+        "3": "Ele partiu do Neguebe rumo à cidade de Betel, indo de um lugar a outro, até que chegou a uma região que fica entre Betel e Ai, onde já havia estabelecido seu acampamento, no passado.",
+        "4": "Abrão voltou ao altar que ele mesmo havia edificado e adorou a Deus, invocando o Nome do S ENHOR .",
+        "5": "Ló, que seguia a Abrão, tinha igualmente ovelhas, bois e tendas.",
+        "6": "A terra, todavia, tornou-se insuficiente para abrigar os dois morando na mesma região, isso porque possuíam tantos bens, servos e animais que a terra não conseguia sustentar a todos.",
+        "7": "Por esse motivo, os homens que zelavam dos animais de Abrão brigavam com os que tomavam conta dos animais de Ló. E, nessa época, os cananeus e os ferezeus ainda habitavam essas terras.",
+        "8": "Então Abrão propõe a Ló: “Que não haja discórdia entre mim e ti, nem desavenças entre meus pastores e os teus pastores; afinal somos irmãos!",
+        "9": "Vê! Toda a terra não está diante de ti? Peço-te, portanto, que te apartes de mim. Se tomares a esquerda, irei para a direita; se tomares a direita, irei para a esquerda!”",
+        "10": "Então Ló ergueu os olhos e observou toda a planície do Jordão, que era toda irrigada, até Zoar; era como o jardim do S ENHOR , como as terras férteis do Egito. Isso aconteceu antes de o S ENHOR destruir Sodoma e Gomorra.",
+        "11": "Ló escolheu para si todo o vale do Jordão e partiu rumo a leste. Assim, os dois se separaram;",
+        "12": "Abrão ficou na terra de Canaã, porém, Ló mudou seu acampamento e todos os seus bens para um lugar próximo a Sodoma, entre as cidades do vale.",
+        "13": "Ora, as pessoas que viviam em Sodoma eram extremamente malignas e praticavam pecados horríveis contra o S ENHOR .",
+        "14": "Então, depois que Ló foi embora, prometeu o S ENHOR Deus a Abrão: “Ergue teus olhos e observa bem, do lugar em que estás, para o norte e para o sul, para o oriente e para o ocidente.",
+        "15": "Toda a terra que vês, Eu ta darei, a ti e à tua descendência, para sempre.",
+        "16": "Tornarei a tua posteridade como poeira da terra: quem tiver a capacidade de contar os grãos de poeira da terra poderá também contar o número dos teus descendentes!",
+        "17": "Levanta-te! Percorre essa terra no seu comprimento e na sua largura, porquanto Eu ta darei!”",
+        "18": "Então Abrão mudou com todas as suas tendas e foi estabelecer-se próximo à região sagrada dos carvalhos de Manre, na cidade de Hebrom, onde construiu um altar dedicado ao S ENHOR ."
     }
 }

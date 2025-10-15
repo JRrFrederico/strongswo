@@ -1,9 +1,15 @@
 {
     "livro": "Marcos",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus perdoa e cura",
+        "13": "Jesus convoca Mateus",
+        "15": "Jesus à mesa com pecadores",
+        "18": "Jesus explica o jejum",
+        "23": "Jesus é Senhor do Sábado"
+    },
     "versiculos": {
-        "1": "E alguns dias depois entrou outra vez em Cafarnaum, e soube-se que estava em casa.",
+        "1": "E ALGUNS dias depois entrou outra vez em Cafarnaum, e soube-se que estava em casa.",
         "2": "E logo se ajuntaram tantos, que nem ainda nos lugares junto à porta cabiam; e anunciava-lhes a palavra.",
         "3": "E vieram ter com ele conduzindo um paralítico, trazido por quatro.",
         "4": "E, não podendo aproximar-se dele, por causa da multidão, descobriram o telhado onde estava, e, fazendo um buraco, baixaram o leito em que jazia o paralítico.",
@@ -11,7 +17,7 @@
         "6": "E estavam ali assentados alguns dos escribas, que arrazoavam em seus corações, dizendo:",
         "7": "Por que diz este assim blasfêmias? Quem pode perdoar pecados, senão só Deus?",
         "8": "E Jesus, conhecendo logo em seu espírito que assim arrazoavam entre si, lhes disse: Por que arrazoais sobre estas coisas em vossos corações?",
-        "9": "Qual é mais fácil? Dizer ao paralítico: Estão perdoados os teus pecados; ou dizer-lhe: Levanta-te, e toma o teu leito, e anda?",
+        "9": "Qual é mais fácil? dizer ao paralítico: Estão perdoados os teus pecados; ou dizer-lhe: Levanta-te, e toma o teu leito, e anda?",
         "10": "Ora, para que saibais que o Filho do homem tem na terra poder para perdoar pecados (disse ao paralítico),",
         "11": "A ti te digo: Levanta-te, toma o teu leito, e vai para tua casa.",
         "12": "E levantou-se e, tomando logo o leito, saiu em presença de todos, de sorte que todos se admiraram e glorificaram a Deus, dizendo: Nunca tal vimos.",

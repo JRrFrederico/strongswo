@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "O chamado e a missão de Abraão",
+        "10": "Abrão migra para o Egito"
+    },
     "versiculos": {
-        "1": "Ora, o Senhor disse a Abrão: Sai-te da tua terra, da tua parentela e da casa de teu pai, para a terra que eu te mostrarei.",
+        "1": "ORA, o Senhor disse a Abrão: Sai-te da tua terra, da tua parentela e da casa de teu pai, para a terra que eu te mostrarei.",
         "2": "E far-te-ei uma grande nação, e abençoar-te-ei e engrandecerei o teu nome; e tu serás uma bênção.",
         "3": "E abençoarei os que te abençoarem, e amaldiçoarei os que te amaldiçoarem; e em ti serão benditas todas as famílias da terra.",
         "4": "Assim partiu Abrão como o Senhor lhe tinha dito, e foi Ló com ele; e era Abrão da idade de setenta e cinco anos quando saiu de Harã.",

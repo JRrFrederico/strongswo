@@ -1,9 +1,13 @@
 {
     "livro": "1 Pedro",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Devemos viver como Pedras Vivas",
+        "4": "Povo gerado pela Pedra Viva",
+        "11": "Deveres do Povo de Deus"
+    },
     "versiculos": {
-        "1": "Deixando, pois, toda a malícia, e todo o engano, e fingimentos, e invejas, e todas as murmurações,",
+        "1": "DEIXANDO, pois, toda a malícia, e todo o engano, e fingimentos, e invejas, e todas as murmurações,",
         "2": "Desejai afetuosamente, como meninos novamente nascidos, o leite racional, não falsificado, para que por ele vades crescendo;",
         "3": "Se é que já provastes que o Senhor é benigno;",
         "4": "E, chegando-vos para ele, pedra viva, reprovada, na verdade, pelos homens, mas para com Deus eleita e preciosa,",

@@ -1,18 +1,20 @@
 {
     "livro": "Salmos",
     "capitulo": 46,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus é a nossa segurança e paz"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe, para os filhos de Corá. Uma canção sobre Alamote. Deus é o nosso refúgio e força, um socorro bem presente na tribulação.",
-        "2": "Portanto, não temeremos, ainda que a terra seja removida, e ainda que os montes sejam transportados para o meio do mar.",
-        "3": "Ainda que suas águas rujam e se perturbem, ainda que os montes se sacudam com o seu inchar. Selá.",
-        "4": "Há um rio, seus córregos alegrarão a cidade de Deus, o lugar santo dos tabernáculos do Altíssimo.",
-        "5": "Deus está no meio dela; ela não será abalada. Deus a ajudará, e isso bem cedo.",
-        "6": "Os pagãos enraiveceram-se, os reinos foram movidos; ele proferiu sua voz, a terra derreteu.",
-        "7": "O SENHOR dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio. Selá.",
-        "8": "Vinde, contemplai as obras do SENHOR, que desolações ele causou na terra.",
-        "9": "Ele faz cessar as guerras até o fim da terra; ele quebra o arco e corta a lança pela metade. Ele queima a carruagem no fogo.",
-        "10": "Aquietai-vos e sabei que eu sou Deus; serei exaltado entre os pagãos, serei exaltado na terra.",
-        "11": "O SENHOR dos Exércitos é conosco; o Deus de Jacó é o nosso refúgio. Selá."
+        "1": "Deus é nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade.",
+        "2": "Portanto, nada temeremos, ainda que a terra trema e os montes afundem no coração do mar,",
+        "3": "ainda que se encrespem as águas e se lancem com fúria contra os rochedos.",
+        "4": "Há um rio cujos canais alegram a cidade de Deus, o Santo Lugar onde habita o Altíssimo.",
+        "5": "Nela habita o Eterno e, por isso, não poderá ser atingida! Ao romper da aurora Ele virá em seu socorro.",
+        "6": "Nações se agitam, reinos se abalam; Ele ergue a voz, e a terra se derrete.",
+        "7": "O S ENHOR dos Exércitos está conosco; o Deus de Jacó é a nossa torre segura!",
+        "8": "Vinde e contemplai as obras do Eterno, seus feitos estarrecedores por toda a terra.",
+        "9": "Ele dá fim às guerras até os confins da terra; quebra o arco e despedaça a lança; com chamas destrói os carros de combate.",
+        "10": "“Cessai as batalhas! Sabei que Eu Sou Deus! Serei exaltado entre todas as nações, serei louvado na terra!”",
+        "11": "O S ENHOR dos Exércitos está conosco; o Deus de Jacó é a nossa fortaleza segura."
     }
 }

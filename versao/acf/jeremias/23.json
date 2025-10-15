@@ -1,9 +1,13 @@
 {
     "livro": "Jeremias",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Oráculos messiânicos: o Rei",
+        "5": "O renovo no trono davídico",
+        "9": "Ai dos profetas mentirosos"
+    },
     "versiculos": {
-        "1": "Ai dos pastores que destroem e dispersam as ovelhas do meu pasto, diz o Senhor.",
+        "1": "AI dos pastores que destroem e dispersam as ovelhas do meu pasto, diz o Senhor.",
         "2": "Portanto assim diz o Senhor Deus de Israel, contra os pastores que apascentam o meu povo: Vós dispersastes as minhas ovelhas, e as afugentastes, e não as visitastes; eis que visitarei sobre vós a maldade das vossas ações, diz o Senhor.",
         "3": "E eu mesmo recolherei o restante das minhas ovelhas, de todas as terras para onde as tiver afugentado, e as farei voltar aos seus apriscos; e frutificarão, e se multiplicarão.",
         "4": "E levantarei sobre elas pastores que as apascentem, e nunca mais temerão, nem se assombrarão, e nem uma delas faltará, diz o Senhor.",

@@ -1,25 +1,27 @@
 {
     "livro": "Salmos",
     "capitulo": 88,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração em dias de grande aflição"
+    },
     "versiculos": {
-        "1": "Canção ou Salmo para os filhos de Corá, ao Músico-chefe sobre Maalate Leanote, Masquil de Hemã, o ezraíta. Ó SENHOR Deus da minha salvação, eu tenho clamado dia e noite diante de ti.",
-        "2": "Que a minha oração chegue diante de ti; inclina o teu ouvido ao meu clamor.",
-        "3": "Pois a minha alma está cheia de tribulações, e a minha vida se aproxima do túmulo.",
-        "4": "Eu sou contado entre aqueles que descem à cova; sou como um homem que não tem força.",
-        "5": "Livre entre os mortos, como os feridos de morte que jazem no túmulo, dos quais tu não te lembras mais, e são cortados da tua mão.",
-        "6": "Tu me colocaste na mais baixa cova, na escuridão, nas profundezas.",
-        "7": "Tua ira recai duramente sobre mim, e tu me afligiste com todas as tuas ondas. Selá.",
-        "8": "Tu puseste todos os meus conhecidos para longe de mim; tu me tornaste em abominação a eles; eu estou fechado, e não posso vir adiante.",
-        "9": "Meu olho pranteou por causa da aflição; SENHOR, eu clamei diariamente a ti, estendi as minhas mãos a ti.",
-        "10": "Mostrarás maravilhas aos mortos? Levantarão os mortos e te louvarão? Selá.",
-        "11": "Será tua benignidade declarada no túmulo? Ou a tua fidelidade na destruição?",
-        "12": "Serão tuas maravilhas conhecidas no escuro, e a tua justiça na terra do esquecimento?",
-        "13": "Mas a ti eu clamei, ó SENHOR, e de manhã minha oração te esperará.",
-        "14": "SENHOR, por que rejeitas a minha alma? Por que escondes a tua face de mim?",
-        "15": "Estou aflito, e pronto para morrer desde a minha juventude; enquanto eu sofrer teus terrores, estarei distraído.",
-        "16": "Tua feroz ira vai sobre mim; teus terrores me cortaram fora.",
-        "17": "Eles vieram ao meu redor diariamente como água; eles me cercaram juntamente.",
-        "18": "Colocaste para longe de mim amigos e companheiros, e o meu conhecido puseste nas trevas."
+        "1": "Ó Eterno, Deus de minha salvação, dia e noite clamo a ti!",
+        "2": "Chegue à tua presença minha oração, presta ouvido ao meu clamor!",
+        "3": "Minha alma está saturada de desgraças, minha vida está à beira das profundezas da morte.",
+        "4": "Já sou contado entre os que baixam à sepultura, sou como uma pessoa absolutamente alquebrada;",
+        "5": "Sinto-me abandonado à minha própria sina, entre os mortos. Sou como os trucidados, que jazem na região dos mortos, dos quais já não te lembras, pois estão apartados de tua mão.",
+        "6": "Tu me depositaste nas profundezas do fosso, nos lugares tenebrosos e abismais.",
+        "7": "Sobre mim pesa a tua cólera; com todas as tuas grandes ondas do mar me afligiste.",
+        "8": "Afastaste de mim os meus conhecidos, fizeste de mim um horror para eles. Enclausurado, não vejo qualquer saída;",
+        "9": "meus olhos anuviam-se de preocupação. Todo dia te invoquei, S ENHOR , estendendo para ti minhas mãos.",
+        "10": "Farás, entretanto, um milagre para aqueles que já se despediram da vida? Porventura os mortos virão a se levantar e te louvar?",
+        "11": "Será que teu amor é também proclamado no túmulo, e a tua fidelidade no Abismo da Morte?",
+        "12": "Será teu sinal milagroso conhecido na região das trevas, e tua justiça, na dimensão do esquecimento?",
+        "13": "Contudo, eu, ó S ENHOR , clamo a ti por socorro; já ao romper da alvorada a minha oração chega à tua presença.",
+        "14": "Por que, S ENHOR , me rejeitas e escondes de mim a tua face?",
+        "15": "Desde muito jovem tenho sofrido e ando próximo da morte; os teus terrores levaram-me ao desespero.",
+        "16": "Sobre minha existência se abateu a tua ira; os pavores que me causas me consumiram.",
+        "17": "Cercam-me o dia todo como uma inundação; fazem-me submergir em agonia.",
+        "18": "Afastaste de mim os meus amigos e todos os meus conhecidos de jornada; as trevas são a minha única companhia."
     }
 }

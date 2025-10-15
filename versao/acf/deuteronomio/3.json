@@ -1,9 +1,14 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Os israelenses vencem o rei Ogue",
+        "12": "Divisão da terra entre as tribos",
+        "18": "Últimas ordens de Moisés",
+        "23": "Deus nega o pedido de Moisés"
+    },
     "versiculos": {
-        "1": "Depois nos viramos e subimos o caminho de Basã; e Ogue, rei de Basã, nos saiu ao encontro, ele e todo o seu povo, à peleja em Edrei.",
+        "1": "DEPOIS nos viramos e subimos o caminho de Basã; e Ogue, rei de Basã, nos saiu ao encontro, ele e todo o seu povo, à peleja em Edrei.",
         "2": "Então o Senhor me disse: Não o temas, porque a ele e a todo o seu povo, e a sua terra, tenho dado na tua mão; e far-lhe-ás como fizeste a Siom, rei dos amorreus, que habitava em Hesbom.",
         "3": "E também o Senhor nosso Deus nos deu na nossa mão a Ogue, rei de Basã, e a todo o seu povo; de maneira que o ferimos até que não lhe ficou sobrevivente algum.",
         "4": "E naquele tempo tomamos todas as suas cidades; nenhuma cidade houve que lhes não tomássemos; sessenta cidades, toda a região de Argobe, o reino de Ogue em Basã.",

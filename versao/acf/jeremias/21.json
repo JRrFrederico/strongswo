@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus nega o pedido de Zedequias",
+        "11": "Judá é advertida a deixar o mal"
+    },
     "versiculos": {
-        "1": "A palavra que veio a Jeremias da parte do Senhor, quando o rei Zedequias lhe enviou a Pasur, filho de Malquias, e a Sofonias, filho de Maaseias, o sacerdote, dizendo:",
+        "1": "A PALAVRA que veio a Jeremias da parte do Senhor, quando o rei Zedequias lhe enviou a Pasur, filho de Malquias, e a Sofonias, filho de Maaseias, o sacerdote, dizendo:",
         "2": "Pergunta agora por nós ao Senhor, por que Nabucodonosor, rei de Babilônia, guerreia contra nós; bem pode ser que o Senhor trate conosco segundo todas as suas maravilhas, e o faça retirar-se de nós.",
         "3": "Então Jeremias lhes disse: Assim direis a Zedequias:",
         "4": "Assim diz o Senhor Deus de Israel: Eis que virarei contra vós as armas de guerra, que estão nas vossas mãos, com que vós pelejais contra o rei de Babilônia, e contra os caldeus, que vos têm cercado de fora dos muros, e ajuntá-los-ei no meio desta cidade.",

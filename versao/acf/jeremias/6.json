@@ -1,9 +1,11 @@
 {
     "livro": "Jeremias",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "O inimigo cerca Jerusalém"
+    },
     "versiculos": {
-        "1": "Fugi para salvação vossa, filhos de Benjamim, do meio de Jerusalém; e tocai a trombeta em Tecoa, e levantai um sinal de fogo sobre Bete-Haquerém; porque do lado norte surge um mal e uma grande destruição.",
+        "1": "FUGI para salvação vossa, filhos de Benjamim, do meio de Jerusalém; e tocai a trombeta em Tecoa, e levantai um sinal de fogo sobre Bete-Haquerém; porque do lado norte surge um mal e uma grande destruição.",
         "2": "À formosa e delicada assemelhei a filha de Sião.",
         "3": "Mas contra ela virão pastores com os seus rebanhos; levantarão contra ela tendas em redor, e cada um apascentará no seu lugar.",
         "4": "Preparai a guerra contra ela, levantai-vos, e subamos ao pino do meio-dia. Ai de nós! Já declina o dia, já se vão estendendo as sombras da tarde.",

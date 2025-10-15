@@ -1,9 +1,13 @@
 {
     "livro": "2 Reis",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Elias é arrebatado aos céus",
+        "12": "Eliseu sucede Elias",
+        "19": "Dois milagres de Eliseu"
+    },
     "versiculos": {
-        "1": "Sucedeu que, quando o Senhor estava para elevar a Elias num redemoinho ao céu, Elias partiu de Gilgal com Eliseu.",
+        "1": "SUCEDEU que, quando o Senhor estava para elevar a Elias num redemoinho ao céu, Elias partiu de Gilgal com Eliseu.",
         "2": "E disse Elias a Eliseu: Fica-te aqui, porque o Senhor me enviou a Betel. Porém Eliseu disse: Vive o Senhor, e vive a tua alma, que não te deixarei. E assim foram a Betel.",
         "3": "Então os filhos dos profetas que estavam em Betel saíram ao encontro de Eliseu, e lhe disseram: Sabes que o Senhor hoje tomará o teu senhor por sobre a tua cabeça? E ele disse: Também eu bem o sei; calai-vos.",
         "4": "E Elias lhe disse: Eliseu, fica-te aqui, porque o Senhor me enviou a Jericó. Porém ele disse: Vive o Senhor, e vive a tua alma, que não te deixarei. E assim foram a Jericó.",

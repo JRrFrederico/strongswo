@@ -1,9 +1,13 @@
 {
     "livro": "Ezequiel",
     "capitulo": 34,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecia contra os maus pastores",
+        "11": "Deus zela pelo seu rebanho",
+        "25": "Yahweh firma sua Aliança de Paz"
+    },
     "versiculos": {
-        "1": "E veio a mim a palavra do Senhor, dizendo:",
+        "1": "E VEIO a mim a palavra do Senhor, dizendo:",
         "2": "Filho do homem, profetiza contra os pastores de Israel; profetiza, e dize aos pastores: Assim diz o Senhor Deus: Ai dos pastores de Israel que se apascentam a si mesmos! Não devem os pastores apascentar as ovelhas?",
         "3": "Comeis a gordura, e vos vestis da lã; matais o cevado; mas não apascentais as ovelhas.",
         "4": "As fracas não fortalecestes, e a doente não curastes, e a quebrada não ligastes, e a desgarrada não tornastes a trazer, e a perdida não buscastes; mas dominais sobre elas com rigor e dureza.",

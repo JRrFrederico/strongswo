@@ -1,9 +1,14 @@
 {
     "livro": "Romanos",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus reservou os seus em Israel",
+        "11": "Os gentios: ramos enxertados",
+        "25": "O amor de Deus salvará Israel",
+        "33": "Hino de adoração a Deus"
+    },
     "versiculos": {
-        "1": "Digo, pois: Porventura rejeitou Deus o seu povo? De modo nenhum; porque também eu sou israelita, da descendência de Abraão, da tribo de Benjamim.",
+        "1": "DIGO, pois: Porventura rejeitou Deus o seu povo? De modo nenhum; porque também eu sou israelita, da descendência de Abraão, da tribo de Benjamim.",
         "2": "Deus não rejeitou o seu povo, que antes conheceu. Ou não sabeis o que a Escritura diz de Elias, como fala a Deus contra Israel, dizendo:",
         "3": "Senhor, mataram os teus profetas, e destruíram os teus altares; e só eu fiquei, e buscam a minha alma?",
         "4": "Mas que lhe diz a resposta divina? Reservei para mim sete mil homens, que não dobraram os joelhos a Baal.",

@@ -1,23 +1,26 @@
 {
     "livro": "Miquéias",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus leva seu povo a julgamento",
+        "9": "Deus condena a injustiça"
+    },
     "versiculos": {
-        "1": "Ouvi agora o que o SENHOR diz: Levanta-te, contende perante os montes, e ouçam as colinas a tua voz.",
-        "2": "Ouvi, ó montes, a acusação do SENHOR, e vós, fortes fundamentos da terra; pois o SENHOR tem uma acusação contra o seu povo, e com Israel entrará em juízo.",
-        "3": "Ó meu povo, o que fiz contigo? E com que te enfadei? Testifica contra mim.",
-        "4": "Pois te trouxe da terra do Egito, e te remi da casa da servidão; e enviei adiante de ti a Moisés, Arão e Miriã.",
-        "5": "Ó meu povo, lembra-te agora do que Balaque, rei de Moabe, consultou, e o que Balaão, filho de Beor, lhe respondeu, desde Sitim até Gilgal, para que tu conheças as justiças do SENHOR.",
-        "6": "Com que me apresentarei diante do SENHOR, e me inclinarei diante do Deus altíssimo? Deveria me apresentar diante dele com ofertas queimadas, e novilhos de um ano?",
-        "7": "O SENHOR se agradará de milhares de carneiros, ou de dez mil ribeiros de azeite? Darei o meu primogênito pela minha transgressão, o fruto do meu corpo pelo pecado da minha alma?",
-        "8": "Ele te declarou, ó homem, o que é bom; e o que o SENHOR pede de ti, senão que pratiques a justiça, ames a misericórdia, e andes humildemente com o teu Deus?",
-        "9": "A voz do SENHOR clama à cidade, e o homem sábio verá o teu nome. Ouvi a vara, e quem a designou.",
-        "10": "Ainda há na casa do ímpio tesouros da maldade, e medida escassa, que é abominável?",
-        "11": "Devo considerá-los puro com balanças falsas, e com bolsa de pesos enganosos?",
-        "12": "Pois os homens ricos estão cheios de violência, e seus habitantes falam mentiras, e a sua língua é enganosa na sua boca.",
-        "13": "Assim eu também te farei enfermo, ferindo-te, e assolando-te por causa dos teus pecados.",
-        "14": "Tu comerás, mas não te fartarás; e a tua humilhação estará no meio de ti; tomarás posse, mas não livrarás, e aquilo que livrares, eu o entregarei à espada.",
-        "15": "Tu semearás, mas não colherás; pisarás a azeitona, mas não ungirás a ti com azeite; espremerão uvas, mas não beberão o vinho.",
-        "16": "Pois obedecem os estatutos de Onri, e todas as obras da casa de Acabe, e andais em seus conselhos; para que eu te faça uma desolação, e de seus habitantes um assobio; assim suportarão a reprovação do meu povo."
+        "1": "Agora, pois, ouvi com atenção a Palavra de Yahweh : “Põe-te em pé e defende a tua causa perante os montes. E as montanhas ouçam a tua voz!",
+        "2": "Ó montes, e vós, fundamentos perpétuos da terra, ouvi a acusação de Yahweh ; porque o S ENHOR tem uma grave questão para resolver com o seu povo e entrará em juízo contra Israel.",
+        "3": "Ó meu povo, dize-me claramente: Que é que te fiz de mal? Em que te ofendi? Responde-me!",
+        "4": "Ora, eu te livrei da terra do Egito e te resgatei da casa da escravidão; e enviei Moisés, Arão e Miriã adiante de ti.",
+        "5": "Meu povo querido, lembra-te do que Balaque, rei de Moabe, pediu e do que Balaão, filho de Beor, respondeu! Relembra a viagem que fizeste desde Sitim até Gilgal, e reconhece que todas as atitudes de Yahweh são justas!”",
+        "6": "Sendo assim, com que eu devo me apresentar diante do S ENHOR e como me curvarei perante Elohim , Deus exaltado? Deveria eu oferecer holocaustos, sacrifícios queimados, de bezerros de um ano?",
+        "7": "Yahweh se agradaria com milhares de carneiros, com dez mil ribeiros de azeite? Devo oferecer meu primogênito, meu filho mais velho, fruto do meu corpo, como sacrifício para pagar os meus pecados e as minhas malignidades?",
+        "8": "Ó ser humano! Ele já te revelou o que é bom; e o que Yahweh exige de ti senão apenas que pratiques a justiça, ames a misericórdia e a lealdade, e andes humildemente na companhia do teu Deus!",
+        "9": "Eis que a voz de Yahweh está clamando à cidade; e todo aquele que for sábio temerá o seu Nome! Escutai, pois, ó tribo de Judá e suas assembleias!",
+        "10": "Porventura ainda há tesouros de malignidade na casa do ímpio? E o efa, o padrão de medir, falsificado, que é maldito?",
+        "11": "Poderia eu inocentar aquele que tem balanças adulteradas e fraudulentas, e uma bolsa de pesos enganosos?",
+        "12": "Pois os ricos que vivem entre vós na cidade estão cheios de violência; o seu povo é mentiroso, e as suas línguas só falam enganos!",
+        "13": "Portanto, Eu mesmo haverei de te enfraquecer, te ferindo e arruinando por causa dos teus muitos pecados.",
+        "14": "Tu comerás, mas não te saciarás, e continuamente estarás com fome; acumularás os teus bens, mas nada conseguirás poupar, Eu te entregarei à espada.",
+        "15": "Tu semearás, mas não colherás; pisarás a azeitona, mas não te ungirás de azeite; pisarás as uvas, mas não beberás o vinho.",
+        "16": "Porquanto tendes obedecido aos decretos do rei Onri, e todas as práticas malignas da família de Acabe, e tens seguido as tradições deles. Por tudo isso vos entregarei à destruição, e o teu povo ao desprezo e humilhação; sofrerás o escárnio das nações!”"
     }
 }

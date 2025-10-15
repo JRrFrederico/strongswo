@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "A herança dos sacerdotes e levitas",
+        "9": "As práticas pagãs são abomináveis",
+        "14": "O profeta de Yahweh, o SENHOR"
+    },
     "versiculos": {
-        "1": "Os sacerdotes levitas, toda a tribo de Levi, não terão parte nem herança com Israel; das ofertas queimadas do Senhor e da sua herança comerão.",
+        "1": "OS sacerdotes levitas, toda a tribo de Levi, não terão parte nem herança com Israel; das ofertas queimadas do Senhor e da sua herança comerão.",
         "2": "Por isso não terão herança no meio de seus irmãos; o Senhor é a sua herança, como lhes tem dito.",
         "3": "Este, pois, será o direito dos sacerdotes, a receber do povo, dos que oferecerem sacrifício, seja boi ou gado miúdo; que darão ao sacerdote a espádua e as queixadas e o bucho.",
         "4": "Dar-lhe-ás as primícias do teu grão, do teu mosto e do teu azeite, e as primícias da tosquia das tuas ovelhas.",

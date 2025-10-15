@@ -1,9 +1,13 @@
 {
     "livro": "João",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus, o único caminho",
+        "16": "Jesus promete o Espírito Santo",
+        "25": "O dom da paz de Cristo"
+    },
     "versiculos": {
-        "1": "Não se turbe o vosso coração; credes em Deus, crede também em mim.",
+        "1": "NÃO se turbe o vosso coração; credes em Deus, crede também em mim.",
         "2": "Na casa de meu Pai há muitas moradas; se não fosse assim, eu vo-lo teria dito. Vou preparar-vos lugar.",
         "3": "E quando eu for, e vos preparar lugar, virei outra vez, e vos levarei para mim mesmo, para que onde eu estiver estejais vós também.",
         "4": "Mesmo vós sabeis para onde vou, e conheceis o caminho.",

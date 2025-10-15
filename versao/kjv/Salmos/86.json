@@ -1,24 +1,26 @@
 {
     "livro": "Salmos",
     "capitulo": 86,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração em tempos de aflição"
+    },
     "versiculos": {
-        "1": "Oração de Davi. Inclina o teu ouvido, ó SENHOR, ouve-me, pois eu sou pobre e necessitado.",
-        "2": "Preserva a minha alma; pois eu sou santo; ó tu, meu Deus, salva o teu servo que confia em ti.",
-        "3": "Tem misericórdia de mim, ó Senhor, pois eu clamo a ti diariamente.",
-        "4": "Regozija a alma do teu servo; pois para ti, ó Senhor, elevo a minha alma.",
-        "5": "Pois tu, Senhor, és bom, e pronto a perdoar; e abundante em misericórdia a todos aqueles que clamam a ti.",
-        "6": "Dá ouvidos, ó SENHOR, à minha oração; e atende à voz das minhas súplicas.",
-        "7": "No dia da minha tribulação, eu clamarei a ti; pois tu me responderás.",
-        "8": "Entre os deuses não há nenhum como tu, ó Senhor, nem há obras como as tuas obras.",
-        "9": "Todas as nações que tu fizeste virão e adorarão diante de ti, ó Senhor; e glorificarão o teu nome.",
-        "10": "Pois tu és grande e fazes coisas maravilhosas; somente tu és Deus.",
-        "11": "Ensina-me o teu caminho, ó SENHOR; eu andarei na tua verdade; une o meu coração para temer o teu nome.",
-        "12": "Eu te louvarei, ó Senhor meu Deus, com todo o meu coração, e glorificarei o teu nome para sempre.",
-        "13": "Pois grande é a tua misericórdia para comigo, e tu livraste minha alma do mais baixo inferno.",
-        "14": "Ó Deus, os orgulhosos se levantam contra mim, e as assembleias de homens violentos buscaram a minha alma, e não te puseram diante deles.",
-        "15": "Mas tu, ó Senhor, és um Deus cheio de compaixão, e gracioso, longânimo, e abundante em misericórdia e verdade.",
-        "16": "Ó, torna-te a mim, e tem misericórdia de mim; dá a tua força ao teu servo, e salva o filho da tua serva.",
-        "17": "Mostra-me um sinal pelo bem; que aqueles que me odeiam possam vê-lo, e fiquem envergonhados, porque tu, SENHOR, me ajudaste e me consolaste."
+        "1": "Ó Eterno, inclina para mim os teus ouvidos e dá-me tua resposta, pois sou um desvalido e estou muito aflito.",
+        "2": "Conserva-me em vida, pois sou fiel. Tu, meu Deus, salva teu servo, que em ti confia!",
+        "3": "Tem piedade de mim, S ENHOR , pois a ti clamo, todo o dia.",
+        "4": "Alegra o coração do teu servo, porquanto a ti, S ENHOR , elevo a minha alma.",
+        "5": "Pois tu és bondoso e perdoador, S ENHOR , rico em graça e misericórdia para com todos os que te invocam.",
+        "6": "Escuta a minha oração, S ENHOR ; atenta para a minha súplica!",
+        "7": "No dia do perigo clamo a ti, porque tu me respondes.",
+        "8": "Ninguém, entre os deuses, é como tu, ó S ENHOR , e nada existe que se compare às tuas obras.",
+        "9": "Todas as nações que fizeste virão prostrar-se diante de ti, S ENHOR , e glorificarão teu Nome,",
+        "10": "pois tu és magnífico e realizas milagres maravilhosos; em verdade só tu és Deus!",
+        "11": "Revela-me, S ENHOR , teu Caminho, para que eu o siga em fidelidade para contigo. Orienta meu coração, para que tema teu Nome!",
+        "12": "De todo o coração te exaltarei, S ENHOR , meu Deus, e glorificarei para sempre o teu Nome,",
+        "13": "porquanto teu amor é tão generoso para comigo, que livraste minha alma de todos os poderes da morte.",
+        "14": "Ó Deus, os arrogantes se levantam contra minha pessoa; um bando de prepotentes atenta contra minha vida, gente que não faz caso de ti.",
+        "15": "Entretanto tu, S ENHOR , és Deus compassivo e misericordioso, rico em paciência, amor leal e justiça;",
+        "16": "volta-te para mim, tem compaixão de mim! Concede tua força a teu servo necessitado e salva o teu filho fiel!",
+        "17": "Dá-me um sinal do teu favor, para que todos os que me tratam com ódio o vejam e se sintam humilhados, ao confirmar que tu me acompanhas com teu conforto e auxílio!"
     }
 }

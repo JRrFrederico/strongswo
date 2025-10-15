@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 96,
-    "titulos": {},
+    "titulos": {
+        "1": "Tributo à majestade do Senhor"
+    },
     "versiculos": {
-        "1": "Cantai ao Senhor um cântico novo, cantai ao Senhor toda a terra.",
+        "1": "CANTAI ao Senhor um cântico novo, cantai ao Senhor toda a terra.",
         "2": "Cantai ao Senhor, bendizei o seu nome; anunciai a sua salvação de dia em dia.",
         "3": "Anunciai entre as nações a sua glória; entre todos os povos as suas maravilhas.",
         "4": "Porque grande é o Senhor, e mui digno de louvor, mais temível do que todos os deuses.",

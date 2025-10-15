@@ -1,9 +1,14 @@
 {
     "livro": "Lucas",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus come com os pecadores",
+        "3": "A parábola da ovelha perdida",
+        "8": "A parábola da moeda perdida",
+        "11": "A parábola do filho perdido"
+    },
     "versiculos": {
-        "1": "E chegavam-se a ele todos os publicanos e pecadores para o ouvir.",
+        "1": "E CHEGAVAM-SE a ele todos os publicanos e pecadores para o ouvir.",
         "2": "E os fariseus e os escribas murmuravam, dizendo: Este recebe pecadores, e come com eles.",
         "3": "E ele lhes propôs esta parábola, dizendo:",
         "4": "Que homem dentre vós, tendo cem ovelhas, e perdendo uma delas, não deixa no deserto as noventa e nove, e vai após a perdida até que venha a achá-la?",

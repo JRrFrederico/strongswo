@@ -1,9 +1,13 @@
 {
     "livro": "Gênesis",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "O primeiro homicídio",
+        "17": "A descendência de Caim",
+        "25": "Sete, outro filho de Adão e Eva"
+    },
     "versiculos": {
-        "1": "E conheceu Adão a Eva, sua mulher, e ela concebeu e deu à luz a Caim, e disse: Alcancei do Senhor um homem.",
+        "1": "E CONHECEU Adão a Eva, sua mulher, e ela concebeu e deu à luz a Caim, e disse: Alcancei do Senhor um homem.",
         "2": "E deu à luz mais a seu irmão Abel; e Abel foi pastor de ovelhas, e Caim foi lavrador da terra.",
         "3": "E aconteceu ao cabo de dias que Caim trouxe do fruto da terra uma oferta ao Senhor.",
         "4": "E Abel também trouxe dos primogênitos das suas ovelhas, e da sua gordura; e atentou o Senhor para Abel e para a sua oferta.",

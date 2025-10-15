@@ -1,9 +1,14 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus proíbe a guerra entre irmãos",
+        "5": "As cidades de Judá são fortificadas",
+        "13": "Sacerdotes e levitas vêm para Judá",
+        "18": "A família do rei Roboão"
+    },
     "versiculos": {
-        "1": "Vindo, pois, Roboão a Jerusalém, reuniu, da casa de Judá e Benjamim, cento e oitenta mil escolhidos, destros na guerra, para pelejarem contra Israel, e para restituírem o reino a Roboão.",
+        "1": "VINDO, pois, Roboão a Jerusalém, reuniu, da casa de Judá e Benjamim, cento e oitenta mil escolhidos, destros na guerra, para pelejarem contra Israel, e para restituírem o reino a Roboão.",
         "2": "Porém a palavra do Senhor veio a Semaías, homem de Deus, dizendo:",
         "3": "Fala a Roboão, filho de Salomão, rei de Judá, e a todo o Israel, em Judá e Benjamim, dizendo:",
         "4": "Assim diz o Senhor: Não subireis, nem pelejareis contra os vossos irmãos; volte cada um à sua casa; porque de mim proveio isto. E ouviram as palavras do Senhor, e desistiram de ir contra Jeroboão.",

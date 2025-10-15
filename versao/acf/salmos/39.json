@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 39,
-    "titulos": {},
+    "titulos": {
+        "1": "A frágil e fugaz vida humana"
+    },
     "versiculos": {
-        "1": "Eu disse: Guardarei os meus caminhos para não pecar com a minha língua; guardarei a boca com um freio, enquanto o ímpio estiver diante de mim.",
+        "1": "EU disse: Guardarei os meus caminhos para não pecar com a minha língua; guardarei a boca com um freio, enquanto o ímpio estiver diante de mim.",
         "2": "Com o silêncio fiquei mudo; calava-me mesmo acerca do bem, e a minha dor se agravou.",
         "3": "Esquentou-se-me o coração dentro de mim; enquanto eu meditava se acendeu um fogo; então falei com a minha língua:",
         "4": "Faze-me conhecer, Senhor, o meu fim, e a medida dos meus dias qual é, para que eu sinta quanto sou frágil.",

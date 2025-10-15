@@ -1,9 +1,13 @@
 {
     "livro": "João",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus clama ao Pai por sua hora",
+        "6": "Jesus ora ao Pai pelos discípulos",
+        "20": "Jesus ora ao Pai pelos cristãos"
+    },
     "versiculos": {
-        "1": "Jesus falou assim e, levantou seus olhos ao céu, e disse: Pai, é chegada a hora; glorifica a teu Filho, para que também o teu Filho te glorifique a ti;",
+        "1": "JESUS falou assim e, levantou seus olhos ao céu, e disse: Pai, é chegada a hora; glorifica a teu Filho, para que também o teu Filho te glorifique a ti;",
         "2": "Assim como lhe deste poder sobre toda a carne, para que dê a vida eterna a todos quantos lhe deste.",
         "3": "E a vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo, a quem enviaste.",
         "4": "Eu glorifiquei-te na terra, tendo consumado a obra que me deste a fazer.",
@@ -22,7 +26,7 @@
         "17": "Santifica-os na tua verdade; a tua palavra é a verdade.",
         "18": "Assim como tu me enviaste ao mundo, também eu os enviei ao mundo.",
         "19": "E por eles me santifico a mim mesmo, para que também eles sejam santificados na verdade.",
-        "20": "E não rogo somente por estes, mas também por aqueles que pela sua palavra hão de crer em mim;",
+        "20": "E não rogo somente por estes, mas também por aqueles que pela tua palavra hão de crer em mim;",
         "21": "Para que todos sejam um, como tu, ó Pai, o és em mim, e eu em ti; que também eles sejam um em nós, para que o mundo creia que tu me enviaste.",
         "22": "E eu dei-lhes a glória que a mim me deste, para que sejam um, como nós somos um.",
         "23": "Eu neles, e tu em mim, para que eles sejam perfeitos em unidade, e para que o mundo conheça que tu me enviaste a mim, e que os tens amado a eles como me tens amado a mim.",

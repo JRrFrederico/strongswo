@@ -1,9 +1,13 @@
 {
     "livro": "Êxodo",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "A quinta praga: Morte dos animais",
+        "8": "A sexta praga: Tumores e úlceras",
+        "13": "A sétima praga: Chuva de pedras"
+    },
     "versiculos": {
-        "1": "Depois o Senhor disse a Moisés: Vai a Faraó, e dize-lhe: Assim diz o Senhor Deus dos hebreus: Deixa ir o meu povo, para que me sirva.",
+        "1": "DEPOIS o Senhor disse a Moisés: Vai a Faraó, e dize-lhe: Assim diz o Senhor Deus dos hebreus: Deixa ir o meu povo, para que me sirva.",
         "2": "Porque se recusares deixá-los ir, e ainda por força os detiveres,",
         "3": "Eis que a mão do Senhor será sobre teu gado, que está no campo, sobre os cavalos, sobre os jumentos, sobre os camelos, sobre os bois, e sobre as ovelhas, com pestilência gravíssima.",
         "4": "E o Senhor fará separação entre o gado dos israelitas e o gado dos egípcios, para que nada morra de tudo o que for dos filhos de Israel.",

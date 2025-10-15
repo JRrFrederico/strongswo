@@ -1,9 +1,11 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Benjamim e Jerusalém"
+    },
     "versiculos": {
-        "1": "E Benjamim gerou a Belá, seu primogênito, a Asbel o segundo, e a Aará o terceiro,",
+        "1": "E BENJAMIM gerou a Belá, seu primogênito, a Asbel o segundo, e a Aará o terceiro,",
         "2": "A Noá o quarto, e a Rafa o quinto.",
         "3": "E Belá teve estes filhos: Adar, Gera, Abiúde,",
         "4": "Abisua, Naamã, Aoá,",

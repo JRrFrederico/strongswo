@@ -1,9 +1,21 @@
 {
     "livro": "Lucas",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "As muitas discípulas de Jesus",
+        "4": "A parábola do semeador",
+        "9": "Jesus explica a parábola",
+        "16": "A parábola da luz manifesta",
+        "19": "Os fiéis formam a família de Jesus",
+        "22": "A tempestade é neutralizada por Jesus",
+        "26": "A libertação de um endemoninhado",
+        "35": "Um homem geraseno se torna discípulo",
+        "40": "A súplica do dirigente da sinagoga",
+        "43": "A cura de uma mulher no caminho",
+        "49": "Jesus ressuscita a filha de Jairo"
+    },
     "versiculos": {
-        "1": "E aconteceu, depois disto, que andava de cidade em cidade, e de aldeia em aldeia, pregando e anunciando o evangelho do reino de Deus; e os doze iam com ele,",
+        "1": "E ACONTECEU, depois disto, que andava de cidade em cidade, e de aldeia em aldeia, pregando e anunciando o evangelho do reino de Deus; e os doze iam com ele,",
         "2": "E algumas mulheres que haviam sido curadas de espíritos malignos e de enfermidades: Maria, chamada Madalena, da qual saíram sete demônios;",
         "3": "E Joana, mulher de Cuza, procurador de Herodes, e Suzana, e muitas outras que o serviam com seus bens.",
         "4": "E, ajuntando-se uma grande multidão, e vindo de todas as cidades ter com ele, disse por parábola:",

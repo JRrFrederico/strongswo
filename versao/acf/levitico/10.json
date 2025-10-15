@@ -1,9 +1,16 @@
 {
     "livro": "Levítico",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "A morte de Nadabe e Abiú",
+        "4": "A retirada dos corpos queimados",
+        "6": "Regras de luto para os sacerdotes",
+        "8": "A proibição do uso de vinho",
+        "12": "A parte dos sacerdotes nas ofertas",
+        "16": "Regra para a oferta pelo pecado"
+    },
     "versiculos": {
-        "1": "E os filhos de Arão, Nadabe e Abiú, tomaram cada um o seu incensário e puseram neles fogo, e colocaram incenso sobre ele, e ofereceram fogo estranho perante o Senhor, o que não lhes ordenara.",
+        "1": "E OS filhos de Arão, Nadabe e Abiú, tomaram cada um o seu incensário e puseram neles fogo, e colocaram incenso sobre ele, e ofereceram fogo estranho perante o Senhor, o que não lhes ordenara.",
         "2": "Então saiu fogo de diante do Senhor e os consumiu; e morreram perante o Senhor.",
         "3": "E disse Moisés a Arão: Isto é o que o Senhor falou, dizendo: Serei santificado naqueles que se chegarem a mim, e serei glorificado diante de todo o povo. Porém Arão calou-se.",
         "4": "E Moisés chamou a Misael e a Elzafã, filhos de Uziel, tio de Arão, e disse-lhes: Chegai, levai a vossos irmãos de diante do santuário, para fora do arraial.",

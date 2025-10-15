@@ -1,9 +1,12 @@
 {
     "livro": "2 Samuel",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "A fome castiga Israel",
+        "15": "Lutas contra os filisteus"
+    },
     "versiculos": {
-        "1": "E houve nos dias de Davi uma fome de três anos consecutivos; e Davi consultou ao Senhor, e o Senhor lhe disse: É por causa de Saul e da sua casa sanguinária, porque matou os gibeonitas.",
+        "1": "E HOUVE nos dias de Davi uma fome de três anos consecutivos; e Davi consultou ao Senhor, e o Senhor lhe disse: É por causa de Saul e da sua casa sanguinária, porque matou os gibeonitas.",
         "2": "Então chamou o rei aos gibeonitas, e lhes falou (ora os gibeonitas não eram dos filhos de Israel, mas do restante dos amorreus, e os filhos de Israel lhes tinham jurado, porém Saul, no seu zelo à causa dos filhos de Israel e de Judá, procurou feri-los).",
         "3": "Disse, pois, Davi aos gibeonitas: Que quereis que eu vos faça? E que satisfação vos darei, para que abençoeis a herança do Senhor?",
         "4": "Então os gibeonitas lhe disseram: Não é por prata nem ouro que temos questão com Saul e com sua casa; nem tampouco pretendemos matar pessoa alguma em Israel. E disse ele: Que é, pois, que quereis que vos faça?",

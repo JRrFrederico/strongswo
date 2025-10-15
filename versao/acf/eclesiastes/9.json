@@ -1,9 +1,12 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "O fim de toda a vida é o mesmo",
+        "11": "O valor e o paradoxo do saber"
+    },
     "versiculos": {
-        "1": "Deveras todas estas coisas considerei no meu coração, para declarar tudo isto: que os justos, e os sábios, e as suas obras, estão nas mãos de Deus, e também o homem não conhece nem o amor nem o ódio; tudo passa perante ele.",
+        "1": "DEVERAS todas estas coisas considerei no meu coração, para declarar tudo isto: que os justos, e os sábios, e as suas obras, estão nas mãos de Deus, e também o homem não conhece nem o amor nem o ódio; tudo passa perante ele.",
         "2": "Tudo sucede igualmente a todos; o mesmo sucede ao justo e ao ímpio, ao bom e ao puro, como ao impuro; assim ao que sacrifica como ao que não sacrifica; assim ao bom como ao pecador; ao que jura como ao que teme o juramento.",
         "3": "Este é o mal que há entre tudo quanto se faz debaixo do sol; a todos sucede o mesmo; e que também o coração dos filhos dos homens está cheio de maldade, e que há desvarios no seu coração enquanto vivem, e depois se vão aos mortos.",
         "4": "Ora, para aquele que está entre os vivos há esperança (porque melhor é o cão vivo do que o leão morto).",

@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "O falso profeta Hananiá ben Azur",
+        "12": "A morte de Hananias"
+    },
     "versiculos": {
-        "1": "E sucedeu no mesmo ano, no princípio do reinado de Zedequias, rei de Judá, no ano quarto, no mês quinto, que Hananias, filho de Azur, o profeta que era de Gibeom, me falou na casa do Senhor, na presença dos sacerdotes e de todo o povo, dizendo:",
+        "1": "E SUCEDEU no mesmo ano, no princípio do reinado de Zedequias, rei de Judá, no ano quarto, no mês quinto, que Hananias, filho de Azur, o profeta que era de Gibeom, me falou na casa do Senhor, na presença dos sacerdotes e de todo o povo, dizendo:",
         "2": "Assim fala o Senhor dos Exércitos, o Deus de Israel, dizendo: Eu quebrei o jugo do rei de Babilônia.",
         "3": "Depois de passados dois anos completos, eu tornarei a trazer a este lugar todos os utensílios da casa do Senhor, que deste lugar tomou Nabucodonosor, rei de Babilônia, levando-os a Babilônia.",
         "4": "Também a Jeconias, filho de Jeoiaquim, rei de Judá, e a todos os do cativeiro de Judá, que entraram em Babilônia, eu tornarei a trazer a este lugar, diz o Senhor; porque quebrarei o jugo do rei de Babilônia.",

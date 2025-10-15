@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 48,
-    "titulos": {},
+    "titulos": {
+        "1": "Palavra de Yahweh para Israel"
+    },
     "versiculos": {
-        "1": "Ouvi isto, casa de Jacó, que vos chamais do nome de Israel, e saístes das águas de Judá, que jurais pelo nome do Senhor, e fazeis menção do Deus de Israel, mas não em verdade nem em justiça.",
+        "1": "OUVI isto, casa de Jacó, que vos chamais do nome de Israel, e saístes das águas de Judá, que jurais pelo nome do Senhor, e fazeis menção do Deus de Israel, mas não em verdade nem em justiça.",
         "2": "E até da santa cidade tomam o nome e se firmam sobre o Deus de Israel; o Senhor dos Exércitos é o seu nome.",
         "3": "As primeiras coisas desde a antiguidade as anunciei; da minha boca saíram, e eu as fiz ouvir; apressadamente as fiz, e aconteceram.",
         "4": "Porque eu sabia que eras duro, e a tua cerviz um nervo de ferro, e a tua testa de bronze.",

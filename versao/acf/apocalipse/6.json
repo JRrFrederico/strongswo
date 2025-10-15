@@ -1,9 +1,16 @@
 {
     "livro": "Apocalipse",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "O Cordeiro abre o Primeiro Selo",
+        "3": "O segundo selo",
+        "5": "O terceiro selo",
+        "7": "O quarto selo",
+        "9": "O quinto selo",
+        "12": "O sexto selo"
+    },
     "versiculos": {
-        "1": "E, havendo o Cordeiro aberto um dos selos, olhei, e ouvi um dos quatro animais, que dizia como em voz de trovão: Vem, e vê.",
+        "1": "E, HAVENDO o Cordeiro aberto um dos selos, olhei, e ouvi um dos quatro animais, que dizia como em voz de trovão: Vem, e vê.",
         "2": "E olhei, e eis um cavalo branco; e o que estava assentado sobre ele tinha um arco; e foi-lhe dada uma coroa, e saiu vitorioso, e para vencer.",
         "3": "E, havendo aberto o segundo selo, ouvi o segundo animal, dizendo: Vem, e vê.",
         "4": "E saiu outro cavalo, vermelho; e ao que estava assentado sobre ele foi dado que tirasse a paz da terra, e que se matassem uns aos outros; e foi-lhe dada uma grande espada.",

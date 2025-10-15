@@ -1,9 +1,12 @@
 {
     "livro": "Ester",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Ester dirige-se à presença do rei",
+        "9": "É feita uma forca para Mardoqueu"
+    },
     "versiculos": {
-        "1": "Sucedeu, pois, que ao terceiro dia Ester se vestiu com trajes reais, e se pôs no pátio interior da casa do rei, defronte do aposento do rei; e o rei estava assentado sobre o seu trono real, na casa real, defronte da porta do aposento.",
+        "1": "SUCEDEU, pois, que ao terceiro dia Ester se vestiu com trajes reais, e se pôs no pátio interior da casa do rei, defronte do aposento do rei; e o rei estava assentado sobre o seu trono real, na casa real, defronte da porta do aposento.",
         "2": "E sucedeu que, vendo o rei a rainha Ester, que estava no pátio, ela alcançou graça aos seus olhos; e o rei estendeu para Ester o cetro de ouro, que tinha na sua mão, e Ester chegou, e tocou a ponta do cetro.",
         "3": "Então o rei lhe disse: Que é que queres, rainha Ester, ou qual é a tua petição? Até metade do reino se te dará.",
         "4": "E disse Ester: Se parecer bem ao rei, venha o rei hoje com Hamã ao banquete que lhe tenho preparado.",

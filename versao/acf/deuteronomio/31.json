@@ -1,9 +1,15 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus fala a Moisés e nomeia Josué",
+        "9": "A santa leitura da Torá, a Lei",
+        "14": "Profecia à rebeldia de Israel",
+        "24": "A Torá, a Lei ao lado da Arca",
+        "28": "Israel ouve o cântico de Deus"
+    },
     "versiculos": {
-        "1": "Depois foi Moisés, e falou estas palavras a todo o Israel,",
+        "1": "DEPOIS foi Moisés, e falou estas palavras a todo o Israel,",
         "2": "E disse-lhes: Da idade de cento e vinte anos sou eu hoje; já não poderei mais sair e entrar; além disto o Senhor me disse: Não passarás o Jordão.",
         "3": "O Senhor teu Deus passará adiante de ti; ele destruirá estas nações de diante de ti, para que as possuas; Josué passará adiante de ti, como o Senhor tem falado.",
         "4": "E o Senhor lhes fará como fez a Siom e a Ogue, reis dos amorreus, e à sua terra, os quais destruiu.",

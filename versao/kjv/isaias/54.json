@@ -1,24 +1,27 @@
 {
     "livro": "Isaías",
     "capitulo": 54,
-    "titulos": {},
+    "titulos": {
+        "1": "A vindoura glória de Jerusalém",
+        "11": "A nova Jerusalém"
+    },
     "versiculos": {
-        "1": "Canta, ó estéril, tu que não deste à luz. Irrompa em canto e clama em alta voz, tu que não entraste em trabalho de parto, porque mais são os filhos da desolada do que os filhos da mulher casada, diz o SENHOR.",
-        "2": "Amplia o lugar de tua tenda e permita-os estender as cortinas de tuas habitações. Não faça de forma restrita, alonga tuas cordas e fortalece tuas estacas.",
-        "3": "Porquanto, tu transbordarás para a direita e para a esquerda, e tua descendência herdará as nações e fará as cidades desoladas serem habitadas.",
-        "4": "Não temas, porque tu não serás envergonhada. Nem tu serás confundida, porque tu não serás envergonhada. Porquanto, tu esquecerás a vergonha de tua mocidade e não lembrarás nunca mais a desonra de tua viuvez.",
-        "5": "Porque teu Criador é teu marido. O SENHOR dos Exércitos é seu nome, e teu Redentor o Santo de Israel. O Deus de toda a terra será Ele denominado.",
-        "6": "Porque o SENHOR tem te chamado como uma mulher abandonada e aflita em Espírito, e uma esposa da mocidade, quando foi rejeitada, diz teu Deus.",
-        "7": "Durante um pequeno momento tenho eu te abandonado, porém, com grandes misericórdias eu te recolherei.",
-        "8": "Em um ímpeto de ira eu escondi minha face de ti, durante um momento, porém, com eterna bondade terei eu misericórdia de ti, diz o SENHOR, teu Redentor.",
-        "9": "Porque isto é como as águas de Noé para mim. Porque como eu tenho jurado que as águas de Noé nunca mais deveriam se estender por sobre a terra, então tenho eu jurado que eu não estaria furioso contigo, nem te repreenderia.",
-        "10": "Porque os montes desaparecerão e as colinas serão removidas, contudo, minha bondade não se afastará de ti, nem o pacto da minha paz será removida, diz o SENHOR, que tem misericórdia de ti.",
-        "11": "Ó tu, afligida, arrojada com tempestade e não consolada. Eis que tuas pedras com belas cores eu irei colocar, e porei teus alicerces com safiras.",
-        "12": "E farei tuas janelas de ágata, e teus portões de carbúnculos, e todos os teus limites de agradáveis pedras.",
-        "13": "E todos teus filhos serão discípulos do SENHOR, e grande será a paz de teus filhos.",
-        "14": "Em justiça tu serás estabelecida. Tu estarás longe da opressão, pois tu não temerás. E longe do terror, porquanto ele não se aproximará de ti.",
-        "15": "Eis que eles certamente conspirarão, porém, sem mim. Quem quer que se reunir contra ti cairá, por amor a ti.",
-        "16": "Eis que eu tenho criado o ferreiro, que aviva as brasas no fogo e que produz ferramenta para o trabalho dele, e eu tenho criado o devastador para destruir.",
-        "17": "Nenhuma arma que é forjada contra ti prosperará, e toda língua que vier a se levantar contra ti em juízo tu condenarás. Esta é a herança dos servos do SENHOR, e a justiça deles é proveniente de mim, diz o SENHOR."
+        "1": "“Entoa alegre canto, ó estéril, que nunca teve um filho para criar; irrompe, pois, em canto, brade com júbilo, tu que jamais sentiste as dores do parto; porquanto mais numerosos são os filhos da abandonada do que os filhos daquela que tem marido!”, declara Yahweh .",
+        "2": "“Alarga o espaço da tua tenda, estende as cordas, reforça as estacas.",
+        "3": "Pois hás de transbordar para a direita e para a esquerda, a tua descendência tomará posse de outras terras e repovoará cidades abandonadas.",
+        "4": "Não temas, porque não tornarás a ficar envergonhada; jamais te sentirás humilhada, porque não ficarás constrangida. Em verdade, hás de esquecer a condição vexatória da tua juventude e não te recordarás mais da humilhação da tua viuvez.",
+        "5": "Pois o teu Criador é o teu esposo, Yahweh , o S ENHOR dos Exércitos é o seu Nome, o Santo de Israel e seu Redentor, ele é chamado o Deus de toda a terra.",
+        "6": "O Eterno te chamará de volta como se fosses uma mulher abandonada e aflita de espírito, uma mulher que se casou jovem tão somente para ser rejeitada!”, diz o seu Deus.",
+        "7": "“Por breve momento Eu te abandonei, mas com profunda compaixão Eu te farei retornar.",
+        "8": "Num impulso de indignação escondi de ti o meu rosto, mas logo me compadeci de ti, levado por um amor que jamais se extinguirá!” Declara Yahweh , o teu Redentor.",
+        "9": "Como nos dias de Noé, quando jurei que as águas de Noé nunca mais inundariam a terra, do mesmo modo juro agora que nunca mais me encolerizarei contra ti, que não mais te ameaçarei.",
+        "10": "Os montes podem mudar de lugar e as colinas podem abalar-se, mas, o meu sentimento de benevolência e misericórdia, isto é, meu amor, nunca mudará; a minha Aliança de Paz não será jamais abalada!” Afirma Yahweh , aquele que se compadece de ti.",
+        "11": "“Ó cidade aflita, açoitada por tempestades e não consolada, Eu te edificarei com turquesas, edificarei teus alicerces com safiras.",
+        "12": "Farei de rubis os teus escudos, de carbúnculos as tuas portas, e de pedras preciosas todos os teus muros.",
+        "13": "Todos os teus filhos serão discípulos de Yahweh ; grande será a paz dos teus filhos.",
+        "14": "Serás edificada sobre a justiça; livre da opressão, nada terás a temer; estarás livre do terror; com efeito, ele não te atingirá.",
+        "15": "Se fores atacada, não será por obra minha; todo aquele que te atacar, cairá nas tuas mãos.",
+        "16": "Vede! Eis que fui Eu quem criou o ferreiro, que sopra as brasas até darem chama e forja cada arma para o seu próprio fim. E fui Eu quem criou o exterminador para gerar o caos.",
+        "17": "Nenhum instrumento forjado contra ti terá êxito. Toda língua que se levantar contra ti em julgamento tu a provarás culpada. Tal será a herança dos servos de Yahweh , e esta é a defesa que faço do nome deles!” Oráculo do S ENHOR ."
     }
 }

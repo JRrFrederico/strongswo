@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 114,
-    "titulos": {},
+    "titulos": {
+        "1": "Os milagres no Êxodo"
+    },
     "versiculos": {
-        "1": "Quando Israel saiu do Egito, e a casa de Jacó de um povo de língua estranha,",
+        "1": "QUANDO Israel saiu do Egito, e a casa de Jacó de um povo de língua estranha,",
         "2": "Judá foi seu santuário, e Israel seu domínio.",
         "3": "O mar viu isto, e fugiu; o Jordão voltou para trás.",
         "4": "Os montes saltaram como carneiros, e os outeiros como cordeiros.",

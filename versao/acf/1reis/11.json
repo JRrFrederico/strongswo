@@ -1,9 +1,14 @@
 {
     "livro": "1 Reis",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "O erro de Salomão",
+        "14": "Surgem os inimigos de Salomão",
+        "26": "A revolta de Jeroboão",
+        "41": "A morte do rei Salomão"
+    },
     "versiculos": {
-        "1": "E o rei Salomão amou muitas mulheres estrangeiras, além da filha de Faraó: moabitas, amonitas, edomitas, sidônias e heteias,",
+        "1": "E O REI Salomão amou muitas mulheres estrangeiras, além da filha de Faraó: moabitas, amonitas, edomitas, sidônias e heteias,",
         "2": "Das nações de que o Senhor tinha falado aos filhos de Israel: Não chegareis a elas, e elas não chegarão a vós; de outra maneira seguramente perverterão o vosso coração para seguirdes os seus deuses. A estas se uniu Salomão com amor.",
         "3": "E tinha setecentas mulheres, princesas, e trezentas concubinas; e suas mulheres lhe perverteram o coração.",
         "4": "Porque sucedeu que, no tempo da velhice de Salomão, suas mulheres lhe perverteram o coração para seguir outros deuses; e o seu coração não era perfeito para com o Senhor seu Deus, como o coração de Davi, seu pai,",

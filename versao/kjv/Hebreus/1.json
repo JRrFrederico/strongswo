@@ -1,21 +1,24 @@
 {
     "livro": "Hebreus",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus revelou-se em Jesus Cristo",
+        "5": "O Filho é exaltado acima dos anjos"
+    },
     "versiculos": {
-        "1": "Deus, que várias vezes e de diversas maneiras, falou no passado aos pais pelos profetas,",
-        "2": "nestes últimos dias falou-nos pelo seu Filho, a quem constituiu herdeiro de todas as coisas, por quem fez também os mundos.",
-        "3": "O qual, sendo o resplendor de sua glória, e a imagem expressa de sua pessoa, e sustentando todas as coisas pela palavra do seu poder, havendo feito por si mesmo a purificação dos nossos pecados, assentou-se à destra da Majestade nas alturas;",
-        "4": "tendo sido feito tanto melhor do que os anjos, assim obteve por herança um nome mais excelente do que eles.",
-        "5": "Porque a qual dos anjos disse ele alguma vez: Tu és meu Filho, neste dia te gerei? E outra vez: Eu serei para ele um Pai, e ele será para mim um Filho?",
-        "6": "E outra vez, quando traz ao mundo o primogênito, diz: E que todos os anjos de Deus o adorem.",
-        "7": "E dos anjos diz: Quem faz dos seus anjos espíritos, e de seus ministros uma chama de fogo.",
-        "8": "Mas ao Filho ele diz: Teu trono, ó Deus, é para sempre e sempre; cetro de justiça é o cetro do teu reino.",
-        "9": "Amaste a justiça e odiaste a iniquidade; por isso Deus, também o teu Deus, te ungiu com o óleo da alegria mais do que a teus companheiros.",
-        "10": "E tu, ­Senhor, no princípio estabeleceste a fundação da terra, e os céus são as obras de tuas mãos.",
-        "11": "Eles perecerão, mas tu permaneces; e todos eles envelhecerão como acontece com a vestimenta;",
-        "12": "e como um manto tu irás dobrá-los e eles serão mudados; mas tu és o mesmo, e os teus anos não falharão.",
-        "13": "Mas a qual dos anjos disse ele alguma vez: Assenta-te à minha destra, até que ponha os teus inimigos por escabelo de teus pés?",
-        "14": "Não são todos eles espíritos ministradores, enviados para servir àqueles que serão herdeiros da salvação?"
+        "1": "Havendo Deus, desde a antiguidade, falado, em várias ocasiões e de muitas formas, aos nossos pais, por intermédio dos profetas,",
+        "2": "nestes últimos tempos, nos falou mediante seu Filho, a quem constituiu herdeiro de tudo o que existe e por meio de quem criou o Universo.",
+        "3": "Ele, que é o resplendor da glória e a expressão exata do seu Ser, sustentando tudo o que há pela Palavra do seu poder. Depois de haver realizado a purificação dos pecados, Ele se assentou à direita da Majestade nas alturas,",
+        "4": "tornando-se tão superior aos anjos quanto o Nome que herdou é ainda mais excelente do que eles.",
+        "5": "Porquanto, a qual dos anjos Deus alguma vez afirmou: “Tu és meu Filho; Eu hoje te gerei”? E outra vez: “Eu lhe serei Pai, e Ele me será Filho”?",
+        "6": "E uma vez mais, quando Deus introduz o Primogênito no mundo, declara: “Todos os anjos de Deus o adorem”.",
+        "7": "Quanto aos anjos, Ele afirma: “Ele faz dos seus anjos ventos, e dos seus servos, labaredas de fogo”.",
+        "8": "Entretanto, a respeito do Filho, revela: “O teu trono, ó Deus, subsiste por toda a eternidade; e o cetro do teu Reino é bastão da justiça.",
+        "9": "Amas o direito e odeias a iniquidade; por esse motivo, Deus, o teu Deus, te escolheu e ungiu com óleo de alegria, como a nenhum dos teus companheiros”.",
+        "10": "E acrescenta: “Tu, Senhor, no princípio estabeleceste os fundamentos da terra, e os céus são obras das tuas mãos.",
+        "11": "Eles perecerão, mas tu permanecerás; envelhecerão como vestimentas,",
+        "12": "e como um manto tu os enrolarás, e como roupas serão trocados; mas Tu és imutável, e os teus dias não terão fim”.",
+        "13": "Ora, a qual dos anjos Deus alguma vez declarou: “Senta-te à minha direita, até que Eu faça dos teus inimigos um estrado para os teus pés”?",
+        "14": "Não são todos os anjos, espíritos ministradores, enviados para servir em benefício dos que herdarão a salvação?"
     }
 }

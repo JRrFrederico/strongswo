@@ -1,9 +1,14 @@
 {
     "livro": "Ezequiel",
     "capitulo": 33,
-    "titulos": {},
+    "titulos": {
+        "1": "O dever do verdadeiro profeta",
+        "10": "O santo e justo juízo de Yahweh",
+        "21": "Os motivos da queda de Jerusalém",
+        "30": "Um verdadeiro profeta de Deus"
+    },
     "versiculos": {
-        "1": "E veio a mim a palavra do Senhor, dizendo:",
+        "1": "E VEIO a mim a palavra do Senhor, dizendo:",
         "2": "Filho do homem, fala aos filhos do teu povo, e dize-lhes: Quando eu fizer vir a espada sobre a terra, e o povo da terra tomar um homem dos seus termos, e o constituir por seu atalaia;",
         "3": "E, vendo ele que a espada vem sobre a terra, tocar a trombeta e avisar o povo;",
         "4": "Se aquele que ouvir o som da trombeta, não se der por avisado, e vier a espada, e o alcançar, o seu sangue será sobre a sua cabeça.",

@@ -1,9 +1,11 @@
 {
     "livro": "Ezequiel",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "Os castigos infligidos a Jerusalém"
+    },
     "versiculos": {
-        "1": "Então me gritou aos ouvidos com grande voz, dizendo: Fazei chegar os intendentes da cidade, cada um com as suas armas destruidoras na mão.",
+        "1": "ENTÃO me gritou aos ouvidos com grande voz, dizendo: Fazei chegar os intendentes da cidade, cada um com as suas armas destruidoras na mão.",
         "2": "E eis que vinham seis homens a caminho da porta superior, que olha para o norte, e cada um com a sua arma destruidora na mão, e entre eles um homem vestido de linho, com um tinteiro de escrivão à sua cintura; e entraram, e se puseram junto ao altar de bronze.",
         "3": "E a glória do Deus de Israel se levantou de sobre o querubim, sobre o qual estava, indo até a entrada da casa; e clamou ao homem vestido de linho, que tinha o tinteiro de escrivão à sua cintura.",
         "4": "E disse-lhe o Senhor: Passa pelo meio da cidade, pelo meio de Jerusalém, e marca com um sinal as testas dos homens que suspiram e que gemem por causa de todas as abominações que se cometem no meio dela.",

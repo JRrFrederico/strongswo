@@ -1,13 +1,15 @@
 {
     "livro": "Salmos",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração de livramento"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe, Salmo de Davi. Ó SENHOR, por quanto tempo me esquecerás? Para sempre? Por quanto tempo esconderás tua face de mim?",
-        "2": "Por quanto tempo devo tomar conselho de minha alma, tendo tristeza no meu coração diariamente? Por quanto tempo será exaltado o meu inimigo sobre mim?",
-        "3": "Considera e ouve-me, ó SENHOR meu Deus; ilumina os meus olhos para que eu não durma o sono da morte;",
-        "4": "Para que o meu inimigo não diga: Eu prevaleci contra ele; e não se regozijem aqueles que me perturbam, quando eu vacilar.",
-        "5": "Mas eu confiei na tua misericórdia; meu coração se regozijará na tua salvação.",
-        "6": "Eu cantarei ao SENHOR porque ele me tratou generosamente."
+        "1": "Até quando me esquecerás, S ENHOR ? Para sempre? Até quando encobrirás de mim tua face?",
+        "2": "Até quando sofrerei com preocupações e tristeza no coração, dia após dia?Até quando prevalecerá o inimigo contra mim?",
+        "3": "Olha para mim e responde, S ENHOR , meu Deus. Renova o brilho da vida nos meus olhos, caso contrário me entregarei ao sono da morte;",
+        "4": "e o meu inimigo virá a dizer: “Eu venci”; e os meus adversários festejarão o meu fracasso.",
+        "5": "Contudo, eu confio em teu amor; o meu coração se enche de alegria e satisfação em tua salvação.",
+        "6": "Desejo cantar ao S ENHOR por todo o bem que me tem feito."
     }
 }

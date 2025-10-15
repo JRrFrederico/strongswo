@@ -1,9 +1,14 @@
 {
     "livro": "1 Reis",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Os leais assessores de Salomão",
+        "7": "Os prefeitos de Salomão",
+        "20": "As provisões diárias do reino",
+        "29": "O famoso saber de Salomão"
+    },
     "versiculos": {
-        "1": "Assim foi Salomão rei sobre todo o Israel.",
+        "1": "ASSIM foi Salomão rei sobre todo o Israel.",
         "2": "E estes eram os príncipes que tinha: Azarias, filho de Zadoque, sacerdote;",
         "3": "Eliorefe e Aías, filhos de Sisa, secretários; Jeosafá, filho de Ailude, cronista;",
         "4": "Benaia, filho de Joiada, sobre o exército; e Zadoque e Abiatar eram sacerdotes;",

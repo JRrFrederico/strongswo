@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 44,
-    "titulos": {},
+    "titulos": {
+        "1": "O Deus do passado está presente"
+    },
     "versiculos": {
-        "1": "Ó Deus, nós ouvimos com os nossos ouvidos, e nossos pais nos têm contado a obra que fizeste em seus dias, nos tempos da antiguidade.",
+        "1": "Ó DEUS, nós ouvimos com os nossos ouvidos, e nossos pais nos têm contado a obra que fizeste em seus dias, nos tempos da antiguidade.",
         "2": "Como expulsaste os gentios com a tua mão e os plantaste a eles; como afligiste os povos e os derrubaste.",
         "3": "Pois não conquistaram a terra pela sua espada, nem o seu braço os salvou, mas a tua destra e o teu braço, e a luz da tua face, porquanto te agradaste deles.",
         "4": "Tu és o meu Rei, ó Deus; ordena salvações para Jacó.",

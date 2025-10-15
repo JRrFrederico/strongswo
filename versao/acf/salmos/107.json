@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 107,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus salva de todas as aflições"
+    },
     "versiculos": {
-        "1": "Louvai ao Senhor, porque ele é bom, porque a sua benignidade dura para sempre.",
+        "1": "LOUVAI ao Senhor, porque ele é bom, porque a sua benignidade dura para sempre.",
         "2": "Digam-no os remidos do Senhor, os que remiu da mão do inimigo,",
         "3": "E os que congregou das terras do oriente e do ocidente, do norte e do sul.",
         "4": "Andaram desgarrados pelo deserto, por caminhos solitários; não acharam cidade para habitarem.",

@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 36,
-    "titulos": {},
+    "titulos": {
+        "1": "Senaqueribe invade Judá",
+        "4": "Ravshakê afronta Ezequias"
+    },
     "versiculos": {
-        "1": "E aconteceu no ano décimo quarto do rei Ezequias, que Senaqueribe, rei da Assíria, subiu contra todas as cidades fortificadas de Judá, e as tomou.",
+        "1": "E ACONTECEU no ano décimo quarto do rei Ezequias, que Senaqueribe, rei da Assíria, subiu contra todas as cidades fortificadas de Judá, e as tomou.",
         "2": "Então o rei da Assíria enviou a Rabsaqué, de Laquis a Jerusalém, ao rei Ezequias com um grande exército, e ele parou junto ao aqueduto do açude superior, junto ao caminho do campo do lavandeiro.",
         "3": "Então saíram a ter com ele Eliaquim, filho de Hilquias, o mordomo, e Sebna, o escrivão, e Joá, filho de Asafe, o cronista.",
         "4": "E Rabsaqué lhes disse: Ora dizei a Ezequias: Assim diz o grande rei, o rei da Assíria: Que confiança é esta, em que esperas?",

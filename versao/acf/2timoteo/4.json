@@ -1,9 +1,14 @@
 {
     "livro": "2 Timóteo",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Pregar a Palavra com sabedoria",
+        "6": "Paulo antevê seu martírio",
+        "9": "Recomendações finais",
+        "19": "Saudações e bênção apostólica"
+    },
     "versiculos": {
-        "1": "Conjuro-te, pois, diante de Deus, e do Senhor Jesus Cristo, que há de julgar os vivos e os mortos, na sua vinda e no seu reino,",
+        "1": "CONJURO-te, pois, diante de Deus, e do Senhor Jesus Cristo, que há de julgar os vivos e os mortos, na sua vinda e no seu reino,",
         "2": "Que pregues a palavra, instes a tempo e fora de tempo, corrijas, repreendas, exortes, com toda a longanimidade e doutrina.",
         "3": "Porque virá tempo em que não suportarão a sã doutrina; mas, tendo coceira nos ouvidos, amontoarão para si doutores conforme as suas próprias concupiscências;",
         "4": "E desviarão os ouvidos da verdade, voltando às fábulas.",

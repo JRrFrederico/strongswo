@@ -1,9 +1,12 @@
 {
     "livro": "2 Samuel",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "A revolta de Seba contra Davi",
+        "23": "Os altos oficiais de Davi"
+    },
     "versiculos": {
-        "1": "Então se achou ali por acaso um homem de Belial, cujo nome era Seba, filho de Bicri, homem de Benjamim, o qual tocou a trombeta, e disse: Não temos parte em Davi, nem herança no filho de Jessé; cada um às suas tendas, ó Israel.",
+        "1": "ENTÃO se achou ali por acaso um homem de Belial, cujo nome era Seba, filho de Bicri, homem de Benjamim, o qual tocou a trombeta, e disse: Não temos parte em Davi, nem herança no filho de Jessé; cada um às suas tendas, ó Israel.",
         "2": "Então todos os homens de Israel se separaram de Davi, e seguiram Seba, filho de Bicri; porém os homens de Judá se uniram ao seu rei desde o Jordão até Jerusalém.",
         "3": "Vindo, pois, Davi para sua casa, em Jerusalém, tomou o rei as dez mulheres, suas concubinas, que deixara para guardarem a casa, e as pôs numa casa sob guarda, e as sustentava; porém não as possuiu; e estiveram encerradas até ao dia da sua morte, vivendo como viúvas.",
         "4": "Disse mais o rei a Amasa: Convoca-me os homens de Judá para o terceiro dia; e tu então apresenta-te aqui.",

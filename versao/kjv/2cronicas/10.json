@@ -1,26 +1,28 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Discórdias e a divisão do reino"
+    },
     "versiculos": {
-        "1": "E Roboão foi até Siquém; pois todo Israel veio para fazê-lo rei.",
-        "2": "E Jeroboão, filho de Nebate, que estava então no Egito para onde fugira da presença do rei Salomão, ouvindo isto, voltou do Egito.",
-        "3": "E eles mandaram chamá-lo. Assim Jeroboão e todo o Israel vieram falar com Roboão, dizendo:",
-        "4": "O teu pai fez o nosso jugo doloroso; agora, portanto, alivia tu, de alguma forma, a dolorosa servidão do teu pai, e o jugo pesado que ele pôs sobre nós, e serviremos a ti.",
-        "5": "E ele lhes disse: Voltai a mim depois de três dias. E o povo partiu.",
-        "6": "E o rei Roboão tomou conselho com os anciãos que haviam se colocado de pé diante de Salomão, o seu pai, enquanto ele ainda vivia, dizendo: Que conselhos vós me dais para voltar a responder a esse povo?",
-        "7": "E eles lhe falaram, dizendo: Se fores bondoso para com este povo, e agradá-los, e falares boas palavras, eles serão teus servos para sempre.",
-        "8": "Porém, ele abandonou o conselho que os anciãos lhe deram, e tomou conselho com os moços que haviam crescido com ele, que se punham de pé diante dele.",
-        "9": "E ele lhes disse: Que conselho me dais para que possamos voltar e responder a esse povo, o qual falou comigo, dizendo: Alivia, de alguma forma, o jugo que o teu pai pôs sobre nós?",
-        "10": "E os moços que haviam crescido com ele falaram-lhe, dizendo: Assim responderás ao povo que falou contigo, dizendo: O teu pai fez o nosso jugo pesado, mas faz tu com que ele seja, de algum modo, mais leve para nós; assim dirás a eles: O meu dedo mínimo será mais grosso do que os lombos de meu pai.",
-        "11": "Pois enquanto o meu pai colocou um jugo pesado sobre vós, eu porei mais para o vosso jugo; o meu pai vos castigava com chicotes, mas eu vos castigarei com escorpiões.",
-        "12": "Assim, Jeroboão, e todo o povo, vieram até Roboão no terceiro dia, como o rei ordenou, dizendo: Retornai a mim no terceiro dia.",
-        "13": "E o rei respondeu-lhes grosseiramente; e o rei Roboão desprezou o conselho dos anciãos,",
-        "14": "e respondeu a eles segundo o conselho dos jovens, dizendo: O meu pai fez o seu jugo pesado, mas eu acrescentarei a isto; o meu pai vos castigou com chicotes, mas eu vos castigarei com escorpiões.",
-        "15": "Assim, o rei não atentou ao povo; porque a causa era de Deus, para que o SENHOR pudesse cumprir a sua palavra, a qual ele falou pela mão de Aías, o silonita, a Jeroboão, o filho de Nebate.",
-        "16": "E quando todo o Israel viu que o rei não quis ouvir a eles, o povo respondeu ao rei, dizendo: Que parte temos nós com Davi? E nós não temos herança alguma no filho de Jessé; cada homem para a sua tenda, ó Israel; e agora, Davi, olha pela tua própria casa. Assim, todo o Israel foi para as suas tendas.",
-        "17": "Porém, quanto aos filhos de Israel que habitavam nas cidades de Judá, Roboão reinou sobre eles.",
-        "18": "Então, o rei Roboão enviou Adorão, que estava sobre o tributo; e os filhos de Israel o apedrejaram com pedras, de modo que morreu. Porém, o rei Roboão apressou-se em subir na sua carruagem, e fugiu para Jerusalém.",
-        "19": "E Israel se rebelou contra a casa de Davi até este dia."
+        "1": "Roboão viajou para Siquém, porquanto todo o Israel se ajuntara ali para proclamá-lo rei.",
+        "2": "Jeroboão, filho de Nebate, que ainda estava no Egito, para onde tinha fugido do rei Salomão, ouviu isso e voltou do Egito,",
+        "3": "de onde mandaram chamá-lo. Jeroboão e todo o Israel foram ao encontro de Roboão e reivindicaram junto ao novo monarca:",
+        "4": "“Eis que teu pai mandou colocar sobre nós e nossas famílias um jugo muito pesado, mas agora diminui o trabalho árduo que somos obrigados a fazer e este jugo pesado de todos os dias, e nós o serviremos!”",
+        "5": "Então Roboão ponderou-lhes: “Voltai a mim daqui a três dias!” E o povo se retirou.",
+        "6": "Em seguida o rei Roboão buscou aconselhar-se com os anciãos e autoridades que haviam servido ao seu pai Salomão durante seu reinado, e os questionou: “Como aconselhais que eu proceda para com o pedido deste povo?”",
+        "7": "E os sábios lhe sugeriram: “Se fores bondoso para com este povo e lhes agradares, e lhes disseres boas palavras, então eles serão teus servos leais para sempre!”",
+        "8": "Entretanto, Roboão não se satisfez com o conselho dos mais velhos e procurou ouvir o palpite dos jovens que haviam crescido com ele, e que o serviam.",
+        "9": "Roboão perguntou aos seus amigos de infância: “Que aconselhais que respondamos a este povo que nos pede: ‘Alivia o jugo que teu pai nos impôs?’",
+        "10": "E prontamente os jovens que haviam crescido com ele disseram: “Ora, a este povo que te disse: ‘Teu pai tornou pesado o nosso jugo, mas tu, alivia o nosso trabalho’, eis o que responderás: ‘Meu dedo mínimo é mais grosso do que a cintura de meu pai!",
+        "11": "Sendo assim, meu pai vos obrigou a um trabalho pesado, pois eu aumentarei ainda mais o vosso jugo; meu pai vos repreendeu com açoites; porém eu vos castigarei com chicotes pontiagudos, dolorosos como ferroadas de escorpiões!’",
+        "12": "Passados três dias, Jeroboão e todo o povo retornaram à presença de Roboão, conforme as ordens dadas pelo rei: ‘Voltai a mim ao terceiro dia’",
+        "13": "Então, postando-se diante do povo o rei respondeu-lhes com aspereza e arrogância; desprezando o conselho dos anciãos,",
+        "14": "exclamou ao povo segundo o parecer dos seus amigos de infância: “Meu pai fez pesado o vosso jugo, mas eu o aumentarei ainda mais; meu pai vos castigou com simples chicotes; eu os açoitarei com chicotes que ferem como escorpiões!”",
+        "15": "O rei não deu atenção ao povo, porque esta mudança e endurecimento vinham de Deus, a fim de confirmar a Palavra que Yahweh havia profetizado a Jeroboão, filho de Nebate, por intermédio de Aías, o silonita.",
+        "16": "Quando todo o Israel viu que o rei se recusava a ouvi-lo, protestou aos brados: “Que temos em comum com Davi? Não temos herança com o filho de Jessé. Cada um para suas tendas, ó Israel! Cuida de tua própria casa, ó Roboão, filho de Davi!” Então todos os israelitas se dispersaram e retornaram às suas tendas.",
+        "17": "No entanto, Roboão continuou a reinar sobre o povo israelita que vivia nas cidades da tribo de Judá.",
+        "18": "Então o rei Rehavam , Roboão enviou Hadoram , Adorão, chefe do trabalho forçado, todavia, a população israelita se juntou e o apedrejou até a morte. O rei, contudo, conseguiu subir em sua carruagem e fugir para Jerusalém.",
+        "19": "Deste modo Israel se rebelou contra a dinastia de Davi, e assim permanece até nossos dias."
     }
 }

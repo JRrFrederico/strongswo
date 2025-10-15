@@ -1,9 +1,12 @@
 {
     "livro": "Jó",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Elifaz insta Jó a buscar a Deus",
+        "17": "As bênçãos decorrentes da correção"
+    },
     "versiculos": {
-        "1": "Chama agora; há alguém que te responda? E para qual dos santos te virarás?",
+        "1": "CHAMA agora; há alguém que te responda? E para qual dos santos te virarás?",
         "2": "Porque a ira destrói o louco; e o zelo mata o tolo.",
         "3": "Bem vi eu o louco lançar raízes; porém logo amaldiçoei a sua habitação.",
         "4": "Seus filhos estão longe da salvação; e são despedaçados às portas, e não há quem os livre.",

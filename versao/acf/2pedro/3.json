@@ -1,9 +1,12 @@
 {
     "livro": "2 Pedro",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "A Promessa do Senhor é segura",
+        "14": "O cristão e o Dia do Senhor"
+    },
     "versiculos": {
-        "1": "Amados, escrevo-vos agora esta segunda carta, em ambas as quais desperto com exortação o vosso ânimo sincero;",
+        "1": "AMADOS, escrevo-vos agora esta segunda carta, em ambas as quais desperto com exortação o vosso ânimo sincero;",
         "2": "Para que vos lembreis das palavras que primeiramente foram ditas pelos santos profetas, e do nosso mandamento, os apóstolos do Senhor e Salvador.",
         "3": "Sabendo primeiro isto, que nos últimos dias virão escarnecedores, andando segundo as suas próprias concupiscências,",
         "4": "E dizendo: Onde está a promessa da sua vinda? Porque desde que os pais dormiram, todas as coisas permanecem como desde o princípio da criação.",

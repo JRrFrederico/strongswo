@@ -1,9 +1,12 @@
 {
     "livro": "1 Reis",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "A visita da rainha de Sabá",
+        "14": "As riquezas do rei Salomão"
+    },
     "versiculos": {
-        "1": "E ouvindo a rainha de Sabá a fama de Salomão, acerca do nome do Senhor, veio prová-lo com questões difíceis.",
+        "1": "E OUVINDO a rainha de Sabá a fama de Salomão, acerca do nome do Senhor, veio prová-lo com questões difíceis.",
         "2": "E chegou a Jerusalém com uma grande comitiva; com camelos carregados de especiarias, e muitíssimo ouro, e pedras preciosas; e foi a Salomão, e disse-lhe tudo quanto tinha no seu coração.",
         "3": "E Salomão lhe deu resposta a todas as suas perguntas, nada ficou oculto ao rei.",
         "4": "Vendo, pois, a rainha de Sabá toda a sabedoria de Salomão, e a casa que edificara,",

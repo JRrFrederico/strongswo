@@ -1,9 +1,14 @@
 {
     "livro": "2 Reis",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "O rei Ezequias consulta o profeta Isaías",
+        "14": "Ezequias clama a Yahweh",
+        "20": "A resposta de Deus pelo profeta",
+        "35": "Deus fere os assírios e livra Judá"
+    },
     "versiculos": {
-        "1": "E aconteceu que, tendo Ezequias ouvido isto, rasgou as suas vestes, e se cobriu de saco, e entrou na casa do Senhor.",
+        "1": "E ACONTECEU que, tendo Ezequias ouvido isto, rasgou as suas vestes, e se cobriu de saco, e entrou na casa do Senhor.",
         "2": "Então enviou a Eliaquim, o mordomo, e a Sebna, o escrivão, e os anciãos dos sacerdotes, cobertos de sacos, ao profeta Isaías, filho de Amós.",
         "3": "E disseram-lhe: Assim diz Ezequias: Este dia é dia de angústia, de vituperação e de blasfêmia; porque os filhos chegaram ao parto, e não há força para dá-los à luz.",
         "4": "Bem pode ser que o Senhor teu Deus ouça todas as palavras de Rabsaqué, a quem enviou o seu senhor, o rei da Assíria, para afrontar o Deus vivo, e para vituperá-lo com as palavras que o Senhor teu Deus tem ouvido; faze, pois, oração pelo restante que subsiste.",

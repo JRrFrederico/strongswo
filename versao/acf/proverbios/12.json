@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "As atitudes do justo e do perverso"
+    },
     "versiculos": {
-        "1": "O que ama a instrução ama o conhecimento, mas o que odeia a repreensão é estúpido.",
+        "1": "O QUE ama a instrução ama o conhecimento, mas o que odeia a repreensão é estúpido.",
         "2": "O homem de bem alcançará o favor do Senhor, mas ao homem de intenções perversas ele condenará.",
         "3": "O homem não se estabelecerá pela impiedade, mas a raiz dos justos não será removida.",
         "4": "A mulher virtuosa é a coroa do seu marido, mas a que o envergonha é como podridão nos seus ossos.",

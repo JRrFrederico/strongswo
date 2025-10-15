@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 77,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus rico em poder e misericórdia"
+    },
     "versiculos": {
-        "1": "Clamei a Deus com a minha voz, a Deus levantei a minha voz, e ele inclinou para mim os ouvidos.",
+        "1": "CLAMEI a Deus com a minha voz, a Deus levantei a minha voz, e ele inclinou para mim os ouvidos.",
         "2": "No dia da minha angústia busquei ao Senhor; a minha mão se estendeu de noite, e não cessava; a minha alma recusava ser consolada.",
         "3": "Lembrava-me de Deus, e me perturbei; queixava-me, e o meu espírito desfalecia. (Selá.)",
         "4": "Sustentaste os meus olhos acordados; estou tão perturbado que não posso falar.",

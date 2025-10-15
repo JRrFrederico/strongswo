@@ -1,9 +1,13 @@
 {
     "livro": "Ageu",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "A glória da Casa reedificada",
+        "10": "Advertência e promessa de bênçãos",
+        "20": "A promessa de Deus a Zorobabel"
+    },
     "versiculos": {
-        "1": "No sétimo mês, ao vigésimo primeiro dia do mês, veio a palavra do Senhor por intermédio do profeta Ageu, dizendo:",
+        "1": "NO sétimo mês, ao vigésimo primeiro dia do mês, veio a palavra do Senhor por intermédio do profeta Ageu, dizendo:",
         "2": "Fala agora a Zorobabel, filho de Sealtiel, governador de Judá, e a Josué, filho de Jozadaque, sumo sacerdote, e ao restante do povo, dizendo:",
         "3": "Quem há entre vós que, tendo ficado, viu esta casa na sua primeira glória? E como a vedes agora? Não é esta como nada diante dos vossos olhos, comparada com aquela?",
         "4": "Ora, pois, esforça-te, Zorobabel, diz o Senhor, e esforça-te, Josué, filho de Jozadaque, sumo sacerdote, e esforça-te, todo o povo da terra, diz o Senhor, e trabalhai; porque eu sou convosco, diz o Senhor dos Exércitos.",

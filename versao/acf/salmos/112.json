@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 112,
-    "titulos": {},
+    "titulos": {
+        "1": "Os justos herdarão a vida eterna"
+    },
     "versiculos": {
-        "1": "Louvai ao Senhor. Bem-aventurado o homem que teme ao Senhor, que em seus mandamentos tem grande prazer.",
+        "1": "LOUVAI ao Senhor. Bem-aventurado o homem que teme ao Senhor, que em seus mandamentos tem grande prazer.",
         "2": "A sua semente será poderosa na terra; a geração dos retos será abençoada.",
         "3": "Prosperidade e riquezas haverá na sua casa, e a sua justiça permanece para sempre.",
         "4": "Aos justos nasce luz nas trevas; ele é piedoso, misericordioso e justo.",

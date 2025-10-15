@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus conhece o coração humano"
+    },
     "versiculos": {
-        "1": "A resposta branda desvia o furor, mas a palavra dura suscita a ira.",
+        "1": "A RESPOSTA branda desvia o furor, mas a palavra dura suscita a ira.",
         "2": "A língua dos sábios adorna a sabedoria, mas a boca dos tolos derrama a estultícia.",
         "3": "Os olhos do Senhor estão em todo lugar, contemplando os maus e os bons.",
         "4": "A língua benigna é árvore de vida, mas a perversidade nela deprime o espírito.",

@@ -1,19 +1,21 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "A vida passa como uma sombra"
+    },
     "versiculos": {
-        "1": "Há um mal que tenho visto debaixo do sol, e é comum entre os homens:",
-        "2": "Um homem a quem Deus deu riquezas, bens e honra, de modo que nada falta à sua alma de tudo quanto ele deseja, porém Deus não lhe dá poder para daí comer, mas o estranho vem e come; isto é vaidade e má enfermidade.",
-        "3": "Se o homem gerar cem filhos, e viver muitos anos, de modo que os dias dos seus anos sejam muitos, e se a sua alma não se fartar do bem, e além disso não tiver sepultura, digo que um aborto é melhor do que ele.",
-        "4": "Porque ele veio com vaidade, e parte em trevas, e seu nome será coberto pelas trevas.",
-        "5": "Além disso ele não viu o sol, e nem conheceu nada, mais descanso tem este do que aquele.",
-        "6": "E ainda que vivesse duas vezes mil anos, ele ainda não viu nada de bom; não vão todos para um mesmo lugar?",
-        "7": "Todo o trabalho do homem é para a sua boca, e contudo o seu apetite nunca se satisfaz.",
-        "8": "Pois, o que tem o sábio a mais do que o tolo? O que tem o pobre que sabe andar perante os vivos?",
-        "9": "Melhor é a vista dos olhos do que o vaguear do desejo; isto também é vaidade e angústia de espírito.",
-        "10": "Aquele que existe já foi nomeado, e sabe-se que é homem, e ele não pode contender com o que é mais forte do que ele.",
-        "11": "Visto que há muitas coisas que aumentam a vaidade; o que é melhor para o homem?",
-        "12": "Porque, quem saberá o que é bom nesta vida para o homem, por todos os dias da sua vida de vaidade, os quais ele gasta como sombra? Quem poderá dizer ao homem o que será depois dele debaixo do sol?"
+        "1": "Constatei ainda um outro mal debaixo do sol, que se abate sobre todo ser humano:",
+        "2": "Deus concede riquezas, bens e honra a um homem, e nada lhe falta de tudo o que poderia imaginar; contudo, o próprio Deus não lhe permite desfrutar de todos esses recursos; mas outra pessoa, vinda de outro lugar, é quem irá aproveitar dos seus haveres. Ora, isso não faz sentido, é pura ilusão e sofrimento cruel.",
+        "3": "Um homem pode ser pai de cem filhos e viver muitos anos. Contudo, se não aproveitar os bons momentos da vida, afirmo que uma criança que nasce morta e nem mesmo recebe um enterro decente é mais feliz do que ele.",
+        "4": "A criança nasce em vão e parte para o mundo da escuridão, e as trevas cuidam de sepultar seu nome.",
+        "5": "Embora ela não tenha visto a luz do dia, nem tomado conhecimento de nada, ela, ao menos, encontrará mais paz e descanso do que o tal homem.",
+        "6": "E mesmo que alguém vivesse duas vezes mil anos, não conheceria plenamente a felicidade; afinal, não estamos todos seguindo para o mesmo fim?",
+        "7": "Todo o trabalho humano é realizado para satisfazer a sua boca; entretanto, o seu apetite jamais encontra satisfação.",
+        "8": "E que vantagem tem o sábio em relação ao insensato? Que vantagem tem o pobre em saber como enfrentar a vida?",
+        "9": "Mais vale contentar-se com o que os olhos veem do que sonhar com desejos irrealizáveis. Afinal, não é isso também total insensatez, como correr atrás do vento?",
+        "10": "Ora, tudo o que existe já recebeu um nome, e já é do conhecimento de todos o que o ser humano é; não se pode brigar com alguém mais forte!",
+        "11": "Quanto mais se abre a boca, mais tolices e frustrações experimentamos; o muito falar é inútil.",
+        "12": "Sendo assim, quem sabe o que é bom e proveitoso para o ser humano nesta existência, nos poucos dias de sua vida de ilusão, que passa como uma sombra? Quem poderá lhe contar o que acontecerá debaixo do sol depois que ele se for com a morte?"
     }
 }

@@ -1,24 +1,26 @@
 {
     "livro": "Levítico",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "As ofertas de paz e comunhão"
+    },
     "versiculos": {
-        "1": "E se a sua oblação for um sacrifício de oferta de paz, se ele a oferecer do rebanho, seja macho ou fêmea, ele a oferecerá sem defeito diante do SENHOR.",
-        "2": "E ele colocará a sua mão sobre a cabeça da sua oferta, e a matará na porta do tabernáculo da congregação; e os filhos de Arão, os sacerdotes, espargirão o sangue sobre e ao redor do altar.",
-        "3": "E ele oferecerá do sacrifício da oferta de paz uma oferta feita por fogo ao SENHOR; a gordura que cobre a entranha e toda a gordura que está sobre a entranha;",
-        "4": "e os dois rins, e a gordura que está sobre eles, e sobre os lados, e o redanho que está sobre o fígado, com os rins, ele tirará.",
-        "5": "E os filhos de Arão queimarão isso sobre o altar, em cima do sacrifício queimado, que está sobre a lenha que está no fogo; isto é uma oferta feita por fogo, de cheiro suave ao SENHOR.",
-        "6": "E se a sua oferta por um sacrifício de oferta de paz ao SENHOR for de rebanho, macho ou fêmea, ele a oferecerá sem defeito.",
-        "7": "Se ele oferecer um cordeiro por sua oferta, oferecê-lo-á perante o SENHOR.",
-        "8": "E ele colocará a sua mão sobre a cabeça da sua oferta, e a matará diante do tabernáculo da congregação; e os filhos de Arão espargirão o seu sangue sobre o altar, e ao redor.",
-        "9": "E ele oferecerá do sacrifício da oferta de paz uma oferta feita por fogo ao SENHOR, a sua gordura, e todo traseiro, que ele deve tirar com força pela espinha dorsal, e a gordura que cobre a entranha, e toda a gordura que está sobre a entranha,",
-        "10": "como também tirará ambos os rins, e a gordura que está sobre eles, e sobre os lados, e o redanho que está sobre o fígado com os rins.",
-        "11": "E o sacerdote queimará isso sobre o altar; isto é o alimento da oferta feita por fogo ao SENHOR.",
-        "12": "E se a sua oferta for uma cabra, então ele a oferecerá perante o SENHOR.",
-        "13": "E ele colocará a sua mão sobre a sua cabeça, e a matará diante do tabernáculo da congregação; e os filhos de Arão espargirão o seu sangue sobre o altar e em redor.",
-        "14": "E ele oferecerá a sua oferta, uma oferta feita por fogo ao SENHOR; a gordura que cobre a entranha e toda a gordura que está sobre a entranha,",
-        "15": "e os dois rins, e a gordura que está sobre eles, e que está sobre as tripas e o redanho que está sobre o fígado com os rins, ele removerá.",
-        "16": "E o sacerdote queimará isso sobre o altar; isto é o alimento da oferta feita por fogo, de cheiro suave; toda a gordura será do SENHOR.",
-        "17": "Isso será um estatuto perpétuo para as vossas gerações, em todas as vossas habitações: nenhuma gordura, nem sangue algum comereis."
+        "1": "Se seu sacrifício for um sacrifício de paz e comunhão e se oferecer um animal grande, macho ou fêmea, será animal sem defeito que o homem oferecerá perante o S ENHOR .",
+        "2": "Colocará a mão sobre a cabeça do animal, que será morto à entrada da Tenda do Encontro. Os filhos e descendentes de Arão, os sacerdotes, derramarão o sangue nos lados do altar.",
+        "3": "O homem oferecerá uma parte desse sacrifício de comunhão, como oferenda queimada ao S ENHOR : a gordura que cobre as vísceras, toda a gordura que está ligada a elas,",
+        "4": "os dois rins com a gordura que os cobre e que está perto dos lombos, e o lóbulo do fígado, que ele removerá junto com os rins.",
+        "5": "Os filhos de Arão queimarão tudo isso em cima do holocausto que está sobre a lenha acesa no altar, como oferta preparada no fogo, de perfume agradável ao S ENHOR .",
+        "6": "Se for animal pequeno, do rebanho, que alguém oferecer como sacrifício de comunhão ao S ENHOR , deverá oferecer um macho ou uma fêmea sem defeito.",
+        "7": "Se oferecer um carneiro, ele o oferecerá perante o S ENHOR ,",
+        "8": "e porá a mão sobre a cabeça do animal, que será morto diante da Tenda do Encontro. Então os filhos e descendentes de Arão derramarão o sangue nos lados do altar.",
+        "9": "Desse sacrifício de comunhão, oferta preparada no fogo, o homem trará ao S ENHOR a gordura, tanto a da cauda gorda, cortada rente à espinha, como toda a gordura que cobre as vísceras e está ligada a elas,",
+        "10": "os dois rins com a gordura que os cobre e que está perto dos lombos, e o lóbulo do fígado, que ele removerá junto com os rins.",
+        "11": "O sacerdote os queimará no altar como alimento oferecido ao S ENHOR , preparado no fogo.",
+        "12": "Se sua oferenda consistir em uma cabra, a oferecerá perante o S ENHOR ,",
+        "13": "porá a mão sobre sua cabeça e a imolará diante da Tenda do Encontro, e os filhos e os descendentes dos filhos de Arão derramarão o sangue sobre o altar, em redor.",
+        "14": "E isto é o que oferecerá em seguida, como oferenda queimada ao S ENHOR : a gordura que cobre as vísceras e está ligada a elas,",
+        "15": "os dois rins com a gordura que os cobre e que está perto dos lombos, e o lóbulo do fígado, que ele removerá junto com os rins.",
+        "16": "O sacerdote os queimará no altar, como alimento, como oferta preparada no fogo, de aroma agradável. Toda a gordura será do S ENHOR .",
+        "17": "É, portanto, para todos os vossos descendentes uma lei perpétua, em qualquer lugar onde habitardes: não comereis gordura nem sangue”."
     }
 }

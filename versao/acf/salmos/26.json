@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "Pedido de justiça e livramento"
+    },
     "versiculos": {
-        "1": "Julga-me, Senhor, pois tenho andado em minha sinceridade; tenho confiado também no Senhor; não vacilarei.",
+        "1": "JULGA-ME, Senhor, pois tenho andado em minha sinceridade; tenho confiado também no Senhor; não vacilarei.",
         "2": "Examina-me, Senhor, e prova-me; esquadrinha as minhas entranhas e o meu coração.",
         "3": "Porque a tua benignidade está diante dos meus olhos; e tenho andado na tua verdade.",
         "4": "Não me tenho assentado com homens vãos, nem converso com os homens dissimulados.",

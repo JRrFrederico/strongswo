@@ -1,9 +1,13 @@
 {
     "livro": "Josué",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "As conquistas ao norte de Canaã",
+        "15": "Josué executa as ordens de Moisés",
+        "21": "O extermínio dos filhos de Enaque"
+    },
     "versiculos": {
-        "1": "Sucedeu depois disto que, ouvindo-o Jabim, rei de Hazor, enviou mensageiros a Jobabe, rei de Madom, e ao rei de Sinrom, e ao rei de Acsafe;",
+        "1": "SUCEDEU depois disto que, ouvindo-o Jabim, rei de Hazor, enviou mensageiros a Jobabe, rei de Madom, e ao rei de Sinrom, e ao rei de Acsafe;",
         "2": "E aos reis, que estavam ao norte, nas montanhas, e na campina para o sul de Quinerete, e nas planícies, e nas elevações de Dor, do lado do mar;",
         "3": "Ao cananeu do oriente e do ocidente; e ao amorreu, e ao heteu, e ao perizeu, e ao jebuseu nas montanhas; e ao heveu ao pé de Hermom, na terra de Mizpá.",
         "4": "Saíram pois estes, e todos os seus exércitos com eles, muito povo, em multidão como a areia que está na praia do mar; e muitíssimos cavalos e carros.",

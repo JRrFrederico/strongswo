@@ -1,9 +1,13 @@
 {
     "livro": "Êxodo",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus responde à oração de Moisés",
+        "14": "A genealogia de Moisés e Arão",
+        "28": "Deus manda Moisés falar de novo"
+    },
     "versiculos": {
-        "1": "Então disse o Senhor a Moisés: Agora verás o que hei de fazer a Faraó; porque por uma mão poderosa os deixará ir, sim, por uma mão poderosa os lançará de sua terra.",
+        "1": "ENTÃO disse o Senhor a Moisés: Agora verás o que hei de fazer a Faraó; porque por uma mão poderosa os deixará ir, sim, por uma mão poderosa os lançará de sua terra.",
         "2": "Falou mais Deus a Moisés, e disse: Eu sou o Senhor.",
         "3": "E eu apareci a Abraão, a Isaque, e a Jacó, como o Deus Todo-Poderoso; mas pelo meu nome, o Senhor, não lhes fui perfeitamente conhecido.",
         "4": "E também estabeleci a minha aliança com eles, para dar-lhes a terra de Canaã, a terra de suas peregrinações, na qual foram peregrinos.",

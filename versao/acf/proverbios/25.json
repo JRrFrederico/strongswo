@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "Outros conselhos de Salomão"
+    },
     "versiculos": {
-        "1": "Também estes são provérbios de Salomão, os quais transcreveram os homens de Ezequias, rei de Judá.",
+        "1": "TAMBÉM estes são provérbios de Salomão, os quais transcreveram os homens de Ezequias, rei de Judá.",
         "2": "A glória de Deus está nas coisas encobertas; mas a honra dos reis, está em descobri-las.",
         "3": "Os céus, pela altura, e a terra, pela profundidade, assim o coração dos reis é insondável.",
         "4": "Tira da prata as escórias, e sairá vaso para o fundidor;",

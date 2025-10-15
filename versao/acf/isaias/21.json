@@ -1,9 +1,13 @@
 {
     "livro": "Isaías",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Oráculo contra a Babilônia",
+        "11": "Profecia contra Edom",
+        "13": "Profecia contra a Arábia"
+    },
     "versiculos": {
-        "1": "Peso do deserto do mar. Como os tufões de vento do sul, que tudo assolam, ele virá do deserto, de uma terra horrível.",
+        "1": "PESO do deserto do mar. Como os tufões de vento do sul, que tudo assolam, ele virá do deserto, de uma terra horrível.",
         "2": "Dura visão me foi anunciada: o pérfido trata perfidamente, e o destruidor anda destruindo. Sobe, ó Elão, sitia, ó Média, que já fiz cessar todo o seu gemido.",
         "3": "Por isso os meus lombos estão cheios de angústia; dores se apoderam de mim como as dores daquela que dá à luz; fiquei abatido quando ouvi, e desanimado vendo isso.",
         "4": "O meu coração se agita, o horror apavora-me; a noite que desejava, se me tornou em temor.",

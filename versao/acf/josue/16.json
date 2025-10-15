@@ -1,9 +1,12 @@
 {
     "livro": "Josué",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "As terras de Efraim e Manassés",
+        "5": "A herança concedida a Efraim"
+    },
     "versiculos": {
-        "1": "Saiu depois a sorte dos filhos de José, desde o Jordão, na direção de Jericó, junto às águas de Jericó, para o oriente, estendendo-se pelo deserto que sobe de Jericó pelas montanhas de Betel.",
+        "1": "SAIU depois a sorte dos filhos de José, desde o Jordão, na direção de Jericó, junto às águas de Jericó, para o oriente, estendendo-se pelo deserto que sobe de Jericó pelas montanhas de Betel.",
         "2": "E de Betel vai para Luz, e passa ao termo dos arquitas, até Atarote,",
         "3": "E desce do lado do ocidente ao termo de Jafleti, até ao termo de Bete-Horom de baixo, e até Gezer, indo terminar no mar.",
         "4": "Assim alcançaram a sua herança os filhos de José, Manassés e Efraim.",

@@ -1,9 +1,13 @@
 {
     "livro": "Êxodo",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Leis sobre os escravos hebreus",
+        "12": "Leis sobre homicídios",
+        "18": "Leis sobre violências e acidentes"
+    },
     "versiculos": {
-        "1": "Estes são os estatutos que lhes proporás.",
+        "1": "ESTES são os estatutos que lhes proporás.",
         "2": "Se comprares um servo hebreu, seis anos servirá; mas ao sétimo sairá livre, de graça.",
         "3": "Se entrou só com o seu corpo, só com o seu corpo sairá; se ele era homem casado, sua mulher sairá com ele.",
         "4": "Se seu senhor lhe houver dado uma mulher e ela lhe houver dado filhos ou filhas, a mulher e seus filhos serão de seu senhor, e ele sairá sozinho.",

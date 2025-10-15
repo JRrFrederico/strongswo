@@ -1,9 +1,17 @@
 {
     "livro": "Êxodo",
     "capitulo": 29,
-    "titulos": {},
+    "titulos": {
+        "1": "Consagração dos sacerdotes",
+        "4": "Purificação e unção",
+        "10": "Procedimento nas oferendas",
+        "22": "A ordenação dos sacerdotes",
+        "31": "A refeição santa dos sacerdotes",
+        "36": "A consagração do altar",
+        "38": "Os dois holocaustos de cada dia"
+    },
     "versiculos": {
-        "1": "Isto é o que lhes hás de fazer, para os santificar, para que me administrem o sacerdócio: Toma um novilho e dois carneiros sem mácula,",
+        "1": "ISTO é o que lhes hás de fazer, para os santificar, para que me administrem o sacerdócio: Toma um novilho e dois carneiros sem mácula,",
         "2": "E pão ázimo, e bolos ázimos, amassados com azeite, e coscorões ázimos, untados com azeite; com flor de farinha de trigo os farás,",
         "3": "E os porás num cesto, e os trarás no cesto, com o novilho e os dois carneiros.",
         "4": "Então farás chegar a Arão e a seus filhos à porta da tenda da congregação, e os lavarás com água;",

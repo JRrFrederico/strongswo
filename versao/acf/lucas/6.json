@@ -1,9 +1,21 @@
 {
     "livro": "Lucas",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus é Senhor do Sábado",
+        "6": "O homem da mão atrofiada",
+        "12": "Jesus escolhe seus doze apóstolos",
+        "17": "Jesus cura e liberta multidões",
+        "20": "As bem-aventuranças",
+        "24": "Os pesares de Jesus",
+        "27": "Jesus ensina a amar aos inimigos",
+        "37": "Não cabe ao discípulo julgar o próximo",
+        "39": "Parábola do cego que conduz outro cego",
+        "43": "Parábola da árvore e seu fruto",
+        "46": "A parábola do sábio e do insensato"
+    },
     "versiculos": {
-        "1": "E aconteceu que, no segundo sábado após o primeiro, ele passou pelas searas, e os seus discípulos iam arrancando espigas e, esfregando-as com as mãos, as comiam.",
+        "1": "E ACONTECEU que, no segundo sábado após o primeiro, ele passou pelas searas, e os seus discípulos iam arrancando espigas e, esfregando-as com as mãos, as comiam.",
         "2": "E alguns dos fariseus lhes disseram: Por que fazeis o que não é lícito fazer nos sábados?",
         "3": "E Jesus, respondendo-lhes, disse: Nunca lestes o que fez Davi quando teve fome, ele e os que com ele estavam?",
         "4": "Como entrou na casa de Deus, e tomou os pães da proposição, e os comeu, e deu também aos que estavam com ele, os quais não é lícito comer senão só aos sacerdotes?",
@@ -47,7 +59,7 @@
         "42": "Ou como podes dizer a teu irmão: Irmão, deixa-me tirar o argueiro que está no teu olho, não atentando tu mesmo na trave que está no teu olho? Hipócrita, tira primeiro a trave do teu olho, e então verás bem para tirar o argueiro que está no olho de teu irmão.",
         "43": "Porque não há boa árvore que dê mau fruto, nem má árvore que dê bom fruto.",
         "44": "Porque cada árvore se conhece pelo seu próprio fruto; pois não se colhem figos dos espinheiros, nem se vindimam uvas dos abrolhos.",
-        "45": "O homem bom, do bom tesouro do seu coração tira o bem, e o homem mau, do mau tesouro do seu coração tira o mal, porque da abundância do seu coração fala a sua boca.",
+        "45": "vO homem bom, do bom tesouro do seu coração tira o bem, e o homem mau, do mau tesouro do seu coração tira o mal, porque da abundância do seu coração fala a sua boca.",
         "46": "E por que me chamais, Senhor, Senhor, e não fazeis o que eu digo?",
         "47": "Qualquer que vem a mim e ouve as minhas palavras, e as observa, eu vos mostrarei a quem é semelhante:",
         "48": "É semelhante ao homem que edificou uma casa, e cavou, e abriu bem fundo, e pôs os alicerces sobre a rocha; e, vindo a enchente, bateu com ímpeto a corrente naquela casa, e não a pôde abalar, porque estava fundada sobre a rocha.",

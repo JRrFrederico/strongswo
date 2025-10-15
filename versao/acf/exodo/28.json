@@ -1,9 +1,16 @@
 {
     "livro": "Êxodo",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "As vestimentas sacerdotais",
+        "6": "O colete sacerdotal",
+        "15": "O peitoral das decisões",
+        "31": "O manto sagrado",
+        "36": "O sinal da consagração",
+        "40": "Vestimentas dos filhos de Arão"
+    },
     "versiculos": {
-        "1": "Depois tu farás chegar a ti teu irmão Arão, e seus filhos com ele, do meio dos filhos de Israel, para me administrarem o ofício sacerdotal; a saber: Arão, Nadabe, e Abiú, Eleazar e Itamar, os filhos de Arão.",
+        "1": "DEPOIS tu farás chegar a ti teu irmão Arão, e seus filhos com ele, do meio dos filhos de Israel, para me administrarem o ofício sacerdotal; a saber: Arão, Nadabe, e Abiú, Eleazar e Itamar, os filhos de Arão.",
         "2": "E farás vestes sagradas a Arão teu irmão, para glória e ornamento.",
         "3": "Falarás também a todos os que são sábios de coração, a quem eu tenho enchido do espírito da sabedoria, que façam vestes a Arão para santificá-lo; para que me administre o ofício sacerdotal.",
         "4": "Estas pois são as vestes que farão: um peitoral, e um éfode, e um manto, e uma túnica bordada, uma mitra, e um cinto; farão, pois, santas vestes para Arão, teu irmão, e para seus filhos, para me administrarem o ofício sacerdotal.",

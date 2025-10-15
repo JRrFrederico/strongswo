@@ -1,9 +1,14 @@
 {
     "livro": "Esdras",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Os líderes que subiram com Esdras",
+        "15": "Esdras manda buscar os levitas",
+        "21": "O povo faz jejum e orações",
+        "31": "O feliz retorno a Jerusalém"
+    },
     "versiculos": {
-        "1": "Estes, pois, são os chefes das casas paternas e esta a genealogia dos que subiram comigo de Babilônia no reinado do rei Artaxerxes:",
+        "1": "ESTES, pois, são os chefes das casas paternas e esta a genealogia dos que subiram comigo de Babilônia no reinado do rei Artaxerxes:",
         "2": "Dos filhos de Fineias, Gérson; dos filhos de Itamar, Daniel; dos filhos de Davi, Hatus;",
         "3": "Dos filhos de Secanias, e dos filhos de Parós, Zacarias, e com ele, segundo a genealogia, se contaram até cento e cinquenta homens.",
         "4": "Dos filhos de Paate-Moabe, Elioenai, filho de Zacarias, e com ele duzentos homens.",

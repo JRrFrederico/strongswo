@@ -1,9 +1,14 @@
 {
     "livro": "João",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Os pés dos discípulos são lavados",
+        "18": "Jesus revela seu traidor",
+        "31": "Os discípulos devem se amar",
+        "36": "Pedro nega a Jesus por três vezes"
+    },
     "versiculos": {
-        "1": "Ora, antes da festa da páscoa, sabendo Jesus que já era chegada a sua hora de passar deste mundo para o Pai, como havia amado os seus, que estavam no mundo, amou-os até o fim.",
+        "1": "ORA, antes da festa da páscoa, sabendo Jesus que já era chegada a sua hora de passar deste mundo para o Pai, como havia amado os seus, que estavam no mundo, amou-os até o fim.",
         "2": "E, acabada a ceia, tendo já o diabo posto no coração de Judas Iscariotes, filho de Simão, que o traísse,",
         "3": "Jesus, sabendo que o Pai tinha depositado nas suas mãos todas as coisas, e que havia saído de Deus e ia para Deus,",
         "4": "Levantou-se da ceia, tirou as vestes, e, tomando uma toalha, cingiu-se.",

@@ -1,9 +1,16 @@
 {
     "livro": "Números",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "Orientações sobre os sacrifícios",
+        "3": "Ofertas diárias",
+        "9": "As ofertas dos sábados",
+        "11": "As ofertas da Festa da Lua Nova",
+        "16": "As ofertas da Festa da Páscoa",
+        "26": "As ofertas da Festa das Semanas"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés, dizendo:",
         "2": "Dá ordem aos filhos de Israel, e dize-lhes: Da minha oferta, do meu alimento para as minhas ofertas queimadas, do meu cheiro suave, tereis cuidado, para me oferecê-las ao seu tempo determinado.",
         "3": "E dir-lhes-ás: Esta é a oferta queimada que oferecereis ao Senhor: dois cordeiros de um ano, sem defeito, cada dia, em contínuo holocausto;",
         "4": "Um cordeiro sacrificarás pela manhã, e o outro cordeiro sacrificarás à tarde;",

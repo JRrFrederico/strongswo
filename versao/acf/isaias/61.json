@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 61,
-    "titulos": {},
+    "titulos": {
+        "1": "O ano da proclamação do Senhor",
+        "10": "Ações de graças a Yahweh"
+    },
     "versiculos": {
-        "1": "O Espírito do Senhor Deus está sobre mim; porque o Senhor me ungiu, para pregar boas novas aos mansos; enviou-me a restaurar os contritos de coração, a proclamar liberdade aos cativos, e a abertura de prisão aos presos;",
+        "1": "O ESPÍRITO do Senhor Deus está sobre mim; porque o Senhor me ungiu, para pregar boas novas aos mansos; enviou-me a restaurar os contritos de coração, a proclamar liberdade aos cativos, e a abertura de prisão aos presos;",
         "2": "A apregoar o ano aceitável do Senhor e o dia da vingança do nosso Deus; a consolar todos os tristes;",
         "3": "A ordenar acerca dos tristes de Sião que se lhes dê glória em vez de cinza, óleo de gozo em vez de tristeza, vestes de louvor em vez de espírito angustiado; a fim de que se chamem árvores de justiça, plantações do Senhor, para que ele seja glorificado.",
         "4": "E edificarão os lugares antigamente assolados, e restaurarão os anteriormente destruídos, e renovarão as cidades assoladas, destruídas de geração em geração.",

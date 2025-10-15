@@ -1,9 +1,11 @@
 {
     "livro": "2 Coríntios",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "7": "A relevância da Nova Aliança"
+    },
     "versiculos": {
-        "1": "Porventura começamos outra vez a louvar-nos a nós mesmos? Ou necessitamos, como alguns, de cartas de recomendação para vós, ou de recomendação de vós?",
+        "1": "PORVENTURA começamos outra vez a louvar-nos a nós mesmos? Ou necessitamos, como alguns, de cartas de recomendação para vós, ou de recomendação de vós?",
         "2": "Vós sois a nossa carta, escrita em nossos corações, conhecida e lida por todos os homens.",
         "3": "Porque já é manifesto que vós sois a carta de Cristo, ministrada por nós, e escrita, não com tinta, mas com o Espírito do Deus vivo, não em tábuas de pedra, mas nas tábuas de carne do coração.",
         "4": "E é por Cristo que temos tal confiança em Deus;",

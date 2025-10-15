@@ -1,22 +1,25 @@
 {
     "livro": "1 Samuel",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi come os pães consagrados",
+        "10": "Davi finge ataque de nervos"
+    },
     "versiculos": {
-        "1": "Então Davi veio a Nobe, a Aimeleque, o sacerdote; e Aimeleque temia encontrar-se com Davi, e lhe disse: Por que estás sozinho, e não há homem contigo?",
-        "2": "E Davi disse a Aimeleque, o sacerdote: O rei me ordenou um negócio, e me disse: Que nenhum homem saiba qualquer coisa sobre onde eu te envio, e sobre o que te ordenei; eu indiquei os meus servos para tal e tal lugar.",
-        "3": "Agora, portanto, o que há debaixo da tua mão? Dá-me cinco pães na minha mão, ou o que houver.",
-        "4": "E o sacerdote respondeu a Davi, e disse: Não há nenhum pão comum debaixo da minha mão, mas há pão consagrado; se os jovens tiverem se guardado, ao menos, de mulheres.",
-        "5": "E Davi respondeu ao sacerdote, e lhe disse: Em verdade, as mulheres nos foram tiradas já há três dias, desde que saí, e os vasos dos jovens são santos, e o pão é, de algum modo comum, sim, embora tenha sido santificado neste dia no vaso.",
-        "6": "Assim, o sacerdote lhe deu pão consagrado; pois não havia ali pão que não fosse o pão da apresentação, que foi tomado de diante do SENHOR para se colocar pão quente no dia em que este foi retirado.",
-        "7": "Ora, um certo homem dos servos de Saul estava ali naquele dia, detido diante do SENHOR; e o seu nome era Doegue, um edomita, o principal dos pastores que pertenciam a Saul.",
-        "8": "E Davi disse a Aimeleque: E não há aqui debaixo da tua mão lança ou espada? Pois não trouxe nem a minha espada, nem as minhas armas comigo, porque o negócio do rei exigiu pressa.",
-        "9": "E o sacerdote disse: A espada de Golias, o filisteu, a quem tu mataste no vale de Elá, eis que aqui está envolvida em um tecido atrás do éfode; se quiseres tomá-la, toma-a; pois não há outra aqui, salvo aquela. E Davi disse: Não há nenhuma como essa, dá-ma.",
-        "10": "E Davi se levantou e fugiu naquele dia por temer a Saul, e foi para Aquis, o rei de Gate.",
-        "11": "E os servos de Aquis lhe disseram: Não é este Davi o rei da terra? Não cantavam eles uns aos outros, com danças, dizendo: Saul feriu os seus milhares, e Davi os seus dez milhares?",
-        "12": "E Davi guardou estas palavras no seu coração, e ficou mui temeroso de Aquis, o rei de Gate.",
-        "13": "E ele mudou o seu comportamento diante deles, e fingiu-se de louco em suas mãos, e arranhou as abas do portão, e deixou a sua saliva pingar sobre a sua barba.",
-        "14": "Então, disse Aquis aos seus servos: Eis que vedes que o homem está louco; por que então mo trouxestes?",
-        "15": "Tenho eu necessidade de loucos, para que trouxésseis este companheiro para agir como louco na minha presença? Entrará este sujeito na minha casa?"
+        "1": "Davi foi falar com o sacerdote Aimeleque, em Nobe. O sacerdote saiu tremendo de medo quando se encontrou com ele, e inquiriu-lhe: “Por qual motivo vieste sozinho e não há ninguém te acompanhando?”",
+        "2": "E Davi respondeu ao sacerdote Aimeleque: “O rei me deu ordens e a seguinte recomendação: ‘Que ninguém saiba de que missão especial te encarreguei e que ordem te dei!’ Quanto aos meus homens, marquei encontros com eles em certo lugar combinado.",
+        "3": "Agora, tens cinco pães ou outro alimento à mão que podes me oferecer?”",
+        "4": "Replicou-lhe prontamente o sacerdote: “Não tenho pão comum à mão; somente pão consagrado; se teus soldados não tiveram relações sexuais recentemente, estarão purificados para se alimentarem deles.",
+        "5": "Ao que Davi respondeu: “Certamente, as mulheres nos foram proibidas, como sempre acontece quando parto em campanha. Portanto, não tocamos em mulher alguma. Esses homens mantêm o corpo puro mesmo em missões comuns. Quanto mais neste dia especial!”",
+        "6": "Em seguida, o sacerdote lhe deu os pães que haviam sido consagrados, porque não havia outro alimento disponível, salvo o de oblação, o pão da Presença, que se retira de diante de Yahweh , o S ENHOR , e que tinham sido tirados da mesa sagrada e trocados por pães quentes.",
+        "7": "Aconteceu, entretanto, que um dos servos de Saul estava ali naquele dia, cumprindo seus deveres diante do S ENHOR ; era o edomita Doegue, chefe dos pastores de Saul.",
+        "8": "Davi ainda pediu a Aimeleque: “Há por aqui, à tua mão, uma lança ou uma espada? Eu não trouxe comigo nem a minha espada nem as minhas armas pessoais, porquanto a ordem do rei exigiu máxima presteza!”",
+        "9": "Respondeu-lhe o sacerdote: “A espada de Golias, o filisteu, que mataste no vale de Elá, fica bem ali, embrulhada num manto, atrás do efod , colete sacerdotal. Se desejares, toma-a, pois não há aqui nenhuma outra arma!” Diante do que Davi exclamou: “Certamente não há espada melhor que esta, dá-me a espada!”",
+        "10": "Naquele dia, levantou-se Davi e fugiu para longe de Saul, e foi procurar Aquis, rei de Gate.",
+        "11": "Contudo os conselheiros de Aquis lhe questionaram: “Não é este Davi, o rei da terra? Não era para ele que se cantavam nas festas e danças: ‘Saul abateu seus milhares, e Davi suas dezenas de milhares’?",
+        "12": "Davi considerou o perigo daquelas observações e ficou com muito medo de Aquis, rei de Gate.",
+        "13": "Diante das circunstâncias e na presença deles, Davi fingiu-se de louco; rabiscou coisas sem sentido nos portões da cidade e deixando escorrer saliva pela barba.",
+        "14": "Então Aquis esbravejou contra seus conselheiros: “Bem vedes que este homem está alucinado! Por que o trouxestes à minha presença?",
+        "15": "Será que tenho falta de loucos ao meu redor, para que trouxésseis mais este a fim de me atormentar com suas doidices? O que ele está fazendo no meu palácio?”"
     }
 }

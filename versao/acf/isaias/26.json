@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "Cântico de fé em Yahweh",
+        "20": "A passagem do SENHOR"
+    },
     "versiculos": {
-        "1": "Naquele dia se entoará este cântico na terra de Judá: Temos uma cidade forte, a que Deus pôs a salvação por muros e antemuros.",
+        "1": "NAQUELE dia se entoará este cântico na terra de Judá: Temos uma cidade forte, a que Deus pôs a salvação por muros e antemuros.",
         "2": "Abri as portas, para que entre nelas a nação justa, que observa a verdade.",
         "3": "Tu conservarás em paz aquele cuja mente está firme em ti; porque ele confia em ti.",
         "4": "Confiai no Senhor perpetuamente; porque o Senhor Deus é uma rocha eterna.",

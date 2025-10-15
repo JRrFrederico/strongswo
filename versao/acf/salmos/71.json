@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 71,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração de fé de um servo idoso"
+    },
     "versiculos": {
-        "1": "Em ti, Senhor, confio; nunca seja eu confundido.",
+        "1": "EM ti, Senhor, confio; nunca seja eu confundido.",
         "2": "Livra-me na tua justiça, e faze-me escapar; inclina os teus ouvidos para mim, e salva-me.",
         "3": "Sê tu a minha habitação forte, à qual possa recorrer continuamente. Deste um mandamento que me salva, pois tu és a minha rocha e a minha fortaleza.",
         "4": "Livra-me, meu Deus, das mãos do ímpio, das mãos do homem injusto e cruel.",

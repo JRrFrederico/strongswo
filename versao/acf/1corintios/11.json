@@ -1,9 +1,13 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "2": "Reverência na adoração",
+        "17": "A Ceia deve expressar amor cristão",
+        "23": "Como celebrar a Ceia do Senhor"
+    },
     "versiculos": {
-        "1": "Sede meus imitadores, como também eu de Cristo.",
+        "1": "SEDE meus imitadores, como também eu de Cristo.",
         "2": "E louvo-vos, irmãos, porque em tudo vos lembrais de mim, e retendes os preceitos como vo-los entreguei.",
         "3": "Mas quero que saibais que Cristo é a cabeça de todo o homem, e o homem a cabeça da mulher; e Deus a cabeça de Cristo.",
         "4": "Todo o homem que ora ou profetiza, tendo a cabeça coberta, desonra a sua própria cabeça.",

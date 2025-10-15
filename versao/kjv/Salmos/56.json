@@ -1,20 +1,22 @@
 {
     "livro": "Salmos",
     "capitulo": 56,
-    "titulos": {},
+    "titulos": {
+        "1": "Confiança em Deus na angústia"
+    },
     "versiculos": {
-        "1": "Ao Músico-chefe sobre Jonate-Elém-Recoquim, Mictã de Davi, quando os filisteus o levaram em Gate. Sê misericordioso a mim, ó Deus, porque o homem quer me engolir, sua luta diária me oprime.",
-        "2": "Meus inimigos querem me engolir diariamente, pois eles são muitos, os que lutam contra mim, ó Altíssimo.",
-        "3": "A qualquer tempo em que eu estiver com medo, confiarei em ti.",
-        "4": "Em Deus louvarei a sua palavra, em Deus pus a minha confiança; não temerei o que a carne possa fazer comigo.",
-        "5": "Todo dia eles distorcem as minhas palavras; todos os seus pensamentos são contra mim para o mal.",
-        "6": "Eles se juntam, se escondem, marcam os meus passos, enquanto esperam pela minha alma.",
-        "7": "Eles escaparão pela iniquidade? Na tua ira, humilha os povos, ó Deus.",
-        "8": "Tu contas minhas perambulações, põe as minhas lágrimas no teu frasco; não estão elas no teu livro?",
-        "9": "Quando eu clamar a ti, então os meus inimigos se voltarão; disto eu sei, porque Deus é por mim.",
-        "10": "Em Deus eu louvarei a sua palavra; no SENHOR louvarei a sua palavra.",
-        "11": "Em Deus eu pus a minha confiança; não temerei o que o homem possa fazer a mim.",
-        "12": "Teus votos estão sobre mim, ó Deus; eu renderei louvores a ti.",
-        "13": "Porque tu livraste a minha alma da morte; não livrarás meus pés de cair, para que eu caminhe diante de Deus à luz dos vivos?"
+        "1": "Tem piedade de mim, ó Deus! Porquanto há pessoas que me afligem. Eles me atacam e me oprimem sem trégua.",
+        "2": "Esses caluniadores me agridem sem parar; muitos se insurgem arrogantemente contra mim.",
+        "3": "Todavia, quando o medo me atacar, confiarei em ti!",
+        "4": "Em Deus, cuja Palavra eu louvo, em Deus, eu deposito toda a minha confiança, e nada temerei. O que poderá fazer-me o simples mortal?",
+        "5": "Todo dia, escarnecem de minhas palavras; seus pensamentos são todos contra mim, para o mal.",
+        "6": "Eles iniciam as hostilidades, espiam-me, vigiando meus passos. Porque atentaram contra a minha vida,",
+        "7": "deixa-os escapar para a desgraça, derruba essa gente, ó Deus, em tua ira!",
+        "8": "Tu mesmo anotaste o meu lamento; recolhe em teu odre as minhas lágrimas! Ora, acaso não registras tudo em teu Livro?",
+        "9": "Meus inimigos baterão em retirada no dia em que eu clamar por socorro. E assim ficará claro que Deus está a meu favor!",
+        "10": "Em Deus, cuja Palavra eu exalto – no S ENHOR , cuja Palavra eu proclamo –",
+        "11": "neste Deus, deposito toda a minha fé, e nada temerei: o que poderá fazer-me o ser humano?",
+        "12": "Assumo, ó Deus, os votos que te fiz; a ti apresentarei as minhas ofertas de gratidão.",
+        "13": "Porquanto me livraste da morte e os meus pés de tropeçarem, a fim de que eu caminhe diante de Deus, na luz que ilumina os vivos!"
     }
 }

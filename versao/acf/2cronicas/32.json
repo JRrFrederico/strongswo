@@ -1,9 +1,16 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 32,
-    "titulos": {},
+    "titulos": {
+        "1": "Judá vence as forças de Senaqueribe",
+        "9": "Senaqueribe ofende o rei e a Deus",
+        "20": "Deus ouve a oração do seu servo",
+        "22": "Deus salva o rei e seu povo",
+        "24": "Ezequias é atacado pelo orgulho",
+        "32": "A morte do rei Ezequias"
+    },
     "versiculos": {
-        "1": "Depois destas coisas e desta verdade, veio Senaqueribe, rei da Assíria, e entrou em Judá, e acampou-se contra as cidades fortificadas, e intentou apoderar-se delas.",
+        "1": "DEPOIS destas coisas e desta verdade, veio Senaqueribe, rei da Assíria, e entrou em Judá, e acampou-se contra as cidades fortificadas, e intentou apoderar-se delas.",
         "2": "Vendo, pois, Ezequias que Senaqueribe vinha, e que estava resolvido contra Jerusalém,",
         "3": "Teve conselho com os seus príncipes e os seus homens valentes, para que se tapassem as fontes das águas que havia fora da cidade; e eles o ajudaram.",
         "4": "Assim muito povo se ajuntou, e tapou todas as fontes, como também o ribeiro que se estendia pelo meio da terra, dizendo: Por que viriam os reis da Assíria, e achariam tantas águas?",

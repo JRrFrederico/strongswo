@@ -1,9 +1,12 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "O ministério dos sacerdotes",
+        "20": "Os chefes dos demais levitas"
+    },
     "versiculos": {
-        "1": "E quanto aos filhos de Arão, estas foram as suas divisões: os filhos de Arão: Nadabe, Abiú, Eleazar e Itamar.",
+        "1": "E QUANTO aos filhos de Arão, estas foram as suas divisões: os filhos de Arão: Nadabe, Abiú, Eleazar e Itamar.",
         "2": "E morreram Nadabe e Abiú antes de seu pai, e não tiveram filhos; e Eleazar e Itamar administravam o sacerdócio.",
         "3": "E Davi, com Zadoque, dos filhos de Eleazar, e Aimeleque, dos filhos de Itamar, dividiu-os segundo o seu ofício no seu ministério.",
         "4": "E acharam-se muito mais chefes dos pais entre os filhos de Eleazar do que entre os filhos de Itamar, quando os repartiram; dos filhos de Eleazar dezesseis chefes das casas paternas, mas dos filhos de Itamar, segundo as casas paternas, oito.",

@@ -1,9 +1,11 @@
 {
     "livro": "Jeremias",
     "capitulo": 42,
-    "titulos": {},
+    "titulos": {
+        "1": "Jeremias roga para não irem ao Egito"
+    },
     "versiculos": {
-        "1": "Então chegaram todos os capitães dos exércitos, e Joanã, filho de Careá, e Jezanias, filho de Hosaías, e todo o povo, desde o menor até ao maior,",
+        "1": "ENTÃO chegaram todos os capitães dos exércitos, e Joanã, filho de Careá, e Jezanias, filho de Hosaías, e todo o povo, desde o menor até ao maior,",
         "2": "E disseram a Jeremias, o profeta: Aceita agora a nossa súplica diante de ti, e roga ao Senhor teu Deus, por nós e por todo este remanescente; porque de muitos restamos uns poucos, como nos veem os teus olhos;",
         "3": "Para que o Senhor teu Deus nos ensine o caminho por onde havemos de andar e aquilo que havemos de fazer.",
         "4": "E disse-lhes Jeremias, o profeta: Eu vos tenho ouvido; eis que orarei ao Senhor vosso Deus conforme as vossas palavras; e seja o que for que o Senhor vos responder eu vo-lo declararei; não vos ocultarei uma só palavra.",

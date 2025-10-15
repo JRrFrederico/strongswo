@@ -1,9 +1,15 @@
 {
     "livro": "Mateus",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Amor e prudência ao julgar",
+        "7": "Perseverança na oração",
+        "13": "Os dois únicos caminhos",
+        "15": "Pelo fruto se conhece a árvore",
+        "24": "O sábio e o insensato"
+    },
     "versiculos": {
-        "1": "Não julgueis, para que não sejais julgados.",
+        "1": "NÃO julgueis, para que não sejais julgados.",
         "2": "Porque com o juízo com que julgardes sereis julgados, e com a medida com que tiverdes medido vos tornarão a medir.",
         "3": "E por que reparas tu no argueiro que está no olho do teu irmão, e não vês a trave que está no teu olho?",
         "4": "Ou como dirás a teu irmão: Deixa-me tirar o argueiro do teu olho, e eis uma trave no teu olho?",

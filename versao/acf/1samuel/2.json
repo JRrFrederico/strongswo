@@ -1,9 +1,14 @@
 {
     "livro": "1 Samuel",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "A oração de louvor de Ana",
+        "12": "A maldade dos filhos de Eli",
+        "18": "O ministério de Samuel",
+        "27": "Profecias contra a casa de Eli"
+    },
     "versiculos": {
-        "1": "Então orou Ana, e disse: O meu coração exulta ao Senhor, o meu poder está exaltado no Senhor; a minha boca se dilatou sobre os meus inimigos, porquanto me alegro na tua salvação.",
+        "1": "ENTÃO orou Ana, e disse: O meu coração exulta ao Senhor, o meu poder está exaltado no Senhor; a minha boca se dilatou sobre os meus inimigos, porquanto me alegro na tua salvação.",
         "2": "Não há santo como o Senhor; porque não há outro fora de ti; e rocha nenhuma há como o nosso Deus.",
         "3": "Não multipliqueis palavras de altivez, nem saiam coisas arrogantes da vossa boca; porque o Senhor é o Deus de conhecimento, e por ele são as obras pesadas na balança.",
         "4": "O arco dos fortes foi quebrado, e os que tropeçavam foram cingidos de força.",

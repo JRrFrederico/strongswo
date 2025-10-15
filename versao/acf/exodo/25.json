@@ -1,9 +1,15 @@
 {
     "livro": "Êxodo",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "As ofertas para o Tabernáculo",
+        "10": "A Tenda e a Arca da Aliança",
+        "17": "O tampo da Arca: o propiciatório",
+        "23": "A mesa dos pães da Presença",
+        "31": "O candelabro de ouro"
+    },
     "versiculos": {
-        "1": "Então falou o Senhor a Moisés, dizendo:",
+        "1": "ENTÃO falou o Senhor a Moisés, dizendo:",
         "2": "Fala aos filhos de Israel, que me tragam uma oferta alçada; de todo o homem cujo coração se mover voluntariamente, dele tomareis a minha oferta alçada.",
         "3": "E esta é a oferta alçada que recebereis deles: ouro, e prata, e cobre,",
         "4": "E azul, e púrpura, e carmesim, e linho fino, e pelos de cabras,",

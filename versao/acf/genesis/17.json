@@ -1,9 +1,11 @@
 {
     "livro": "Gênesis",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "A circuncisão: sinal da Aliança"
+    },
     "versiculos": {
-        "1": "Sendo, pois, Abrão da idade de noventa e nove anos, apareceu o Senhor a Abrão, e disse-lhe: Eu sou o Deus Todo-Poderoso, anda em minha presença e sê perfeito.",
+        "1": "SENDO, pois, Abrão da idade de noventa e nove anos, apareceu o Senhor a Abrão, e disse-lhe: Eu sou o Deus Todo-Poderoso, anda em minha presença e sê perfeito.",
         "2": "E porei a minha aliança entre mim e ti, e te multiplicarei grandissimamente.",
         "3": "Então caiu Abrão sobre o seu rosto, e falou Deus com ele, dizendo:",
         "4": "Quanto a mim, eis a minha aliança contigo: serás o pai de muitas nações;",

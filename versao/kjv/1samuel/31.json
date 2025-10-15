@@ -1,20 +1,22 @@
 {
     "livro": "1 Samuel",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "1": "Cai Israel e Saul se suicida"
+    },
     "versiculos": {
-        "1": "Ora, os filisteus lutaram contra Israel; e os homens de Israel fugiram de diante dos filisteus, e caíram mortos no Monte Gilboa.",
-        "2": "E os filisteus perseguiram com afinco Saul e os seus filhos; e os filisteus mataram Jônatas, e Abinadabe, e Malquisua; os filhos de Saul.",
-        "3": "E a batalha se intensificou contra Saul, e os arqueiros o atingiram; e ele foi gravemente ferido pelos arqueiros.",
-        "4": "Então disse Saul ao seu escudeiro: Desembainha a tua espada, e atravessa-me com ela; para que não venham estes incircuncisos e me atravessem, e de mim abusem. Porém, o seu escudeiro não quis fazê-lo; pois ficou mui temeroso. Então Saul tomou uma espada, e caiu sobre ela.",
-        "5": "E quando o seu escudeiro viu que Saul estava morto, ele caiu, de modo semelhante, sobre a sua espada, e morreu com ele.",
-        "6": "Assim, Saul morreu e os seus três filhos, e o seu escudeiro, e todos os seus homens juntos, naquele mesmo dia.",
-        "7": "E quando os homens de Israel que estavam no outro lado do vale, e aqueles que estavam do outro lado do Jordão viram que os homens de Israel fugiram, e que Saul e os seus filhos estavam mortos, eles abandonaram as cidades e fugiram; e os filisteus vieram e nelas ­habitaram.",
-        "8": "E sucedeu, ao amanhecer, quando os filisteus vieram para despir os mortos, que encontraram Saul e os seus três filhos caídos no Monte Gilboa.",
-        "9": "E eles cortaram a sua cabeça, e removeram a sua armadura, e a enviaram à terra dos filisteus ao redor, para expô-la na casa dos seus ídolos e no meio do povo.",
-        "10": "E eles puseram a sua armadura na casa de Astarote; e prenderam o seu corpo à muralha de Bete-Seã.",
-        "11": "E quando os habitantes de Jabes-Gileade ouviram aquilo que os filisteus haviam feito a Saul,",
-        "12": "todos os homens valentes se levantaram, e foram a noite toda, e pegaram o corpo de Saul e os corpos dos seus filhos da muralha de Bete-Seã, e vieram até Jabes e ali os queimaram.",
-        "13": "E eles pegaram os seus ossos, e os sepultaram debaixo de uma árvore em Jabes, e jejuaram sete dias."
+        "1": "E aconteceu que, em combate com os filisteus, os soldados de Israel foram postos em fuga e muitos caíram mortos no monte Gilboa.",
+        "2": "Os filisteus pelejaram contra Saul e sua família; e mataram Jônatas, Abinadabe e Malquisua, filhos de Saul.",
+        "3": "A batalha agravou-se contra Saul, e os flecheiros o alcançaram e o feriram gravemente.",
+        "4": "Então Saul ordenou ao seu escudeiro: “Desembainha a tua espada e transpassa-me, para que não venham esses incircuncisos e antes de me matar me humilhem ainda mais!” Mas o seu escudeiro não conseguiu obedecê-lo. Então, imediatamente, Saul puxou sua própria espada e atirou-se sobre ela.",
+        "5": "Assim que o escudeiro constatou que Saul estava morto, lançou-se de igual modo sobre a sua espada e também suicidou-se ao lado de seu rei.",
+        "6": "E assim sucedeu que Saul, seus três filhos, seu escudeiro e todos os seus soldados morreram naquele dia.",
+        "7": "Quando os israelitas que estavam no outro lado do vale e além do Jordão viram que os homens de Israel haviam fugido, e que Saul e seus filhos estavam mortos, abandonaram suas cidades e fugiram; e os filisteus vieram e estabeleceram suas moradias nelas.",
+        "8": "No dia seguinte, quando vieram para despojar os que haviam morrido, os filisteus acharam os corpos de Saul e dos seus três filhos estirados no monte Gilboa.",
+        "9": "Então cortaram a cabeça de Saul e o despojaram das suas armas; e enviaram mensageiros por toda a terra dos filisteus a fim de proclamarem a notícia nos templos de seus ídolos e entre o seu povo.",
+        "10": "Expuseram as armas de Saul no templo de Ashtarot , Astarote e pregaram seu cadáver decepado da cabeça nas muralhas de Bet-Shan , Bete-Seã.",
+        "11": "Quando os habitantes de Iavesh-Guilad , Jabes-Gileade tomaram conhecimento do que os filisteus haviam feito a Saul e aos seus,",
+        "12": "os mais corajosos dentre o povo foram durante a noite a Bete-Seã. Tiraram da muralha os corpos de Saul e dos seus três filhos e os levaram para a cidade de Jabes, onde os cremaram.",
+        "13": "Depois recolheram os seus ossos e os enterraram debaixo da Tamargueira de Jabes, e jejuaram durante sete dias."
     }
 }

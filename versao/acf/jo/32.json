@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 32,
-    "titulos": {},
+    "titulos": {
+        "1": "Eliú admoesta Jó e seus amigos"
+    },
     "versiculos": {
-        "1": "Então aqueles três homens cessaram de responder a Jó; porque era justo aos seus próprios olhos.",
+        "1": "ENTÃO aqueles três homens cessaram de responder a Jó; porque era justo aos seus próprios olhos.",
         "2": "E acendeu-se a ira de Eliú, filho de Baraquel, o buzita, da família de Rão; contra Jó se acendeu a sua ira, porque se justificava a si mesmo, mais do que a Deus.",
         "3": "Também a sua ira se acendeu contra os seus três amigos, porque, não achando que responder, todavia condenavam a Jó.",
         "4": "Eliú, porém, esperou para falar a Jó, porquanto tinham mais idade do que ele.",

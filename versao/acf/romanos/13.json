@@ -1,9 +1,12 @@
 {
     "livro": "Romanos",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Respeito à lei e às autoridades",
+        "8": "O amor no mundo agonizante"
+    },
     "versiculos": {
-        "1": "Toda a alma esteja sujeita às autoridades superiores; porque não há autoridade que não venha de Deus; e as autoridades que há foram ordenadas por Deus.",
+        "1": "TODA a alma esteja sujeita às autoridades superiores; porque não há autoridade que não venha de Deus; e as autoridades que há foram ordenadas por Deus.",
         "2": "Por isso quem resiste à autoridade resiste à ordenação de Deus; e os que resistem trarão sobre si mesmos a condenação.",
         "3": "Porque os magistrados não são terror para as boas obras, mas para as más. Queres tu, pois, não temer à autoridade? Faze o bem, e terás louvor dela.",
         "4": "Porque ela é ministro de Deus para teu bem. Mas, se fizeres o mal, teme, pois não traz em vão a espada; porque é ministro de Deus, e vingador para castigar o que faz o mal.",

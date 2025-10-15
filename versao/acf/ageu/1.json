@@ -1,9 +1,11 @@
 {
     "livro": "Ageu",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus manda reedificar o Templo"
+    },
     "versiculos": {
-        "1": "No segundo ano do rei Dario, no sexto mês, no primeiro dia do mês, veio a palavra do Senhor, por intermédio do profeta Ageu, a Zorobabel, filho de Sealtiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, dizendo:",
+        "1": "NO segundo ano do rei Dario, no sexto mês, no primeiro dia do mês, veio a palavra do Senhor, por intermédio do profeta Ageu, a Zorobabel, filho de Sealtiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, dizendo:",
         "2": "Assim fala o Senhor dos Exércitos, dizendo: Este povo diz: Não veio ainda o tempo, o tempo em que a casa do Senhor deve ser edificada.",
         "3": "Veio, pois, a palavra do Senhor, por intermédio do profeta Ageu, dizendo:",
         "4": "Porventura é para vós tempo de habitardes nas vossas casas forradas, enquanto esta casa fica deserta?",

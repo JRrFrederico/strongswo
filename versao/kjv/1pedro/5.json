@@ -1,21 +1,24 @@
 {
     "livro": "1 Pedro",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "O líder deve ser exemplo vivo",
+        "5": "Conselhos, votos e bênção final"
+    },
     "versiculos": {
-        "1": "Aos anciãos, que estão entre vós eu exorto, eu que também sou um ancião, e testemunha dos sofrimentos de Cristo, e participante da glória que se há de revelar:",
-        "2": "Alimentai o rebanho de Deus, que está entre vós, assumindo o cuidado dele, não por força, mas voluntariamente; não pela ganância do lucro, mas com um espírito pronto.",
-        "3": "Nem como senhores sobre a herança de Deus, mas como exemplo para o rebanho.",
-        "4": "E quando o sumo Pastor aparecer, recebereis uma coroa de glória incorruptível.",
-        "5": "Semelhantemente, vós jovens, submetei-vos aos anciãos; e sede todos sujeitos uns aos outros, e revesti-vos de humildade, porque Deus resiste aos soberbos, e dá graça aos humildes.",
-        "6": "Humilhai-vos, pois, debaixo da potente mão de Deus, para que ele vos exalte no tempo certo.",
-        "7": "Lançando sobre ele todo vosso cuidado, porque ele cuida de vós.",
-        "8": "Sede sóbrios, sede vigilantes; porque o vosso adversário, o diabo, anda em derredor, como um leão que ruge, buscando a quem possa devorar;",
-        "9": "ao qual resisti firmes na fé, sabendo que as mesmas aflições se cumprem entre os vossos irmãos no mundo.",
-        "10": "Mas que o Deus de toda a graça, que nos chamou para sua eterna glória por Cristo Jesus, depois de terdes sofrido um pouco, vos aperfeiçoe, confirme, fortifique e estabeleça.",
-        "11": "A ele seja a glória e o domínio para sempre e sempre. Amém.",
-        "12": "Por Silvano, vosso fiel irmão, como eu cuido, escrevi brevemente, exortando e testificando que esta é a verdadeira graça de Deus, na qual vos firmais.",
-        "13": "A igreja que está em Babilônia, eleita juntamente convosco, vos saúda, e também o meu filho Marcos.",
-        "14": "Saudai-vos uns aos outros com um beijo de caridade. Paz seja com todos vós que estais em Cristo Jesus. Amém."
+        "1": "Suplico, portanto, aos presbíteros que há entre vós, eu que sou também presbítero como eles, testemunha ocular dos sofrimentos de Cristo e, certamente, coparticipante da glória que há de ser plenamente revelada:",
+        "2": "pastoreai o rebanho de Deus que está sob vosso cuidado, não por constrangimento, mas voluntariamente, como Deus quer; nem por sórdida ganância, mas de boa vontade;",
+        "3": "nem como ditadores daqueles que vos foram confiados, antes, tornando-vos exemplos do rebanho.",
+        "4": "Ora, assim que o Supremo Pastor se manifestar, recebereis a imperecível coroa da glória!",
+        "5": "Do mesmo modo, jovens, sede submissos aos mais velhos. E, todos vós, igualmente, tratai com humildade uns aos outros, porquanto, “Deus se opõe aos orgulhosos, mas concede graça aos humildes”.",
+        "6": "Sendo assim, humilhai-vos sob a poderosa mão de Deus, para que Ele vos exalte no tempo certo,",
+        "7": "lançando sobre Ele toda a vossa ansiedade, porque Ele tem cuidado de vós!",
+        "8": "Sede sensatos e vigilantes. O Diabo, vosso inimigo, anda ao redor como leão, rugindo e procurando a quem devorar.",
+        "9": "Resisti-lhe, permanecendo firmes na fé, conscientes de que os irmãos que tendes em todo o mundo estão atravessando os mesmos sofrimentos.",
+        "10": "Ora, o Deus de toda a graça, que vos convocou à sua eterna glória em Cristo Jesus, logo depois de terdes sofrido por um período curto de tempo, vos restaurará, confirmará, concederá forças e vos estabelecerá sobre firmes alicerces.",
+        "11": "A Ele, portanto, seja o pleno domínio para todo o sempre. Amém!",
+        "12": "Com a cooperação de Silvano, a quem considero irmão fiel, eu vos escrevi resumidamente, encorajando-vos e testemunhando que esta é a verdadeira graça de Deus. Nela, pois, permanecei firmes!",
+        "13": "Aquela que está em Babilônia, igualmente eleita convosco, vos saúda, assim como Marcos, meu filho.",
+        "14": "Cumprimentai-vos uns aos outros com o beijo de santo amor fraternal. Paz a todos vós que estais vivendo em Cristo!"
     }
 }

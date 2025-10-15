@@ -1,9 +1,12 @@
 {
     "livro": "Tiago",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Não fazer acepção de pessoas",
+        "14": "As atitudes demonstram a fé"
+    },
     "versiculos": {
-        "1": "Meus irmãos, não tenhais a fé de nosso Senhor Jesus Cristo, Senhor da glória, em acepção de pessoas.",
+        "1": "MEUS irmãos, não tenhais a fé de nosso Senhor Jesus Cristo, Senhor da glória, em acepção de pessoas.",
         "2": "Porque, se no vosso ajuntamento entrar algum homem com anel de ouro no dedo, com trajes preciosos, e entrar também algum pobre com sórdido traje,",
         "3": "E atentardes para o que traz o traje precioso, e lhe disserdes: Assenta-te tu aqui num lugar de honra, e disserdes ao pobre: Tu, fica aí em pé, ou assenta-te abaixo do meu estrado,",
         "4": "Porventura não fizestes distinção entre vós mesmos, e não vos fizestes juízes de maus pensamentos?",

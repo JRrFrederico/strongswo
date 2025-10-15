@@ -1,9 +1,12 @@
 {
     "livro": "Daniel",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "O futuro dos reis do Sul e do Norte",
+        "36": "A época do terrível e arrogante rei"
+    },
     "versiculos": {
-        "1": "Eu, pois, no primeiro ano de Dario, o medo, levantei-me para animá-lo e fortalecê-lo.",
+        "1": "EU, pois, no primeiro ano de Dario, o medo, levantei-me para animá-lo e fortalecê-lo.",
         "2": "E agora te declararei a verdade: Eis que ainda três reis estarão na Pérsia, e o quarto acumulará grandes riquezas, mais do que todos; e, tornando-se forte, por suas riquezas, suscitará a todos contra o reino da Grécia.",
         "3": "Depois se levantará um rei valente, que reinará com grande domínio, e fará o que lhe aprouver.",
         "4": "Mas, estando ele em pé, o seu reino será quebrado, e será repartido para os quatro ventos do céu; mas não para a sua posteridade, nem tampouco segundo o seu domínio com que reinou, porque o seu reino será arrancado, e passará a outros que não eles.",

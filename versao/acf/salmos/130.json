@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 130,
-    "titulos": {},
+    "titulos": {
+        "1": "Confiança no perdão do Senhor"
+    },
     "versiculos": {
-        "1": "Das profundezas a ti clamo, ó Senhor.",
+        "1": "DAS profundezas a ti clamo, ó Senhor.",
         "2": "Senhor, escuta a minha voz; sejam os teus ouvidos atentos à voz das minhas súplicas.",
         "3": "Se tu, Senhor, observares as iniquidades, Senhor, quem subsistirá?",
         "4": "Mas contigo está o perdão, para que sejas temido.",

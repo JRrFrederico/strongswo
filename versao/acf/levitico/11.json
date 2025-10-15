@@ -1,9 +1,17 @@
 {
     "livro": "Levítico",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Os animais puros e os impuros",
+        "9": "Os animais aquáticos",
+        "13": "As aves e outros animais que voam",
+        "24": "O contato com animais imundos",
+        "29": "Os animais que rastejam pela terra",
+        "41": "Buscar a santidade e a pureza",
+        "46": "Conclusão"
+    },
     "versiculos": {
-        "1": "E falou o Senhor a Moisés e a Arão, dizendo-lhes:",
+        "1": "E FALOU o Senhor a Moisés e a Arão, dizendo-lhes:",
         "2": "Fala aos filhos de Israel, dizendo: Estes são os animais, que comereis dentre todos os animais que há sobre a terra;",
         "3": "Dentre os animais, todo o que tem unhas fendidas, e a fenda das unhas se divide em duas, e rumina, deles comereis.",
         "4": "Destes, porém, não comereis; dos que ruminam ou dos que têm unhas fendidas; o camelo, que rumina, mas não tem unhas fendidas; esse vos será imundo;",

@@ -1,15 +1,17 @@
 {
     "livro": "Salmos",
     "capitulo": 124,
-    "titulos": {},
+    "titulos": {
+        "1": "Ação de graças pela liberdade"
+    },
     "versiculos": {
-        "1": "Canção gradual de Davi. Se não tivesse sido pelo SENHOR, que esteve ao nosso lado, agora Israel pode dizer;",
-        "2": "Se não tivesse sido pelo SENHOR, que esteve ao nosso lado, quando os homens se levantaram contra nós;",
-        "3": "então eles teriam nos engolido rapidamente, quando a sua ira se acendeu contra nós;",
-        "4": "então as águas teriam nos coberto, e o ribeiro teria passado sobre a nossa alma;",
-        "5": "então as águas orgulhosas teriam passado sobre a nossa alma.",
-        "6": "Bendito seja o SENHOR, que não nos deu por presa aos seus dentes.",
-        "7": "A nossa alma escapou, como um pássaro fora do laço dos passarinheiros; o laço quebrou-se, e nós escapamos.",
-        "8": "O nosso socorro está no nome do SENHOR, que fez o céu e a terra."
+        "1": "Se o S ENHOR não estivesse do nosso lado, que Israel o repita:",
+        "2": "Se o S ENHOR não estivesse do nosso lado, quando os inimigos nos atacaram,",
+        "3": "eles já nos teriam devorado vivos, quando se enfureceram contra nós.",
+        "4": "Então, as águas nos teriam arrastado e furiosas torrentes teriam feito submergir nossas almas.",
+        "5": "Sim, águas profundas e violentas nos teriam afogado!",
+        "6": "Bendito seja o S ENHOR , que não nos entregou para sermos dilacerados pelas presas e garras ferinas do inimigo.",
+        "7": "Como um pássaro, escapamos da cilada do caçador; a armadilha foi destruída e ficamos livres!",
+        "8": "O nosso socorro está em o Nome do Eterno criador do céu e da terra."
     }
 }

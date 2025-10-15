@@ -1,26 +1,28 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "O reinado de Asa e sua devoção"
+    },
     "versiculos": {
-        "1": "E o Espírito de Deus veio sobre Azarias, o filho de Obede;",
-        "2": "e ele saiu para se encontrar com Asa e disse-lhe: Ouvi-me, Asa e todo o Judá e Benjamim: O SENHOR está convosco, enquanto vós estiverdes com ele; e se vós o buscardes, ele será encontrado por vós; mas se vós o abandonardes, ele vos abandonará.",
-        "3": "Ora, por um longo período Israel esteve sem o Deus verdadeiro, e sem um sacerdote para ensino, e sem lei.",
-        "4": "Porém, quando eles, na sua aflição, tornavam-se para o SENHOR Deus de Israel, e o buscavam, o acharam.",
-        "5": "E naqueles tempos não havia paz para aquele que saía, nem para aquele que entrava, mas grandes opressões estavam sobre todos os habitantes das terras.",
-        "6": "E nação contra nação e cidade contra cidade se destruíam, porque Deus os conturbou com toda adversidade.",
-        "7": "Portanto, sede fortes, e não fraquejem as vossas mãos; porque a vossa obra será recompensada.",
-        "8": "E quando Asa ouviu estas palavras, e a profecia de Obede, o profeta, ele tomou coragem, e lançou fora os ídolos abomináveis de toda a terra de Judá e Benjamim, e das cidades que ele havia conquistado no monte Efraim, e renovou o altar do SENHOR, que estava diante do pórtico do SENHOR.",
-        "9": "E ele reuniu todo o Judá e Benjamim, e com eles os estrangeiros de Efraim e Manassés, e de Simeão; porque muitos de Israel tinham se aliado a ele, vendo que o SENHOR, seu Deus, estava com ele.",
-        "10": "Assim, eles se reuniram em Jerusalém no terceiro mês, no décimo quinto ano do reinado de Asa.",
-        "11": "E eles ofereceram ao SENHOR, ao mesmo tempo, do despojo que eles trouxeram, setecentos bois e sete mil ovelhas.",
-        "12": "E eles entraram em um pacto para buscar o SENHOR Deus dos seus pais de todo o seu coração e de toda a sua alma;",
-        "13": "para que fosse morto todo aquele que não buscasse o SENHOR, Deus de Israel, pequeno ou grande, homem ou mulher.",
-        "14": "E eles juraram ao SENHOR em voz alta, e com gritos e com trombetas, e com cornetas.",
-        "15": "E todo o Judá se alegrou diante do juramento; porquanto juraram de todo o seu coração, e o buscaram com todo o seu desejo; e ele foi por eles achado; e o SENHOR lhes deu descanso ao redor.",
-        "16": "E também acerca de Maaca, a mãe do rei Asa, ele a removeu de ser rainha, porque ela fez um ídolo em um bosque; e Asa destruiu o seu ídolo, e o triturou e o queimou no ribeiro de Cedrom.",
-        "17": "Porém, os lugares altos não foram retirados de Israel; todavia o coração de Asa foi perfeito todos os seus dias.",
-        "18": "E ele trouxe para dentro da casa de Deus as coisas consagradas por seu pai e que ele mesmo tinha consagrado: prata, e ouro e vasos.",
-        "19": "E não houve mais guerra até o trigésimo quinto ano do reinado de Asa."
+        "1": "E aconteceu que o Espírito de Deus veio sobre Azariáhu ben Oded , Azarias filho de Odede,",
+        "2": "que foi ao encontro de Asa e lhe declarou: “Ouvi-me, Asa, e todo o Judá, e Benjamim! Eis que Yahweh , o S ENHOR está convosco sempre que estais com ele; portanto, se o buscardes, ele se permitirá encontrar; no entanto, se o abandonardes, de igual modo ele vos deixará.",
+        "3": "Ora, Israel passou muito tempo sem a presença do verdadeiro Deus, sem ouvir e obedecer ao ensino de um sacerdote ao menos e, também, longe da Torá , Lei.",
+        "4": "Contudo, quando em meio a sua angústia, eles voltaram seus corações para Yahweh , o S ENHOR , Deus de Israel, e o buscaram, logo foi por eles achado.",
+        "5": "Naqueles tempos não havia paz ou descanso, nem para os que saíam nem para os que entravam, todos os habitantes daquelas terras eram constantemente afligidos e viviam angustiados.",
+        "6": "Porque nação contra nação e cidade contra cidade se despedaçavam, pois Deus os castigou com todo tipo de aflição.",
+        "7": "Todavia, sede fortes e confiantes, e não desfaleçam as vossas mãos, porque a vossa obra terá recompensa!”",
+        "8": "Ouvindo, portanto, Asa esta exortação e as palavras do profeta, filho de Odede, tomou novo ânimo e se desfez de todos ídolos e cultos abomináveis que campeavam pelas terras de Judá e de Benjamim, como também por todas as cidades que tomara na região montanhosa de Efraim; e restaurou o altar de Yahweh , que estava diante do pórtico do S ENHOR .",
+        "9": "Congregou todo o Judá e Benjamim, e convocou também os filhos de Efraim, Manassés e Simeão que viviam entre eles, porque muitos de Israel haviam decidido passar para o lado do rei Asa, ao concluírem que Yahweh , seu Deus, estava com ele.",
+        "10": "Reuniram-se, em Jerusalém, no terceiro mês, no décimo quinto ano do governo do rei Asa.",
+        "11": "Naquele dia, ofereceram em sacrifício a Yahweh , o S ENHOR , do despojo de guerra que haviam trazido, setecentos bois e sete mil ovelhas.",
+        "12": "Estabeleceram uma solene aliança de buscar a presença de Yahweh , o S ENHOR Deus de seus pais, de todo o coração e de todo o entendimento;",
+        "13": "e acordaram também que todo aquele que não dispusesse sua alma a seguir as orientações de Yahweh , o S ENHOR Deus de Israel, seria condenado sumariamente à pena de morte; jovem ou idoso, pessoa simples ou importante, homem ou mulher.",
+        "14": "Juraram a Yahweh , o S ENHOR , em alta voz, bradando com júbilo de consagração ao som de clarins e trombetas.",
+        "15": "Todos os filhos de Judá muito se alegraram com esse juramento, porquanto o havia pronunciado de todo o coração. O povo buscou a Deus com a mais sincera disposição de alma, e o S ENHOR permitiu que as pessoas da terra o encontrassem e lhes abençoou com paz em suas fronteiras.",
+        "16": "O rei Asa chegou a exonerar sua própria avó Maaca da nobre posição de rainha-mãe, pois ela havia construído um poste-ídolo para prestar culto e adoração ao deus Asherá , Astarote, uma abominável imagem esculpida em madeira. Asa derrubou esse totem pagão, o reduziu a pedaços e queimou-o no vale de Cedrom.",
+        "17": "Ainda que os muitos altares idólatras não tivessem sido todos derrubados e eliminados das terras de Israel, o coração do rei Asa foi consagrado totalmente a Yahweh , o S ENHOR durante toda a sua vida.",
+        "18": "Ele trouxe para dentro da Casa de Yahweh , o templo do S ENHOR , todo o ouro, a prata e os utensílios sagrados que ele e seu pai haviam dedicado ao S ENHOR .",
+        "19": "E assim não se teve notícia de qualquer rebelião ou guerra até o trigésimo quinto ano do governo do rei Asa."
     }
 }

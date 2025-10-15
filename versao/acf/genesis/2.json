@@ -1,9 +1,11 @@
 {
     "livro": "Gênesis",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "4": "A origem da humanidade"
+    },
     "versiculos": {
-        "1": "Assim os céus, a terra e todo o seu exército foram acabados.",
+        "1": "ASSIM os céus, a terra e todo o seu exército foram acabados.",
         "2": "E havendo Deus acabado no dia sétimo a obra que fizera, descansou no sétimo dia de toda a sua obra, que tinha feito.",
         "3": "E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra que Deus criara e fizera.",
         "4": "Estas são as origens dos céus e da terra, quando foram criados; no dia em que o Senhor Deus fez a terra e os céus,",

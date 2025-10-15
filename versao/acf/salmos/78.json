@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 78,
-    "titulos": {},
+    "titulos": {
+        "1": "Ação divina na história de Israel"
+    },
     "versiculos": {
-        "1": "Escutai a minha lei, povo meu; inclinai os vossos ouvidos às palavras da minha boca.",
+        "1": "ESCUTAI a minha lei, povo meu; inclinai os vossos ouvidos às palavras da minha boca.",
         "2": "Abrirei a minha boca numa parábola; falarei enigmas da antiguidade.",
         "3": "Os quais temos ouvido e sabido, e nossos pais no-los têm contado.",
         "4": "Não os encobriremos aos seus filhos, mostrando à geração futura os louvores do Senhor, assim como a sua força e as maravilhas que fez.",

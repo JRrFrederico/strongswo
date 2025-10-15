@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 38,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus responde a Jó em teofania"
+    },
     "versiculos": {
-        "1": "Depois disto o Senhor respondeu a Jó de um redemoinho, dizendo:",
+        "1": "DEPOIS disto o Senhor respondeu a Jó de um redemoinho, dizendo:",
         "2": "Quem é este que escurece o conselho com palavras sem conhecimento?",
         "3": "Agora cinge os teus lombos, como homem; e perguntar-te-ei, e tu me ensinarás.",
         "4": "Onde estavas tu, quando eu fundava a terra? Faze-mo saber, se tens inteligência.",

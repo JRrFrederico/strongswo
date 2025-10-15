@@ -1,13 +1,17 @@
 {
     "livro": "Lucas",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "João Batista proclama a Palavra",
+        "15": "João exalta a Jesus: o Caminho",
+        "21": "O batismo e a ascendência de Jesus"
+    },
     "versiculos": {
-        "1": "E no ano quinze do império de Tibério César, sendo Pôncio Pilatos presidente da Judeia, e Herodes tetrarca da Galileia, e seu irmão Filipe tetrarca da Itureia e da província de Traconites, e Lisânias tetrarca de Abilene,",
+        "1": "E NO ano quinze do império de Tibério César, sendo Pôncio Pilatos presidente da Judeia, e Herodes tetrarca da Galileia, e seu irmão Filipe tetrarca da Itureia e da província de Traconites, e Lisânias tetrarca de Abilene,",
         "2": "Sendo Anás e Caifás sumos sacerdotes, veio no deserto a palavra de Deus a João, filho de Zacarias.",
         "3": "E percorreu toda a terra ao redor do Jordão, pregando o batismo de arrependimento, para o perdão dos pecados;",
         "4": "Segundo o que está escrito no livro das palavras do profeta Isaías, que diz: Voz do que clama no deserto: Preparai o caminho do Senhor; endireitai as suas veredas.",
-        "5": "Todo o vale se encherá, e se abaixará todo o monte e outeiro; e o que é tortuoso se endireitará, e os caminhos escabrosos se aplanarão;",
+        "5": "Todo o vale se encherá, e se abaixará todo o monte e outeiro; e o que é tortuoso se  endireitará, e os caminhos escabrosos se aplanarão;",
         "6": "E toda a carne verá a salvação de Deus.",
         "7": "Dizia, pois, João à multidão que saía para ser batizada por ele: Raça de víboras, quem vos ensinou a fugir da ira que está para vir?",
         "8": "Produzi, pois, frutos dignos de arrependimento, e não comeceis a dizer em vós mesmos: Temos Abraão por pai; porque eu vos digo que até destas pedras pode Deus suscitar filhos a Abraão.",

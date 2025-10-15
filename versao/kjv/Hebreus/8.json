@@ -1,20 +1,22 @@
 {
     "livro": "Hebreus",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "A aliança em Cristo é superior"
+    },
     "versiculos": {
-        "1": "Ora, de todas as coisas que falamos, eis o resumo: Temos um sumo sacerdote tal, que está assentado à destra do trono da Majestade nos céus.",
-        "2": "Um ministro do santuário, e do verdadeiro tabernáculo, que o Senhor levantou, e não o homem.",
-        "3": "Porque todo sumo sacerdote é ordenado para oferecer dons e sacrifícios; pelo que era necessário que esse homem também tivesse alguma coisa que oferecer.",
-        "4": "Porque, se ele estivesse na terra, não devia ser sacerdote, visto que há sacerdotes que oferecem dons segundo a lei,",
-        "5": "que servem ao exemplo e sombra das coisas celestiais, como Moisés foi admoestado por Deus quando estava prestes a construir o tabernáculo. Ele diz: Olha, cuida em fazer todas as coisas de acordo com o modelo que no monte se te mostrou.",
-        "6": "Mas agora ele alcançou um ministério mais excelente, quanto também é o mediador de um melhor pacto, que foi estabelecido sobre melhores promessas.",
-        "7": "Porquanto, se o primeiro pacto fora sem defeito, nenhum lugar se teria buscado para o segundo.",
-        "8": "E achando falta neles, ele diz: Eis que virão dias, diz o ­Senhor, em que farei um novo pacto com a casa de Israel e com a casa de Judá.",
-        "9": "Não conforme o pacto que fiz com seus pais no dia em que os tomei pela mão, para guiá-los para fora da terra do Egito; pois não permaneceram em meu pacto, e eu não mais os considerei, diz o ­Senhor.",
-        "10": "Porque este é o pacto que farei com a casa de Israel depois daqueles dias, diz o ­Senhor: Eu porei as minhas leis em suas mentes, e as escreverei em seus corações; eu serei para eles um Deus, e eles serão para mim um povo;",
-        "11": "e eles não ensinarão, cada homem ao seu próximo, nem cada um ao seu irmão, dizendo: Conhece o ­Senhor; porque todos me conhecerão, do menor até o maior.",
-        "12": "Porque serei misericordioso para com suas injustiças, e de seus pecados e de suas iniquidades não me lembrarei mais.",
-        "13": "Assim ele diz: Um novo pacto, ele tornou o primeiro velho. Ora, o que se deteriora e envelhece está pronto para desaparecer."
+        "1": "Ora, o mais importante de tudo o que temos afirmado é que, sim, temos um Sumo Sacerdote, o qual se assentou à direita do trono da Majestade nos céus,",
+        "2": "como ministro do santuário e do verdadeiro tabernáculo que o Senhor ergueu, não como ser humano.",
+        "3": "Pois todo sumo sacerdote é constituído para apresentar ofertas e sacrifícios; por essa razão, era imprescindível que este Sumo Sacerdote fizesse a sua oferta pessoal.",
+        "4": "Entretanto, se Ele estivesse na terra, nem seria considerado sumo sacerdote, tendo em vista que já foram constituídos aqueles que apresentam as ofertas prescritas pela Lei.",
+        "5": "Esses servem num santuário que é representação e sombra daquele que está nos céus, já que Moisés foi avisado quando estava para construir o tabernáculo: “Observai tudo com cautela, para que façais todas as coisas de acordo com o modelo que vos foi revelado no monte”.",
+        "6": "Contudo, agora, Jesus recebeu um ministério ainda mais excelente que o dos sacerdotes, assim como também a aliança da qual Ele é o mediador; aliança muito superior à antiga, pois que é fundamentada em promessas excelsas.",
+        "7": "Ora, se aquela primeira aliança não tivesse imperfeições, não seria necessário buscar lugar para a segunda.",
+        "8": "Porquanto Ele declara, repreendendo o povo por suas faltas: “Dias virão, diz o Senhor, em que estabelecerei com a casa de Israel e com a casa de Judá uma nova aliança.",
+        "9": "Não conforme a aliança que fiz com seus antepassados, no dia em que os tomei pela mão, para os conduzir até fora da terra do Egito; pois eles não continuaram na minha aliança, e Eu me afastei deles”, assevera o Senhor!",
+        "10": "“Esta é a aliança que farei com a casa de Israel, passados aqueles dias”, garante o Senhor. “Gravarei as minhas leis na sua mente e as escreverei em seu coração. Eu lhes serei Deus, e eles serão o meu povo,",
+        "11": "ninguém jamais precisará ensinar o seu próximo, nem o seu irmão, dizendo: ‘Conhece o Senhor’, porque todos me conhecerão, desde o menor deles até o maior.",
+        "12": "Pois Eu lhes perdoarei a malignidade e não me permitirei lembrar mais dos seus pecados”.",
+        "13": "Ao proclamar “Nova” esta aliança, Ele transformou em antiquada a primeira. E o que se torna superado e envelhecido, está próximo do aniquilamento."
     }
 }

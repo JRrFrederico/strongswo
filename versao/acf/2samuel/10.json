@@ -1,9 +1,11 @@
 {
     "livro": "2 Samuel",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi vence os amonitas e os sírios"
+    },
     "versiculos": {
-        "1": "E aconteceu depois disto que morreu o rei dos filhos de Amom, e seu filho Hanum reinou em seu lugar.",
+        "1": "E ACONTECEU depois disto que morreu o rei dos filhos de Amom, e seu filho Hanum reinou em seu lugar.",
         "2": "Então disse Davi: Usarei de benevolência com Hanum, filho de Naás, como seu pai usou de benevolência comigo. E enviou Davi os seus servos para consolá-lo acerca de seu pai; e foram os servos de Davi à terra dos filhos de Amom.",
         "3": "Então disseram os príncipes dos filhos de Amom a seu senhor, Hanum: Porventura honra Davi a teu pai aos teus olhos, porque te enviou consoladores? Não te enviou antes Davi os seus servos para reconhecerem esta cidade, e para espiá-la, e para transtorná-la?",
         "4": "Então tomou Hanum os servos de Davi, e lhes raspou metade da barba, e lhes cortou metade das vestes, até às nádegas, e os despediu.",

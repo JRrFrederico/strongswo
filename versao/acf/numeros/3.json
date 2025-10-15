@@ -1,9 +1,14 @@
 {
     "livro": "Números",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "As responsabilidades dos levitas",
+        "11": "A eleição dos levitas",
+        "14": "O recenseamento dos levitas",
+        "40": "O resgate dos primogênitos"
+    },
     "versiculos": {
-        "1": "E estas são as gerações de Arão e de Moisés, no dia em que o Senhor falou com Moisés, no monte Sinai.",
+        "1": "E ESTAS são as gerações de Arão e de Moisés, no dia em que o Senhor falou com Moisés, no monte Sinai.",
         "2": "E estes são os nomes dos filhos de Arão: o primogênito Nadabe; depois Abiú, Eleazar e Itamar.",
         "3": "Estes são os nomes dos filhos de Arão, dos sacerdotes ungidos, cujas mãos foram consagradas para administrar o sacerdócio.",
         "4": "Mas Nadabe e Abiú morreram perante o Senhor, quando ofereceram fogo estranho perante o Senhor no deserto de Sinai, e não tiveram filhos; porém Eleazar e Itamar administraram o sacerdócio diante de Arão, seu pai.",

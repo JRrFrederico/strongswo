@@ -1,9 +1,13 @@
 {
     "livro": "Jó",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó fala da exiguidade da vida",
+        "13": "Jó aguarda por melhores dias",
+        "18": "O além é o destino de todos"
+    },
     "versiculos": {
-        "1": "O homem, nascido da mulher, é de poucos dias e farto de inquietação.",
+        "1": "O HOMEM, nascido da mulher, é de poucos dias e farto de inquietação.",
         "2": "Sai como a flor, e murcha; foge também como a sombra, e não permanece.",
         "3": "E sobre este tal abres os teus olhos, e a mim me fazes entrar no juízo contigo.",
         "4": "Quem do imundo tirará o puro? Ninguém.",

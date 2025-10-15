@@ -1,9 +1,14 @@
 {
     "livro": "Romanos",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "O lamento de Paulo por Israel",
+        "6": "Deus cumpre suas promessas",
+        "19": "A absoluta soberania de Deus",
+        "30": "Israel tropeçou na fé"
+    },
     "versiculos": {
-        "1": "Em Cristo digo a verdade, não minto (dando-me testemunho a minha consciência no Espírito Santo):",
+        "1": "EM Cristo digo a verdade, não minto (dando-me testemunho a minha consciência no Espírito Santo):",
         "2": "Que tenho grande tristeza e contínua dor no meu coração.",
         "3": "Porque eu mesmo poderia desejar ser anátema de Cristo, por amor de meus irmãos, que são meus parentes segundo a carne;",
         "4": "Que são israelitas, dos quais é a adoção de filhos, e a glória, e as alianças, e a lei, e o culto, e as promessas;",

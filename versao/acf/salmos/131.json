@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 131,
-    "titulos": {},
+    "titulos": {
+        "1": "Os filhos confiam no Pai celeste"
+    },
     "versiculos": {
         "1": "Senhor, o meu coração não se elevou nem os meus olhos se levantaram; não me exercito em grandes matérias, nem em coisas muito elevadas para mim.",
         "2": "Certamente que me tenho portado e sossegado como uma criança desmamada de sua mãe; a minha alma está como uma criança desmamada.",

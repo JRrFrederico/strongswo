@@ -1,9 +1,14 @@
 {
     "livro": "Romanos",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Saudações e recomendações",
+        "17": "Cuidado com os falsos servos",
+        "21": "Saudações da equipe de Paulo",
+        "25": "Doxologia"
+    },
     "versiculos": {
-        "1": "Recomendo-vos, pois, Febe, nossa irmã, a qual é serva na igreja que está em Cencreia,",
+        "1": "RECOMENDO-VOS, pois, Febe, nossa irmã, a qual é serva na igreja que está em Cencreia,",
         "2": "Para que a recebais no Senhor, como convém aos santos, e a ajudeis em qualquer coisa que de vós necessitar; porque tem hospedado a muitos, como também a mim mesmo.",
         "3": "Saudai a Priscila e a Áquila, meus cooperadores em Cristo Jesus,",
         "4": "Os quais pela minha vida expuseram as suas cabeças; o que não só eu lhes agradeço, mas também todas as igrejas dos gentios.",

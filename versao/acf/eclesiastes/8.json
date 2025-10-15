@@ -1,9 +1,12 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Obedecer ao rei é ser prudente",
+        "16": "A obra de Deus é incompreensível"
+    },
     "versiculos": {
-        "1": "Quem é como o sábio? E quem sabe a interpretação das coisas? A sabedoria do homem faz brilhar o seu rosto, e a dureza do seu rosto se muda.",
+        "1": "QUEM é como o sábio? E quem sabe a interpretação das coisas? A sabedoria do homem faz brilhar o seu rosto, e a dureza do seu rosto se muda.",
         "2": "Eu digo: Observa o mandamento do rei, e isso em consideração ao juramento que fizeste a Deus.",
         "3": "Não te apresses a sair da presença dele, nem persistas em alguma coisa má, porque ele faz tudo o que quer.",
         "4": "Porque a palavra do rei tem poder; e quem lhe dirá: Que fazes?",

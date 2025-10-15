@@ -1,9 +1,17 @@
 {
     "livro": "Lucas",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Os impenitentes perecerão",
+        "6": "A parábola da figueira estéril",
+        "10": "Uma mulher é curada no sábado",
+        "18": "A parábola do grão de mostarda",
+        "20": "A parábola do fermento",
+        "22": "Estreita é a porta do Reino",
+        "31": "O lamento profético de Jesus"
+    },
     "versiculos": {
-        "1": "E, naquele mesmo tempo, estavam presentes ali alguns que lhe falavam dos galileus, cujo sangue Pilatos misturara com os seus sacrifícios.",
+        "1": "E, NAQUELE mesmo tempo, estavam presentes ali alguns que lhe falavam dos galileus, cujo sangue Pilatos misturara com os seus sacrifícios.",
         "2": "E, respondendo Jesus, disse-lhes: Cuidais vós que esses galileus foram mais pecadores do que todos os galileus, por terem padecido tais coisas?",
         "3": "Não, vos digo; antes, se não vos arrependerdes, todos de igual modo perecereis.",
         "4": "Ou aqueles dezoito, sobre os quais caiu a torre de Siloé e os matou, cuidais que foram mais culpados do que todos quantos homens habitam em Jerusalém?",

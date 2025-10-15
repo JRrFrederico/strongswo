@@ -1,9 +1,13 @@
 {
     "livro": "Josué",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "A herança das outras sete tribos",
+        "11": "As terras da tribo de Benjamim",
+        "21": "As cidades de Benjamim"
+    },
     "versiculos": {
-        "1": "E toda a congregação dos filhos de Israel se reuniu em Siló, e ali armaram a tenda da congregação, depois que a terra lhes foi sujeita.",
+        "1": "E TODA a congregação dos filhos de Israel se reuniu em Siló, e ali armaram a tenda da congregação, depois que a terra lhes foi sujeita.",
         "2": "E dentre os filhos de Israel ficaram sete tribos que ainda não tinham repartido a sua herança.",
         "3": "E disse Josué aos filhos de Israel: Até quando sereis negligentes em chegardes para possuir a terra que o Senhor Deus de vossos pais vos deu?",
         "4": "De cada tribo escolhei vós três homens, para que eu os envie, e eles se levantem e percorram a terra, e a demarquem segundo as suas heranças, e voltem a mim.",

@@ -1,9 +1,12 @@
 {
     "livro": "Êxodo",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Moisés e Arão falam ao Faraó",
+        "22": "A oração de Moisés por Israel"
+    },
     "versiculos": {
-        "1": "E depois foram Moisés e Arão e disseram a Faraó: Assim diz o Senhor Deus de Israel: Deixa ir o meu povo, para que me celebre uma festa no deserto.",
+        "1": "E DEPOIS foram Moisés e Arão e disseram a Faraó: Assim diz o Senhor Deus de Israel: Deixa ir o meu povo, para que me celebre uma festa no deserto.",
         "2": "Mas Faraó disse: Quem é o Senhor, cuja voz eu ouvirei, para deixar ir Israel? Não conheço o Senhor, nem tampouco deixarei ir Israel.",
         "3": "E eles disseram: O Deus dos hebreus nos encontrou; portanto deixa-nos agora ir caminho de três dias ao deserto, para que ofereçamos sacrifícios ao Senhor nosso Deus, e ele não venha sobre nós com pestilência ou com espada.",
         "4": "Então disse-lhes o rei do Egito: Moisés e Arão, por que fazeis cessar o povo das suas obras? Ide às vossas cargas.",

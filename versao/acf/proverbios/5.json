@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Conselhos contra a imoralidade"
+    },
     "versiculos": {
-        "1": "Filho meu, atende à minha sabedoria; à minha inteligência inclina o teu ouvido;",
+        "1": "FILHO meu, atende à minha sabedoria; à minha inteligência inclina o teu ouvido;",
         "2": "Para que guardes os meus conselhos e os teus lábios observem o conhecimento.",
         "3": "Porque os lábios da mulher estranha destilam favos de mel, e o seu paladar é mais suave do que o azeite.",
         "4": "Mas o seu fim é amargoso como o absinto, agudo como a espada de dois gumes.",

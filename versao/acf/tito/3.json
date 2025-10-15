@@ -1,9 +1,12 @@
 {
     "livro": "Tito",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "A salvação conduz às boas obras",
+        "12": "Recomendações finais e bênção"
+    },
     "versiculos": {
-        "1": "Admoesta-os a que se sujeitem aos principados e autoridades, que lhes obedeçam, e estejam preparados para toda a boa obra;",
+        "1": "ADMOESTA-OS a que se sujeitem aos principados e autoridades, que lhes obedeçam, e estejam preparados para toda a boa obra;",
         "2": "Que a ninguém infamem, nem sejam contenciosos, mas modestos, mostrando toda a mansidão para com todos os homens.",
         "3": "Porque também nós éramos noutro tempo insensatos, desobedientes, extraviados, servindo a várias concupiscências e deleites, vivendo em malícia e inveja, odiosos, odiando-nos uns aos outros.",
         "4": "Mas quando apareceu a benignidade e amor de Deus, nosso Salvador, para com os homens,",

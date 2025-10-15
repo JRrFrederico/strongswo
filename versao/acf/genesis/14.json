@@ -1,9 +1,13 @@
 {
     "livro": "Gênesis",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "Quatro reis lutam contra cinco",
+        "12": "Abrão socorre Ló",
+        "18": "Melquisedeque abençoa Abrão"
+    },
     "versiculos": {
-        "1": "E aconteceu nos dias de Anrafel, rei de Sinar, Arioque, rei de Elasar, Quedorlaomer, rei de Elão, e Tidal, rei de Goim,",
+        "1": "E ACONTECEU nos dias de Anrafel, rei de Sinar, Arioque, rei de Elasar, Quedorlaomer, rei de Elão, e Tidal, rei de Goim,",
         "2": "Que estes fizeram guerra a Bera, rei de Sodoma, a Birsa, rei de Gomorra, a Sinabe, rei de Admá, e a Semeber, rei de Zeboim, e ao rei de Belá (esta é Zoar).",
         "3": "Todos estes se ajuntaram no vale de Sidim (que é o Mar Salgado).",
         "4": "Doze anos haviam servido a Quedorlaomer, mas ao décimo terceiro ano rebelaram-se.",

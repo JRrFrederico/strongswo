@@ -1,9 +1,13 @@
 {
     "livro": "João",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "A videira verdadeira e seus ramos",
+        "9": "A alegria dos discípulos",
+        "18": "O mundo odeia os discípulos"
+    },
     "versiculos": {
-        "1": "Eu sou a videira verdadeira, e meu Pai é o lavrador.",
+        "1": "EU sou a videira verdadeira, e meu Pai é o lavrador.",
         "2": "Toda a vara em mim, que não dá fruto, a tira; e limpa toda aquela que dá fruto, para que dê mais fruto.",
         "3": "Vós já estais limpos, pela palavra que vos tenho falado.",
         "4": "Estai em mim, e eu em vós; como a vara de si mesma não pode dar fruto, se não estiver na videira, assim também vós, se não estiverdes em mim.",

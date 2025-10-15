@@ -2,12 +2,13 @@
     "livro": "1 Coríntios",
     "capitulo": 1,
     "titulos": {
-        "3": "Saudação",
+        "1": "Saudação",
         "4": "Bênçãos por meio de Cristo",
         "10": "Divisões na igreja de Corinto",
         "18": "Cristo — o poder e a sabedoria de Deus"
     },
     "versiculos": {
+        "1": "Eu, Paulo, que fui chamado pela vontade de Deus para ser apóstolo de Cristo Jesus, escrevo, junto com o irmão Sóstenes, esta carta à igreja de Deus que está na cidade de Corinto. Escrevo a todos os que, pela sua união com Cristo Jesus, foram chamados para pertencerem ao povo de Deus. Esta carta é também para aqueles que em todos os lugares adoram o nosso Senhor Jesus Cristo, Senhor deles e nosso.",
         "3": "Que a graça e a paz de Deus, o nosso Pai, e do Senhor Jesus Cristo estejam com vocês!",
         "4": "Eu sempre agradeço ao meu Deus por causa da graça que ele tem dado a vocês por meio de Cristo Jesus.",
         "5": "Por estarem unidos com Cristo Jesus, vocês foram enriquecidos em tudo, tanto no dom de anunciar o evangelho como no dom da sabedoria espiritual.",
@@ -21,6 +22,7 @@
         "13": "Por acaso Cristo foi dividido em várias partes? Será que Paulo morreu crucificado em favor de vocês? Ou será que vocês foram batizados em nome de Paulo?",
         "14": "Graças a Deus que eu não batizei nenhum de vocês, a não ser Crispo e Gaio.",
         "15": "Assim ninguém pode dizer que vocês foram batizados em meu nome.",
+        "16": "(Ah! Sim. Batizei também Estéfanas e a família dele, mas não lembro de ter batizado mais ninguém.)",
         "17": "Pois Cristo não me enviou para batizar, mas para anunciar o evangelho e anunciá-lo sem usar a linguagem da sabedoria humana, para não tirar o poder da morte de Cristo na cruz.",
         "18": "De fato, a mensagem da morte de Cristo na cruz é loucura para os que estão se perdendo; mas para nós, que estamos sendo salvos, é o poder de Deus.",
         "19": "Pois as Escrituras Sagradas dizem: “Destruirei a sabedoria dos sábios e acabarei com o conhecimento dos instruídos.”",

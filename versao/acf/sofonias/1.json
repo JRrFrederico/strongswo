@@ -1,9 +1,12 @@
 {
     "livro": "Sofonias",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Profecia contra Judá e Jerusalém",
+        "14": "O grande Dia de Yahweh"
+    },
     "versiculos": {
-        "1": "Palavra do Senhor, que veio a Sofonias, filho de Cusi, filho de Gedalias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amom, rei de Judá.",
+        "1": "PALAVRA do Senhor, que veio a Sofonias, filho de Cusi, filho de Gedalias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amom, rei de Judá.",
         "2": "Hei de consumir por completo tudo de sobre a terra, diz o Senhor.",
         "3": "Consumirei os homens e os animais, consumirei as aves do céu, e os peixes do mar, e os tropeços juntamente com os ímpios; e exterminarei os homens de sobre a terra, diz o Senhor.",
         "4": "E estenderei a minha mão contra Judá, e contra todos os habitantes de Jerusalém, e exterminarei deste lugar o restante de Baal, e o nome dos sacerdotes dos ídolos, juntamente com os sacerdotes;",

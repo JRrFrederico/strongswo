@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "O grande questionamento de Jó"
+    },
     "versiculos": {
-        "1": "Então Jó respondeu, dizendo:",
+        "1": "ENTÃO Jó respondeu, dizendo:",
         "2": "Na verdade sei que assim é; porque, como se justificaria o homem para com Deus?",
         "3": "Se quiser contender com ele, nem a uma de mil coisas lhe poderá responder.",
         "4": "Ele é sábio de coração, e forte em poder; quem se endureceu contra ele, e teve paz?",

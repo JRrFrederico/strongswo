@@ -14,9 +14,9 @@ console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções 
 window.getSpecificVerseCount = function(livro, capitulo) {
     const versiculosPorCapitulo = {                                                                          // Objeto de contagem de versículos por capítulo para cada livro
         "genesis": { 1: 31, 2: 25, 3: 24, 4: 26, 5: 32, 6: 22, 7: 24, 8: 22, 9: 29, 10: 32, 11: 32, 12: 20, 13: 18, 14: 24, 15: 21, 16: 16, 17: 27, 18: 33, 19: 38, 20: 18, 21: 34, 22: 24, 23: 20, 24: 67, 25: 34, 26: 35, 27: 46, 28: 22, 29: 35, 30: 43, 31: 55, 32: 32, 33: 20, 34: 31, 35: 29, 36: 43, 37: 36, 38: 30, 39: 23, 40: 23, 41: 57, 42: 38, 43: 34, 44: 34, 45: 28, 46: 34, 47: 31, 48: 22, 49: 33, 50: 26 },
-        "exodo": { 1: 22, 2: 25, 3: 22, 4: 31, 5: 23, 6: 30, 7: 25, 8: 32, 9: 35, 10: 29, 11: 10, 12: 37, 13: 22, 14: 31, 15: 27, 16: 36, 17: 16, 18: 27, 19: 29, 20: 26, 21: 36, 22: 31, 23: 33, 24: 18 },
+        "exodo": { 1: 22, 2: 25, 3: 22, 4: 31, 5: 23, 6: 30, 7: 25, 8: 32, 9: 35, 10: 29, 11: 10, 12: 37, 13: 22, 14: 31, 15: 27, 16: 36, 17: 27, 18: 27, 19: 29, 20: 26, 21: 36, 22: 31, 23: 33, 24: 18 },
         "levitico": { 1: 17, 2: 16, 3: 17, 4: 35, 5: 19, 6: 30, 7: 38, 8: 36, 9: 24, 10: 20, 11: 47, 12: 8, 13: 59, 14: 57, 15: 33, 16: 34, 17: 16, 18: 30, 19: 37, 20: 27, 21: 24, 22: 33, 23: 44, 24: 23, 25: 55, 26: 46, 27: 34 },
-        "numeros": { 1: 54, 2: 34, 3: 51, 4: 42, 5: 31, 6: 27, 7: 89, 8: 26, 9: 23, 10: 36, 11: 35, 12: 16, 13: 33, 14: 45, 15: 41, 16: 50, 17: 13, 18: 32, 19: 22, 20: 29, 21: 35, 22: 41, 23: 30, 24: 25, 25: 18, 26: 65, 27: 23, 28: 31, 29: 40, 30: 16, 31: 54, 32: 42, 33: 56, 34: 29, 35: 15, 36: 13 },
+        "numeros": { 1: 54, 2: 34, 3: 51, 4: 42, 5: 31, 6: 27, 7: 89, 8: 26, 9: 23, 10: 36, 11: 35, 12: 16, 13: 33, 14: 45, 15: 41, 16: 50, 17: 13, 18: 32, 19: 22, 20: 29, 21: 35, 22: 41, 23: 30, 24: 25, 25: 18, 26: 65, 27: 23, 28: 31, 29: 40, 30: 16, 31: 54, 32: 42, 33: 20, 34: 29, 35: 15, 36: 13 },
         "deuteronomio": { 1: 46, 2: 37, 3: 29, 4: 49, 5: 33, 6: 25, 7: 26, 8: 20, 9: 29, 10: 22, 11: 32, 12: 31, 13: 18, 14: 29, 15: 23, 16: 22, 17: 20, 18: 22, 19: 21, 20: 20, 21: 23, 22: 30, 23: 25, 24: 22, 25: 19, 26: 19, 27: 26, 28: 68, 29: 8, 30: 20, 31: 30, 32: 49, 33: 29, 34: 12 },
         "josue": { 1: 18, 2: 24, 3: 17, 4: 24, 5: 15, 6: 27, 7: 26, 8: 35, 9: 27, 10: 43, 11: 23, 12: 24, 13: 33, 14: 15, 15: 63, 16: 10, 17: 18, 18: 28, 19: 51, 20: 9, 21: 45, 22: 34, 23: 16, 24: 33 },
         "juizes": { 1: 36, 2: 23, 3: 31, 4: 24, 5: 31, 6: 40, 7: 25, 8: 32, 9: 57, 10: 18, 11: 40, 12: 15, 13: 25, 14: 20, 15: 20, 16: 31, 17: 13, 18: 31, 19: 30, 20: 48, 21: 25 },
@@ -35,7 +35,7 @@ window.getSpecificVerseCount = function(livro, capitulo) {
         "isaias": { 1: 31, 2: 22, 3: 26, 4: 6, 5: 30, 6: 13, 7: 25, 8: 22, 9: 21, 10: 34, 11: 16, 12: 6, 13: 22, 14: 32, 15: 9, 16: 14, 17: 14, 18: 7, 19: 25, 20: 6, 21: 17, 22: 25, 23: 18, 24: 23, 25: 12, 26: 21, 27: 13, 28: 29, 29: 24, 30: 33, 31: 9, 32: 20, 33: 24, 34: 17, 35: 10, 36: 22, 37: 38, 38: 22, 39: 8, 40: 31, 41: 29, 42: 25, 43: 28, 44: 28, 45: 25, 46: 13, 47: 15, 48: 22, 49: 26, 50: 11, 51: 23, 52: 15, 53: 12, 54: 17, 55: 13, 56: 12, 57: 21, 58: 14, 59: 21, 60: 22, 61: 11, 62: 12, 63: 19, 64: 12, 65: 25, 66: 24 },
         "jeremias": { 1: 19, 2: 37, 3: 25, 4: 31, 5: 31, 6: 30, 7: 34, 8: 22, 9: 26, 10: 25, 11: 23, 12: 17, 13: 27, 14: 29, 15: 21, 16: 21, 17: 27, 18: 23, 19: 15, 20: 18, 21: 14, 22: 30, 23: 40, 24: 10, 25: 38, 26: 20, 27: 21, 28: 17, 29: 32, 30: 24, 31: 40, 32: 44, 33: 26, 34: 22, 35: 19, 36: 32, 37: 20, 38: 28, 39: 18, 40: 16, 41: 18, 42: 22, 43: 13, 44: 30, 45: 5, 46: 28, 47: 7, 48: 47, 49: 39, 50: 46, 51: 64, 52: 34 },
         "lamentacoes": { 1: 22, 2: 22, 3: 66, 4: 22, 5: 22 },
-        "ezequiel": { 1: 28, 2: 10, 3: 27, 4: 17, 5: 17, 6: 14, 7: 27, 8: 18, 9: 11, 10: 22, 11: 26, 12: 28, 13: 23, 14: 23, 15: 8, 16: 63, 17: 24, 18: 32, 19: 14, 20: 49, 21: 32, 22: 31, 23: 49, 24: 27, 25: 17, 26: 21, 27: 36, 28: 26, 29: 15, 30: 26, 31: 17, 32: 32, 33: 33, 34: 31, 35: 17, 36: 38, 37: 28, 38: 23, 39: 29, 40: 49, 41: 26, 42: 20, 43: 27, 44: 31, 45: 25, 46: 20, 47: 23, 48: 35 },
+        "ezequiel": { 1: 28, 2: 10, 3: 27, 4: 17, 5: 17, 6: 14, 7: 27, 8: 18, 9: 11, 10: 22, 11: 26, 12: 28, 13: 23, 14: 23, 15: 8, 16: 63, 17: 24, 18: 32, 19: 14, 20: 49, 21: 32, 22: 31, 23: 49, 24: 27, 25: 17, 26: 21, 27: 36, 28: 26, 29: 15, 30: 26, 31: 17, 32: 32, 33: 33, 34: 37, 35: 16, 36: 33, 37: 24, 38: 41, 39: 29, 40: 49, 41: 34, 42: 17 },
         "daniel": { 1: 21, 2: 49, 3: 30, 4: 37, 5: 31, 6: 28, 7: 28, 8: 27, 9: 27, 10: 21, 11: 45, 12: 13 },
         "oseias": { 1: 11, 2: 23, 3: 5, 4: 19, 5: 15, 6: 11, 7: 16, 8: 14, 9: 17, 10: 15, 11: 12, 12: 14, 13: 16, 14: 9 },
         "joel": { 1: 20, 2: 32, 3: 21 },
@@ -89,81 +89,141 @@ window.getSpecificVerseCount = function(livro, capitulo) {
 
 // Cria a função que será chamada por biblia-navegacao.js. Carregar o versículo (Original - JSON)
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
-    console.log(`[ORIGINAL] Carregando: ${livro} ${capitulo}:${versiculo}`);                   // Loga o carregamento do versículo
-    const content = document.querySelector('.content');                                        // Seleciona o conteiner principal
-    let tituloH2 = document.querySelector('.content h2');                                      // Seleciona o título principal
-    if (!content) {
-        console.error("[ORIGINAL] Elemento .content não encontrado.");                         // Loga erro se não encontrar o conteiner
+    console.log(`[ORIGINAL] Carregando: ${livro} ${capitulo}:${versiculo}`);
+    
+    // O elemento que contém APENAS o texto do versículo.
+    // Presumimos que os botões de capítulo estão em um elemento IRMÃO a este, ou em um pai comum, mas não DENTRO dele.
+    const verseTextContainer = document.querySelector('.conteudo-versiculos'); 
+    if (!verseTextContainer) {
+        console.error("[ORIGINAL] Elemento '.conteudo-versiculos' (contêiner do texto do versículo) não encontrado. Falha crítica na renderização.");
         return;
     }
 
-    const existingVersiculoDiv = content.querySelector('.texto-versiculo');                    // Remove versículo anterior, se houver
-    if (existingVersiculoDiv) {
-        existingVersiculoDiv.remove();
+    // Busca e remove APENAS o div do versículo anterior dentro do 'verseTextContainer'.
+    // Isso é análogo à forma como acf.js lida com '.texto-versiculo' dentro do seu '.conteudo'.
+    const existingVerseTextDiv = verseTextContainer.querySelector('.texto-versiculo');
+    if (existingVerseTextDiv) {
+        existingVerseTextDiv.remove();
+        console.log("[ORIGINAL] Div '.texto-versiculo' anterior removida do '.conteudo-versiculos'.");
     }
 
-    const versiculoElementDiv = document.createElement('div');                                 // Cria div para o versículo
-    versiculoElementDiv.classList.add('versiculo', 'texto-versiculo');
+    const versiculoElementDiv = document.createElement('div');
+    versiculoElementDiv.classList.add('versiculo', 'texto-versiculo'); // Adiciona as classes para estilização
     if (document.body.classList.contains('module-leitura')) {
-        versiculoElementDiv.classList.add('modo-leitura');                                     // Adiciona classe se modo leitura estiver ativo
+        versiculoElementDiv.classList.add('modo-leitura');
     }
+    console.log("[ORIGINAL] Div 'versiculoElementDiv' criada para o conteúdo do versículo.");
 
-    try {                                                                                      // Faz a requisição para buscar o JSON do capítulo
-        const response = await fetch(`../version/original/${livro}/${capitulo}.json`);
-        if (!response.ok) {                                                                    // Se a resposta não for OK, lança um erro com o status HTTP
-            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo}`);
+    try {
+        console.log(`[ORIGINAL] Tentando buscar JSON em: ../versao/original/${livro}/${capitulo}.json`);
+        const response = await fetch(`../versao/original/${livro}/${capitulo}.json`);
+        if (!response.ok) {
+            // Este erro 404 é crucial e deve ser tratado.
+            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo}. Verifique o caminho do arquivo.`);
         }
+        console.log("[ORIGINAL] JSON do capítulo buscado com sucesso. Convertendo para objeto.");
 
-        const data = await response.json();                                                    // Converte a resposta para objeto JSON
-        if (data.versiculos && data.versiculos[versiculo]) {                                   // Se existir título para o versículo, adiciona como <h3>
-            if (data.titulos && data.titulos[versiculo]) {
-                const tituloInternoH3 = document.createElement('h3');                          // Cria elemento h3 para o título
-                tituloInternoH3.classList.add('titulo-versiculo-interno');                     // Adiciona classe para estilização
-                tituloInternoH3.textContent = data.titulos[versiculo];                         // Define o texto do título
-                versiculoElementDiv.appendChild(tituloInternoH3);                              // Adiciona o título à div do versículo
+        const dataArray = await response.json();
+        const chapterData = dataArray[0];
+        console.log("[ORIGINAL] Dados do capítulo JSON:", chapterData);
+
+        if (chapterData && chapterData.versiculos && chapterData.versiculos[versiculo]) {
+            console.log(`[ORIGINAL] Versículo ${versiculo} encontrado nos dados do JSON.`);
+            
+            // Adiciona o título interno (h3) se existir
+            if (chapterData.titulos && chapterData.titulos[versiculo]) {
+                const tituloInternoH3 = document.createElement('h3');
+                tituloInternoH3.classList.add('titulo-versiculo-interno');
+                tituloInternoH3.textContent = chapterData.titulos[versiculo];
+                versiculoElementDiv.appendChild(tituloInternoH3);
+                console.log("[ORIGINAL] Título interno H3 adicionado.");
             }
             
-            const textoP = document.createElement('p');                                        // Cria o elemento <p> para o texto do versículo
-            textoP.id = `versiculo-${versiculo}`;                                              // Define o id do parágrafo
-            textoP.textContent = data.versiculos[versiculo];                                   // Define o texto do versículo
-            versiculoElementDiv.appendChild(textoP);                                           // Adiciona o texto à div do versículo
-        } else {                                                                               // Caso não encontre o versículo, exibe mensagem de erro
-            const textoP = document.createElement('p');                                        // Cria elemento <p> para mensagem de erro
-            textoP.textContent = `Versículo ${versiculo} não encontrado nos dados.`;           // Define o texto da mensagem de erro
-            versiculoElementDiv.appendChild(textoP);                                           // Adiciona o elemento <p> à div do versículo
-            console.warn(`[ORIGINAL] Versículo ${versiculo} não encontrado nos dados de ${livro} ${capitulo}.json`); // Loga o aviso no console
+            // Adiciona a tradução completa do versículo
+            const textoP = document.createElement('p');
+            textoP.id = `versiculo-${versiculo}`;
+            textoP.classList.add('traducao-completa');
+            textoP.textContent = chapterData.versiculos[versiculo].traducao_completa;
+            versiculoElementDiv.appendChild(textoP);
+            console.log("[ORIGINAL] Tradução completa do versículo adicionada.");
+
+            // Adiciona a quebra palavra por palavra (hebraico, transliteração, tradução)
+            if (chapterData.versiculos[versiculo].palavras && chapterData.versiculos[versiculo].palavras.length > 0) {
+                const palavrasContainerDiv = document.createElement('div');
+                palavrasContainerDiv.classList.add('palavras-container');
+
+                chapterData.versiculos[versiculo].palavras.forEach(palavra => {
+                    const wordDetailItemDiv = document.createElement('div');
+                    wordDetailItemDiv.classList.add('word-detail-item');
+
+                    const hebraicoDiv = document.createElement('div');
+                    hebraicoDiv.classList.add('hebraico-text');
+                    hebraicoDiv.textContent = palavra.hebraico;
+                    wordDetailItemDiv.appendChild(hebraicoDiv);
+
+                    const transliteralDiv = document.createElement('div');
+                    transliteralDiv.classList.add('transliteral-text');
+                    transliteralDiv.textContent = palavra.transliteral;
+                    wordDetailItemDiv.appendChild(transliteralDiv);
+
+                    const traducaoPalavraDiv = document.createElement('div');
+                    traducaoPalavraDiv.classList.add('traducao-palavra-text');
+                    traducaoPalavraDiv.textContent = palavra.traducao_palavra;
+                    wordDetailItemDiv.appendChild(traducaoPalavraDiv);
+
+                    palavrasContainerDiv.appendChild(wordDetailItemDiv);
+                });
+                versiculoElementDiv.appendChild(palavrasContainerDiv);
+                console.log("[ORIGINAL] Container de palavras detalhadas adicionado.");
+            } else {
+                console.warn(`[ORIGINAL] Nenhuma estrutura 'palavras' encontrada ou está vazia para o versículo ${versiculo}.`);
+            }
+        } else {
+            const textoP = document.createElement('p');
+            textoP.textContent = `Versículo ${versiculo} não encontrado nos dados do JSON para ${livro} ${capitulo}.`;
+            versiculoElementDiv.appendChild(textoP);
+            console.warn(`[ORIGINAL] Versículo ${versiculo} não encontrado nos dados de ${livro} ${capitulo}.json ou estrutura inválida.`);
         }
     } catch (error) {
-        console.error(`[ORIGINAL] Erro ao carregar versículo ${livro} ${capitulo}:${versiculo}:`, error);    // Loga o erro detalhado no console
-        const textoP = document.createElement('p');                                                          // Cria elemento <p> para mensagem de erro
-        textoP.textContent = `Erro ao carregar versículo ${versiculo}.`;                                     // Define o texto da mensagem de erro
-        textoP.style.color = "red";                                                                          // Define a cor do texto como vermelho para destacar o erro
-        versiculoElementDiv.appendChild(textoP);                                                             // Adiciona o elemento <p> à div do versículo
+        console.error(`[ORIGINAL] Erro FATAL ao carregar versículo ${livro} ${capitulo}:${versiculo}:`, error);
+        const textoP = document.createElement('p');
+        textoP.textContent = `Erro crítico ao carregar versículo ${versiculo}. Detalhes técnicos: ${error.message}. Verifique o console para mais informações.`;
+        textoP.style.color = "red";
+        versiculoElementDiv.appendChild(textoP);
     }
 
-    content.appendChild(versiculoElementDiv);                                                                // Adiciona o versículo ao conteiner
-    if (window.titulo) {
-        window.titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;// Atualiza o texto do título principal da página
-    } else {                                                                                                 // Caso não exista o elemento de título principal
-        console.warn(`[ORIGINAL] Elemento H2 principal (window.titulo) não encontrado para atualizar.`);     // Loga o aviso no console
+    // Anexa o novo elemento do versículo ao seu contêiner específico (div.conteudo-versiculos).
+    verseTextContainer.appendChild(versiculoElementDiv); 
+    console.log("[ORIGINAL] Div principal do versículo (.texto-versiculo) adicionada ao elemento '.conteudo-versiculos'.");
+
+    // Atualiza o título principal do capítulo/versículo.
+    // Este H2 está presumivelmente em 'section.conteudo', um nível acima do 'verseTextContainer'.
+    const tituloH2Element = document.querySelector('section.conteudo h2'); 
+    if (tituloH2Element && typeof window.getLivroDisplayName === 'function') {
+        let fullBookName = window.getLivroDisplayName(livro);
+        tituloH2Element.textContent = `${fullBookName} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;
+        console.log(`[ORIGINAL] Título H2 atualizado para: ${tituloH2Element.textContent}`);
+    } else {
+        console.warn(`[ORIGINAL] Não foi possível atualizar o título H2 (elemento não encontrado ou getLivroDisplayName ausente).`);
     }
 };
 
 // Cria a função que será chamada por toggleReadingMod. Obtém o título do capítulo (Original - JSON)
 window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
-    console.log(`[ORIGINAL] Obtendo título para: ${livro} ${capitulo}:${versiculo}`);                        // Loga a busca do título
+    console.log(`[ORIGINAL] Obtendo título para: ${livro} ${capitulo}:${versiculo}`);
     
-    try {                                                                                                    // Inicia o bloco try para capturar possíveis erros na requisição
-        const response = await fetch(`../version/original/${livro}/${capitulo}.json`);                       // Faz a requisição para buscar o JSON do capítulo
-        if (!response.ok) {                                                                                  // Verifica se a resposta HTTP foi bem-sucedida
-            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo}`);             // Lança erro se a resposta não for OK
+    try {
+        const response = await fetch(`../versao/original/${livro}/${capitulo}.json`);
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo}`);
         }
-        const data = await response.json();                                                                  // Converte a resposta para objeto JSON
-        return data.titulos && data.titulos[versiculo] ? data.titulos[versiculo] : null;                     // Retorna o título se existir, senão null
-    } catch (error) { // Captura qualquer erro ocorrido no bloco try
-        console.error(`[ORIGINAL] Erro ao obter título para ${livro} ${capitulo}:${versiculo}:`, error);     // Loga o erro detalhado
-        return null; // Retorna null em caso de erro
+        const dataArray = await response.json();
+        const chapterData = dataArray[0];
+        return chapterData.titulos && chapterData.titulos[versiculo] ? chapterData.titulos[versiculo] : null;
+    } catch (error) {
+        console.error(`[ORIGINAL] Erro ao obter título para ${livro} ${capitulo}:${versiculo}:`, error);
+        return null;
     }
 };
 
-window.isReadingModeEnabled = false;                                                                         // Controle do modo de leitura (padrão)
+window.isReadingModeEnabled = false;

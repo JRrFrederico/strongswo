@@ -1,9 +1,16 @@
 {
     "livro": "Juízes",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Gideão",
+        "11": "O Anjo de Deus fala a Gideão",
+        "25": "Gideão destrói o altar de Baal",
+        "33": "Conclamação à guerra santa",
+        "36": "Gideão pede um sinal de Deus",
+        "39": "Gideão pede um segundo sinal"
+    },
     "versiculos": {
-        "1": "Porém os filhos de Israel fizeram o que era mau aos olhos do Senhor; e o Senhor os deu nas mãos dos midianitas por sete anos.",
+        "1": "PORÉM os filhos de Israel fizeram o que era mau aos olhos do Senhor; e o Senhor os deu nas mãos dos midianitas por sete anos.",
         "2": "E, prevalecendo a mão dos midianitas sobre Israel, fizeram os filhos de Israel para si, por causa dos midianitas, as covas que estão nos montes, as cavernas e as fortificações.",
         "3": "Porque sucedia que, semeando Israel, os midianitas e os amalequitas, e também os do oriente, contra ele subiam.",
         "4": "E punham-se contra ele em campo, e destruíam os frutos da terra, até chegarem a Gaza; e não deixavam mantimento em Israel, nem ovelhas, nem bois, nem jumentos.",

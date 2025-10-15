@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó se defende das acusações"
+    },
     "versiculos": {
-        "1": "Então Jó respondeu, dizendo:",
+        "1": "ENTÃO Jó respondeu, dizendo:",
         "2": "Na verdade, vós sois o povo, e convosco morrerá a sabedoria.",
         "3": "Também eu tenho entendimento como vós, e não vos sou inferior; e quem não sabe tais coisas como essas?",
         "4": "Eu sou motivo de riso para os meus amigos; eu, que invoco a Deus, e ele me responde; o justo e perfeito serve de zombaria.",

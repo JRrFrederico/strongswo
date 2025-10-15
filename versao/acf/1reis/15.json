@@ -1,9 +1,15 @@
 {
     "livro": "1 Reis",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "O governo de Abião, rei de Judá",
+        "9": "O reinado de Asa, rei de Judá",
+        "16": "Guerra entre Asa e Baasa",
+        "25": "O governo de Nadabe, rei de Israel",
+        "33": "A profecia de Jeú contra Baasa"
+    },
     "versiculos": {
-        "1": "E no décimo oitavo ano do rei Jeroboão, filho de Nebate, Abias começou a reinar sobre Judá.",
+        "1": "E NO décimo oitavo ano do rei Jeroboão, filho de Nebate, Abias começou a reinar sobre Judá.",
         "2": "E reinou três anos em Jerusalém; e era o nome de sua mãe Maaca, filha de Absalão.",
         "3": "E andou em todos os pecados que seu pai tinha cometido antes dele; e seu coração não foi perfeito para com o Senhor seu Deus como o coração de Davi, seu pai.",
         "4": "Mas por amor de Davi o Senhor seu Deus lhe deu uma lâmpada em Jerusalém, levantando a seu filho depois dele, e confirmando a Jerusalém.",

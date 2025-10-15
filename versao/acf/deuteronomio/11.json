@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Exortação ao temor de Deus",
+        "8": "Bênçãos futuras e advertências",
+        "18": "Conclusão"
+    },
     "versiculos": {
-        "1": "Amarás, pois, ao Senhor teu Deus, e guardarás as suas ordenanças, e os seus estatutos, e os seus juízos, e os seus mandamentos, todos os dias.",
+        "1": "AMARÁS, pois, ao Senhor teu Deus, e guardarás as suas ordenanças, e os seus estatutos, e os seus juízos, e os seus mandamentos, todos os dias.",
         "2": "E hoje sabereis que falo, não com vossos filhos, que o não sabem, e não viram a instrução do Senhor vosso Deus, a sua grandeza, a sua mão forte, e o seu braço estendido;",
         "3": "Nem tampouco os seus sinais, nem os seus feitos, que fez no meio do Egito a Faraó, rei do Egito, e a toda a sua terra;",
         "4": "Nem o que fez ao exército dos egípcios, aos seus cavalos e aos seus carros, fazendo passar sobre eles as águas do Mar Vermelho quando vos perseguiam, e como o Senhor os destruiu, até ao dia de hoje;",

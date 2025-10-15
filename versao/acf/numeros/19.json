@@ -1,9 +1,13 @@
 {
     "livro": "Números",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "As cinzas e a água da purificação",
+        "11": "Caso de impureza",
+        "17": "Ritual das águas purificadoras"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés e a Arão dizendo:",
+        "1": "FALOU mais o Senhor a Moisés e a Arão dizendo:",
         "2": "Este é o estatuto da lei, que o Senhor ordenou, dizendo: Dize aos filhos de Israel que te tragam uma novilha ruiva, que não tenha defeito, e sobre a qual não tenha sido posto jugo.",
         "3": "E a dareis a Eleazar, o sacerdote; ele a tirará para fora do arraial, e degolar-se-á diante dele.",
         "4": "E Eleazar, o sacerdote, tomará do seu sangue com o seu dedo, e dele aspergirá para a frente da tenda da congregação sete vezes.",

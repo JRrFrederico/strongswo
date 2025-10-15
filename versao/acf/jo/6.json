@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó justifica sua dor e lamentação"
+    },
     "versiculos": {
-        "1": "Então Jó respondeu, dizendo:",
+        "1": "ENTÃO Jó respondeu, dizendo:",
         "2": "Oh! Se a minha mágoa retamente se pesasse, e a minha miséria juntamente se pusesse numa balança!",
         "3": "Porque, na verdade, mais pesada seria, do que a areia dos mares; por isso é que as minhas palavras têm sido engolidas.",
         "4": "Porque as flechas do Todo-Poderoso estão em mim, cujo ardente veneno suga o meu espírito; os terrores de Deus se armam contra mim.",

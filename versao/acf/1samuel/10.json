@@ -1,9 +1,13 @@
 {
     "livro": "1 Samuel",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Saul, o primeiro rei de Israel",
+        "9": "A volta de Saul para casa",
+        "17": "Saul é aclamado rei de Israel"
+    },
     "versiculos": {
-        "1": "Então tomou Samuel um vaso de azeite, e lho derramou sobre a cabeça, e beijou-o, e disse: Porventura não te ungiu o Senhor por capitão sobre a sua herança?",
+        "1": "ENTÃO tomou Samuel um vaso de azeite, e lho derramou sobre a cabeça, e beijou-o, e disse: Porventura não te ungiu o Senhor por capitão sobre a sua herança?",
         "2": "Apartando-te hoje de mim, acharás dois homens junto ao sepulcro de Raquel, no termo de Benjamim, em Zelza, os quais te dirão: Acharam-se as jumentas que foste buscar, e eis que já o teu pai deixou o negócio das jumentas, e anda aflito por causa de vós, dizendo: Que farei eu por meu filho?",
         "3": "E quando dali passares mais adiante, e chegares ao carvalho de Tabor, ali te encontrarão três homens, que vão subindo a Deus a Betel; um levando três cabritos, o outro três bolos de pão e o outro um odre de vinho.",
         "4": "E te perguntarão como estás, e te darão dois pães, que tomarás das suas mãos.",

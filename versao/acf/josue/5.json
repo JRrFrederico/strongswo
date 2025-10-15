@@ -1,9 +1,13 @@
 {
     "livro": "Josué",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "A circuncisão de Israel em Guilgal",
+        "10": "Celebração de Pêssah, Páscoa",
+        "13": "O comandante do exército de Deus"
+    },
     "versiculos": {
-        "1": "E sucedeu que, ouvindo todos os reis dos amorreus, que habitavam deste lado do Jordão, ao ocidente, e todos os reis dos cananeus, que estavam ao pé do mar, que o Senhor tinha secado as águas do Jordão, de diante dos filhos de Israel, até que passassem, desfaleceu-se-lhes o coração, e não houve mais ânimo neles, por causa dos filhos de Israel.",
+        "1": "E SUCEDEU que, ouvindo todos os reis dos amorreus, que habitavam deste lado do Jordão, ao ocidente, e todos os reis dos cananeus, que estavam ao pé do mar, que o Senhor tinha secado as águas do Jordão, de diante dos filhos de Israel, até que passassem, desfaleceu-se-lhes o coração, e não houve mais ânimo neles, por causa dos filhos de Israel.",
         "2": "Naquele tempo disse o Senhor a Josué: Faze facas de pedra, e torna a circuncidar segunda vez aos filhos de Israel.",
         "3": "Então Josué fez para si facas de pedra, e circuncidou aos filhos de Israel no monte dos prepúcios.",
         "4": "E foi esta a causa por que Josué os circuncidou: todo o povo que tinha saído do Egito, os homens, todos os homens de guerra, já haviam morrido no deserto, pelo caminho, depois que saíram do Egito.",

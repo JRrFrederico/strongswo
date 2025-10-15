@@ -1,9 +1,13 @@
 {
     "livro": "Juízes",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Remorso dos israelitas",
+        "8": "As virgens de Jabes",
+        "13": "A tribo de Benjamim sobrevive"
+    },
     "versiculos": {
-        "1": "Ora, tinham jurado os homens de Israel em Mizpá, dizendo: Nenhum de nós dará sua filha por mulher aos benjamitas.",
+        "1": "ORA, tinham jurado os homens de Israel em Mizpá, dizendo: Nenhum de nós dará sua filha por mulher aos benjamitas.",
         "2": "Veio, pois, o povo a Betel, e ali ficou até à tarde diante de Deus; e todos levantaram a sua voz, e prantearam com grande pranto,",
         "3": "E disseram: Ah! Senhor Deus de Israel, por que sucedeu isto em Israel, que hoje falte uma tribo em Israel?",
         "4": "E sucedeu que, no dia seguinte, o povo, pela manhã se levantou, e edificou ali um altar; e ofereceu holocaustos e ofertas pacíficas.",

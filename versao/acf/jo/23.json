@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó anseia poder falar com Deus"
+    },
     "versiculos": {
-        "1": "Respondeu, porém, Jó, dizendo:",
+        "1": "RESPONDEU, porém, Jó, dizendo:",
         "2": "Ainda hoje a minha queixa está em amargura; a minha mão pesa sobre meu gemido.",
         "3": "Ah, se eu soubesse onde o poderia achar! Então me chegaria ao seu tribunal.",
         "4": "Exporia ante ele a minha causa, e a minha boca encheria de argumentos.",

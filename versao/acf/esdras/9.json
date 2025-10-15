@@ -1,9 +1,11 @@
 {
     "livro": "Esdras",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "O erro das alianças com os pagãos"
+    },
     "versiculos": {
-        "1": "Acabadas, pois, estas coisas, chegaram-se a mim os príncipes, dizendo: O povo de Israel, os sacerdotes e os levitas, não se têm separado dos povos destas terras, seguindo as abominações dos cananeus, dos heteus, dos perizeus, dos jebuseus, dos amonitas, dos moabitas, dos egípcios, e dos amorreus.",
+        "1": "ACABADAS, pois, estas coisas, chegaram-se a mim os príncipes, dizendo: O povo de Israel, os sacerdotes e os levitas, não se têm separado dos povos destas terras, seguindo as abominações dos cananeus, dos heteus, dos perizeus, dos jebuseus, dos amonitas, dos moabitas, dos egípcios, e dos amorreus.",
         "2": "Porque tomaram das suas filhas para si e para seus filhos, e assim se misturou a linhagem santa com os povos dessas terras; e até os príncipes e magistrados foram os primeiros nesta transgressão.",
         "3": "E, ouvindo eu tal coisa, rasguei as minhas vestes e o meu manto, e arranquei os cabelos da minha cabeça e da minha barba, e sentei-me atônito.",
         "4": "Então se ajuntaram a mim todos os que tremiam das palavras do Deus de Israel por causa da transgressão dos do cativeiro; porém eu permaneci sentado atônito até ao sacrifício da tarde.",

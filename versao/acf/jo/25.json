@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "Para Bildade o homem é culpado"
+    },
     "versiculos": {
-        "1": "Então respondeu Bildade, o suíta, e disse:",
+        "1": "ENTÃO respondeu Bildade, o suíta, e disse:",
         "2": "Com ele estão domínio e temor; ele faz paz nas suas alturas.",
         "3": "Porventura têm número as suas tropas? E sobre quem não se levanta a sua luz?",
         "4": "Como, pois, seria justo o homem para com Deus, e como seria puro aquele que nasce de mulher?",

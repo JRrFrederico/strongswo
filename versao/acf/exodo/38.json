@@ -1,9 +1,14 @@
 {
     "livro": "Êxodo",
     "capitulo": 38,
-    "titulos": {},
+    "titulos": {
+        "1": "O altar dos holocaustos",
+        "8": "A bacia de bronze",
+        "9": "O átrio, o pátio do Tabernáculo",
+        "21": "O material empregado na Tenda"
+    },
     "versiculos": {
-        "1": "Fez também o altar do holocausto de madeira de acácia; de cinco côvados era o seu comprimento, e de cinco côvados a sua largura, era quadrado; e de três côvados a sua altura.",
+        "1": "FEZ também o altar do holocausto de madeira de acácia; de cinco côvados era o seu comprimento, e de cinco côvados a sua largura, era quadrado; e de três côvados a sua altura.",
         "2": "E fez-lhe as suas pontas nos seus quatro cantos; da mesma peça eram as suas pontas; e cobriu-o de cobre.",
         "3": "Fez também todos os utensílios do altar; os cinzeiros, e as pás, e as bacias, e os garfos, e os braseiros; todos esses pertences fez de cobre.",
         "4": "Fez também, para o altar, um crivo de cobre, em forma de rede, na sua cercadura em baixo, até ao meio do altar.",

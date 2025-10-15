@@ -1,9 +1,11 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "O prazer não faz ninguém feliz"
+    },
     "versiculos": {
-        "1": "Disse eu no meu coração: Ora vem, eu te provarei com alegria; portanto goza o prazer; mas eis que também isso era vaidade.",
+        "1": "DISSE eu no meu coração: Ora vem, eu te provarei com alegria; portanto goza o prazer; mas eis que também isso era vaidade.",
         "2": "Ao riso disse: Está doido; e da alegria: De que serve esta?",
         "3": "Busquei no meu coração como estimular com vinho a minha carne (regendo porém o meu coração com sabedoria), e entregar-me à loucura, até ver o que seria melhor que os filhos dos homens fizessem debaixo do céu durante o número dos dias de sua vida.",
         "4": "Fiz para mim obras magníficas; edifiquei para mim casas; plantei para mim vinhas.",

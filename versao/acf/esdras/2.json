@@ -1,10 +1,12 @@
 {
     "livro": "Esdras",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "A lista dos que saíram da Babilônia"
+    },
     "versiculos": {
-        "1": "Estes são os filhos da província, que subiram do cativeiro, dentre os exilados, que Nabucodonosor, rei de Babilônia, tinha transportado a Babilônia, e tornaram a Jerusalém e a Judá, cada um para a sua cidade;",
-        "2": "Os quais vieram com Zorobabel, Jesua, Neemias, Seraías, Reelaías, Mardoqueu, Bilsã, Mizpar, Bigvai, Reum e Baaná. O número dos homens do povo de Israel:",
+        "1": "ESTES são os filhos da província, que subiram do cativeiro, dentre os exilados, que Nabucodonosor, rei de Babilônia, tinha transportado a Babilônia, e tornaram a Jerusalém e a Judá, cada um para a sua cidade;",
+        "2": "Os quais vieram com Zorobabel, Jesuá, Neemias, Seraías, Reelaías, Mardoqueu, Bilsã, Mizpar, Bigvai, Reum e Baaná. O número dos homens do povo de Israel:",
         "3": "Os filhos de Parós, dois mil cento e setenta e dois.",
         "4": "Os filhos de Sefatias, trezentos e setenta e dois.",
         "5": "Os filhos de Ará, setecentos e setenta e cinco.",

@@ -1,9 +1,13 @@
 {
     "livro": "Daniel",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "O enigma do sonho assustador do rei",
+        "14": "Deus revela a Daniel o sonho do rei",
+        "24": "Daniel esclarece o sonho do rei"
+    },
     "versiculos": {
-        "1": "E no segundo ano do reinado de Nabucodonosor, Nabucodonosor teve sonhos; e o seu espírito se perturbou, e passou-se-lhe o sono.",
+        "1": "E NO segundo ano do reinado de Nabucodonosor, Nabucodonosor teve sonhos; e o seu espírito se perturbou, e passou-se-lhe o sono.",
         "2": "Então o rei mandou chamar os magos, os astrólogos, os encantadores e os caldeus, para que declarassem ao rei os seus sonhos; e eles vieram e se apresentaram diante do rei.",
         "3": "E o rei lhes disse: Tive um sonho; e para saber o sonho está perturbado o meu espírito.",
         "4": "E os caldeus disseram ao rei em aramaico: Ó rei, vive eternamente! Dize o sonho a teus servos, e daremos a interpretação.",

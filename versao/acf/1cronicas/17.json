@@ -1,9 +1,12 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "A Aliança de Deus com Davi",
+        "16": "A oração de Davi"
+    },
     "versiculos": {
-        "1": "Sucedeu, pois, que, morando Davi já em sua casa, disse Davi ao profeta Natã: Eis que moro em casa de cedro, mas a arca da aliança do Senhor está debaixo de cortinas.",
+        "1": "SUCEDEU, pois, que, morando Davi já em sua casa, disse Davi ao profeta Natã: Eis que moro em casa de cedro, mas a arca da aliança do Senhor está debaixo de cortinas.",
         "2": "Então Natã disse a Davi: Tudo quanto tens no teu coração faze, porque Deus é contigo.",
         "3": "Mas sucedeu, na mesma noite, que a palavra de Deus veio a Natã, dizendo:",
         "4": "Vai, e dize a Davi meu servo: Assim diz o Senhor: Tu não me edificarás uma casa para eu morar;",

@@ -1,0 +1,209 @@
+{
+  "livro": "Gênesis",
+  "capitulo": 8,
+  "versiculos": {
+    "1": {
+      "traducao_completa": "E lembrou-se Deus de Noé, e de todo o animal, e de todo o gado que estava com ele na arca; e Deus fez passar um vento sobre a terra, e as águas começaram a diminuir.",
+      "palavras": [
+        { "hebraico": "וַיִּזְכֹּר אֱלֹהִים", "transliteral": "VAYYIZKOR ELOHIM", "traducao_palavra": "E lembrou-se Deus" },
+        { "hebraico": "אֶת נֹחַ", "transliteral": "ET NOACH", "traducao_palavra": "de Noé" },
+        { "hebraico": "וְאֵת כָּל הַחַיָּה", "transliteral": "VE'ET KOL HACHAYYAH", "traducao_palavra": "e de todo o animal" },
+        { "hebraico": "וְאֵת כָּל הַבְּהֵמָה", "transliteral": "VE'ET KOL HABHEMAH", "traducao_palavra": "e de todo o gado" },
+        { "hebraico": "אֲשֶׁר אִתּוֹ בַּתֵּבָה", "transliteral": "ASHER ITTO BATTEVAH", "traducao_palavra": "que estava com ele na arca" },
+        { "hebraico": "וַיַּעֲבֵר אֱלֹהִים רוּחַ עַל הָאָרֶץ", "transliteral": "VAYA'AVER ELOHIM RUCH AL HA'ARETZ", "traducao_palavra": "e Deus fez passar um vento sobre a terra" },
+        { "hebraico": "וַיָּשֹׁכּוּ הַמָּיִם", "transliteral": "VAYYASHUKU HAMAYIM", "traducao_palavra": "e as águas começaram a diminuir" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E fecharam-se as fontes do abismo e as janelas dos céus, e a chuva dos céus foi detida;",
+      "palavras": [
+        { "hebraico": "וַיִּסָּכְרוּ מַעְיְנֹת תְּהוֹם רַבָּה", "transliteral": "VAYISSACHERU MA'AYNOT TEHOM RABBAH", "traducao_palavra": "E fecharam-se as fontes do abismo" },
+        { "hebraico": "וַאֲרֻבֹּת הַשָּׁמָיִם", "transliteral": "VEARUBBOT HASHAMAYIM", "traducao_palavra": "e as janelas dos céus" },
+        { "hebraico": "וַיִּכָּלֵא הַגֶּשֶׁם מִן הַשָּׁמָיִם", "transliteral": "VAYYIKKALE HA'GEHSEM MIN HASHAMAYIM", "traducao_palavra": "e a chuva dos céus foi detida" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E as águas foram-se escoando de sobre a terra continuamente; e, ao cabo de cento e cinquenta dias, as águas diminuíram.",
+      "palavras": [
+        { "hebraico": "וַיָּשֻׁבוּ הַמַּיִם מֵעַל הָאָרֶץ", "transliteral": "VAYYASHUVU HAMAYIM ME'AL HA'ARETZ", "traducao_palavra": "E as águas foram-se escoando de sobre a terra" },
+        { "hebraico": "הָלוֹךְ וָשׁוֹב", "transliteral": "HALOCH VASHOV", "traducao_palavra": "continuamente" },
+        { "hebraico": "וַיַּחְסְרוּ הַמַּיִם", "transliteral": "VAYYACHSERU HAMAYIM", "traducao_palavra": "e as águas diminuíram" },
+        { "hebraico": "מִקֵּץ חֲמִשִּׁים וּמְאַת יוֹם", "transliteral": "MIQEITZ CHAMISHIM UME'AT YOM", "traducao_palavra": "ao cabo de cento e cinquenta dias" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E no sétimo mês, aos dezessete dias do mês, a arca pousou sobre os montes de Ararate.",
+      "palavras": [
+        { "hebraico": "וַתָּנַח הַתֵּבָה", "transliteral": "VATANACH HATEVAH", "traducao_palavra": "E no sétimo mês" },
+        { "hebraico": "בַּחֹדֶשׁ הַשְּׁבִיעִי", "transliteral": "BACHODESH HASHVI'I", "traducao_palavra": "no sétimo mês" },
+        { "hebraico": "בְּשִׁבְעָה עָשָׂר יוֹם לַחֹדֶשׁ", "transliteral": "BESHIV'AH ASAR YOM LACHODESH", "traducao_palavra": "aos dezessete dias do mês" },
+        { "hebraico": "עַל הָרֵי אֲרָרָט", "transliteral": "AL HAREI ARARAT", "traducao_palavra": "a arca pousou sobre os montes de Ararate" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E as águas foram diminuindo até o décimo mês; no décimo mês, aos primeiros dias do mês, apareceram os cumes dos montes.",
+      "palavras": [
+        { "hebraico": "וְהַמַּיִם הָיוּ הָלוֹךְ וְחָסוֹר", "transliteral": "VEHAMAYIM HAYU HALOCH VECHASOR", "traducao_palavra": "E as águas foram diminuindo" },
+        { "hebraico": "עַד הַחֹדֶשׁ הָעֲשִׂירִי", "transliteral": "AD HACHODESH HA'ASIRI", "traducao_palavra": "até o décimo mês" },
+        { "hebraico": "בָּעֲשִׂירִי בָּרִאשׁוֹן לַחֹדֶשׁ", "transliteral": "BA'ASIRI BARISHON LACHODESH", "traducao_palavra": "no décimo mês, aos primeiros dias do mês" },
+        { "hebraico": "נִרְאוּ רָאשֵׁי הֶהָרִים", "transliteral": "NIR'U ROSHEI HEHARIM", "traducao_palavra": "apareceram os cumes dos montes" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E aconteceu que, ao cabo de quarenta dias, abriu Noé a janela da arca que tinha feito;",
+      "palavras": [
+        { "hebraico": "וַיְהִי לְאַרְבָּעִים יוֹם", "transliteral": "VAYHI LE'ARBA'IM YOM", "traducao_palavra": "E aconteceu que, ao cabo de quarenta dias" },
+        { "hebraico": "וַיִּפְתַּח נֹחַ אֶת חַלּוֹן הַתֵּבָה", "transliteral": "VAYIFTACH NOACH ET CHALON HATEVAH", "traducao_palavra": "abriu Noé a janela da arca" },
+        { "hebraico": "אֲשֶׁר עָשָׂה", "transliteral": "ASHER ASAH", "traducao_palavra": "que tinha feito" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E soltou o corvo, o qual saiu, indo e voltando, até que as águas se secaram de sobre a terra.",
+      "palavras": [
+        { "hebraico": "וַיְשַׁלַּח אֶת הָעֹרֵב", "transliteral": "VAYSHALACH ET HA'OREV", "traducao_palavra": "E soltou o corvo" },
+        { "hebraico": "וַיֵּצֵא יָצוֹא וָשׁוֹב", "transliteral": "VAYETZE YATZO VASHOV", "traducao_palavra": "o qual saiu, indo e voltando" },
+        { "hebraico": "עַד יְבֹשֶׁת הַמַּיִם מֵעַל הָאָרֶץ", "transliteral": "AD YEVOSHET HAMAYIM ME'AL HA'ARETZ", "traducao_palavra": "até que as águas se secaram de sobre a terra" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E soltou a pomba, para ver se as águas haviam diminuído de sobre a face da terra;",
+      "palavras": [
+        { "hebraico": "וַיְשַׁלַּח אֶת הַיּוֹנָה", "transliteral": "VAYSHALACH ET HAYYONAH", "traducao_palavra": "E soltou a pomba" },
+        { "hebraico": "לִרְאוֹת הֲקַלּוּ הַמַּיִם", "transliteral": "LIR'OT HAQALU HAMAYIM", "traducao_palavra": "para ver se as águas haviam diminuído" },
+        { "hebraico": "מֵעַל פְּנֵי הָאֲדָמָה", "transliteral": "ME'AL PNEI HA'ADAMAH", "traducao_palavra": "de sobre a face da terra" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "Mas a pomba não achou repouso para a planta de seu pé, e voltou a ele para a arca, porque as águas ainda estavam sobre a face de toda a terra; e ele estendeu a mão, e tomou-a, e recolheu-a para si na arca.",
+      "palavras": [
+        { "hebraico": "וְלֹא מָצְאָה הַיּוֹנָה מָנוֹחַ", "transliteral": "VELO MATZ'AH HAYYONAH MANOACH", "traducao_palavra": "Mas a pomba não achou repouso" },
+        { "hebraico": "לְכַף רַגְלָהּ", "transliteral": "LECHAF RAGL'AH", "traducao_palavra": "para a planta de seu pé" },
+        { "hebraico": "וַתָּשָׁב אֵלָיו אֶל הַתֵּבָה", "transliteral": "VATASHAV EILAV EL HATEVAH", "traducao_palavra": "e voltou a ele para a arca" },
+        { "hebraico": "כִּי מַיִם עַל פְּנֵי כָל הָאָרֶץ", "transliteral": "KI MAYIM AL PNEI KOL HA'ARETZ", "traducao_palavra": "porque as águas ainda estavam sobre a face de toda a terra" },
+        { "hebraico": "וַיִּשְׁלַח יָדוֹ", "transliteral": "VAYYISHLACH YADO", "traducao_palavra": "e ele estendeu a mão" },
+        { "hebraico": "וַיִּקָּחֶהָ", "transliteral": "VAYYIQQACHEHA", "traducao_palavra": "e tomou-a" },
+        { "hebraico": "וַיָּבֵא אֹתָהּ אֵלָיו אֶל הַתֵּבָה", "transliteral": "VAYYAVE OTAH EILAV EL HATEVAH", "traducao_palavra": "e recolheu-a para si na arca" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E esperou ainda outros sete dias, e tornou a enviar a pomba fora da arca.",
+      "palavras": [
+        { "hebraico": "וַיָּחֶל עוֹד שִׁבְעַת יָמִים אֲחֵרִים", "transliteral": "VAYYACHEL OD SHIV'AT YAMIM ACHERIM", "traducao_palavra": "E esperou ainda outros sete dias" },
+        { "hebraico": "וַיֹּסֶף שַׁלַּח אֶת הַיּוֹנָה", "transliteral": "VAYYOSEF SHALLACH ET HAYYONAH", "traducao_palavra": "e tornou a enviar a pomba" },
+        { "hebraico": "מִן הַתֵּבָה", "transliteral": "MIN HATEVAH", "traducao_palavra": "fora da arca" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "E a pomba voltou a ele à tarde; e eis que trazia no bico uma folha de oliveira recém-arrancada; assim Noé entendeu que as águas tinham diminuído de sobre a terra.",
+      "palavras": [
+        { "hebraico": "וַתָּבֹא אֵלָיו הַיּוֹנָה לְעֵת עֶרֶב", "transliteral": "VATAVO EILAV HAYYONAH LE'ET EREV", "traducao_palavra": "E a pomba voltou a ele à tarde" },
+        { "hebraico": "וְהִנֵּה עֲלֵה זַיִת טָרָף בְּפִיהָ", "transliteral": "VEHINNEH ALEH ZAYIT TARAF BEPIHA", "traducao_palavra": "e eis que trazia no bico uma folha de oliveira recém-arrancada" },
+        { "hebraico": "וַיֵּדַע נֹחַ", "transliteral": "VAYEDA NOACH", "traducao_palavra": "assim Noé entendeu" },
+        { "hebraico": "כִּי קַלּוּ הַמַּיִם מֵעַל הָאָרֶץ", "transliteral": "KI QALU HAMAYIM ME'AL HA'ARETZ", "traducao_palavra": "que as águas tinham diminuído de sobre a terra" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E esperou ainda outros sete dias, e enviou fora a pomba; e ela não tornou mais a ele.",
+      "palavras": [
+        { "hebraico": "וַיִּיָּחֶל עוֹד שִׁבְעַת יָמִים אֲחֵרִים", "transliteral": "VAYYIYACHEL OD SHIV'AT YAMIM ACHERIM", "traducao_palavra": "E esperou ainda outros sete dias" },
+        { "hebraico": "וַיְשַׁלַּח אֶת הַיּוֹנָה", "transliteral": "VAYSHALACH ET HAYYONAH", "traducao_palavra": "e enviou fora a pomba" },
+        { "hebraico": "וְלֹא יָסְפָה שׁוּב אֵלָיו עוֹד", "transliteral": "VELO YASFAH SHUV EILAV OD", "traducao_palavra": "e ela não tornou mais a ele" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "E aconteceu que, no ano seiscentos e um, no primeiro mês, ao primeiro dia do mês, as águas se secaram de sobre a terra; e Noé removeu a cobertura da arca, e olhou, e eis que a face da terra estava seca.",
+      "palavras": [
+        { "hebraico": "וַיְהִי בְּאַחַת וְשֵׁשׁ מֵאוֹת שָׁנָה", "transliteral": "VAYHI BE'ACHAT VESHESH ME'OT SHANAH", "traducao_palavra": "E aconteceu que, no ano seiscentos e um" },
+        { "hebraico": "בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ", "transliteral": "BARISHON BE'ECHAD LACHODESH", "traducao_palavra": "no primeiro mês, ao primeiro dia do mês" },
+        { "hebraico": "חָרְבוּ הַמַּיִם מֵעַל הָאָרֶץ", "transliteral": "CHARVU HAMAYIM ME'AL HA'ARETZ", "traducao_palavra": "as águas se secaram de sobre a terra" },
+        { "hebraico": "וַיָּסֵר נֹחַ אֶת מִכְסֵה הַתֵּבָה", "transliteral": "VAYYASER NOACH ET MIKSEH HATEVAH", "traducao_palavra": "e Noé removeu a cobertura da arca" },
+        { "hebraico": "וַיַּרְא", "transliteral": "VAYYAR", "traducao_palavra": "e olhou" },
+        { "hebraico": "וְהִנֵּה חָרְבָה פְּנֵי הָאֲדָמָה", "transliteral": "VEHINNEH CHARVAH PNEI HA'ADAMAH", "traducao_palavra": "e eis que a face da terra estava seca" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E no segundo mês, aos vinte e sete dias do mês, a terra estava seca.",
+      "palavras": [
+        { "hebraico": "וּבַחֹדֶשׁ הַשֵּׁנִי", "transliteral": "UBACHODESH HASHENI", "traducao_palavra": "E no segundo mês" },
+        { "hebraico": "בְּשִׁבְעָה וְעֶשְׂרִים יוֹם לַחֹדֶשׁ", "transliteral": "BESHIV'AH VE'ESRIM YOM LACHODESH", "traducao_palavra": "aos vinte e sete dias do mês" },
+        { "hebraico": "יָבְשָׁה הָאָרֶץ", "transliteral": "YAVSHAH HA'ARETZ", "traducao_palavra": "a terra estava seca" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "Então falou Deus a Noé, dizendo:",
+      "palavras": [
+        { "hebraico": "וַיְדַבֵּר אֱלֹהִים אֶל נֹחַ", "transliteral": "VAYDABBER ELOHIM EL NOACH", "traducao_palavra": "Então falou Deus a Noé" },
+        { "hebraico": "לֵאמֹר", "transliteral": "LEMOR", "traducao_palavra": "dizendo" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "Sai da arca, tu, e tua mulher, e teus filhos, e as mulheres de teus filhos contigo.",
+      "palavras": [
+        { "hebraico": "צֵא מִן הַתֵּבָה", "transliteral": "TZE MIN HATEVAH", "traducao_palavra": "Sai da arca" },
+        { "hebraico": "אַתָּה וְאִשְׁתְּךָ", "transliteral": "ATTAH VE'ISHTECHA", "traducao_palavra": "tu, e tua mulher" },
+        { "hebraico": "וּבָנֶיךָ וּנְשֵׁי בָנֶיךָ אִתָּךְ", "transliteral": "UVANECHA UNESHEI BANCHA ITTACHA", "traducao_palavra": "e teus filhos, e as mulheres de teus filhos contigo" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "Todo animal que está contigo, de toda carne, das aves, e dos animais, e de todo réptil que se arrasta sobre a terra, traze fora contigo; e sejam fecundos e multipliquem-se sobre a terra.",
+      "palavras": [
+        { "hebraico": "כָּל הַחַיָּה אֲשֶׁר אִתְּךָ", "transliteral": "KOL HACHAYYAH ASHER ITTECHA", "traducao_palavra": "Todo animal que está contigo" },
+        { "hebraico": "מִכָּל בָּשָׂר", "transliteral": "MIKOL BASAR", "traducao_palavra": "de toda carne" },
+        { "hebraico": "בָּעוֹף וּבַבְּהֵמָה", "transliteral": "BA'OF UVABHEMAH", "traducao_palavra": "das aves, e dos animais" },
+        { "hebraico": "וּבְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ", "transliteral": "UVCHOL HA'REMESH HAROMES AL HA'ARETZ", "traducao_palavra": "e de todo réptil que se arrasta sobre a terra" },
+        { "hebraico": "הוֹצֵא אִתָּךְ", "transliteral": "HOTZE ITTACHA", "traducao_palavra": "traze fora contigo" },
+        { "hebraico": "וְשָׁרְצוּ בָאָרֶץ", "transliteral": "VESHARTZU BA'ARETZ", "traducao_palavra": "e sejam fecundos e multipliquem-se sobre a terra" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "E saiu Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele;",
+      "palavras": [
+        { "hebraico": "וַיֵּצֵא נֹחַ", "transliteral": "VAYYETZE NOACH", "traducao_palavra": "E saiu Noé" },
+        { "hebraico": "וּבָנָיו וְאִשְׁתּוֹ", "transliteral": "UVANAV VE'ISHTO", "traducao_palavra": "e seus filhos, e sua mulher" },
+        { "hebraico": "וּנְשֵׁי בָנָיו אִתּוֹ", "transliteral": "UNESHEI BANAV ITTO", "traducao_palavra": "e as mulheres de seus filhos com ele" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "Todo animal, todo réptil, e toda ave, tudo o que se move sobre a terra, segundo as suas famílias, saiu da arca.",
+      "palavras": [
+        { "hebraico": "כָּל הַחַיָּה כָּל הָרֶמֶשׂ", "transliteral": "KOL HACHAYYAH KOL HA'REMESH", "traducao_palavra": "Todo animal, todo réptil" },
+        { "hebraico": "וְכָל הָעוֹף כֹּל רוֹמֵשׂ", "transliteral": "VECHOL HA'OF KOL ROMES", "traducao_palavra": "e toda ave, tudo o que se move" },
+        { "hebraico": "עַל הָאָרֶץ לְמִשְׁפְּחֹתֵיהֶם", "transliteral": "AL HA'ARETZ LEMISHPECHOHTEHEM", "traducao_palavra": "sobre a terra, segundo as suas famílias" },
+        { "hebraico": "יָצָא מִן הַתֵּבָה", "transliteral": "YATZA MIN HATEVAH", "traducao_palavra": "saiu da arca" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "E edificou Noé um altar ao SENHOR; e tomou de todo animal limpo e de toda ave limpa, e ofereceu holocaustos sobre o altar.",
+      "palavras": [
+        { "hebraico": "וַיִּבֶן נֹחַ מִזְבֵּחַ לַיהוָה", "transliteral": "VAYYIVEN NOACH MIZBEACH LA'YHVH", "traducao_palavra": "E edificou Noé um altar ao SENHOR" },
+        { "hebraico": "וַיִּקַּח מִכֹּל הַבְּהֵמָה הַטְּהוֹרָה", "transliteral": "VAYYIQQACH MIKOL HABHEMAH HATEHORAH", "traducao_palavra": "e tomou de todo animal limpo" },
+        { "hebraico": "וּמִכֹּל הָעוֹף הַטָּהֹר", "transliteral": "UMIKOL HA'OF HATTAHOR", "traducao_palavra": "e de toda ave limpa" },
+        { "hebraico": "וַיַּעַל עֹלוֹת בַּמִּזְבֵּחַ", "transliteral": "VAYA'AL OLOT BAMIZBEACH", "traducao_palavra": "e ofereceu holocaustos sobre o altar" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "E o SENHOR sentiu o suave cheiro, e o SENHOR disse em seu coração: Não tornarei mais a amaldiçoar a terra por causa do homem; porque a imaginação do coração do homem é má desde a sua mocidade; nem tornarei mais a ferir todo vivente, como fiz.",
+      "palavras": [
+        { "hebraico": "וַיָּרַח יְהוָה אֶת רֵיחַ הַנִּיחֹחַ", "transliteral": "VAYYARACH YHVH ET REIACH HANIYCHOACH", "traducao_palavra": "E o SENHOR sentiu o suave cheiro" },
+        { "hebraico": "וַיֹּאמֶר יְהוָה אֶל לִבּוֹ", "transliteral": "VAYOMER YHVH EL LIBBO", "traducao_palavra": "e o SENHOR disse em seu coração" },
+        { "hebraico": "לֹא אֹסִף לְקַלֵּל עוֹד אֶת הָאֲדָמָה", "transliteral": "LO OSIF LEQALLEL OD ET HA'ADAMAH", "traducao_palavra": "Não tornarei mais a amaldiçoar a terra" },
+        { "hebraico": "בַּעֲבוּר הָאָדָם", "transliteral": "BA'AVUR HA'ADAM", "traducao_palavra": "por causa do homem" },
+        { "hebraico": "כִּי יֵצֶר לֵב הָאָדָם רַע", "transliteral": "KI YETZER LEV HA'ADAM RA", "traducao_palavra": "porque a imaginação do coração do homem é má" },
+        { "hebraico": "מִנְּעֻרָיו", "transliteral": "MINNE'URAV", "traducao_palavra": "desde a sua mocidade" },
+        { "hebraico": "וְלֹא אֹסִף עוֹד לְהַכּוֹת אֶת כָּל חַי", "transliteral": "VELO OSIF OD LEHAKOT ET KOL CHAY", "traducao_palavra": "nem tornarei mais a ferir todo vivente" },
+        { "hebraico": "כַּאֲשֶׁר עָשִׂיתִי", "transliteral": "KA'ASHER ASITI", "traducao_palavra": "como fiz" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "Enquanto a terra durar, sementeira e ceifa, e frio e calor, e verão e inverno, e dia e noite, não cessarão.",
+      "palavras": [
+        { "hebraico": "עֹד יְמֵי הָאָרֶץ", "transliteral": "OD YMEI HA'ARETZ", "traducao_palavra": "Enquanto a terra durar" },
+        { "hebraico": "זֶרַע וְקָצִיר", "transliteral": "ZERA VEQATZIR", "traducao_palavra": "sementeira e ceifa" },
+        { "hebraico": "וְקֹר וָחֹם", "transliteral": "VEQOR VACHOM", "traducao_palavra": "e frio e calor" },
+        { "hebraico": "וְקַיִץ וָחֹרֶף", "transliteral": "VEQAYITZ VACHORF", "traducao_palavra": "e verão e inverno" },
+        { "hebraico": "וְיוֹם וָלַיְלָה", "transliteral": "VEYOM VALAYLAH", "traducao_palavra": "e dia e noite" },
+        { "hebraico": "לֹא יִשְׁבֹּתוּ", "transliteral": "LO YISHBOTU", "traducao_palavra": "não cessarão" }
+      ]
+    }
+  }
+}

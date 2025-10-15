@@ -1,9 +1,15 @@
 {
     "livro": "Lucas",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Um centurião revela sua fé em Jesus",
+        "11": "Jesus ressuscita um jovem na multidão",
+        "18": "João manda saber quem é Jesus",
+        "24": "Jesus confere honras a João",
+        "36": "Uma pecadora unge a Jesus"
+    },
     "versiculos": {
-        "1": "E, depois de concluir todos estes discursos para a audiência do povo, entrou em Cafarnaum.",
+        "1": "E, DEPOIS de concluir todos estes discursos para a audiência do povo, entrou em Cafarnaum.",
         "2": "E o servo de um certo centurião, o qual era muito estimado por ele, estava doente, e à morte.",
         "3": "E, quando ouviu falar de Jesus, enviou-lhe uns anciãos dos judeus, rogando-lhe que viesse curar o seu servo.",
         "4": "E, chegando eles junto de Jesus, rogaram-lhe muito, dizendo: É digno de que lhe concedas isto,",
@@ -24,7 +30,7 @@
         "19": "E João, chamando dois dos seus discípulos, enviou-os a Jesus, dizendo: És tu aquele que havia de vir, ou esperamos outro?",
         "20": "E, quando aqueles homens chegaram junto dele, disseram: João o Batista enviou-nos a perguntar-te: És tu aquele que havia de vir, ou esperamos outro?",
         "21": "E, na mesma hora, curou muitos de enfermidades, e males, e espíritos maus, e deu vista a muitos cegos.",
-        "22": "Respondendo, então, Jesus, disse-lhes: Ide, e anunciai a João o que tendes visto e ouvido: que os cegos veem, os coxos andam, os leprosos são purificados, os surdos ouvem, os mortos são ressuscitados e aos pobres anuncia-se o evangelho.",
+        "22": "Respondendo, então, Jesus, disse-lhes: Ide, e anunciai a João o que tendes visto e ouvido: que os cegos veem, os coxos andam, os leprosos são purificados, os surdos ouvem, os mortos são  ressuscitados e aos pobres anuncia-se o evangelho.",
         "23": "E bem-aventurado é aquele que em mim não se escandalizar.",
         "24": "E, tendo-se retirado os mensageiros de João, começou a dizer à multidão acerca de João: Que saístes a ver no deserto? Uma cana abalada pelo vento?",
         "25": "Mas que saístes a ver? Um homem trajado de vestes delicadas? Eis que os que andam com preciosas vestiduras, e em delícias, estão nos paços reais.",
@@ -50,7 +56,7 @@
         "45": "Não me deste ósculo, mas esta, desde que entrou, não tem cessado de me beijar os pés.",
         "46": "Não me ungiste a cabeça com óleo, mas esta ungiu meus pés com unguento.",
         "47": "Por isso te digo que os seus muitos pecados lhe são perdoados, porque muito amou; mas aquele a quem pouco é perdoado pouco ama.",
-        "48": "E disse a ela: Os teus pecados te são perdoados.",
+        "48": "E disse-lhe a ela: Os teus pecados te são perdoados.",
         "49": "E os que estavam à mesa começaram a dizer entre si: Quem é este, que até perdoa pecados?",
         "50": "E disse à mulher: A tua fé te salvou; vai-te em paz."
     }

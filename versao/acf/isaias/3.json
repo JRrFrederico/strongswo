@@ -1,9 +1,13 @@
 {
     "livro": "Isaías",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Condenação de Judá e Jerusalém",
+        "16": "As mulheres de Jerusalém",
+        "25": "A miséria e o caos em Jerusalém"
+    },
     "versiculos": {
-        "1": "Porque, eis que o Senhor, o Senhor dos Exércitos, tirará de Jerusalém e de Judá o sustento e o apoio; a todo o sustento de pão e a todo o sustento de água;",
+        "1": "PORQUE, eis que o Senhor, o Senhor dos Exércitos, tirará de Jerusalém e de Judá o sustento e o apoio; a todo o sustento de pão e a todo o sustento de água;",
         "2": "O poderoso, e o homem de guerra, o juiz, e o profeta, e o adivinho, e o ancião,",
         "3": "O capitão de cinquenta, e o homem respeitável, e o conselheiro, e o sábio entre os artífices, e o eloquente orador.",
         "4": "E dar-lhes-ei meninos por príncipes, e crianças governarão sobre eles.",

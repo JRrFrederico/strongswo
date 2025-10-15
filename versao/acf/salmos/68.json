@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 68,
-    "titulos": {},
+    "titulos": {
+        "1": "O triunfo de Deus sobre o mal"
+    },
     "versiculos": {
-        "1": "Levante-se Deus, e sejam dissipados os seus inimigos; fugirão de diante dele os que o odeiam.",
+        "1": "LEVANTE-SE Deus, e sejam dissipados os seus inimigos; fugirão de diante dele os que o odeiam.",
         "2": "Como se impele a fumaça, assim tu os impeles; assim como a cera se derrete diante do fogo, assim pereçam os ímpios diante de Deus.",
         "3": "Mas alegrem-se os justos, e se regozijem na presença de Deus, e folguem de alegria.",
         "4": "Cantai a Deus, cantai louvores ao seu nome; louvai aquele que vai montado sobre os céus, pois o seu nome é Senhor, e exultai diante dele.",

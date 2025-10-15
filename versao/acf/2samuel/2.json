@@ -1,9 +1,13 @@
 {
     "livro": "2 Samuel",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi é aclamado rei de Judá",
+        "8": "Is-Bosete torna-se rei de Israel",
+        "12": "Davi vence Is-Bosete"
+    },
     "versiculos": {
-        "1": "E sucedeu depois disto que Davi consultou ao Senhor, dizendo: Subirei a alguma das cidades de Judá? E disse-lhe o Senhor: Sobe. E falou Davi: Para onde subirei? E disse: Para Hebrom.",
+        "1": "E SUCEDEU depois disto que Davi consultou ao Senhor, dizendo: Subirei a alguma das cidades de Judá? E disse-lhe o Senhor: Sobe. E falou Davi: Para onde subirei? E disse: Para Hebrom.",
         "2": "E subiu Davi para lá, e também as suas duas mulheres, Ainoã, a jizreelita, e Abigail, a mulher de Nabal, o carmelita.",
         "3": "Fez também Davi subir os homens que estavam com ele, cada um com a sua família; e habitaram nas cidades de Hebrom.",
         "4": "Então vieram os homens de Judá, e ungiram ali a Davi rei sobre a casa de Judá. E deram avisos a Davi, dizendo: Os homens de Jabes-Gileade foram os que sepultaram a Saul.",

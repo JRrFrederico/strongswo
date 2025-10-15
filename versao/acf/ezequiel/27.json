@@ -1,9 +1,11 @@
 {
     "livro": "Ezequiel",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "Cântico profético de luto por Tiro"
+    },
     "versiculos": {
-        "1": "E veio a mim a palavra do Senhor, dizendo:",
+        "1": "E VEIO a mim a palavra do Senhor, dizendo:",
         "2": "Tu pois, ó filho do homem, levanta uma lamentação sobre Tiro.",
         "3": "E dize a Tiro, que habita nas entradas do mar, e negocia com os povos em muitas ilhas: Assim diz o Senhor Deus: Ó Tiro, tu dizes: Eu sou perfeita em formosura.",
         "4": "No coração dos mares estão os teus termos; os que te edificaram aperfeiçoaram a tua formosura.",

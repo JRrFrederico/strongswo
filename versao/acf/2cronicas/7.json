@@ -1,9 +1,12 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "A Glória de Deus enche sua Casa",
+        "11": "Deus firma aliança com Salomão"
+    },
     "versiculos": {
-        "1": "E acabando Salomão de orar, desceu o fogo do céu, e consumiu o holocausto e os sacrifícios; e a glória do Senhor encheu a casa.",
+        "1": "E ACABANDO Salomão de orar, desceu o fogo do céu, e consumiu o holocausto e os sacrifícios; e a glória do Senhor encheu a casa.",
         "2": "E os sacerdotes não podiam entrar na casa do Senhor, porque a glória do Senhor tinha enchido a casa do Senhor.",
         "3": "E todos os filhos de Israel vendo descer o fogo, e a glória do Senhor sobre a casa, encurvaram-se com o rosto em terra sobre o pavimento, e adoraram e louvaram ao Senhor, dizendo: Porque ele é bom, porque a sua benignidade dura para sempre.",
         "4": "E o rei e todo o povo ofereciam sacrifícios perante o Senhor.",

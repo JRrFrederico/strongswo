@@ -1,9 +1,14 @@
 {
     "livro": "2 João",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "4": "O amor fraternal dos cristãos",
+        "7": "Os falsos mestres e suas heresias",
+        "12": "Saudações finais aos crentes"
+    },
     "versiculos": {
-        "1": "O presbítero à senhora eleita, e a seus filhos, aos quais amo na verdade, e não somente eu, mas também todos os que têm conhecido a verdade,",
+        "1": "O PRESBÍTERO à senhora eleita, e a seus filhos, aos quais amo na verdade, e não somente eu, mas também todos os que têm conhecido a verdade,",
         "2": "Por amor da verdade que está em nós, e para sempre estará conosco:",
         "3": "Graça seja convosco, misericórdia e paz, da parte de Deus Pai e da do Senhor Jesus Cristo, o Filho do Pai, em verdade e amor.",
         "4": "Muito me alegro por achar que alguns de teus filhos andam na verdade, assim como temos recebido o mandamento do Pai.",

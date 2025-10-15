@@ -1,9 +1,13 @@
 {
     "livro": "Jó",
     "capitulo": 40,
-    "titulos": {},
+    "titulos": {
+        "1": "Yahweh fala e Jó responde",
+        "3": "Jó responde com humildade",
+        "6": "Deus fala do meio da tempestade"
+    },
     "versiculos": {
-        "1": "Respondeu mais o Senhor a Jó, dizendo:",
+        "1": "RESPONDEU mais o Senhor a Jó, dizendo:",
         "2": "Porventura o contender contra o Todo-Poderoso é sabedoria? Quem repreende assim a Deus, responda por isso.",
         "3": "Então Jó respondeu ao Senhor, dizendo:",
         "4": "Eis que sou vil; que te responderia eu? A minha mão ponho à boca.",

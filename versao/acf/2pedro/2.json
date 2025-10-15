@@ -1,9 +1,11 @@
 {
     "livro": "2 Pedro",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "A destruição dos falsos mestres"
+    },
     "versiculos": {
-        "1": "E também houve entre o povo falsos profetas, como entre vós haverá também falsos doutores, que introduzirão encobertamente heresias de perdição, e negarão o Senhor que os resgatou, trazendo sobre si mesmos repentina perdição.",
+        "1": "E TAMBÉM houve entre o povo falsos profetas, como entre vós haverá também falsos doutores, que introduzirão encobertamente heresias de perdição, e negarão o Senhor que os resgatou, trazendo sobre si mesmos repentina perdição.",
         "2": "E muitos seguirão as suas dissoluções, pelos quais será blasfemado o caminho da verdade.",
         "3": "E por avareza farão de vós negócio com palavras fingidas; sobre os quais já de largo tempo não será tardia a sentença, e a sua perdição não dormita.",
         "4": "Porque, se Deus não poupou aos anjos que pecaram, mas, havendo-os lançado no inferno, os entregou às cadeias da escuridão, ficando reservados para o juízo;",

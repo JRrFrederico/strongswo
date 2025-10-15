@@ -1,9 +1,12 @@
 {
     "livro": "1 Samuel",
     "capitulo": 30,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi vence os amalequitas",
+        "21": "Davi divide os despojos"
+    },
     "versiculos": {
-        "1": "Sucedeu, pois, que, chegando Davi e os seus homens ao terceiro dia a Ziclague, já os amalequitas tinham invadido o sul, e Ziclague, e tinham ferido a Ziclague e a tinham queimado a fogo.",
+        "1": "SUCEDEU, pois, que, chegando Davi e os seus homens ao terceiro dia a Ziclague, já os amalequitas tinham invadido o sul, e Ziclague, e tinham ferido a Ziclague e a tinham queimado a fogo.",
         "2": "E tinham levado cativas as mulheres, e todos os que estavam nela, tanto pequenos como grandes; a ninguém, porém, mataram, tão somente os levaram consigo, e foram o seu caminho.",
         "3": "E Davi e os seus homens chegaram à cidade e eis que estava queimada a fogo, e suas mulheres, seus filhos e suas filhas tinham sido levados cativos.",
         "4": "Então Davi e o povo que se achava com ele alçaram a sua voz, e choraram, até que neles não houve mais forças para chorar.",

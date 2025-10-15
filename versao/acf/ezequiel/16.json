@@ -1,9 +1,14 @@
 {
     "livro": "Ezequiel",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Israel é semelhante a esposa infiel",
+        "35": "O castigo devido à esposa desleal",
+        "44": "Jerusalém foi pior que Sodoma",
+        "60": "Deus promete renovar a Aliança"
+    },
     "versiculos": {
-        "1": "E veio a mim outra vez a palavra do Senhor, dizendo:",
+        "1": "E VEIO a mim outra vez a palavra do Senhor, dizendo:",
         "2": "Filho do homem, faze conhecer a Jerusalém as suas abominações.",
         "3": "E dize: Assim diz o Senhor Deus a Jerusalém: A tua origem e o teu nascimento procedem da terra dos cananeus. Teu pai era amorreu, e tua mãe heteia.",
         "4": "E, quanto ao teu nascimento, no dia em que nasceste não te foi cortado o umbigo, nem foste lavada com água para te limpar; nem tampouco foste esfregada com sal, nem envolta em faixas.",

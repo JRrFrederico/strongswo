@@ -1,9 +1,12 @@
 {
     "livro": "1 Reis",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Salomão e o projeto do Templo",
+        "13": "O corte da madeira e das pedras"
+    },
     "versiculos": {
-        "1": "E enviou Hirão, rei de Tiro, os seus servos a Salomão (porque ouvira que ungiram a Salomão rei em lugar de seu pai), porquanto Hirão sempre tinha amado a Davi.",
+        "1": "E ENVIOU Hirão, rei de Tiro, os seus servos a Salomão (porque ouvira que ungiram a Salomão rei em lugar de seu pai), porquanto Hirão sempre tinha amado a Davi.",
         "2": "Então Salomão mandou dizer a Hirão:",
         "3": "Bem sabes tu que Davi, meu pai, não pôde edificar uma casa ao nome do Senhor seu Deus, por causa da guerra com que o cercaram, até que o Senhor pôs seus inimigos debaixo das plantas dos seus pés.",
         "4": "Porém agora o Senhor meu Deus me tem dado descanso de todos os lados; adversário não há, nem algum mau encontro.",

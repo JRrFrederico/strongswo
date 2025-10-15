@@ -1,15 +1,21 @@
 {
     "livro": "Números",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "4": "O povo volta a se queixar",
+        "10": "Intercessão do profeta de Deus",
+        "16": "A resposta do SENHOR Deus",
+        "24": "Derramamento do Espírito",
+        "31": "O SENHOR manda codornizes"
+    },
     "versiculos": {
-        "1": "E aconteceu que, queixou-se o povo falando o que era mal aos ouvidos do Senhor; e ouvindo o Senhor a sua ira se acendeu; e o fogo do Senhor ardeu entre eles e consumiu os que estavam na última parte do arraial.",
+        "1": "E ACONTECEU que, queixou-se o povo falando o que era mal aos ouvidos do Senhor; e ouvindo o Senhor a sua ira se acendeu; e o fogo do Senhor ardeu entre eles e consumiu os que estavam na última parte do arraial.",
         "2": "Então o povo clamou a Moisés, e Moisés orou ao Senhor, e o fogo se apagou.",
         "3": "Pelo que chamou aquele lugar Taberá, porquanto o fogo do Senhor se acendera entre eles.",
         "4": "E o vulgo, que estava no meio deles, veio a ter grande desejo; pelo que os filhos de Israel tornaram a chorar, e disseram: Quem nos dará carne a comer?",
         "5": "Lembramo-nos dos peixes que no Egito comíamos de graça; e dos pepinos, e dos melões, e dos porros, e das cebolas, e dos alhos.",
         "6": "Mas agora a nossa alma se seca; coisa nenhuma há senão este maná diante dos nossos olhos.",
-        "7": "E era o maná como semente de coentro, e a sua cor como a cor de bdélio.",
+        "7": "E era o maná como semente de coentro, e a sua cor como a cor  de bdélio.",
         "8": "Espalhava-se o povo e o colhia, e em moinhos o moía, ou num gral o pisava, e em panelas o cozia, e dele fazia bolos; e o seu sabor era como o sabor de azeite fresco.",
         "9": "E, quando o orvalho descia de noite sobre o arraial, o maná descia sobre ele.",
         "10": "Então Moisés ouviu chorar o povo pelas suas famílias, cada qual à porta da sua tenda; e a ira do Senhor grandemente se acendeu, e pareceu mal aos olhos de Moisés.",

@@ -1,9 +1,11 @@
 {
     "livro": "Neemias",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Vida de oração e serviço de Neemias"
+    },
     "versiculos": {
-        "1": "As palavras de Neemias, filho de Hacalias. E sucedeu no mês de Quislev, no ano vigésimo, estando eu em Susã, a fortaleza,",
+        "1": "AS palavras de Neemias, filho de Hacalias. E sucedeu no mês de Quislev, no ano vigésimo, estando eu em Susã, a fortaleza,",
         "2": "Que veio Hanani, um de meus irmãos, ele e alguns de Judá; e perguntei-lhes pelos judeus que escaparam, e que restaram do cativeiro, e acerca de Jerusalém.",
         "3": "E disseram-me: Os restantes, que ficaram do cativeiro, lá na província estão em grande miséria e desprezo; e o muro de Jerusalém fendido e as suas portas queimadas a fogo.",
         "4": "E sucedeu que, ouvindo eu estas palavras, assentei-me e chorei, e lamentei por alguns dias; e estive jejuando e orando perante o Deus dos céus.",

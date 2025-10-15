@@ -1,9 +1,11 @@
 {
     "livro": "Zacarias",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Terceira visão: Deus restaurando"
+    },
     "versiculos": {
-        "1": "Tornei a levantar os meus olhos, e vi, e eis um homem que tinha na mão um cordel de medir.",
+        "1": "TORNEI a levantar os meus olhos, e vi, e eis um homem que tinha na mão um cordel de medir.",
         "2": "E eu disse: Para onde vais tu? E ele me disse: Vou medir Jerusalém, para ver qual é a sua largura e qual o seu comprimento.",
         "3": "E eis que saiu o anjo que falava comigo, e outro anjo lhe saiu ao encontro.",
         "4": "E disse-lhe: Corre, fala a este jovem, dizendo: Jerusalém será habitada como as aldeias sem muros, por causa da multidão dos homens e dos animais que haverá nela.",

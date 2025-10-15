@@ -1,9 +1,21 @@
 {
     "livro": "Lucas",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "O ensino de Jesus sobre a oração",
+        "5": "A parábola do amigo insistente",
+        "9": "Jesus ensina perseverança na oração",
+        "14": "Uma casa dividida não prospera",
+        "24": "A maneira de agir de Satanás",
+        "27": "Felizes os que recebem a Palavra",
+        "29": "O sinal de Jonas",
+        "33": "A parábola da candeia",
+        "37": "Jesus condena a hipocrisia religiosa",
+        "45": "Ai dos doutores da Lei!",
+        "53": "A trama para matar Jesus tem início"
+    },
     "versiculos": {
-        "1": "E aconteceu que, estando ele a orar num certo lugar, quando acabou, lhe disse um dos seus discípulos: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos.",
+        "1": "E ACONTECEU que, estando ele a orar num certo lugar, quando acabou, lhe disse um dos seus discípulos: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos.",
         "2": "E ele lhes disse: Quando orardes, dizei: Pai nosso, que estás nos céus, santificado seja o teu nome; venha o teu reino; seja feita a tua vontade, assim na terra, como no céu.",
         "3": "Dá-nos cada dia o nosso pão cotidiano;",
         "4": "E perdoa-nos os nossos pecados, pois também nós perdoamos a qualquer que nos deve, e não nos conduzas à tentação, mas livra-nos do mal.",

@@ -1,9 +1,12 @@
 {
     "livro": "Levítico",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "A purificação da lepra e de infecções",
+        "33": "Cuidado com o mofo nas casas"
+    },
     "versiculos": {
-        "1": "Depois falou o Senhor a Moisés, dizendo:",
+        "1": "DEPOIS falou o Senhor a Moisés, dizendo:",
         "2": "Esta será a lei do leproso no dia da sua purificação: será levado ao sacerdote,",
         "3": "E o sacerdote sairá fora do arraial, e o sacerdote o examinará, e eis que, se a praga da lepra do leproso for sarada,",
         "4": "Então o sacerdote ordenará que por aquele que se houver de purificar se tomem duas aves vivas e limpas, e pau de cedro, e carmesim, e hissopo.",

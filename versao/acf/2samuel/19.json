@@ -1,9 +1,17 @@
 {
     "livro": "2 Samuel",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "A dor e o luto de Davi",
+        "5": "A admoestação de Joabe",
+        "11": "Davi retorna à Jerusalém",
+        "15": "Episódios do regresso: Simei",
+        "24": "Mefibosete encontra-se com Davi",
+        "31": "Barzilai encontra-se com Davi",
+        "40": "Israel rivaliza com Judá"
+    },
     "versiculos": {
-        "1": "E disseram a Joabe: Eis que o rei anda chorando, e lastima-se por Absalão.",
+        "1": "E DISSERAM a Joabe: Eis que o rei anda chorando, e lastima-se por Absalão.",
         "2": "Então a vitória se tornou naquele mesmo dia em tristeza por todo o povo; porque naquele mesmo dia o povo ouvira dizer: Mui triste está o rei por causa de seu filho.",
         "3": "E naquele mesmo dia o povo entrou às furtadelas na cidade, como o faz quando, envergonhado, foge da peleja.",
         "4": "Estava, pois, o rei com o rosto coberto; e o rei gritava a alta voz: Meu filho Absalão, Absalão meu filho, meu filho!",

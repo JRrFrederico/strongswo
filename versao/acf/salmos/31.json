@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 31,
-    "titulos": {},
+    "titulos": {
+        "1": "Fortaleza na angústia"
+    },
     "versiculos": {
-        "1": "Em ti, Senhor, confio; nunca me deixes confundido. Livra-me pela tua justiça.",
+        "1": "EM ti, Senhor, confio; nunca me deixes confundido. Livra-me pela tua justiça.",
         "2": "Inclina para mim os teus ouvidos, livra-me depressa; sê a minha firme rocha, uma casa fortíssima que me salve.",
         "3": "Porque tu és a minha rocha e a minha fortaleza; assim, por amor do teu nome, guia-me e encaminha-me.",
         "4": "Tira-me da rede que para mim esconderam, pois tu és a minha força.",

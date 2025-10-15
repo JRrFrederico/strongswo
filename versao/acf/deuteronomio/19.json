@@ -1,9 +1,12 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "As seis cidades de refúgio",
+        "14": "As fronteiras e as testemunhas"
+    },
     "versiculos": {
-        "1": "Quando o Senhor teu Deus desarraigar as nações cuja terra te dará o Senhor teu Deus, e tu as possuíres, e morares nas suas cidades e nas suas casas,",
+        "1": "QUANDO o Senhor teu Deus desarraigar as nações cuja terra te dará o Senhor teu Deus, e tu as possuíres, e morares nas suas cidades e nas suas casas,",
         "2": "Três cidades separarás, no meio da terra que te dará o Senhor teu Deus para a possuíres.",
         "3": "Preparar-te-ás o caminho; e os termos da tua terra, que te fará possuir o Senhor teu Deus, dividirás em três; e isto será para que todo o homicida se acolha ali.",
         "4": "E este é o caso tocante ao homicida, que se acolher ali, para que viva; aquele que por engano ferir o seu próximo, a quem não odiava antes;",

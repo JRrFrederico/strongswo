@@ -1,19 +1,21 @@
 {
     "livro": "Isaías",
     "capitulo": 64,
-    "titulos": {},
+    "titulos": {
+        "1": "Seguem as confissões e súplicas"
+    },
     "versiculos": {
-        "1": "Ó! Que tu rasgasses os céus; que descesses para que os montes pudessem se derreter diante da tua presença.",
-        "2": "Como quando o fogo derretedor queima; o fogo fez as águas ferverem, para fazer teu nome conhecido aos teus adversários, para que as nações possam tremer à tua presença!",
-        "3": "Quando tu fizeste coisas terríveis, as quais nós não esperávamos. Tu desceste, os montes se derreteram diante da tua presença.",
-        "4": "Porque desde o início do mundo homens não têm ouvido, nem percebido pelo ouvido, nem tem o olho visto, ó Deus, além de ti, o que Ele tem preparado para aquele que espera por ele.",
-        "5": "Tu te encontras com aquele que se regozija e opera justiça, aquele que se lembra de ti em teus caminhos. Eis que tu estás furioso, porque nós temos pecado. Nos pecados temos estado longo tempo, e poderemos ser salvos?",
-        "6": "Todos nós, porém, somos como uma coisa impura, e todas as nossas justiças são como trapos imundos; e todos nós iremos murchar como uma folha. E nossas iniquidades, como o vento, nos têm arrastado.",
-        "7": "E não há ninguém que invoque teu nome, que comova a si mesmo a agarrar-se a ti, porque tu tens escondido tua face de nós e nos tem consumido, por causa de nossas iniquidades.",
-        "8": "Agora, porém, ó SENHOR, tu és nosso Pai. Nós somos o barro e tu nosso oleiro; e nós todos somos o trabalho de tua mão.",
-        "9": "Não estejas furioso excessivamente, ó SENHOR, nem lembres iniquidade para sempre. Observa, veja, nós te suplicamos, nós somos todos teu povo.",
-        "10": "Tuas santas cidades estão um deserto; Sião está um deserto; Jerusalém, uma desolação.",
-        "11": "Nossa santa e nossa linda casa, onde nossos pais te louvaram, está completamente consumida pelo fogo, e todas as nossas coisas agradáveis estão devastadas.",
-        "12": "Irás tu abster-te destas coisas, ó SENHOR? Manter-te-ás calado e afligir-nos-ás excessivamente?"
+        "1": "Ó S ENHOR , quão bom seria se fendesses os céus e descesses, e os montes de todo o mundo estremecessem diante da tua presença!",
+        "2": "Como quando o fogo acende os gravetos e faz a água ferver, para que os teus inimigos conhecessem o teu Nome, e as nações ficassem impactadas pela tua presença.",
+        "3": "Porque, quando fizeste sinais magníficos, eventos que não esperávamos, desceste, e os montes se abalaram grandemente diante de ti.",
+        "4": "Desde a antiguidade não se ouviu, nem se percebeu, tampouco escutou-se comentários; nem olho algum sequer vislumbrou outro Deus além de ti, que age em favor daqueles que nele depositam sua esperança.",
+        "5": "Vens, pois, socorrer aqueles que praticam a justiça com alegria, que se lembram de ti e de tuas orientações. Todavia, prosseguindo nós em nossos erros e pecados, tu te indignaste. E agora? Como então seremos salvos?",
+        "6": "Ora, todos nós estamos na mesma condição do impuro! Todos os nossos atos de justiça se tornaram como trapos de imundícia. Perdemos o viço e murchamos como folhas que morrem, e como o vento as nossas próprias iniquidades nos empurram para longe.",
+        "7": "Não existe ninguém que clame pelo teu Nome, que esteja disposto a firmar seus passos em ti, porquanto escondeste de nós o brilho da tua face e nos abandonaste ao capricho das nossas malignidades e transgressões.",
+        "8": "No entanto, Yahweh , tu és o nosso Abba , Pai. Nós somos o barro; tu és o Oleiro. Todos nós somos obra das tuas mãos.",
+        "9": "Portanto, não te indignes demasiado, ó S ENHOR ! Não te recordes a todo momento das nossas iniquidades. Olha, pois, para nós: somos todos o teu povo, tua gente!",
+        "10": "As tuas cidades sagradas viraram um só deserto! Até Tsión , Sião, tornou-se deserta e desprezada. Jerusalém é pura desolação!",
+        "11": "O nosso Templo, sagrado e glorioso, onde nossos antepassados te louvavam com alegria, foi arrasado pelo fogo, e tudo quanto nos era precioso foi reduzido a escombros.",
+        "12": "E então S ENHOR ? Depois de ver tanto sofrimento ainda conseguirás te conter? Poderás permanecer em silêncio e seguirás nos castigando além do que podemos suportar?"
     }
 }

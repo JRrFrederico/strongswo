@@ -1,9 +1,15 @@
 {
     "livro": "Marcos",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus impressiona Pilatos",
+        "16": "Jesus é humilhado pelos soldados",
+        "21": "O ato da crucificação",
+        "33": "Jesus brada em sua morte",
+        "42": "O sepultamento de Jesus"
+    },
     "versiculos": {
-        "1": "E, logo ao amanhecer, os principais sacerdotes, com os anciãos, e os escribas, e todo o Sinédrio, tiveram conselho; e, amarrando Jesus, o levaram e entregaram a Pilatos.",
+        "1": "E, LOGO ao amanhecer, os principais sacerdotes, com os anciãos, e os escribas, e todo o Sinédrio, tiveram conselho; e, amarrando Jesus, o levaram e entregaram a Pilatos.",
         "2": "E Pilatos lhe perguntou: Tu és o Rei dos Judeus? E ele, respondendo, disse-lhe: Tu o dizes.",
         "3": "E os principais sacerdotes o acusavam de muitas coisas; porém ele nada respondia.",
         "4": "E Pilatos o interrogou outra vez, dizendo: Nada respondes? Vê quantas coisas testificam contra ti.",

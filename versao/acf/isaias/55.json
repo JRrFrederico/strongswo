@@ -1,9 +1,12 @@
 {
     "livro": "Isaías",
     "capitulo": 55,
-    "titulos": {},
+    "titulos": {
+        "1": "Convite final à Salvação",
+        "12": "Conclusão"
+    },
     "versiculos": {
-        "1": "Ó vós, todos os que tendes sede, vinde às águas, e os que não tendes dinheiro, vinde, comprai, e comei; sim, vinde, comprai, sem dinheiro e sem preço, vinho e leite.",
+        "1": "Ó VÓS, todos os que tendes sede, vinde às águas, e os que não tendes dinheiro, vinde, comprai, e comei; sim, vinde, comprai, sem dinheiro e sem preço, vinho e leite.",
         "2": "Por que gastais o dinheiro naquilo que não é pão? E o produto do vosso trabalho naquilo que não pode satisfazer? Ouvi-me atentamente, e comei o que é bom, e a vossa alma se deleite com a gordura.",
         "3": "Inclinai os vossos ouvidos, e vinde a mim; ouvi, e a vossa alma viverá; porque convosco farei uma aliança perpétua, dando-vos as firmes beneficências de Davi.",
         "4": "Eis que eu o dei por testemunha aos povos, como líder e governador dos povos.",

@@ -1,9 +1,12 @@
 {
     "livro": "2 Samuel",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "As últimas palavras de Davi",
+        "8": "Os valentes de Davi"
+    },
     "versiculos": {
-        "1": "E estas são as últimas palavras de Davi: Diz Davi, filho de Jessé, e diz o homem que foi levantado em altura, o ungido do Deus de Jacó, e o suave em salmos de Israel.",
+        "1": "E ESTAS são as últimas palavras de Davi: Diz Davi, filho de Jessé, e diz o homem que foi levantado em altura, o ungido do Deus de Jacó, e o suave em salmos de Israel.",
         "2": "O Espírito do Senhor falou por mim, e a sua palavra está na minha boca.",
         "3": "Disse o Deus de Israel, a Rocha de Israel a mim me falou: Haverá um justo que domine sobre os homens, que domine no temor de Deus.",
         "4": "E será como a luz da manhã, quando sai o sol, da manhã sem nuvens, quando pelo seu resplendor e pela chuva a erva brota da terra.",

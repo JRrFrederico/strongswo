@@ -1,9 +1,17 @@
 {
     "livro": "João",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "A Palavra se fez carne",
+        "15": "A proclamação de João Batista",
+        "19": "João Batista clama no deserto",
+        "29": "Jesus, o Cordeiro de Deus",
+        "32": "João batiza Jesus",
+        "35": "Os primeiros discípulos de Cristo",
+        "43": "Jesus encontra outros discípulos"
+    },
     "versiculos": {
-        "1": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+        "1": "NO princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
         "2": "Ele estava no princípio com Deus.",
         "3": "Todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez.",
         "4": "Nele estava a vida, e a vida era a luz dos homens.",
@@ -23,7 +31,7 @@
         "18": "Deus nunca foi visto por alguém. O Filho unigênito, que está no seio do Pai, esse o revelou.",
         "19": "E este é o testemunho de João, quando os judeus mandaram de Jerusalém sacerdotes e levitas para que lhe perguntassem: Quem és tu?",
         "20": "E confessou, e não negou; confessou: Eu não sou o Cristo.",
-        "21": "E perguntaram-lhe: Então quê? És tu Elias? E disse: Não sou. És tu o profeta? E respondeu: Não.",
+        "21": "E perguntaram-lhe: Então quê? És tu Elias? E disse: Não sou. És tu profeta? E respondeu: Não.",
         "22": "Disseram-lhe pois: Quem és? Para que demos resposta àqueles que nos enviaram; que dizes de ti mesmo?",
         "23": "Disse: Eu sou a voz do que clama no deserto: Endireitai o caminho do Senhor, como disse o profeta Isaías.",
         "24": "E os que tinham sido enviados eram dos fariseus.",

@@ -1,9 +1,11 @@
 {
     "livro": "Josué",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "O astuto acordo dos gibeonitas"
+    },
     "versiculos": {
-        "1": "E sucedeu que, ouvindo isto todos os reis, que estavam aquém do Jordão, nas montanhas, e nas campinas, em toda a costa do grande mar, em frente do Líbano, os heteus, e os amorreus, os cananeus, os perizeus, os heveus, e os jebuseus,",
+        "1": "E SUCEDEU que, ouvindo isto todos os reis, que estavam aquém do Jordão, nas montanhas, e nas campinas, em toda a costa do grande mar, em frente do Líbano, os heteus, e os amorreus, os cananeus, os perizeus, os heveus, e os jebuseus,",
         "2": "Se ajuntaram eles de comum acordo, para pelejar contra Josué e contra Israel.",
         "3": "E os moradores de Gibeom, ouvindo o que Josué fizera com Jericó e com Ai,",
         "4": "Usaram de astúcia, e foram e se fingiram embaixadores, e levando sacos velhos sobre os seus jumentos, e odres de vinho, velhos, e rotos, e remendados;",

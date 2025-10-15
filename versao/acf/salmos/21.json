@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "O dia da vitória"
+    },
     "versiculos": {
-        "1": "O rei se alegra em tua força, Senhor; e na tua salvação grandemente se regozija.",
+        "1": "O REI se alegra em tua força, Senhor; e na tua salvação grandemente se regozija.",
         "2": "Cumpriste-lhe o desejo do seu coração, e não negaste as súplicas dos seus lábios. (Selá.)",
         "3": "Pois vais ao seu encontro com as bênçãos de bondade; pões na sua cabeça uma coroa de ouro fino.",
         "4": "Vida te pediu, e lha deste, mesmo longura de dias para sempre e eternamente.",

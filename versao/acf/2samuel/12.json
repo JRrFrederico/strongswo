@@ -1,9 +1,13 @@
 {
     "livro": "2 Samuel",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus manda Natã repreender Davi",
+        "24": "O nascimento de Salomão",
+        "26": "Davi conquista Rabá"
+    },
     "versiculos": {
-        "1": "E o Senhor enviou Natã a Davi; e, apresentando-se ele a Davi, disse-lhe: Havia numa cidade dois homens, um rico e outro pobre.",
+        "1": "E O Senhor enviou Natã a Davi; e, apresentando-se ele a Davi, disse-lhe: Havia numa cidade dois homens, um rico e outro pobre.",
         "2": "O rico possuía muitíssimas ovelhas e vacas.",
         "3": "Mas o pobre não tinha coisa nenhuma, senão uma pequena cordeira que comprara e criara; e ela tinha crescido com ele e com seus filhos; do seu bocado comia, e do seu copo bebia, e dormia em seu regaço, e a tinha como filha.",
         "4": "E, vindo um viajante ao homem rico, deixou este de tomar das suas ovelhas e das suas vacas para assar para o viajante que viera a ele; e tomou a cordeira do homem pobre, e a preparou para o homem que viera a ele.",

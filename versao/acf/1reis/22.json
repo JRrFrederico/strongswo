@@ -1,9 +1,17 @@
 {
     "livro": "1 Reis",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "Acabe quer reaver suas terras",
+        "5": "A predição dos falsos profetas",
+        "13": "A palavra do profeta de Deus",
+        "29": "Acabe morre em Remote-Gileade",
+        "39": "O reinado de Acabe em Israel",
+        "41": "O reinado de Josafá em Judá",
+        "51": "Acazias torna-se rei de Israel"
+    },
     "versiculos": {
-        "1": "E estiveram quietos três anos, não havendo guerra entre a Síria e Israel.",
+        "1": "E ESTIVERAM quietos três anos, não havendo guerra entre a Síria e Israel.",
         "2": "Porém no terceiro ano sucedeu que Jeosafá, rei de Judá, desceu para avistar-se com o rei de Israel.",
         "3": "E o rei de Israel disse aos seus servos: Não sabeis vós que Ramote de Gileade é nossa, e nós estamos quietos, sem a tomar da mão do rei da Síria?",
         "4": "Então perguntou a Jeosafá: Irás tu comigo à peleja a Ramote de Gileade? E disse Jeosafá ao rei de Israel: Serei como tu, e o meu povo como o teu povo, e os meus cavalos como os teus cavalos.",

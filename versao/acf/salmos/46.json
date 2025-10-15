@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 46,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus é a nossa segurança e paz"
+    },
     "versiculos": {
-        "1": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
+        "1": "DEUS é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
         "2": "Portanto não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio dos mares.",
         "3": "Ainda que as águas rujam e se perturbem, ainda que os montes se abalem pela sua braveza. (Selá.)",
         "4": "Há um rio cujas correntes alegram a cidade de Deus, o santuário das moradas do Altíssimo.",

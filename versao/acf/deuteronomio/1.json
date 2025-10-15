@@ -1,9 +1,15 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "O primeiro discurso de Moisés",
+        "6": "As últimas orientações no Horebe",
+        "9": "A nomeação de líderes nas tribos",
+        "19": "Missão de avaliação da nova terra",
+        "34": "Deus repreende os israelitas"
+    },
     "versiculos": {
-        "1": "Estas são as palavras que Moisés falou a todo o Israel além do Jordão, no deserto, na planície defronte do Mar Vermelho, entre Parã e Tôfel, e Labã, e Hazerote, e Di-Zaabe.",
+        "1": "ESTAS são as palavras que Moisés falou a todo o Israel além do Jordão, no deserto, na planície defronte do Mar Vermelho, entre Parã e Tôfel, e Labã, e Hazerote, e Di-Zaabe.",
         "2": "Onze jornadas há desde Horebe, caminho do monte Seir, até Cades-Barneia.",
         "3": "E sucedeu que, no ano quadragésimo, no mês undécimo, no primeiro dia do mês, Moisés falou aos filhos de Israel, conforme a tudo o que o Senhor lhe mandara acerca deles.",
         "4": "Depois que feriu a Siom, rei dos amorreus, que habitava em Hesbom, e a Ogue, rei de Basã, que habitava em Astarote, em Edrei.",

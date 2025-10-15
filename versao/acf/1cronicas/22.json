@@ -1,9 +1,12 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi prepara a construção do templo",
+        "6": "Orientações de Davi a Salomão"
+    },
     "versiculos": {
-        "1": "E disse Davi: Esta será a casa do Senhor Deus, e este será o altar do holocausto para Israel.",
+        "1": "E DISSE Davi: Esta será a casa do Senhor Deus, e este será o altar do holocausto para Israel.",
         "2": "E deu ordem Davi que se ajuntassem os estrangeiros que estavam na terra de Israel; e ordenou cortadores de pedras, para que lavrassem pedras de cantaria, para edificar a casa de Deus.",
         "3": "E aparelhou Davi ferro em abundância, para os pregos das portas das entradas, e para as junturas; como também cobre em abundância, que não foi pesado;",
         "4": "E madeira de cedro sem conta; porque os sidônios e tírios traziam a Davi madeira de cedro em abundância.",

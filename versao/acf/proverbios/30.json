@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 30,
-    "titulos": {},
+    "titulos": {
+        "1": "Palavras proféticas do sábio Agur"
+    },
     "versiculos": {
-        "1": "Palavras de Agur, filho de Jaque, o masaíta, que proferiu este homem a Itiel, a Itiel e a Ucal:",
+        "1": "PALAVRAS de Agur, filho de Jaque, o masaíta, que proferiu este homem a Itiel, a Itiel e a Ucal:",
         "2": "Na verdade eu sou o mais bruto dos homens, nem mesmo tenho o conhecimento de homem.",
         "3": "Nem aprendi a sabedoria, nem tenho o conhecimento do santo.",
         "4": "Quem subiu ao céu e desceu? Quem encerrou os ventos nos seus punhos? Quem amarrou as águas numa roupa? Quem estabeleceu todas as extremidades da terra? Qual é o seu nome? E qual é o nome de seu filho, se é que o sabes?",

@@ -1,9 +1,14 @@
 {
     "livro": "Juízes",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "O Anjo do SENHOR em Boquim",
+        "6": "Israel ocupa a terra e Josué morre",
+        "11": "Israel abandona o SENHOR Deus",
+        "20": "A resistência dos inimigos"
+    },
     "versiculos": {
-        "1": "E subiu o anjo do Senhor de Gilgal a Boquim, e disse: Do Egito vos fiz subir, e vos trouxe à terra que a vossos pais tinha jurado e disse: Nunca invalidarei a minha aliança convosco.",
+        "1": "E SUBIU o anjo do Senhor de Gilgal a Boquim, e disse: Do Egito vos fiz subir, e vos trouxe à terra que a vossos pais tinha jurado e disse: Nunca invalidarei a minha aliança convosco.",
         "2": "E, quanto a vós, não fareis acordo com os moradores desta terra, antes derrubareis os seus altares; mas vós não obedecestes à minha voz. Por que fizestes isso?",
         "3": "Assim também eu disse: Não os expulsarei de diante de vós; antes estarão como espinhos nos vossos lados, e os seus deuses vos serão por laço.",
         "4": "E sucedeu que, falando o anjo do Senhor estas palavras a todos os filhos de Israel, o povo levantou a sua voz e chorou.",

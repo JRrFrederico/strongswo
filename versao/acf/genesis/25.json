@@ -1,9 +1,13 @@
 {
     "livro": "Gênesis",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "A morte de Abraão",
+        "12": "Os filhos de Ismael",
+        "19": "A descendência de Isaque"
+    },
     "versiculos": {
-        "1": "E Abraão tomou outra mulher; e o seu nome era Quetura;",
+        "1": "E ABRAÃO tomou outra mulher; e o seu nome era Quetura;",
         "2": "E deu-lhe à luz Zinrã, Jocsã, Medã, Midiã, Jisbaque e Suá.",
         "3": "E Jocsã gerou Seba e Dedã; e os filhos de Dedã foram Assurim, Letusim e Leumim.",
         "4": "E os filhos de Midiã foram Efá, Efer, Enoque, Abida e Elda. Estes todos foram filhos de Quetura.",

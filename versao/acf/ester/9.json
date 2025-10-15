@@ -1,9 +1,12 @@
 {
     "livro": "Ester",
     "capitulo": 9,
-    "titulos": {},
+    "titulos": {
+        "1": "A vingança dos judeus – Purim",
+        "16": "A instituição da festa dos Purim"
+    },
     "versiculos": {
-        "1": "E, no duodécimo mês, que é o mês de Adar, no dia treze do mesmo mês em que chegou a palavra do rei e a sua ordem para se executar, no dia em que os inimigos dos judeus esperavam assenhorear-se deles, sucedeu o contrário, porque os judeus foram os que se assenhorearam dos que os odiavam.",
+        "1": "E, NO duodécimo mês, que é o mês de Adar, no dia treze do mesmo mês em que chegou a palavra do rei e a sua ordem para se executar, no dia em que os inimigos dos judeus esperavam assenhorear-se deles, sucedeu o contrário, porque os judeus foram os que se assenhorearam dos que os odiavam.",
         "2": "Porque os judeus nas suas cidades, em todas as províncias do rei Assuero, se ajuntaram para pôr as mãos naqueles que procuravam o seu mal; e ninguém podia resistir-lhes, porque o medo deles caíra sobre todos aqueles povos.",
         "3": "E todos os líderes das províncias, e os sátrapas, e os governadores, e os que faziam a obra do rei, auxiliavam os judeus; porque tinha caído sobre eles o temor de Mardoqueu.",
         "4": "Porque Mardoqueu era grande na casa do rei, e a sua fama crescia por todas as províncias, porque o homem Mardoqueu ia sendo engrandecido.",

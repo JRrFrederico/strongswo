@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 121,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração pela proteção do Senhor"
+    },
     "versiculos": {
-        "1": "Levantarei os meus olhos para os montes, de onde vem o meu socorro.",
+        "1": "LEVANTAREI os meus olhos para os montes, de onde vem o meu socorro.",
         "2": "O meu socorro vem do Senhor que fez o céu e a terra.",
         "3": "Não deixará vacilar o teu pé; aquele que te guarda não tosquenejará.",
         "4": "Eis que não tosquenejará nem dormirá o guarda de Israel.",

@@ -1,9 +1,14 @@
 {
     "livro": "1 Pedro",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Preâmbulo e saudação",
+        "3": "Glória a Deus pela Salvação",
+        "13": "Encorajamento a uma vida santa",
+        "22": "O exercício do amor cristão"
+    },
     "versiculos": {
-        "1": "Pedro, apóstolo de Jesus Cristo, aos estrangeiros dispersos no Ponto, Galácia, Capadócia, Ásia e Bitínia;",
+        "1": "PEDRO, apóstolo de Jesus Cristo, aos estrangeiros dispersos no Ponto, Galácia, Capadócia, Ásia e Bitínia;",
         "2": "Eleitos segundo a presciência de Deus Pai, em santificação do Espírito, para a obediência e aspersão do sangue de Jesus Cristo: Graça e paz vos sejam multiplicadas.",
         "3": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo que, segundo a sua grande misericórdia, nos gerou de novo para uma viva esperança, pela ressurreição de Jesus Cristo dentre os mortos,",
         "4": "Para uma herança incorruptível, incontaminável, e que não se pode murchar, guardada nos céus para vós,",

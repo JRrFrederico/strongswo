@@ -1,9 +1,13 @@
 {
     "livro": "Juízes",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus levanta Jefté",
+        "12": "O procedimento de Jefté",
+        "29": "O voto e a vitória de Jefté"
+    },
     "versiculos": {
-        "1": "Era então Jefté, o gileadita, homem valoroso, porém filho de uma prostituta; mas Gileade gerara a Jefté.",
+        "1": "ERA então Jefté, o gileadita, homem valoroso, porém filho de uma prostituta; mas Gileade gerara a Jefté.",
         "2": "Também a mulher de Gileade lhe deu filhos, e, sendo os filhos desta mulher já grandes, expulsaram a Jefté, e lhe disseram: Não herdarás na casa de nosso pai, porque és filho de outra mulher.",
         "3": "Então Jefté fugiu de diante de seus irmãos, e habitou na terra de Tobe; e homens levianos se ajuntaram a Jefté, e saíam com ele.",
         "4": "E aconteceu que, depois de algum tempo, os filhos de Amom pelejaram contra Israel.",

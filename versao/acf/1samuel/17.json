@@ -1,9 +1,14 @@
 {
     "livro": "1 Samuel",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "Golias desafia os israelitas",
+        "12": "Davi junta-se à tropa de Saul",
+        "32": "Davi aceita o desafio filisteu",
+        "55": "Davi apresenta-se a Saul"
+    },
     "versiculos": {
-        "1": "E os filisteus ajuntaram as suas forças para a guerra e congregaram-se em Socó, que está em Judá, e acamparam-se entre Socó e Azeca, no termo de Damim.",
+        "1": "E OS filisteus ajuntaram as suas forças para a guerra e congregaram-se em Socó, que está em Judá, e acamparam-se entre Socó e Azeca, no termo de Damim.",
         "2": "Porém Saul e os homens de Israel se ajuntaram e acamparam no vale do carvalho, e ordenaram a batalha contra os filisteus.",
         "3": "E os filisteus estavam num monte de um lado, e os israelitas estavam num monte do outro lado; e o vale estava entre eles.",
         "4": "Então saiu do arraial dos filisteus um homem guerreiro, cujo nome era Golias, de Gate, que tinha de altura seis côvados e um palmo.",

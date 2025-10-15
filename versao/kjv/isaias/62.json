@@ -1,19 +1,22 @@
 {
     "livro": "Isaías",
     "capitulo": 62,
-    "titulos": {},
+    "titulos": {
+        "1": "Tsión, Sião recebe um novo nome",
+        "10": "Conclusão"
+    },
     "versiculos": {
-        "1": "Por amor de Sião não guardarei a minha paz, e por amor de Jerusalém eu não irei descansar, até que a sua justiça resplandeça como a aurora, e a sua salvação como uma tocha que arde.",
-        "2": "E os gentios verão tua justiça e todos os reis a tua glória. E tu serás chamada por um novo nome, o qual a boca do SENHOR pronunciará.",
-        "3": "Tu também serás uma coroa de glória na mão do SENHOR e um diadema real na mão do teu Deus.",
-        "4": "Tu não serás mais chamada Abandonada; nem tua terra será nunca mais chamada Desolada. Contudo, tu serás chamada Hefzibá e tua terra Beulá, porque o SENHOR se deleita em ti e tua terra terá marido.",
-        "5": "Porque, como um homem jovem casa-se com uma virgem, deste modo teus filhos casarão contigo. E como o noivo no dia do casamento regozija-se com a noiva, deste modo teu Deus se regozijará contigo.",
-        "6": "Eu tenho posto sentinelas sobre teus muros, ó Jerusalém, as quais nunca se manterão descuidadas, nem de dia, nem de noite. Vós que fazeis menção do SENHOR, não conserveis silêncio.",
-        "7": "E não lhe deem repouso, até ele estabelecer, e até ele tornar Jerusalém um louvor na terra.",
-        "8": "O SENHOR tem jurado por sua mão direita e pelo braço da sua força: Certamente eu não darei mais teu trigo para ser alimento a teus inimigos, e os filhos do estrangeiro não beberão teu vinho, o qual tu tens produzido com esforço.",
-        "9": "Mas aqueles que o têm ajuntado, o comerão e louvarão ao SENHOR; e aqueles que o têm trazido, o beberão juntamente, dentro dos átrios da minha santidade.",
-        "10": "Passai, passai os portões; preparai vós o caminho do povo. Construí, construí a estrada. Ajuntai e lançai fora as pedras. Erguei uma bandeira para os povos.",
-        "11": "Eis que o SENHOR tem proclamado até o fim do mundo; dizei à filha de Sião, eis que a tua salvação vem. Eis que a sua recompensa está com Ele e a sua obra perante Ele.",
-        "12": "E eles os chamarão: O povo santo, Os redimidos do SENHOR. E tu serás chamada: Procurada. Uma cidade não desamparada."
+        "1": "“Por meu amor misericordioso para com Tsión , Sião, não deixarei de agir, por compaixão a Jerusalém não descansarei enquanto a sua justiça não resplandecer como o romper da aurora, e a sua salvação como as chamas de uma grande tocha.",
+        "2": "Eis que as nações contemplarão a sua justiça, e todos os reis e governantes da terra, a sua glória; tu, ó Israel, serás chamada por um novo nome que a própria boca de Yahweh te conferirá!",
+        "3": "Serás um maravilhoso diadema nas mãos do Eterno, uma coroa real na mão do seu Deus.",
+        "4": "Ó Israel, tua terra não mais será chamada “Desprezada” nem “Abandonada”. Tu serás honrada e chamada Hefzibá , O Meu Prazer Nela Está; e sua terra: Beulá , Casada, porquanto o S ENHOR terá grande prazer em ti, e a tua terra estará desposada!",
+        "5": "Do mesmo modo como um jovem se casa com sua noiva, assim teus filhos se casarão contigo; e, da mesma maneira como o noivo se alegra da noiva, assim também o teu Deus se alegrará de ti.",
+        "6": "Ó Jerusalém, coloquei sentinelas sobre os teus muros, que jamais deixarão de estar atentos, dia e noite, sem descansar. Para vós, vigias, que clamais incessantemente a Yahweh , não há trégua!",
+        "7": "Também não deixes que o Eterno descanse, até que tenha reconstruído Jerusalém, fazendo dela uma cidade elogiada no mundo todo.",
+        "8": "Yahweh jurou pela sua destra e pelo seu braço forte: “Não tornarei a dar o teu trigo como alimento aos teus inimigos, nem os estrangeiros tornarão a beber do teu vinho, aquele com que tu te afadigaste produzindo.",
+        "9": "Entretanto, aqueles que ceifaram o trigo o comerão, louvando a Yahweh , aqueles que juntaram as uvas delas beberão alegremente nos pátios do meu Templo, os meus átrios sagrados!”",
+        "10": "Passai, passai pelos portões! Preparai um caminho para o meu povo. Construí, construí a estrada, removei as pedras. Erguei uma bandeira para as nações!",
+        "11": "Em verdade, Yahweh faz ouvir a sua voz até os confins da terra: “Dizei à Filha, cidade de Sião: Eis que o teu Salvador está chegando, eis com ele a sua recompensa e o seu galardão está seguro em sua mão.",
+        "12": "Eles serão chamados “Povo Santo”, “Redimidos de Yahweh ”; e tu serás chamada “Querida”, “Cidade Não Desprezada”!"
     }
 }

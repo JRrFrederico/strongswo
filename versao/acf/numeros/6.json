@@ -1,9 +1,12 @@
 {
     "livro": "Números",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Leis sobre o voto de nazireu",
+        "22": "A benção sacerdotal"
+    },
     "versiculos": {
-        "1": "E falou o Senhor a Moisés, dizendo:",
+        "1": "E FALOU o Senhor a Moisés, dizendo:",
         "2": "Fala aos filhos de Israel, e dize-lhes: Quando um homem ou mulher se tiver separado, fazendo voto de nazireu, para se separar ao Senhor,",
         "3": "De vinho e de bebida forte se apartará; vinagre de vinho, nem vinagre de bebida forte não beberá; nem beberá alguma beberagem de uvas; nem uvas frescas nem secas comerá.",
         "4": "Todos os dias do seu nazireado não comerá de coisa alguma, que se faz da vinha, desde os caroços até às cascas.",

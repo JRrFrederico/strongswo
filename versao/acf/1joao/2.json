@@ -1,9 +1,16 @@
 {
     "livro": "1 João",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "3": "Em Cristo e separados do mundo",
+        "7": "O mandamento: o amor fraternal",
+        "12": "A vitória sobre o Maligno",
+        "15": "O cristão não deve ser mundano",
+        "18": "A ação dos anticristos",
+        "28": "Os verdadeiros filhos de Deus"
+    },
     "versiculos": {
-        "1": "Meus filhinhos, estas coisas vos escrevo, para que não pequeis; e, se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o justo.",
+        "1": "MEUS filhinhos, estas coisas vos escrevo, para que não pequeis; e, se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o justo.",
         "2": "E ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo.",
         "3": "E nisto sabemos que o conhecemos: Se guardarmos os seus mandamentos.",
         "4": "Aquele que diz: Eu conheço-o, e não guarda os seus mandamentos, é mentiroso, e nele não está a verdade.",

@@ -1,9 +1,12 @@
 {
     "livro": "1 Reis",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "Aías profetiza contra Jeroboão",
+        "21": "A impiedade de Roboão"
+    },
     "versiculos": {
-        "1": "Naquele tempo adoeceu Abias, filho de Jeroboão.",
+        "1": "NAQUELE tempo adoeceu Abias, filho de Jeroboão.",
         "2": "E disse Jeroboão à sua mulher: Levanta-te agora, e disfarça-te, para que não conheçam que és mulher de Jeroboão; e vai a Siló. Eis que lá está o profeta Aías, o qual falou de mim, que eu seria rei sobre este povo.",
         "3": "E leva contigo dez pães, e bolos, e uma botija de mel, e vai a ele; ele te declarará o que há de suceder a este menino.",
         "4": "E a mulher de Jeroboão assim fez, e se levantou, e foi a Siló, e entrou na casa de Aías; e já Aías não podia ver, porque os seus olhos estavam já escurecidos por causa da sua velhice.",

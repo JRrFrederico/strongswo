@@ -1,9 +1,15 @@
 {
     "livro": "Levítico",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "As ofertas pelos pecados voluntários",
+        "8": "As leis de Deus sobre o holocausto",
+        "14": "As leis sobre a oferta de cereal",
+        "19": "A oferta na ordenação sacerdotal",
+        "24": "A lei da oferta pelo pecado"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés, dizendo:",
         "2": "Quando alguma pessoa pecar, e transgredir contra o Senhor, e negar ao seu próximo o que lhe deu em guarda, ou o que deixou na sua mão, ou o roubo, ou o que reteve violentamente ao seu próximo,",
         "3": "Ou que achou o perdido, e o negar com falso juramento, ou fizer alguma outra coisa de todas em que o homem costuma pecar;",
         "4": "Será pois que, como pecou e tornou-se culpado, restituirá o que roubou, ou o que reteve violentamente, ou o depósito que lhe foi dado em guarda, ou o perdido que achou,",

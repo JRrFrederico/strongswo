@@ -1,9 +1,11 @@
 {
     "livro": "Levítico",
     "capitulo": 19,
-    "titulos": {},
+    "titulos": {
+        "1": "Leis morais, sociais e culturais"
+    },
     "versiculos": {
-        "1": "Falou mais o Senhor a Moisés, dizendo:",
+        "1": "FALOU mais o Senhor a Moisés, dizendo:",
         "2": "Fala a toda a congregação dos filhos de Israel, e dize-lhes: Santos sereis, porque eu, o Senhor vosso Deus, sou santo.",
         "3": "Cada um temerá a sua mãe e a seu pai, e guardará os meus sábados. Eu sou o Senhor vosso Deus.",
         "4": "Não vos virareis para os ídolos nem vos fareis deuses de fundição. Eu sou o Senhor vosso Deus.",

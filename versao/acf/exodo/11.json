@@ -1,9 +1,11 @@
 {
     "livro": "Êxodo",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "Moisés anuncia a décima praga"
+    },
     "versiculos": {
-        "1": "E o Senhor disse a Moisés: Ainda uma praga trarei sobre Faraó, e sobre o Egito; depois vos deixará ir daqui; e, quando vos deixar ir totalmente, a toda a pressa vos lançará daqui.",
+        "1": "E O Senhor disse a Moisés: Ainda uma praga trarei sobre Faraó, e sobre o Egito; depois vos deixará ir daqui; e, quando vos deixar ir totalmente, a toda a pressa vos lançará daqui.",
         "2": "Fala agora aos ouvidos do povo, que cada homem peça ao seu vizinho, e cada mulher à sua vizinha, joias de prata e joias de ouro.",
         "3": "E o Senhor deu ao povo graça aos olhos dos egípcios; também o homem Moisés era mui grande na terra do Egito, aos olhos dos servos de Faraó e aos olhos do povo.",
         "4": "Disse mais Moisés: Assim o Senhor tem dito: À meia-noite eu sairei pelo meio do Egito;",

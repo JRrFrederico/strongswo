@@ -1,9 +1,14 @@
 {
     "livro": "1 Samuel",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "A desobediência de Saul",
+        "10": "Saul é condenado pelo SENHOR",
+        "24": "Saul pede perdão inutilmente",
+        "32": "Morre Agague e Samuel parte"
+    },
     "versiculos": {
-        "1": "Então disse Samuel a Saul: Enviou-me o Senhor a ungir-te rei sobre o seu povo, sobre Israel; ouve, pois, agora a voz das palavras do Senhor.",
+        "1": "ENTÃO disse Samuel a Saul: Enviou-me o Senhor a ungir-te rei sobre o seu povo, sobre Israel; ouve, pois, agora a voz das palavras do Senhor.",
         "2": "Assim diz o Senhor dos Exércitos: Eu me recordei do que fez Amaleque a Israel; como se lhe opôs no caminho, quando subia do Egito.",
         "3": "Vai, pois, agora e fere a Amaleque; e destrói totalmente a tudo o que tiver, e não lhe perdoes; porém matarás desde o homem até à mulher, desde os meninos até aos de peito, desde os bois até às ovelhas, e desde os camelos até aos jumentos.",
         "4": "O que Saul convocou ao povo, e os contou em Telaim, duzentos mil homens de pé, e dez mil homens de Judá.",

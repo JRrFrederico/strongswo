@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "A malignidade humana e o juízo",
+        "9": "A história da salvação do homem"
+    },
     "versiculos": {
-        "1": "E aconteceu que, como os homens começaram a multiplicar-se sobre a face da terra, e lhes nasceram filhas,",
+        "1": "E ACONTECEU que, como os homens começaram a multiplicar-se sobre a face da terra, e lhes nasceram filhas,",
         "2": "Viram os filhos de Deus que as filhas dos homens eram formosas; e tomaram para si mulheres de todas as que escolheram.",
         "3": "Então disse o Senhor: Não contenderá o meu Espírito para sempre com o homem; porque ele também é carne; porém os seus dias serão cento e vinte anos.",
         "4": "Havia naqueles dias gigantes na terra; e também depois, quando os filhos de Deus entraram às filhas dos homens e delas geraram filhos; estes eram os valentes que houve na antiguidade, os homens de fama.",

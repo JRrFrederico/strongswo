@@ -1,14 +1,17 @@
 {
     "livro": "Ezequiel",
     "capitulo": 30,
-    "titulos": {},
+    "titulos": {
+        "1": "Um clamor de lamento pelo Egito",
+        "20": "Deus quebra o braço do poderoso"
+    },
     "versiculos": {
-        "1": "E veio a mim a palavra do Senhor, dizendo:",
+        "1": "E VEIO a mim a palavra do Senhor, dizendo:",
         "2": "Filho do homem, profetiza, e dize: Assim diz o Senhor Deus: Gemei: Ah! Aquele dia!",
         "3": "Porque está perto o dia, sim, está perto o dia do Senhor; dia nublado; será o tempo dos gentios.",
         "4": "A espada virá ao Egito, e haverá grande dor na Etiópia, quando caírem os traspassados no Egito; e tomarão a sua multidão, e serão destruídos os seus fundamentos.",
         "5": "Etiópia, Pute e Lude, e toda a mistura de gente, e Cube, e os homens da terra da liga, juntamente com eles cairão à espada.",
-        "6": "Assim diz o Senhor: Também cairão os que sustém o Egito, e descerá a soberba de seu poder; desde a torre de Syene ali cairão à espada, diz o Senhor Deus.",
+        "6": "Assim diz o Senhor: Também cairão os que sustêm o Egito, e descerá a soberba de seu poder; desde a torre de Syene ali cairão à espada, diz o Senhor Deus.",
         "7": "E serão desolados no meio das terras assoladas; e as suas cidades estarão no meio das cidades desertas.",
         "8": "E saberão que eu sou o Senhor, quando eu puser fogo no Egito, e forem destruídos todos os que lhe davam auxílio.",
         "9": "Naquele dia sairão mensageiros de diante de mim em navios, para espantarem a Etiópia descuidada; e haverá neles grandes dores, como no dia do Egito; pois, eis que já vem.",

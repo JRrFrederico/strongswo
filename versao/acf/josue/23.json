@@ -1,9 +1,12 @@
 {
     "livro": "Josué",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "O último discurso de Josué",
+        "6": "Como agir entre as nações pagãs"
+    },
     "versiculos": {
-        "1": "E sucedeu que, muitos dias depois que o Senhor dera repouso a Israel de todos os seus inimigos em redor, e sendo Josué já velho e entrado em dias,",
+        "1": "E SUCEDEU que, muitos dias depois que o Senhor dera repouso a Israel de todos os seus inimigos em redor, e sendo Josué já velho e entrado em dias,",
         "2": "Chamou Josué a todo o Israel, aos seus anciãos, e aos seus cabeças, e aos seus juízes, e aos seus oficiais, e disse-lhes: Eu já sou velho e entrado em dias,",
         "3": "E vós já tendes visto tudo quanto o Senhor vosso Deus fez a todas estas nações por causa de vós; porque o Senhor vosso Deus é que tem pelejado por vós.",
         "4": "Vede que vos reparti por sorte, em herança às vossas tribos, estas nações que restam, bem como as nações que tenho destruído, desde o Jordão até o grande mar para o pôr do sol.",

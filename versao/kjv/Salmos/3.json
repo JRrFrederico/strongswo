@@ -1,15 +1,17 @@
 {
     "livro": "Salmos",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "O socorro vem do Senhor"
+    },
     "versiculos": {
-        "1": "Salmo de Davi, quando fugia de Absalão, seu filho. SENHOR, como aumentaram aqueles que me perturbam! Muitos são aqueles que se levantam contra mim.",
-        "2": "Há muitos que dizem da minha alma: Não há salvação para ele em Deus. Selá.",
-        "3": "Mas tu, ó SENHOR, és um escudo para mim, a minha glória, e o exaltador da minha cabeça.",
-        "4": "Clamei ao SENHOR com a minha voz, e ele me ouviu do seu santo monte. Selá.",
-        "5": "Eu me deitei e dormi; acordei, porque o SENHOR me sustentou.",
-        "6": "Não terei medo de dez milhares de pessoas que se puseram contra mim ao meu redor.",
-        "7": "Levanta-te, ó SENHOR; salva-me, ó meu Deus; porque atingiste a todos os meus inimigos sobre o osso malar; quebraste os dentes dos ímpios.",
-        "8": "A salvação pertence ao SENHOR; tua bênção está sobre teu povo. Selá."
+        "1": "S ENHOR , como se avoluma o número dos meus opressores, numerosos os que se rebelam contra mim!",
+        "2": "São muitos os que dizem a meu respeito: “Deus jamais o socorrerá!” ( Pausa )",
+        "3": "Mas tu, S ENHOR , és o escudo que me protege, minha glória e o que me ergue a cabeça.",
+        "4": "Em alta voz eu clamo ao S ENHOR , e do seu monte sagrado ele me responde.",
+        "5": "Eu me deito e logo adormeço. Desperto de novo, pois é o S ENHOR que me sustém.",
+        "6": "Não temo os milhares de inimigos que me cercam por todos os lados.",
+        "7": "Ergue-te a meu favor, S ENHOR ! Salva-me, Deus meu! Quebra o queixo de todos os meus inimigos, e arrebenta os dentes dos ímpios.",
+        "8": "Do S ENHOR vem a salvação! E sobre aqueles que são teus, a tua bênção!"
     }
 }

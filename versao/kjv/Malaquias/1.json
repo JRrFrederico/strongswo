@@ -1,21 +1,24 @@
 {
     "livro": "Malaquias",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "O amor leal de Deus por Israel",
+        "6": "Sacrifícios que Deus não aceita"
+    },
     "versiculos": {
-        "1": "O peso da palavra do SENHOR para Israel, por Malaquias.",
-        "2": "Eu vos tenho amado, diz o SENHOR. Mas vós dizeis: Em que tens nos amado? Não era Esaú irmão de Jacó? Diz o SENHOR; todavia eu amei Jacó,",
-        "3": "e eu odiei Esaú; e fiz dos seus montes e de sua herança dejetos para os dragões do deserto.",
-        "4": "Enquanto Edom diz: Estamos empobrecidos, mas retornaremos e edificaremos os lugares desolados; assim diz o SENHOR dos Exércitos: Eles edificarão, mas eu derrubarei; e eles os chamarão: A fronteira da maldade, e, o povo contra quem o SENHOR tem indignação para sempre.",
-        "5": "E os vossos olhos verão, e vós direis: O SENHOR será magnificado desde a fronteira de Israel.",
-        "6": "O filho honra seu pai, e o servo o seu mestre; se então eu sou um pai, onde está a minha honra? E, se eu sou o mestre, onde está o meu temor? Diz o SENHOR dos Exércitos a vós, ó sacerdotes, que desprezais o meu nome. E vós dizeis: Em que temos desprezado o teu nome?",
-        "7": "Ofereceis pão profano sobre o meu altar, e dizeis: Em que te havemos profanado? Nisto dizeis: A mesa do SENHOR é desprezível.",
-        "8": "E se ofereceis o cego para o sacrifício, isso não é mal? E se ofereceis o coxo ou enfermo, isso não é mal? Agora, ofereça-o ao teu governador; ele se agradará contigo, ou aceitará ele a tua pessoa? Diz o SENHOR dos Exércitos.",
-        "9": "E agora, eu suplico, pedi a Deus que ele seja gracioso conosco; isto tem sido por vosso meio; considerará ele a vossa pessoa? Diz o SENHOR dos Exércitos.",
-        "10": "Quem há também entre vós que feche as portas por nada, e nem faz acender o fogo do meu altar por nada? Eu não tenho prazer em vós, diz o SENHOR dos Exércitos, nem aceitarei oferta da vossa mão.",
-        "11": "Mas desde o nascente do sol até onde se põe, meu nome será grande entre os gentios; e em todo lugar incenso será oferecido ao meu nome, e uma oferta pura; porque o meu nome será grande entre os pagãos, diz o SENHOR dos Exércitos.",
-        "12": "Mas vós o profanais quando dizeis: A mesa do SENHOR está profanada, e o seu fruto, até mesmo seu alimento, é desprezível.",
-        "13": "E dizeis também: Eis que canseira é isto! E o depreciastes, diz o SENHOR dos Exércitos; vós trazeis o que foi rasgado, e o coxo, e o enfermo; assim trouxestes uma oferta. Devo eu aceitar isso de vossa mão? Diz o SENHOR.",
-        "14": "Mas, maldito seja o enganador que, tendo macho no seu rebanho, promete e sacrifica ao Senhor uma coisa corrupta; pois eu sou um grande Rei, diz o SENHOR dos Exércitos, e o meu nome é temível entre os pagãos."
+        "1": "Eis a Palavra profética de Yahweh , o S ENHOR , contra Israel, anunciada por intermédio de Mal’âkîy , Malaquias, “Meu Mensageiro”.",
+        "2": "“Eu sempre vos amei”, assegura Yahweh . “No entanto, vós me questionais: ‘De que maneira nos tens amado?’ Ora, não era Esaú irmão de Jacó?”, relembra o Eterno. “Ainda assim, amei Jacó,",
+        "3": "e rejeitei Esaú. Transformei suas montanhas em terras arrasadas e entreguei sua herança aos chacais do deserto.”",
+        "4": "Embora os descendentes de Esaú, isto é, os edomitas, aleguem: “Estamos devastados, mas voltaremos e reedificaremos nossas ruínas!” Assim diz Yahweh Todo-Poderoso: “É possível que consigais reconstruir, mas Eu demolirei tudo outra vez! Eles serão chamados Rish’âh Gebûl , Terra Perversa, um povo contra quem Yahweh está irado para sempre.",
+        "5": "E com os vossos próprios olhos havereis de contemplar tudo que vos afirmo e exclamareis: ‘Gâdôl , Grande é Yahweh , até mesmo muito além das fronteiras de Israel!’",
+        "6": "Ora, o filho deve honrar o pai, e o servo, o seu senhor. Se Eu Sou o Pai, onde está a honra que me é devida? Se Eu Sou ‘Adôn , Senhor e Mestre, onde está o temor, o respeito reverente, que me é devido?”, questiona o S ENHOR dos Exércitos a vós, sacerdotes. “Ora, sois vós que desprezais o meu Nome!",
+        "7": "Trazendo comida impura ao meu Altar! E ainda assim indagam: ‘De que maneira te desonramos?’ Quando, de fato, estais declarando, mediante vossa atitude, que a mesa de Yahweh é sem importância e desprezível.",
+        "8": "Quando ofereceis em sacrifício um animal cego, isso não é errado? E quando ofereceis animais aleijados ou doentes, isso também não é errado? Ora, vai e apresenta-os ao vosso governador humano. Será que ele ficará feliz com tal presente? Ele terá satisfação em atendê-los?” Questiona o Eterno Todo-Poderoso.",
+        "9": "“Suplicai, pois, agora mesmo châ nan , graça e favor de Deus, para que tenha compaixão de nós. Com esse tipo de oferta, será que ele vos atenderá?” Indaga o S ENHOR dos Exércitos.",
+        "10": "“Ah, se houvesse uma pessoa entre vós que fechasse as portas do Templo! Assim ao menos não acenderia o fogo do meu Altar inutilmente. Afinal, não tenho em vós o menor prazer”, afirma Yahweh dos Exércitos, “e não aceitarei as vossas ofertas desse jeito!",
+        "11": "Pois do Oriente ao Ocidente, grande é o meu Nome entre as nações. Em toda parte incenso especial é queimado e ofertas puras são trazidas em adoração ao meu Nome, porquanto ‘gâdôl , grande será o meu Nome entre todas as nações da terra!”, declara o S ENHOR dos Exércitos.",
+        "12": "“Mas vós profanais o meu Nome, quando dizeis: ‘A mesa de Deus é impura, e seu alimento é desprezível.’",
+        "13": "E ainda murmurais: ‘Que canseira!’ E zombais do cerimonial.” Acusa Yahweh dos Exércitos. “Quando trazeis como oferta animais roubados, aleijados e doentes, e ofereceis isso em sacrifício, imaginais mesmo que Eu deveria aceitá-los de suas mãos?” Questiona o S ENHOR .",
+        "14": "“Maldito seja o enganador que, tendo no rebanho um macho sem defeito, promete oferecê-lo, mas acaba sacrificando para mim um animal defeituoso ou doente!”, adverte o Eterno dos Exércitos; “pois Eu Sou o grande Rei, e o meu Nome deve ser temido entre todas as nações da terra!”"
     }
 }

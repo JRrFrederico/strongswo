@@ -1,9 +1,13 @@
 {
     "livro": "1 Reis",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "12": "Morte de Adonias",
+        "26": "O fim de Abiatar e Joabe",
+        "36": "Desobediência e morte de Simei"
+    },
     "versiculos": {
-        "1": "E aproximaram-se os dias da morte de Davi; e deu ele ordem a Salomão, seu filho, dizendo:",
+        "1": "E APROXIMARAM-SE os dias da morte de Davi; e deu ele ordem a Salomão, seu filho, dizendo:",
         "2": "Eu vou pelo caminho de toda a terra; esforça-te, pois, e sê homem.",
         "3": "E guarda a ordenança do Senhor teu Deus, para andares nos seus caminhos, e para guardares os seus estatutos, e os seus mandamentos, e os seus juízos, e os seus testemunhos, como está escrito na lei de Moisés; para que prosperes em tudo quanto fizeres, e para onde quer que fores.",
         "4": "Para que o Senhor confirme a palavra, que falou de mim, dizendo: Se teus filhos guardarem o seu caminho, para andarem perante a minha face fielmente, com todo o seu coração e com toda a sua alma, nunca, disse, te faltará sucessor ao trono de Israel.",

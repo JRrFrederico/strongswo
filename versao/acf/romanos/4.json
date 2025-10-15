@@ -1,9 +1,11 @@
 {
     "livro": "Romanos",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Abraão creu e foi justificado"
+    },
     "versiculos": {
-        "1": "Que diremos, pois, ter alcançado Abraão, nosso pai segundo a carne?",
+        "1": "QUE diremos, pois, ter alcançado Abraão, nosso pai segundo a carne?",
         "2": "Porque, se Abraão foi justificado pelas obras, tem de que se gloriar, mas não diante de Deus.",
         "3": "Pois, que diz a Escritura? Creu Abraão em Deus, e isso lhe foi imputado como justiça.",
         "4": "Ora, àquele que faz qualquer obra não lhe é imputado o galardão segundo a graça, mas segundo a dívida.",

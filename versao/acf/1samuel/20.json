@@ -1,9 +1,13 @@
 {
     "livro": "1 Samuel",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "Jônatas ajuda o amigo Davi",
+        "11": "Jônatas faz um acordo com Davi",
+        "30": "Saul trata seu filho com ódio"
+    },
     "versiculos": {
-        "1": "Então fugiu Davi de Naiote, em Ramá; e veio diante de Jônatas, e disse: Que fiz eu? Qual é o meu crime? E qual é o meu pecado diante de teu pai, que procura tirar-me a vida?",
+        "1": "ENTÃO fugiu Davi de Naiote, em Ramá; e veio diante de Jônatas, e disse: Que fiz eu? Qual é o meu crime? E qual é o meu pecado diante de teu pai, que procura tirar-me a vida?",
         "2": "E ele lhe disse: Tal não suceda; não morrerás; eis que meu pai não faz coisa nenhuma grande, nem pequena, sem primeiro me informar; por que, pois, meu pai me encobriria este negócio? Não será assim.",
         "3": "Então Davi tornou a jurar, e disse: Teu pai sabe muito bem que achei graça em teus olhos; por isso disse: Não saiba isto Jônatas, para que não se magoe. Mas, na verdade, como vive o Senhor, e como vive a tua alma, há apenas um passo entre mim e a morte.",
         "4": "E disse Jônatas a Davi: O que disser a tua alma, eu te farei.",

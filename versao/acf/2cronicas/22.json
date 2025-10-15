@@ -1,9 +1,12 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "O governo de Acazias, rei de Judá",
+        "10": "Atalia usurpa o trono real"
+    },
     "versiculos": {
-        "1": "E os moradores de Jerusalém, em lugar de Jeorão, fizeram rei a Acazias, seu filho mais moço, porque a tropa, que viera com os árabes ao arraial, tinha matado a todos os mais velhos. Assim reinou Acazias, filho de Jeorão, rei de Judá.",
+        "1": "E OS moradores de Jerusalém, em lugar de Jeorão, fizeram rei a Acazias, seu filho mais moço, porque a tropa, que viera com os árabes ao arraial, tinha matado a todos os mais velhos. Assim reinou Acazias, filho de Jeorão, rei de Judá.",
         "2": "Era Acazias da idade de quarenta e dois anos, quando começou a reinar, e reinou um ano em Jerusalém; e era o nome de sua mãe Atalia, filha de Onri.",
         "3": "Também ele andou nos caminhos da casa de Acabe, porque sua mãe era sua conselheira, para proceder impiamente.",
         "4": "E fez o que era mau aos olhos do Senhor, como a casa de Acabe, porque eles eram seus conselheiros depois da morte de seu pai, para a sua perdição.",

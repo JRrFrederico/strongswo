@@ -1,9 +1,12 @@
 {
     "livro": "Sofonias",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "O castigo e a salvação de Israel",
+        "9": "A nova Yisra’êl, Vencer com Deus"
+    },
     "versiculos": {
-        "1": "Ai da rebelde e contaminada, da cidade opressora!",
+        "1": "AI da rebelde e contaminada, da cidade opressora!",
         "2": "Não obedeceu à sua voz, não aceitou o castigo; não confiou no Senhor; nem se aproximou do seu Deus.",
         "3": "Os seus príncipes são leões rugidores no meio dela; os seus juízes são lobos da tarde, que não deixam os ossos para a manhã.",
         "4": "Os seus profetas são levianos, homens aleivosos; os seus sacerdotes profanaram o santuário, e fizeram violência à lei.",

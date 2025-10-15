@@ -1,9 +1,14 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "O povo escolhido por Deus",
+        "7": "A eleição e a graça do SENHOR",
+        "12": "As bênçãos da obediência a Deus",
+        "17": "O poder magnífico de Deus"
+    },
     "versiculos": {
-        "1": "Quando o Senhor teu Deus te houver introduzido na terra, à qual vais para a possuir, e tiver lançado fora muitas nações de diante de ti, os heteus, e os girgaseus, e os amorreus, e os cananeus, e os perizeus, e os heveus, e os jebuseus, sete nações mais numerosas e mais poderosas do que tu;",
+        "1": "QUANDO o Senhor teu Deus te houver introduzido na terra, à qual vais para a possuir, e tiver lançado fora muitas nações de diante de ti, os heteus, e os girgaseus, e os amorreus, e os cananeus, e os perizeus, e os heveus, e os jebuseus, sete nações mais numerosas e mais poderosas do que tu;",
         "2": "E o Senhor teu Deus as tiver dado diante de ti, para as ferir, totalmente as destruirás; não farás com elas aliança, nem terás piedade delas;",
         "3": "Nem te aparentarás com elas; não darás tuas filhas a seus filhos, e não tomarás suas filhas para teus filhos;",
         "4": "Pois fariam desviar teus filhos de mim, para que servissem a outros deuses; e a ira do Senhor se acenderia contra vós, e depressa vos consumiria.",

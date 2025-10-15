@@ -1,9 +1,13 @@
 {
     "livro": "Colossenses",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "A luta para pregar o Evangelho",
+        "6": "Cristãos livres do legalismo",
+        "20": "Só Cristo nos livra do pecado"
+    },
     "versiculos": {
-        "1": "Porque quero que saibais quão grande combate tenho por vós, e pelos que estão em Laodiceia, e por quantos não viram o meu rosto em carne;",
+        "1": "PORQUE quero que saibais quão grande combate tenho por vós, e pelos que estão em Laodiceia, e por quantos não viram o meu rosto em carne;",
         "2": "Para que os seus corações sejam consolados, e estejam unidos em amor, e em todas as riquezas da plena certeza da inteligência, para conhecimento do mistério de Deus e Pai, e de Cristo,",
         "3": "Em quem estão escondidos todos os tesouros da sabedoria e do conhecimento.",
         "4": "E digo isto, para que ninguém vos engane com palavras persuasivas.",

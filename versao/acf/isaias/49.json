@@ -1,9 +1,13 @@
 {
     "livro": "Isaías",
     "capitulo": 49,
-    "titulos": {},
+    "titulos": {
+        "1": "O Servo de Yahweh, luz dos gentios",
+        "8": "O tempo da restauração de Israel",
+        "12": "Deus usa Ciro para libertar Israel"
+    },
     "versiculos": {
-        "1": "Ouvi-me, ilhas, e escutai vós, povos de longe: O Senhor me chamou desde o ventre, desde as entranhas de minha mãe fez menção do meu nome.",
+        "1": "OUVI-ME, ilhas, e escutai vós, povos de longe: O Senhor me chamou desde o ventre, desde as entranhas de minha mãe fez menção do meu nome.",
         "2": "E fez a minha boca como uma espada aguda, com a sombra da sua mão me cobriu; e me pôs como uma flecha limpa, e me escondeu na sua aljava;",
         "3": "E me disse: Tu és meu servo; és Israel, aquele por quem hei de ser glorificado.",
         "4": "Porém eu disse: Em vão tenho trabalhado, inútil e vãmente gastei as minhas forças; todavia o meu direito está perante o Senhor, e o meu galardão perante o meu Deus.",

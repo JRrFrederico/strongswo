@@ -1,9 +1,12 @@
 {
     "livro": "2 Timóteo",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "A humanidade nos últimos dias",
+        "10": "Paulo exorta seu filho espiritual"
+    },
     "versiculos": {
-        "1": "Sabe, porém, isto: que nos últimos dias sobrevirão tempos trabalhosos.",
+        "1": "SABE, porém, isto: Que nos últimos dias sobrevirão tempos trabalhosos.",
         "2": "Porque haverá homens amantes de si mesmos, avarentos, presunçosos, soberbos, blasfemos, desobedientes a pais e mães, ingratos, profanos,",
         "3": "Sem afeto natural, irreconciliáveis, caluniadores, intemperantes, cruéis, sem amor para com os bons,",
         "4": "Traidores, obstinados, orgulhosos, mais amigos dos deleites do que amigos de Deus,",

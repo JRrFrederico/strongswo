@@ -1,9 +1,12 @@
 {
     "livro": "Gálatas",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Tiago, Pedro e João confirmam o apostolado de Paulo",
+        "11": "Paulo cobra coerência a Pedro"
+    },
     "versiculos": {
-        "1": "Depois, passados catorze anos, subi outra vez a Jerusalém com Barnabé, levando também comigo Tito.",
+        "1": "DEPOIS, passados catorze anos, subi outra vez a Jerusalém com Barnabé, levando também comigo Tito.",
         "2": "E subi por uma revelação, e lhes expus o evangelho, que prego entre os gentios, e particularmente aos que estavam em estima; para que de maneira alguma não corresse ou não tivesse corrido em vão.",
         "3": "Mas nem ainda Tito, que estava comigo, sendo grego, foi constrangido a circuncidar-se;",
         "4": "E isto por causa dos falsos irmãos que se intrometeram, e secretamente entraram a espiar a nossa liberdade, que temos em Cristo Jesus, para nos porem em servidão;",

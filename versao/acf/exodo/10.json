@@ -1,9 +1,12 @@
 {
     "livro": "Êxodo",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "A oitava praga: Gafanhotos",
+        "21": "A nona praga: Trevas"
+    },
     "versiculos": {
-        "1": "Depois disse o Senhor a Moisés: Vai a Faraó, porque tenho endurecido o seu coração, e o coração de seus servos, para fazer estes meus sinais no meio deles,",
+        "1": "DEPOIS disse o Senhor a Moisés: Vai a Faraó, porque tenho endurecido o seu coração, e o coração de seus servos, para fazer estes meus sinais no meio deles,",
         "2": "E para que contes aos ouvidos de teus filhos, e dos filhos de teus filhos, as coisas que fiz no Egito, e os meus sinais, que tenho feito entre eles; para que saibais que eu sou o Senhor.",
         "3": "Assim foram Moisés e Arão a Faraó, e disseram-lhe: Assim diz o Senhor Deus dos hebreus: Até quando recusarás humilhar-te diante de mim? Deixa ir o meu povo para que me sirva;",
         "4": "Porque se ainda recusares deixar ir o meu povo, eis que trarei amanhã gafanhotos aos teus termos.",

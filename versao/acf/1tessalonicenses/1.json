@@ -1,9 +1,12 @@
 {
     "livro": "1 Tessalonicenses",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "2": "Ação de graças pela fé da Igreja"
+    },
     "versiculos": {
-        "1": "Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses em Deus, o Pai, e no Senhor Jesus Cristo: Graça e paz tenhais de Deus nosso Pai e do Senhor Jesus Cristo.",
+        "1": "PAULO, e Silvano, e Timóteo, à igreja dos tessalonicenses em Deus, o Pai, e no Senhor Jesus Cristo: Graça e paz tenhais de Deus nosso Pai e do Senhor Jesus Cristo.",
         "2": "Sempre damos graças a Deus por vós todos, fazendo menção de vós em nossas orações,",
         "3": "Lembrando-nos sem cessar da obra da vossa fé, do trabalho do amor, e da paciência da esperança em nosso Senhor Jesus Cristo, diante de nosso Deus e Pai,",
         "4": "Sabendo, amados irmãos, que a vossa eleição é de Deus;",

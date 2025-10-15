@@ -1,25 +1,27 @@
 {
     "livro": "Rute",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "A bondade e justiça de Boaz"
+    },
     "versiculos": {
-        "1": "Então, Noemi, sua sogra, lhe disse: Minha filha, não buscarei eu descanso para ti, para que fiques bem?",
-        "2": "E, agora, não é Boaz, com cujas criadas tu estavas, nosso parente? Eis que esta noite ele joeirará a cevada na eira.",
-        "3": "Lava-te, portanto, e unge-te, e coloca sobre ti as tuas vestes, e desce até a eira; mas não te faças conhecida ao homem, até que tenha terminado de comer e beber.",
-        "4": "E será que, quando ele se deitar, tu marcarás o lugar onde ele se deitar, e entrarás, e descobrirás os seus pés, e te deitarás; e ele dirá o que deves fazer.",
-        "5": "E ela lhe disse: Tudo o que me disseres, farei.",
-        "6": "E ela desceu até a eira, e fez de acordo com tudo o que a sua sogra lhe havia ordenado.",
-        "7": "E quando Boaz já havia comido e bebido, e o seu coração estava alegre, ele foi se deitar no fim da pilha de grãos; e ela chegou delicadamente, e descobriu os seus pés, e se deitou.",
-        "8": "E, sucedeu que, à meia-noite, o homem ficou temeroso e se virou; e eis que uma mulher estava deitada aos seus pés.",
-        "9": "E ele disse: Quem és tu? E ela respondeu: Eu sou Rute, tua criada; estende pois a tua aba sobre a tua criada; porque tu me és um parente próximo.",
-        "10": "E ele disse: Bendita sejas tu do SENHOR, minha filha; pois demonstraste mais benevolência no final do que no começo, porquanto não seguiste os moços, quer pobres ou ricos.",
-        "11": "E, agora, minha filha, não temas; farei contigo tudo o que requeres; pois toda a cidade do meu povo sabe que tu és uma mulher virtuosa.",
-        "12": "E eis que é verdade que sou de ti um parente próximo; embora haja um parente ainda mais próximo do que eu.",
-        "13": "Espera esta noite, e será que, pela manhã, se ele cumprir diante de ti a parte de um parente, bem; que faça a parte do parente; mas se não fizer a parte de um parente para contigo, então eu farei a parte de um parente para contigo, como vive o SENHOR; deita-te até o amanhecer.",
-        "14": "E ela se deitou aos seus pés até a manhã; e ela se levantou antes que um pudesse conhecer o outro. E ele disse: Que não se saiba que uma mulher entrou na eira.",
-        "15": "Disse também ele: Traz o véu que tens sobre ti, e segura-o. E, quando ela o segurou, ele mediu seis medidas de cevada, e lhas pôs em cima; e ela foi para a cidade.",
-        "16": "E quando ela veio para sua sogra, ela disse, Quem és tu, minha filha? E ela lhe contou tudo o que o homem havia feito por ela.",
-        "17": "E ela disse: Estas seis medidas de cevada ele me deu; pois me disse: Não vás vazia até a tua sogra.",
-        "18": "Então ela disse: Assenta-te e aquieta-te, minha filha, até que saibas como a questão recairá; pois o homem não terá repouso até que tenha terminado com isto hoje."
+        "1": "Certo dia, Noemi disse a Rute, sua nora: “Minha filha, é meu dever buscar-te um lar seguro para a tua felicidade.",
+        "2": "Boaz, senhor das servas com quem estiveste, é nosso parente próximo. Sei que esta noite ele estará debulhando a cevada na eira.",
+        "3": "Lava-te, pois, e perfuma-te, põe teu manto e desce à eira, mas não te deixes reconhecer por ele, até que ele tenha acabado de comer e beber.",
+        "4": "Quando ele se retirar para dormir, observa o lugar em que está deitado; então entra, descobre seus pés e deita-te. Ele te dirá o que deves fazer.”",
+        "5": "Então Rute anuiu dizendo: “Farei tudo como me orientaste.”",
+        "6": "Ela desceu ao terreno onde se limpavam as espigas e fez exatamente como a sua sogra a instruíra.",
+        "7": "Boaz comeu e bebeu até ficar um tanto alegre, e foi deitar-se junto de um monte de cevada; pouco mais tarde, Rute aproximou-se sem ser notada, descobriu os pés dele, e deitou-se.",
+        "8": "No meio da noite, o homem acordou de repente, e se assustou ao ver uma mulher deitada a seus pés.",
+        "9": "“Quem és tu?” indagou ele. “Sou tua serva Rute”, replicou ela. E lhe rogou: “Estende teu manto sobre a tua serva, porquanto és nosso parente chegado e tens o dever de nos resgatar.”",
+        "10": "E Boaz lhe respondeu: “Bendita sejas por Deus, minha filha; este teu novo gesto de lealdade e generosidade excede o primeiro em relação à tua sogra, pois preferiste não procurar um homem mais jovem, fosse rico ou fosse pobre.",
+        "11": "Portanto, minha filha, não tenhas medo: far-te-ei tudo quando me pedires, pois todos os habitantes desta cidade sabem que és uma mulher virtuosa.",
+        "12": "Ora, de fato eu tenho a responsabilidade de resgate, mas há um outro parente ainda mais próximo do que eu.",
+        "13": "Sendo assim, passa a noite aqui e amanhã cedo, se ele quiser assumir o direito de proteger-te, muito bem, que ele te resgate: todavia, se, pelo contrário, ele não quiser te resgatar, eu ficarei com essa responsabilidade; juro pelo Nome de Deus, Yahweh ! Agora, pois, volta a deitar-te e descansa até o raiar do dia.”",
+        "14": "Rute adormeceu de novo aos pés de Boaz até a alvorada e levantou-se antes do clarear do dia a fim de não ser reconhecida; e Boaz falou consigo mesmo: “Não convém que se saiba que esta mulher esteve na eira!”",
+        "15": "Por isso orientou-lhe Boaz: “Estende o manto que te cobre e segura-o firme.” Ela estendeu sua capa sobre o chão e a segurou, e ele despejou sobre a capa seis medidas de cevada, mais de vinte quilos, e lhe pôs às costas. E ela retornou ao povoado.",
+        "16": "Assim que Rute retornou à casa de sua sogra esta lhe perguntou: “Como estás, minha filha? O que se passou?” Rute contou-lhe então tudo o que aquele homem tinha feito por ela.",
+        "17": "E acrescentou: “Estas seis medidas de cevada, foi ele quem deu, dizendo-me: ‘Não voltarás de mãos vazias para junto de tua sogra!’",
+        "18": "Então, Noemi assegurou a Rute: “Fica tranquila, minha filha, até saberes como terminará tudo isso; com certeza este homem não descansará enquanto não solucionar ainda hoje esta questão!”"
     }
 }

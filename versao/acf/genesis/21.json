@@ -1,9 +1,13 @@
 {
     "livro": "Gênesis",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Nasce Isaque, o filho prometido",
+        "8": "Abraão expulsa Hagar e Ismael",
+        "22": "Pacto entre Abraão e Abimeleque"
+    },
     "versiculos": {
-        "1": "E o Senhor visitou a Sara, como tinha dito; e fez o Senhor a Sara como tinha prometido.",
+        "1": "E O Senhor visitou a Sara, como tinha dito; e fez o Senhor a Sara como tinha prometido.",
         "2": "E concebeu Sara, e deu a Abraão um filho na sua velhice, ao tempo determinado, que Deus lhe tinha falado.",
         "3": "E Abraão pôs no filho que lhe nascera, que Sara lhe dera, o nome de Isaque.",
         "4": "E Abraão circuncidou o seu filho Isaque, quando era da idade de oito dias, como Deus lhe tinha ordenado.",

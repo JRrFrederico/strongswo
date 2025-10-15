@@ -1,9 +1,16 @@
 {
     "livro": "Mateus",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "O Senhor do sábado",
+        "9": "Jesus cura no sábado",
+        "15": "Eis meu Servo amado!",
+        "22": "O pecado imperdoável",
+        "38": "O sinal da ressurreição",
+        "46": "A mãe e os irmãos de Jesus"
+    },
     "versiculos": {
-        "1": "Naquele tempo passou Jesus pelas searas, em um sábado; e os seus discípulos, tendo fome, começaram a colher espigas, e a comer.",
+        "1": "NAQUELE tempo passou Jesus pelas searas, em um sábado; e os seus discípulos, tendo fome, começaram a colher espigas, e a comer.",
         "2": "E os fariseus, vendo isto, disseram-lhe: Eis que os teus discípulos fazem o que não é lícito fazer num sábado.",
         "3": "Ele, porém, lhes disse: Não tendes lido o que fez Davi, quando teve fome, ele e os que com ele estavam?",
         "4": "Como entrou na casa de Deus, e comeu os pães da proposição, que não lhe era lícito comer, nem aos que com ele estavam, mas só aos sacerdotes?",
@@ -41,10 +48,10 @@
         "36": "Mas eu vos digo que de toda a palavra ociosa que os homens disserem hão de dar conta no dia do juízo.",
         "37": "Porque por tuas palavras serás justificado, e por tuas palavras serás condenado.",
         "38": "Então alguns dos escribas e dos fariseus responderam, dizendo: Mestre, quiséramos ver da tua parte algum sinal.",
-        "39": "Mas ele lhes respondeu, e disse: Uma geração má e adúltera pede um sinal, porém, não se lhe dará sinal, senão o sinal do profeta Jonas;",
+        "39": "Mas ele lhes respondeu, e disse: Uma geração má e adúltera pede um sinal, porém, não se lhe dará outro sinal, senão o sinal do profeta Jonas;",
         "40": "Pois, como Jonas esteve três dias e três noites no ventre da baleia, assim estará o Filho do homem três dias e três noites no coração da terra.",
         "41": "Os ninivitas ressurgirão no juízo com esta geração, e a condenarão, porque se arrependeram com a pregação de Jonas. E eis que está aqui quem é maior do que Jonas.",
-        "42": "A rainha do sul se levantará no juízo com esta geração, e a condenará; porque veio dos confins da terra para ouvir a sabedoria de Salomão. E eis que está aqui quem é maior do que Salomão.",
+        "42": "A rainha do sul se levantará no dia do juízo com esta geração, e a condenará; porque veio dos confins da terra para ouvir a sabedoria de Salomão. E eis que está aqui quem é maior do que Salomão.",
         "43": "E, quando o espírito imundo tem saído do homem, anda por lugares áridos, buscando repouso, e não o encontra.",
         "44": "Então diz: Voltarei para a minha casa, de onde saí. E, voltando, acha-a desocupada, varrida e adornada.",
         "45": "Então vai, e leva consigo outros sete espíritos piores do que ele e, entrando, habitam ali; e são os últimos atos desse homem piores do que os primeiros. Assim acontecerá também a esta geração má.",

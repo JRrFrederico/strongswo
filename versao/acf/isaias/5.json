@@ -1,9 +1,14 @@
 {
     "livro": "Isaías",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "O poema da vinha",
+        "8": "Ais e maldições contra os maus",
+        "25": "A ira de Yahweh, o SENHOR",
+        "26": "Deus convoca os invasores"
+    },
     "versiculos": {
-        "1": "Agora cantarei ao meu amado o cântico do meu querido a respeito da sua vinha. O meu amado tem uma vinha num outeiro fértil.",
+        "1": "AGORA cantarei ao meu amado o cântico do meu querido a respeito da sua vinha. O meu amado tem uma vinha num outeiro fértil.",
         "2": "E cercou-a, e limpando-a das pedras, plantou-a de excelentes vides; e edificou no meio dela uma torre, e também construiu nela um lagar; e esperava que desse uvas boas, porém deu uvas bravas.",
         "3": "Agora, pois, ó moradores de Jerusalém, e homens de Judá, julgai, vos peço, entre mim e a minha vinha.",
         "4": "Que mais se podia fazer à minha vinha, que eu lhe não tenha feito? Por que, esperando eu que desse uvas boas, veio a dar uvas bravas?",

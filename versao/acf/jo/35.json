@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 35,
-    "titulos": {},
+    "titulos": {
+        "1": "Eliú acusa Jó de não saber o que diz"
+    },
     "versiculos": {
-        "1": "Respondeu mais Eliú, dizendo:",
+        "1": "RESPONDEU mais Eliú, dizendo:",
         "2": "Tens por direito dizeres: Maior é a minha justiça do que a de Deus?",
         "3": "Porque disseste: De que te serviria? Que proveito tiraria mais do que do meu pecado?",
         "4": "Eu te darei resposta, a ti e aos teus amigos contigo.",

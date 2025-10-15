@@ -1,9 +1,11 @@
 {
     "livro": "Ezequiel",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus convoca Ezequiel a profetizar"
+    },
     "versiculos": {
-        "1": "E disse-me: Filho do homem, põe-te em pé, e falarei contigo.",
+        "1": "E DISSE-ME: Filho do homem, põe-te em pé, e falarei contigo.",
         "2": "Então entrou em mim o Espírito, quando ele falava comigo, e me pôs em pé, e ouvi o que me falava.",
         "3": "E disse-me: Filho do homem, eu te envio aos filhos de Israel, às nações rebeldes que se rebelaram contra mim; eles e seus pais transgrediram contra mim até este mesmo dia.",
         "4": "E os filhos são de semblante duro, e obstinados de coração; eu te envio a eles, e lhes dirás: Assim diz o Senhor Deus.",

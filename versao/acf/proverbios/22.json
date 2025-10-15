@@ -1,9 +1,12 @@
 {
     "livro": "Provérbios",
     "capitulo": 22,
-    "titulos": {},
+    "titulos": {
+        "1": "O bom Nome vale mais que prata",
+        "17": "Os trinta ditados dos Sábios"
+    },
     "versiculos": {
-        "1": "Vale mais ter um bom nome do que muitas riquezas; e o ser estimado é melhor do que a riqueza e o ouro.",
+        "1": "VALE mais ter um bom nome do que muitas riquezas; e o ser estimado é melhor do que a riqueza e o ouro.",
         "2": "O rico e o pobre se encontram; a todos o Senhor os fez.",
         "3": "O prudente prevê o mal, e esconde-se; mas os simples passam e acabam pagando.",
         "4": "O galardão da humildade e o temor do Senhor são riquezas, honra e vida.",

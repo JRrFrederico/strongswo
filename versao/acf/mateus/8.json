@@ -1,11 +1,18 @@
 {
     "livro": "Mateus",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus purifica o imundo",
+        "5": "Um comandante romano crente",
+        "14": "Jesus salva, cura e liberta",
+        "18": "A prioridade do discipulado",
+        "23": "Jesus domina as circunstâncias",
+        "28": "Jesus domina as forças do mal"
+    },
     "versiculos": {
-        "1": "E, descendo ele do monte, seguiu-o uma grande multidão.",
+        "1": "E, DESCENDO ele do monte, seguiu-o uma grande multidão.",
         "2": "E, eis que veio um leproso, e o adorou, dizendo: Senhor, se quiseres, podes tornar-me limpo.",
-        "3": "E Jesus, estendendo a mão, tocou-o, dizendo: Quero; sê limpo. E logo ficou purificado de sua lepra.",
+        "3": "E Jesus, estendendo a mão, tocou-o, dizendo: Quero; sê limpo . E logo ficou purificado de sua lepra.",
         "4": "Disse-lhe então Jesus: Olha, não o digas a alguém, mas vai, mostra-te ao sacerdote, e apresenta a oferta que Moisés determinou, para lhes servir de testemunho.",
         "5": "E, entrando Jesus em Cafarnaum, chegou junto dele um centurião, rogando-lhe,",
         "6": "E dizendo: Senhor, o meu criado jaz em casa, paralítico, e violentamente atormentado.",
@@ -34,7 +41,7 @@
         "29": "E eis que clamaram, dizendo: Que temos nós contigo, Jesus, Filho de Deus? Vieste aqui atormentar-nos antes do tempo?",
         "30": "E andava pastando distante deles uma manada de muitos porcos.",
         "31": "E os demônios rogaram-lhe, dizendo: Se nos expulsas, permite-nos que entremos naquela manada de porcos.",
-        "32": "E ele lhes disse: Ide. E, saindo eles, se introduziram na manada dos porcos; e eis que toda aquela manada de porcos se precipitou no mar por um despenhadeiro, e morreram nas águas.",
+        "32": "E ele lhes disse: Ide . E, saindo eles, se introduziram na manada dos porcos; e eis que toda aquela manada de porcos se precipitou no mar por um despenhadeiro, e morreram nas águas.",
         "33": "E aqueles que os apascentavam fugiram e, indo à cidade, divulgaram todas estas coisas, e o que acontecera aos endemoninhados.",
         "34": "E eis que toda aquela cidade saiu ao encontro de Jesus e, vendo-o, rogaram-lhe que se retirasse dos seus termos."
     }

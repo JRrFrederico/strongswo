@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "A resposta vem do Senhor"
+    },
     "versiculos": {
-        "1": "A ti clamarei, ó Senhor, Rocha minha; não emudeças para comigo; não aconteça, calando-te tu para comigo, que eu fique semelhante aos que descem ao abismo.",
+        "1": "A TI clamarei, ó Senhor, Rocha minha; não emudeças para comigo; não aconteça, calando-te tu para comigo, que eu fique semelhante aos que descem ao abismo.",
         "2": "Ouve a voz das minhas súplicas, quando a ti clamar, quando levantar as minhas mãos para o teu santo oráculo.",
         "3": "Não me arrastes com os ímpios e com os que praticam a iniquidade; que falam de paz ao seu próximo, mas têm mal nos seus corações.",
         "4": "Dá-lhes segundo as suas obras e segundo a malícia dos seus esforços; dá-lhes conforme a obra das suas mãos; torna-lhes a sua recompensa.",

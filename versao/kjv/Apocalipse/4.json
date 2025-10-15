@@ -1,18 +1,20 @@
 {
     "livro": "Apocalipse",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "A visão da majestade de Deus"
+    },
     "versiculos": {
-        "1": "Depois disso eu olhei, e eis que uma porta estava aberta no céu; e a primeira voz que eu ouvi era como se fosse de uma trombeta falando comigo, que disse: Sobe aqui e te mostrarei as coisas que devem acontecer.",
-        "2": "E imediatamente eu estava no espírito; e eis que um trono estava posto no céu, e um assentado no trono.",
-        "3": "E aquele que estava assentado era semelhante na aparência à pedra de jaspe e de sardônica; e havia um arco-íris ao redor do trono, pelo que parecia uma esmeralda.",
-        "4": "E ao redor do trono havia vinte e quatro assentos, e sobre os assentos eu vi vinte e quatro anciãos assentados, vestidos de vestes brancas, e eles tinham sobre suas cabeças coroas de ouro.",
-        "5": "E do trono saíam relâmpagos e trovões e vozes; e havia sete lâmpadas de fogo queimando diante do trono, que são os sete Espíritos de Deus.",
-        "6": "E diante do trono havia um mar de vidro, semelhante ao cristal; e no meio do trono, e ao redor do trono, havia quatro animais cheios de olhos na frente e atrás.",
-        "7": "E o primeiro animal era semelhante a um leão, e o segundo animal semelhante a um bezerro, e o terceiro animal tinha uma face como de um homem, e o quarto animal era semelhante a uma águia voando.",
-        "8": "E os quatros animais tinham, cada um deles, seis asas ao redor; e eles estavam cheios de olhos por dentro; e eles não descansam nem de dia nem de noite, dizendo: Santo, Santo, Santo, Senhor Deus Todo-Poderoso, que era, que é, e que há de vir.",
-        "9": "E, quando os animais dão glória, e honra, e graças àquele que está assentado no trono, o que vive para sempre e sempre,",
-        "10": "os vinte e quatro anciãos caem prostrados diante daquele que está assentado no trono, e adoram àquele que vive para sempre e sempre, e lançam as suas coroas diante do trono, dizendo:",
-        "11": "Tu és digno, Ó Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e para o teu prazer elas existem e foram criadas."
+        "1": "Depois desses acontecimentos, observei uma porta no céu, e a primeira voz que eu ouvira, voz como de trombeta, falando comigo, chamoume: “Sobe até aqui, e Eu te revelarei os eventos que devem ocorrer depois destes”.",
+        "2": "Imediatamente, me vi absolutamente tomado pelo Espírito, e diante de mim estava um trono no céu e nele estava assentado alguém.",
+        "3": "Aquele, pois, que estava assentado tinha a fisionomia semelhante às pedras lapidadas de diamante e sardônio. Ao redor do trono, reluzia um arco-íris parecendo uma esmeralda.",
+        "4": "Também ao redor do trono havia vinte e quatro outros tronos; vi assentados sobre eles vinte e quatro anciãos, vestidos de branco e com coroas de ouro sobre a cabeça.",
+        "5": "Do trono emanavam relâmpagos, vozes e trovões. Perante Ele estavam acesas sete lâmpadas de fogo, que são os sete espíritos de Deus.",
+        "6": "E diante do trono, ainda, havia algo semelhante a um mar de vidro, translúcido como o cristal. No centro, circundando o trono, havia quatro seres viventes cobertos de olhos, tanto na frente como nas costas.",
+        "7": "O primeiro aparentava um leão, o segundo era semelhante a um touro, o terceiro tinha um semblante como o de homem, o quarto parecia uma águia em pleno vôo.",
+        "8": "Cada um desses seres tinha seis asas e eram repletos de olhos, tanto ao redor como por baixo das asas. Dia e noite proclamam sem cessar: “Santo, Santo, Santo é o Senhor Deus, o Todo-Poderoso, Aquele que era, que é e que há de vir!”",
+        "9": "Toda vez que os seres viventes exclamam glória, honra e graças Àquele que está assentado no trono e que vive para todo sempre,",
+        "10": "os vinte e quatro anciãos se prostram diante daquele que está assentado no trono e adoram Aquele que vive para todo o sempre. Eles lançam suas coroas diante do trono e declaram:",
+        "11": "“Nosso Senhor e nosso Deus, tu és digno de receber a glória, a honra e o poder, porquanto tu és o Criador de tudo e, por tua soberana vontade, tudo o que há, foi criado e veio a existir”."
     }
 }

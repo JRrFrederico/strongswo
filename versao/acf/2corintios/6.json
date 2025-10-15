@@ -1,9 +1,12 @@
 {
     "livro": "2 Coríntios",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "3": "As marcas do ministério",
+        "11": "Exortação a uma vida santa"
+    },
     "versiculos": {
-        "1": "E nós, cooperando também com ele, vos exortamos a que não recebais a graça de Deus em vão",
+        "1": "E NÓS, cooperando também com ele, vos exortamos a que não recebais a graça de Deus em vão",
         "2": "(Porque diz: Ouvi-te em tempo aceitável e socorri-te no dia da salvação; eis aqui agora o tempo aceitável, eis aqui agora o dia da salvação).",
         "3": "Não dando nós escândalo em coisa alguma, para que o nosso ministério não seja censurado;",
         "4": "Antes, como ministros de Deus, tornando-nos recomendáveis em tudo; na muita paciência, nas aflições, nas necessidades, nas angústias,",

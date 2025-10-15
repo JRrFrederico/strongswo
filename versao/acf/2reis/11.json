@@ -1,9 +1,14 @@
 {
     "livro": "2 Reis",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "O rei Joás foge da mãe de Acazias",
+        "4": "Joás ungido rei de Judá",
+        "13": "A morte de Atalia",
+        "17": "A aliança de Joiada"
+    },
     "versiculos": {
-        "1": "Vendo, pois, Atalia, mãe de Acazias, que seu filho era morto, levantou-se, e destruiu toda a descendência real.",
+        "1": "VENDO, pois, Atalia, mãe de Acazias, que seu filho era morto, levantou-se, e destruiu toda a descendência real.",
         "2": "Mas Jeoseba, filha do rei Jorão, irmã de Acazias, tomou a Joás, filho de Acazias, furtando-o dentre os filhos do rei, aos quais matavam, e o pôs, a ele e à sua ama na recâmara, e o escondeu de Atalia, e assim não o mataram.",
         "3": "E esteve com ela escondido na casa do Senhor seis anos; e Atalia reinava sobre o país.",
         "4": "E no sétimo ano enviou Joiada, e tomou os centuriões, com os capitães, e com os da guarda, e os colocou consigo na casa do Senhor; e fez com eles uma aliança e ajuramentou-os na casa do Senhor; e mostrou-lhes o filho do rei.",

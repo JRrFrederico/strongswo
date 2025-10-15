@@ -1,9 +1,13 @@
 {
     "livro": "Tiago",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Nossa guerra contra as paixões",
+        "11": "Não julgar ou falar mal dos irmãos",
+        "13": "Submeter nossos planos a Deus"
+    },
     "versiculos": {
-        "1": "De onde vêm as guerras e pelejas entre vós? Porventura não vêm disto, a saber, dos vossos deleites, que nos vossos membros guerreiam?",
+        "1": "DE onde vêm as guerras e pelejas entre vós? Porventura não vêm disto, a saber, dos vossos deleites, que nos vossos membros guerreiam?",
         "2": "Cobiçais, e nada tendes; matais, e sois invejosos, e nada podeis alcançar; combateis e guerreais, e nada tendes, porque não pedis.",
         "3": "Pedis, e não recebeis, porque pedis mal, para o gastardes em vossos deleites.",
         "4": "Adúlteros e adúlteras, não sabeis vós que a amizade do mundo é inimizade contra Deus? Portanto, qualquer que quiser ser amigo do mundo constitui-se inimigo de Deus.",

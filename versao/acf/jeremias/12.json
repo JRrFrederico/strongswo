@@ -1,9 +1,13 @@
 {
     "livro": "Jeremias",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "O dilema da felicidade dos maus",
+        "5": "A resposta de Deus, o Eterno",
+        "7": "Oráculo contra os adversários"
+    },
     "versiculos": {
-        "1": "Justo serias, ó Senhor, ainda que eu entrasse contigo num pleito; contudo falarei contigo dos teus juízos. Por que prospera o caminho dos ímpios, e vivem em paz todos os que procedem aleivosamente?",
+        "1": "JUSTO serias, ó Senhor, ainda que eu entrasse contigo num pleito; contudo falarei contigo dos teus juízos. Por que prospera o caminho dos ímpios, e vivem em paz todos os que procedem aleivosamente?",
         "2": "Plantaste-os, e eles se enraizaram; crescem, dão também fruto; chegado estás à sua boca, porém longe de suas entranhas.",
         "3": "Mas tu, ó Senhor, me conheces, tu me vês, e provas o meu coração para contigo; arranca-os como as ovelhas para o matadouro, e dedica-os para o dia da matança.",
         "4": "Até quando lamentará a terra, e se secará a erva de todo o campo? Pela maldade dos que habitam nela, perecem os animais e as aves; porquanto dizem: Ele não verá o nosso fim.",

@@ -1,9 +1,15 @@
 {
     "livro": "Filipenses",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "1": "Prefácio e saudações",
+        "3": "Ação de graças e súplicas",
+        "12": "O sofrer e o avanço do Evangelho",
+        "19": "A bênção de viver com Cristo",
+        "27": "A unidade dos crentes em Cristo"
+    },
     "versiculos": {
-        "1": "Paulo e Timóteo, servos de Jesus Cristo, a todos os santos em Cristo Jesus, que estão em Filipos, com os bispos e diáconos:",
+        "1": "PAULO e Timóteo, servos de Jesus Cristo, a todos os santos em Cristo Jesus, que estão em Filipos, com os bispos e diáconos:",
         "2": "Graça a vós, e paz da parte de Deus nosso Pai e da do Senhor Jesus Cristo.",
         "3": "Dou graças ao meu Deus todas as vezes que me lembro de vós,",
         "4": "Fazendo sempre com alegria oração por vós em todas as minhas súplicas,",

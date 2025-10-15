@@ -1,9 +1,12 @@
 {
     "livro": "Josué",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Josué lidera a travessia do Jordão",
+        "7": "Últimas instruções para a travessia"
+    },
     "versiculos": {
-        "1": "Levantou-se, pois, Josué de madrugada, e partiram de Sitim, ele e todos os filhos de Israel; e vieram até ao Jordão, e pousaram ali, antes que passassem.",
+        "1": "LEVANTOU-SE, pois, Josué de madrugada, e partiram de Sitim, ele e todos os filhos de Israel; e vieram até ao Jordão, e pousaram ali, antes que passassem.",
         "2": "E sucedeu, ao fim de três dias, que os oficiais passaram pelo meio do arraial;",
         "3": "E ordenaram ao povo, dizendo: Quando virdes a arca da aliança do Senhor vosso Deus, e que os sacerdotes levitas a levam, partireis vós também do vosso lugar, e a seguireis.",
         "4": "Haja contudo, entre vós e ela, uma distância de dois mil côvados; e não vos chegueis a ela, para que saibais o caminho pelo qual haveis de ir; porquanto por este caminho nunca passastes antes.",

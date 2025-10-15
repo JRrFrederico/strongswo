@@ -1,9 +1,12 @@
 {
     "livro": "Zacarias",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "Sexta visão: O livro que voava",
+        "5": "Sétima visão: A mulher e o cesto"
+    },
     "versiculos": {
-        "1": "E voltei-me e levantei os meus olhos, e olhei, e eis um rolo voante.",
+        "1": "E VOLTEI-ME e levantei os meus olhos, e olhei, e eis um rolo voante.",
         "2": "E disse-me o anjo: Que vês? E eu disse: Vejo um rolo voante, que tem vinte côvados de comprido e dez côvados de largo.",
         "3": "Então disse-me: Esta é a maldição que sairá pela face de toda a terra; porque qualquer que furtar será desarraigado, conforme está estabelecido de um lado do rolo; como também qualquer que jurar falsamente, será desarraigado, conforme está estabelecido do outro lado do rolo.",
         "4": "Eu a farei sair, disse o Senhor dos Exércitos, e ela entrará na casa do ladrão, e na casa do que jurar falsamente pelo meu nome; e permanecerá no meio da sua casa, e a consumirá juntamente com a sua madeira e com as suas pedras.",

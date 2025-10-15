@@ -1,9 +1,12 @@
 {
     "livro": "Filipenses",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Aceitar a Cristo é o maior ganho",
+        "12": "Correndo em direção ao alvo"
+    },
     "versiculos": {
-        "1": "Finalmente, irmãos meus, regozijai-vos no Senhor. Não me aborreço de escrever-vos as mesmas coisas, e é segurança para vós.",
+        "1": "FINALMENTE, irmãos meus, regozijai-vos no Senhor. Não me aborreço de escrever-vos as mesmas coisas, e é segurança para vós.",
         "2": "Guardai-vos dos cães, guardai-vos dos maus obreiros, guardai-vos da cortadura;",
         "3": "Porque a circuncisão somos nós, que servimos a Deus em espírito, e nos gloriamos em Jesus Cristo, e não confiamos na carne.",
         "4": "Ainda que também podia confiar na carne; se algum outro cuida que pode confiar na carne, ainda mais eu:",

@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 26,
-    "titulos": {},
+    "titulos": {
+        "1": "Atitudes do sábio e do insensato"
+    },
     "versiculos": {
-        "1": "Como a neve no verão, e como a chuva na sega, assim não fica bem para o tolo a honra.",
+        "1": "COMO a neve no verão, e como a chuva na sega, assim não fica bem para o tolo a honra.",
         "2": "Como ao pássaro o vaguear, como à andorinha o voar, assim a maldição sem causa não virá.",
         "3": "O açoite é para o cavalo, o freio é para o jumento, e a vara é para as costas dos tolos.",
         "4": "Não respondas ao tolo segundo a sua estultícia; para que também não te faças semelhante a ele.",

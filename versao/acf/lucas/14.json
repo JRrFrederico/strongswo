@@ -1,9 +1,14 @@
 {
     "livro": "Lucas",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "Jesus cura um hidrópico no sábado",
+        "7": "Os humildes serão exaltados",
+        "15": "A parábola do grande banquete",
+        "25": "O custo de ser discípulo de Cristo"
+    },
     "versiculos": {
-        "1": "Aconteceu num sábado que, entrando ele em casa de um dos principais dos fariseus para comer pão, eles o estavam observando.",
+        "1": "ACONTECEU num sábado que, entrando ele em casa de um dos principais dos fariseus para comer pão, eles o estavam observando.",
         "2": "E eis que estava ali diante dele um certo homem hidrópico.",
         "3": "E Jesus, respondendo, falou aos doutores da lei, e aos fariseus, dizendo: É lícito curar no sábado?",
         "4": "Eles, porém, calaram-se. E, tomando-o, o curou e despediu.",

@@ -1,9 +1,14 @@
 {
     "livro": "Josué",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "A violação do Hérem, Anátema",
+        "6": "A súplica de Josué ao SENHOR",
+        "10": "Deus responde a oração de Josué",
+        "16": "Descoberta e castigo do culpado"
+    },
     "versiculos": {
-        "1": "E transgrediram os filhos de Israel no anátema; porque Acã filho de Carmi, filho de Zabdi, filho de Zerá, da tribo de Judá, tomou do anátema, e a ira do Senhor se acendeu contra os filhos de Israel.",
+        "1": "E TRANSGREDIRAM os filhos de Israel no anátema; porque Acã filho de Carmi, filho de Zabdi, filho de Zerá, da tribo de Judá, tomou do anátema, e a ira do Senhor se acendeu contra os filhos de Israel.",
         "2": "Enviando, pois, Josué, de Jericó, alguns homens a Ai, que está junto a Bete-Áven do lado do oriente de Betel, falou-lhes dizendo: Subi, e espiai a terra. Subiram, pois, aqueles homens, e espiaram a Ai.",
         "3": "E voltaram a Josué, e disseram-lhe: Não suba todo o povo; subam uns dois mil, ou três mil homens, a ferir a Ai; não fatigueis ali a todo o povo, porque poucos são.",
         "4": "Assim, subiram lá, do povo, uns três mil homens, os quais fugiram diante dos homens de Ai.",

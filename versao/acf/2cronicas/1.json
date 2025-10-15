@@ -1,9 +1,11 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 1,
-    "titulos": {},
+    "titulos": {
+        "14": "Salomão acumula riquezas"
+    },
     "versiculos": {
-        "1": "Salomão, filho de Davi, fortaleceu-se no seu reino; e o Senhor seu Deus era com ele, e o engrandeceu sobremaneira.",
+        "1": "SALOMÃO, filho de Davi, fortaleceu-se no seu reino; e o Senhor seu Deus era com ele, e o engrandeceu sobremaneira.",
         "2": "E falou Salomão a todo o Israel, aos capitães de mil e de cem, aos juízes e a todos os governadores em todo o Israel, chefes das famílias.",
         "3": "E foi Salomão, e toda a congregação com ele, ao alto que estava em Gibeom, porque ali estava a tenda da congregação de Deus, que Moisés, servo do Senhor, tinha feito no deserto.",
         "4": "Mas Davi tinha feito subir a arca de Deus de Quiriate-Jearim ao lugar que lhe preparara; porque lhe tinha armado uma tenda em Jerusalém.",

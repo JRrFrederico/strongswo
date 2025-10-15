@@ -1,9 +1,12 @@
 {
     "livro": "Juízes",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "A história de Sansão",
+        "8": "O Anjo surge de novo"
+    },
     "versiculos": {
-        "1": "E os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor, e o Senhor os entregou na mão dos filisteus por quarenta anos.",
+        "1": "E OS filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor, e o Senhor os entregou na mão dos filisteus por quarenta anos.",
         "2": "E havia um homem de Zorá, da tribo de Dã, cujo nome era Manoá; e sua mulher, sendo estéril, não tinha filhos.",
         "3": "E o anjo do Senhor apareceu a esta mulher, e disse-lhe: Eis que agora és estéril, e nunca tens concebido; porém conceberás, e terás um filho.",
         "4": "Agora, pois, guarda-te de beber vinho, ou bebida forte, ou comer coisa imunda.",

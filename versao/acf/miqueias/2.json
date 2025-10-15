@@ -1,9 +1,13 @@
 {
-    "livro": "Miquéias",
+    "livro": "Miqueias",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "Infelizes os avarentos e opressores",
+        "6": "Advertência aos falsos profetas",
+        "12": "Promessa de salvação e livramento"
+    },
     "versiculos": {
-        "1": "Ai daqueles que nas suas camas intentam a iniquidade, e maquinam o mal; à luz da alva o praticam, porque está no poder da sua mão!",
+        "1": "AI daqueles que nas suas camas intentam a iniquidade, e maquinam o mal; à luz da alva o praticam, porque está no poder da sua mão!",
         "2": "E cobiçam campos, e roubam-nos, cobiçam casas, e arrebatam-nas; assim fazem violência a um homem e à sua casa, a uma pessoa e à sua herança.",
         "3": "Portanto, assim diz o Senhor: Eis que projeto um mal contra esta família, do qual não tirareis os vossos pescoços, e não andareis tão altivos, porque o tempo será mau.",
         "4": "Naquele dia se levantará sobre vós um provérbio, e se lamentará pranto lastimoso, dizendo: Nós estamos inteiramente desolados; a porção do meu povo ele a troca; como me despoja! Tira os nossos campos e os reparte!",

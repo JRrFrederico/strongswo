@@ -1,9 +1,12 @@
 {
     "livro": "Romanos",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "Convicção e tolerância cristãs",
+        "13": "Motivo de louvor, não de tropeço"
+    },
     "versiculos": {
-        "1": "Ora, quanto ao que está enfermo na fé, recebei-o, não em contendas sobre dúvidas.",
+        "1": "ORA, quanto ao que está enfermo na fé, recebei-o, não em contendas sobre dúvidas.",
         "2": "Porque um crê que de tudo se pode comer, e outro, que é fraco, come legumes.",
         "3": "O que come não despreze o que não come; e o que não come, não julgue o que come; porque Deus o recebeu por seu.",
         "4": "Quem és tu, que julgas o servo alheio? Para seu próprio senhor ele está em pé ou cai. Mas estará firme, porque poderoso é Deus para o firmar.",

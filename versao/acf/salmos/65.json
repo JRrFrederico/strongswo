@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 65,
-    "titulos": {},
+    "titulos": {
+        "1": "Ações de graças pelas bênçãos"
+    },
     "versiculos": {
-        "1": "A ti, ó Deus, espera o louvor em Sião, e a ti se pagará o voto.",
+        "1": "A TI, ó Deus, espera o louvor em Sião, e a ti se pagará o voto.",
         "2": "Ó tu que ouves as orações, a ti virá toda a carne.",
         "3": "Prevalecem as iniquidades contra mim; porém tu limpas as nossas transgressões.",
         "4": "Bem-aventurado aquele a quem tu escolhes, e fazes chegar a ti, para que habite em teus átrios; nós seremos fartos da bondade da tua casa e do teu santo templo.",

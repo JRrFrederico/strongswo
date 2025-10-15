@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "As bênçãos sobre os obedientes",
+        "15": "As maldições da desobediência",
+        "45": "Fim do segundo discurso de Moisés"
+    },
     "versiculos": {
-        "1": "E será que, se ouvires a voz do Senhor teu Deus, tendo cuidado de guardar todos os seus mandamentos que eu hoje te ordeno, o Senhor teu Deus te exaltará sobre todas as nações da terra.",
+        "1": "E SERÁ que, se ouvires a voz do Senhor teu Deus, tendo cuidado de guardar todos os seus mandamentos que eu hoje te ordeno, o Senhor teu Deus te exaltará sobre todas as nações da terra.",
         "2": "E todas estas bênçãos virão sobre ti e te alcançarão, quando ouvires a voz do Senhor teu Deus:",
         "3": "Bendito serás na cidade, e bendito serás no campo.",
         "4": "Bendito o fruto do teu ventre, e o fruto da tua terra, e o fruto dos teus animais; e as crias das tuas vacas e das tuas ovelhas.",

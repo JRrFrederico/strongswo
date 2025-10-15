@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó desabafa e questiona a Deus"
+    },
     "versiculos": {
-        "1": "Porventura não tem o homem guerra sobre a terra? E não são os seus dias como os dias do assalariado?",
+        "1": "PORVENTURA não tem o homem guerra sobre a terra? E não são os seus dias como os dias do assalariado?",
         "2": "Como o servo que suspira pela sombra, e como o assalariado que espera pela sua paga,",
         "3": "Assim me deram por herança meses de vaidade; e noites de trabalho me prepararam.",
         "4": "Deitando-me a dormir, então digo: Quando me levantarei? Mas comprida é a noite, e farto-me de me revolver na cama até à alva.",

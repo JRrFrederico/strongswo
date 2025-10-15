@@ -1,9 +1,17 @@
 {
     "livro": "Levítico",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "A lei da oferta para tirar a culpa",
+        "7": "Os direitos dos sacerdotes",
+        "11": "As ofertas de paz e comunhão",
+        "16": "Os sacrifícios votivos ou voluntários",
+        "22": "Não comer gordura nem sangue",
+        "28": "A porção dos sacerdotes",
+        "35": "Conclusão"
+    },
     "versiculos": {
-        "1": "E esta é a lei da expiação da culpa; coisa santíssima é.",
+        "1": "E ESTA é a lei da expiação da culpa; coisa santíssima é.",
         "2": "No lugar onde degolam o holocausto, degolarão a oferta pela expiação da culpa, e o seu sangue se aspergirá sobre o altar em redor.",
         "3": "E dela se oferecerá toda a sua gordura; a cauda, e a gordura que cobre a fressura.",
         "4": "Também ambos os rins, e a gordura que neles há, que está junto aos lombos, e o redenho sobre o fígado, com os rins se tirará;",

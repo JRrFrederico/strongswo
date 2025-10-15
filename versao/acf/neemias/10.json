@@ -1,9 +1,11 @@
 {
     "livro": "Neemias",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "O pacto do povo em guardar a Torá"
+    },
     "versiculos": {
-        "1": "E os que selaram foram: Neemias, o governador, filho de Hacalias, e Zedequias,",
+        "1": "E OS que selaram foram:",
         "2": "Seraías, Azarias, Jeremias,",
         "3": "Pasur, Amarias, Malquias,",
         "4": "Hatus, Sebanias, Maluque,",

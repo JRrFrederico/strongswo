@@ -1,9 +1,13 @@
 {
     "livro": "Números",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "Miriã e Arão censuram Moisés",
+        "4": "A resposta do SENHOR",
+        "11": "Arão pede que Moisés ore a Deus"
+    },
     "versiculos": {
-        "1": "E falaram Miriã e Arão contra Moisés, por causa da mulher cusita, com quem casara; porquanto tinha casado com uma mulher cusita.",
+        "1": "E FALARAM Miriã e Arão contra Moisés, por causa da mulher cusita, com quem casara; porquanto tinha casado com uma mulher cusita.",
         "2": "E disseram: Porventura falou o Senhor somente por Moisés? Não falou também por nós? E o Senhor o ouviu.",
         "3": "E era o homem Moisés mui manso, mais do que todos os homens que havia sobre a terra.",
         "4": "E logo o Senhor disse a Moisés, a Arão e a Miriã: Vós três saí à tenda da congregação. E saíram eles três.",

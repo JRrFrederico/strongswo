@@ -1,9 +1,12 @@
 {
     "livro": "Gênesis",
     "capitulo": 44,
-    "titulos": {},
+    "titulos": {
+        "1": "A taça de José, com Benjamim",
+        "18": "Judá roga a favor de Benjamim"
+    },
     "versiculos": {
-        "1": "E deu ordem ao que estava sobre a sua casa, dizendo: Enche de mantimento os sacos destes homens, quanto puderem levar, e põe o dinheiro de cada um na boca do seu saco.",
+        "1": "E DEU ordem ao que estava sobre a sua casa, dizendo: Enche de mantimento os sacos destes homens, quanto puderem levar, e põe o dinheiro de cada um na boca do seu saco.",
         "2": "E o meu copo, o copo de prata, porás na boca do saco do mais novo, com o dinheiro do seu trigo. E fez conforme a palavra que José tinha dito.",
         "3": "Vinda a luz da manhã, despediram-se estes homens, eles com os seus jumentos.",
         "4": "Saindo eles da cidade, e não se havendo ainda distanciado, disse José ao que estava sobre a sua casa: Levanta-te, e persegue aqueles homens; e, alcançando-os, lhes dirás: Por que pagastes mal por bem?",

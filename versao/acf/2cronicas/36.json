@@ -1,9 +1,16 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 36,
-    "titulos": {},
+    "titulos": {
+        "1": "O rápido reinado de Jeoacaz",
+        "5": "O reinado de Jeoaquim",
+        "9": "O reinado de Joaquim, rei de Judá",
+        "10": "O reinado de Zedequias em Judá",
+        "15": "A queda de Jerusalém",
+        "22": "Ciro decreta a liberdade de Israel"
+    },
     "versiculos": {
-        "1": "Então o povo da terra tomou a Jeoacaz, filho de Josias, e o fez rei em lugar de seu pai, em Jerusalém.",
+        "1": "ENTÃO o povo da terra tomou a Jeoacaz, filho de Josias, e o fez rei em lugar de seu pai, em Jerusalém.",
         "2": "Tinha Jeoacaz a idade de vinte e três anos, quando começou a reinar; e três meses reinou em Jerusalém,",
         "3": "Porque o rei do Egito o depôs em Jerusalém, e condenou a terra à contribuição de cem talentos de prata e um talento de ouro.",
         "4": "E o rei do Egito pôs a Eliaquim, irmão de Jeoacaz, rei sobre Judá e Jerusalém, e mudou-lhe o nome em Jeoiaquim; mas a seu irmão Jeoacaz tomou Neco, e levou-o para o Egito.",

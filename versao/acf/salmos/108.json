@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 108,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus dá vitória a seus filhos"
+    },
     "versiculos": {
-        "1": "Preparado está o meu coração, ó Deus; cantarei e darei louvores até com a minha glória.",
+        "1": "PREPARADO está o meu coração, ó Deus; cantarei e darei louvores até com a minha glória.",
         "2": "Despertai, saltério e harpa; eu mesmo despertarei ao romper da alva.",
         "3": "Louvar-te-ei entre os povos, Senhor, e a ti cantarei louvores entre as nações.",
         "4": "Porque a tua benignidade se estende até aos céus, e a tua verdade chega até às mais altas nuvens.",

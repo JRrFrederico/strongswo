@@ -1,9 +1,15 @@
 {
     "livro": "Números",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "O povo reclama outra vez",
+        "10": "Ira de Deus e intercessão de Moisés",
+        "20": "O perdão e a punição de Deus",
+        "26": "O castigo aplicado ao povo",
+        "39": "Tentativa mal sucedida do povo"
+    },
     "versiculos": {
-        "1": "Então toda a congregação levantou a sua voz; e o povo chorou naquela noite.",
+        "1": "ENTÃO toda a congregação levantou a sua voz; e o povo chorou naquela noite.",
         "2": "E todos os filhos de Israel murmuraram contra Moisés e contra Arão; e toda a congregação lhes disse: Quem dera tivéssemos morrido na terra do Egito! Ou quem dera tivéssemos morrido neste deserto!",
         "3": "E por que o Senhor nos traz a esta terra, para cairmos à espada, e para que nossas mulheres e nossas crianças sejam por presa? Não nos seria melhor voltarmos ao Egito?",
         "4": "E diziam uns aos outros: Constituamos um líder, e voltemos ao Egito.",

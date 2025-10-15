@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 38,
-    "titulos": {},
+    "titulos": {
+        "1": "Oração do pecador arrependido"
+    },
     "versiculos": {
         "1": "Ó Senhor, não me repreendas na tua ira, nem me castigues no teu furor.",
         "2": "Porque as tuas flechas se cravaram em mim, e a tua mão sobre mim desceu.",

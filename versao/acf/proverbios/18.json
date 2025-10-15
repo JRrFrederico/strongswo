@@ -1,9 +1,11 @@
 {
     "livro": "Provérbios",
     "capitulo": 18,
-    "titulos": {},
+    "titulos": {
+        "1": "Sabedoria para ouvir e ao falar"
+    },
     "versiculos": {
-        "1": "Busca satisfazer seu próprio desejo aquele que se isola; ele se insurge contra toda sabedoria.",
+        "1": "BUSCA satisfazer seu próprio desejo aquele que se isola; ele se insurge contra toda sabedoria.",
         "2": "O tolo não tem prazer na sabedoria, mas só em que se manifeste aquilo que agrada o seu coração.",
         "3": "Vindo o ímpio, vem também o desprezo, e com a ignomínia a vergonha.",
         "4": "Águas profundas são as palavras da boca do homem, e ribeiro transbordante é a fonte da sabedoria.",

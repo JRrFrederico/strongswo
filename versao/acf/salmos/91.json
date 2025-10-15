@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 91,
-    "titulos": {},
+    "titulos": {
+        "1": "Sob a eterna proteção de Deus"
+    },
     "versiculos": {
-        "1": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.",
+        "1": "AQUELE que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.",
         "2": "Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei.",
         "3": "Porque ele te livrará do laço do passarinheiro, e da peste perniciosa.",
         "4": "Ele te cobrirá com as suas penas, e debaixo das suas asas te confiarás; a sua verdade será o teu escudo e broquel.",

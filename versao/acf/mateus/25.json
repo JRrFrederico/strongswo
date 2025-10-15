@@ -1,9 +1,13 @@
 {
     "livro": "Mateus",
     "capitulo": 25,
-    "titulos": {},
+    "titulos": {
+        "1": "As virgens sábias e as tolas",
+        "14": "O investimento dos talentos",
+        "31": "O juízo final"
+    },
     "versiculos": {
-        "1": "Então o reino dos céus será semelhante a dez virgens que, tomando as suas lâmpadas, saíram ao encontro do esposo.",
+        "1": "ENTÃO o reino dos céus será semelhante a dez virgens que, tomando as suas lâmpadas, saíram ao encontro do esposo.",
         "2": "E cinco delas eram prudentes, e cinco loucas.",
         "3": "As loucas, tomando as suas lâmpadas, não levaram azeite consigo.",
         "4": "Mas as prudentes levaram azeite em suas vasilhas, com as suas lâmpadas.",

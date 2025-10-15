@@ -1,18 +1,20 @@
 {
     "livro": "Salmos",
     "capitulo": 32,
-    "titulos": {},
+    "titulos": {
+        "1": "O perdão que restaura"
+    },
     "versiculos": {
-        "1": "Salmo de Davi, Masquil. Abençoado é aquele cuja transgressão é perdoada, cujo pecado é coberto.",
-        "2": "Abençoado é o homem a quem o SENHOR não imputa a iniquidade, e em cujo espírito não há malícia.",
-        "3": "Quando eu mantive o silêncio, meus ossos envelheceram por meio do meu bramido por todo o dia.",
-        "4": "Pois dia e noite tua mão foi pesada sobre mim; meu orvalho é transformado em seca de verão. Selá.",
-        "5": "Eu reconheço o meu pecado diante de ti, e a minha iniquidade eu não escondi. Eu disse: Confessarei ao SENHOR as minhas transgressões; e tu perdoaste a iniquidade do meu pecado. Selá.",
-        "6": "Pois todo aquele que é piedoso orará a ti no tempo em que fores encontrado; certamente nas inundações de grandes águas não chegarão a ele.",
-        "7": "Tu és o meu esconderijo; tu me preservarás da dificuldade; tu me cercarás com canções de libertação. Selá.",
-        "8": "Eu te instruirei e te ensinarei no caminho em que irás; eu te guiarei com o meu olho.",
-        "9": "Não sejais como o cavalo, ou como a mula, que não têm entendimento; cuja boca precisa ser contida com freio e rédea para que não cheguem perto de ti.",
-        "10": "Haverá muita tristeza para o perverso, mas aquele que confia no SENHOR, a misericórdia o cercará.",
-        "11": "Estai alegres no SENHOR, e regozijai, vós justos; e gritai de alegria, todos vós que sois retos de coração."
+        "1": "Bem-aventurado aquele que tem suas transgressões perdoadas e seus pecados apagados!",
+        "2": "Como é feliz aquele a quem o S ENHOR não considera iníquo e em cuja alma não há hipocrisia!",
+        "3": "Enquanto mantive meus pecados inconfessos, meus ossos se definhavam e minha alma se agitava em angústia.",
+        "4": "Pois dia e noite a tua mão pesava sobre mim e minhas forças se desvaneceram como a seiva em tempo de seca.",
+        "5": "Confessei-te o meu pecado, reconhecendo minha iniquidade, e não encobri as minhas culpas. Então declarei: Confessarei minhas transgressões para o S ENHOR , e tu perdoaste a culpa dos meus pecados.",
+        "6": "Dessa maneira, todos os que têm fé orem a ti, enquanto podes ser encontrado; quando as muitas águas se levantarem, elas não os alcançarão.",
+        "7": "Tu és o meu abrigo seguro; tu me livras das aflições e com cânticos de salvação me envolves.",
+        "8": "Diz o S ENHOR : Instruir-te-ei e te guiarei no caminho a seguir; os meus olhos estarão sobre ti para aconselhar-te.",
+        "9": "Não sejais como o cavalo ou a mula, que não possuem compreensão, mas precisam ser controlados com o uso de freios e rédeas, caso contrário não poderiam obedecer.",
+        "10": "Muitos são os sofrimentos do ímpio, mas a bondade do S ENHOR protegerá quem nele confia.",
+        "11": "Alegrai-vos no S ENHOR , ó justos, e cantai bem alto, vós todos que sois retos de coração!"
     }
 }

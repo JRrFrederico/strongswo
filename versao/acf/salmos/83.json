@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 83,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus peleja contra seus inimigos"
+    },
     "versiculos": {
-        "1": "Ó Deus, não estejas em silêncio; não te cales, nem te aquietes, ó Deus,",
+        "1": "Ó DEUS, não estejas em silêncio; não te cales, nem te aquietes, ó Deus,",
         "2": "Porque eis que teus inimigos fazem tumulto, e os que te odeiam levantaram a cabeça.",
         "3": "Tomaram astuto conselho contra o teu povo, e consultaram contra os teus escondidos.",
         "4": "Disseram: Vinde, e desarraiguemo-los para que não sejam nação, nem haja mais memória do nome de Israel.",

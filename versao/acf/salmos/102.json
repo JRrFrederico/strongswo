@@ -1,7 +1,9 @@
 {
     "livro": "Salmos",
     "capitulo": 102,
-    "titulos": {},
+    "titulos": {
+        "1": "Arrependimento e esperança"
+    },
     "versiculos": {
         "1": "Senhor, ouve a minha oração, e chegue a ti o meu clamor.",
         "2": "Não escondas de mim o teu rosto no dia da minha angústia, inclina para mim os teus ouvidos; no dia em que eu clamar, ouve-me depressa.",

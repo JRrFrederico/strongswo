@@ -1,9 +1,13 @@
 {
     "livro": "Esdras",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "A oposição dos samaritanos",
+        "6": "Os reinados de Xerxes e Artaxerxes",
+        "17": "O rei embarga a obra no templo"
+    },
     "versiculos": {
-        "1": "Ouvindo, pois, os adversários de Judá e Benjamim que os que voltaram do cativeiro edificavam o templo ao Senhor Deus de Israel,",
+        "1": "OUVINDO, pois, os adversários de Judá e Benjamim que os que voltaram do cativeiro edificavam o templo ao Senhor Deus de Israel,",
         "2": "Chegaram-se a Zorobabel e aos chefes dos pais, e disseram-lhes: Deixai-nos edificar convosco, porque, como vós, buscaremos a vosso Deus; como também já lhe sacrificamos desde os dias de Esar-Hadom, rei da Assíria, que nos fez subir aqui.",
         "3": "Porém Zorobabel, e Jesuá, e os outros chefes dos pais de Israel lhes disseram: Não convém que nós e vós edifiquemos casa a nosso Deus; mas nós sozinhos a edificaremos ao Senhor Deus de Israel, como nos ordenou o rei Ciro, rei da Pérsia.",
         "4": "Todavia o povo da terra debilitava as mãos do povo de Judá, e inquietava-os no edificar.",

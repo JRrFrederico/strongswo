@@ -1,21 +1,24 @@
 {
     "livro": "Jeremias",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus nega o pedido de Zedequias",
+        "11": "Judá é advertida a deixar o mal"
+    },
     "versiculos": {
-        "1": "Palavra que veio para Jeremias da parte do SENHOR, quando o rei Zedequias lhe enviou a Pasur, o filho de Malquias, e Sofonias, o filho de Maaseias, o sacerdote, dizendo:",
-        "2": "Indague, eu te rogo, ao SENHOR por nós, pois Nabucodonosor, rei de Babilônia, faz guerra contra nós; para que o SENHOR opere conosco conforme todas as suas obras maravilhosas, e o faça retirar-se de nós.",
-        "3": "Então disse-lhes Jeremias: Desta forma direis a Zedequias.",
-        "4": "Assim diz o SENHOR Deus de Israel: Eis que eu farei retroceder as armas de guerra que estão em vossas mãos, com as quais vós lutais contra o rei de Babilônia, e contra os caldeus, que vos sitiam do lado de fora dos muros, e eu os reunirei no meio desta cidade.",
-        "5": "E eu lutarei contra vós com mão estendida, e com braço forte, e em ira, e em fúria, e em grande cólera.",
-        "6": "E eu afligirei os habitantes desta cidade, tanto o homem quanto o animal. Eles morrerão por causa de uma grande peste.",
-        "7": "E após isso, diz o SENHOR, eu entregarei Zedequias, rei de Judá, e os seus servos, e o povo, e os que nesta cidade restarem da peste, da espada, e da fome, na mão de Nabucodonosor, rei de Babilônia, e na mão de seus inimigos, e na mão daqueles que buscam suas vidas. E ele os atingirá com a lâmina da espada. Ele não os poupará, nem terá piedade, nem terá misericórdia.",
-        "8": "E para este povo tu dirás: Assim diz o SENHOR: Eis que eu coloco perante vós o caminho de vida, e o caminho de morte.",
-        "9": "Aquele que permanecer nesta cidade morrerá pela espada, e pela fome, e pela peste. Porém aquele que sair e for para os caldeus que vos sitiam, viverá, e sua vida será para ele como um despojo.",
-        "10": "Porque eu coloquei a minha face contra esta cidade para o mal, e não para o bem, diz o SENHOR. Ela será dada na mão do rei de Babilônia, e ele a queimará a fogo.",
-        "11": "E com relação à casa do rei de Judá, dize: Ouvi vós a palavra do SENHOR.",
-        "12": "Ó casa de Davi, assim diz o SENHOR: Executai juízo na manhã, e livrai aquele que é espoliado da mão do opressor, para que a minha fúria não saia como fogo, e queime de tal modo que ninguém possa apagá-lo, por causa do mal de vossos feitos.",
-        "13": "Eis que eu sou contra ti, diz o SENHOR, ó habitante do vale, e rocha da planície, que dizeis: Quem irá descer contra nós? Ou quem irá adentrar nossas habitações?",
-        "14": "Porém, eu vos punirei conforme o fruto de vossos feitos, diz o SENHOR, e atearei um fogo na sua floresta, e ele devorará todas as coisas em todas as direções ao seu redor."
+        "1": "Esta é a Palavra que veio a Jeremias da parte de Yahweh , quando o rei Zedequias mandou-lhe Pasur, filho de Malquias, e o sacerdote Sofonias, filho de Maaseias. Eles disseram:",
+        "2": "“Consulta, pois, neste momento a Yahweh por nós, porque Nabucodonosor, rei da Babilônia está nos atacando; talvez o S ENHOR repita em nosso favor todos os seus milagres, a fim de que ele se afaste de nós!”",
+        "3": "Jeremias, porém, respondeu-lhes: “Eis o que deveis comunicar a Zedequias:",
+        "4": "Assim diz Yahweh , o Deus de Israel: ‘Estou muito próximo de ordenar que se voltem contra vós todas as armas de guerra que estão em suas próprias mãos, as quais estais usando para lutar contra o rei da Babilônia e os caldeus, esse povo babilônico que vos cercou do lado de fora do muro. E Eu os reunirei dentro desta cidade,",
+        "5": "Eu, pessoalmente, pelejarei contra vós com mão poderosa e braço forte, com ira, furor e violenta indignação.",
+        "6": "Matarei os habitantes desta cidade, tanto homens quanto animais; eles morrerão de uma doença horrível.",
+        "7": "Logo em seguida’, afirma o S ENHOR , ‘entregarei Zedequias, rei de Judá, seus sábios e o povo desta cidade que sobreviver à peste, à espada e à fome, nas mãos de Nabucodonosor, rei da Babilônia, nas mãos dos inimigos deles e daqueles que planejam tirar-lhes a vida. Ele os matará ao fio da espada sem qualquer compaixão nem misericórdia; não terá deles a menor piedade!’",
+        "8": "Dizei, portanto, a este povo: Assim fala Yahweh : ‘Eis que agora disponho diante de ti o Caminho da vida e o caminho da morte!",
+        "9": "Todo aquele que permanecer nesta cidade perecerá por meio da espada inimiga, pela fome ou pela doença epidêmica; entretanto, quem abandonar a cidade e se render aos caldeus que vos cercam, viverá e terá a sua própria vida por recompensa.",
+        "10": "Assim, eis que determinei fazer o mal e não o bem a esta cidade’, assevera Yahweh . ‘Ela será entregue nas mãos do rei da Babilônia e ele a incendiará!’",
+        "11": "Também dirás à Casa do rei de Judá: Prestai atenção à Palavra do S ENHOR :",
+        "12": "Ó casa e dinastia de Davi, assim ordena Yahweh : ‘Executai justiça pela manhã e livrai o oprimido da mão do opressor, para que o meu furor não saia como fogo e se acenda, sem que ninguém o apague, por causa da maldade de vossas atitudes.",
+        "13": "Eu estou contra ti, que estás entronizada sobre o vale, no planalto rochoso’, afirma Yahweh . ‘Contra vós, que exclamais: “Quem poderá nos atacar? Quem adentrará nas nossas moradas?”",
+        "14": "Eu vos castigarei de acordo com as suas obras!’ - garante Yahweh . ‘Eu atearei fogo em sua floresta e ele devorará todos os seus arredores!’"
     }
 }

@@ -1,9 +1,12 @@
 {
     "livro": "Jeremias",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "A apostasia de Israel",
+        "20": "Israel prestou culto a Baal"
+    },
     "versiculos": {
-        "1": "E veio a mim a palavra do Senhor, dizendo:",
+        "1": "E VEIO a mim a palavra do Senhor, dizendo:",
         "2": "Vai, e clama aos ouvidos de Jerusalém, dizendo: Assim diz o Senhor: Lembro-me de ti, da piedade da tua mocidade, e do amor do teu noivado, quando me seguias no deserto, numa terra que não se semeava.",
         "3": "Então Israel era santidade para o Senhor, e as primícias da sua novidade; todos os que o devoravam eram tidos por culpados; o mal vinha sobre eles, diz o Senhor.",
         "4": "Ouvi a palavra do Senhor, ó casa de Jacó, e todas as famílias da casa de Israel;",

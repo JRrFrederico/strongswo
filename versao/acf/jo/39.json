@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 39,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus continua revelando-se a Jó"
+    },
     "versiculos": {
-        "1": "Sabes tu o tempo em que as cabras montesas têm filhos, ou observastes as cervas quando dão suas crias?",
+        "1": "SABES tu o tempo em que as cabras montesas têm filhos, ou observastes as cervas quando dão suas crias?",
         "2": "Contarás os meses que cumprem, ou sabes o tempo do seu parto?",
         "3": "Quando se encurvam, produzem seus filhos, e lançam de si as suas dores.",
         "4": "Seus filhos enrijam, crescem com o trigo; saem, e nunca mais tornam para elas.",

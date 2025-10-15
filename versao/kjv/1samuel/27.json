@@ -1,19 +1,21 @@
 {
     "livro": "1 Samuel",
     "capitulo": 27,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi abrigado pelos filisteus"
+    },
     "versiculos": {
-        "1": "E Davi disse no seu coração: Agora, hei de perecer, um dia, pela mão de Saul; não há nada melhor para mim do que fugir rapidamente para a terra dos filisteus; e Saul perderá a sua esperança sobre mim, de continuar a me buscar em todos os termos de Israel; assim escaparei da sua mão.",
-        "2": "E Davi se levantou, e ele atravessou com os seiscentos homens que estavam com ele para Aquis, o filho de Maoque, rei de Gate.",
-        "3": "E Davi habitou com Aquis em Gate, ele e os seus homens, cada homem com a sua família; Davi com as suas duas esposas: Ainoã, a jezreelita; e Abigail, a carmelita, esposa de Nabal.",
-        "4": "E Saul foi informado que Davi havia fugido para Gate; e não o buscou novamente.",
-        "5": "E Davi disse a Aquis: Se agora encontrei graça em teus olhos, permite que me deem um lugar em alguma cidade do país, para que eu possa lá habitar; pois por que o teu servo deveria habitar contigo na cidade real?",
-        "6": "Então Aquis lhe deu Ziclague naquele dia; pelo que Ziclague pertence aos reis de Judá até este dia.",
-        "7": "E o tempo em que Davi habitou na região dos filisteus foi de um ano completo e quatro meses.",
-        "8": "E Davi e os seus homens subiram, e invadiram os gesuritas, e os gersitas, e os amalequitas; pois estas nações eram há muito tempo os habitantes da terra, como quem vai para Sur até a terra do Egito.",
-        "9": "E Davi feriu a terra, e não deixou nem homem nem mulher vivos, e tomou as ovelhas, e os bois, e os jumentos, e os camelos, e a indumentária, e retornou, e veio para Aquis.",
-        "10": "E Aquis disse: Para onde fizeste uma estrada hoje? E Davi disse: Contra o sul de Judá, e contra o sul dos jerameelitas, e contra o sul dos queneus.",
-        "11": "E Davi não deixou nem homem, nem mulher vivos, para trazer notícias a Gate, dizendo: Para que não nos denunciem, dizendo: Assim fez Davi, e assim será o seu procedimento durante todo o tempo em que habitar na região dos filisteus.",
-        "12": "E Aquis acreditou em Davi, dizendo: Ele fez com que o seu povo, Israel, o abominasse por completo; portanto será meu servo para sempre."
+        "1": "Depois considerou Davi em seu coração: “Qualquer dia desses Saul vai conseguir me matar. O melhor a fazer é fugir para a terra dos filisteus. Somente assim Saul desistirá de me perseguir em todo o território de Israel, e assim estarei livre de suas mãos!”",
+        "2": "Então Davi se levantou e se pôs a caminho com seus seiscentos homens, e foi ter com Ahish ben Maoh , Áquis, filho de Maoque, rei de Gate.",
+        "3": "Davi e seus soldados se estabeleceram em Gate, acolhidos por Áquis. Cada homem levou sua família, e Davi, suas duas esposas: Ainoã, de Jezreel, e Abigail, que fora mulher de Nabal, de Carmelo.",
+        "4": "Quando contaram a Saul que Davi havia fugido para Gate, ele, de fato, parou de perseguir a Davi.",
+        "5": "Então Davi propôs a Áquis: “Rogo-te, se encontro graça aos teus olhos, seja-me concedido um lugar numa das cidades dos arredores, onde possa estabelecer moradia. Por que continuaria o teu servo morando contigo e em tua cidade real?”",
+        "6": "No mesmo dia, Áquis lhe ofereceu Ziclague. É por esse motivo que a cidade de Ziclague pertence aos reis de Judá até os dias de hoje.",
+        "7": "O tempo em que Davi permaneceu nas terras dos filisteus foi um ano e quatro meses.",
+        "8": "Davi e os seus homens faziam incursões contra os gersitas e os amalequitas, povos que, desde os tempos mais remotos, habitavam a terra que se estende de Sur até o Egito.",
+        "9": "Quando Davi e seu exército atacavam a região, não poupava homens nem mulheres, e tomava ovelhas, bois, jumentos, camelos e roupas. Depois retornava com tudo a Áquis.",
+        "10": "Quando Áquis lhe indagava: “A quem atacaste hoje?” Davi respondia: “A região do Neguebe de Judá” , em outro dia: “A tribo de Jerameel” ou ainda “A terra dos queneus”",
+        "11": "Davi matava todos os homens e mulheres, para que não fossem levados a Gate e justificava seus atos para si mesmo alegando: “Para que não nos denunciem, dizendo: ‘Assim fez Davi!” Este foi o modo de agir de Davi durante todo o tempo em que habitou na terra dos filisteus.",
+        "12": "Áquis confiava em Davi e comentava: “Davi se tornou odioso a todo o Israel, seu próprio povo, e por isso continuará para sempre servindo-me lealmente!”"
     }
 }

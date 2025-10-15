@@ -1,9 +1,12 @@
 {
     "livro": "Juízes",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "A vingança de Sansão",
+        "9": "Sansão: Juiz em Israel"
+    },
     "versiculos": {
-        "1": "E aconteceu, depois de alguns dias, que, na sega do trigo, Sansão visitou a sua mulher, com um cabrito, e disse: Entrarei na câmara de minha mulher. Porém o pai dela não o deixou entrar.",
+        "1": "E ACONTECEU, depois de alguns dias, que, na sega do trigo, Sansão visitou a sua mulher, com um cabrito, e disse: Entrarei na câmara de minha mulher. Porém o pai dela não o deixou entrar.",
         "2": "E disse-lhe seu pai: Por certo pensava eu que de todo a desprezavas; de sorte que a dei ao teu companheiro; porém não é sua irmã mais nova, mais formosa do que ela? Toma-a, pois, em seu lugar.",
         "3": "Então Sansão disse acerca deles: Inocente sou esta vez para com os filisteus, quando lhes fizer algum mal.",
         "4": "E foi Sansão, e pegou trezentas raposas; e, tomando tochas, as virou cauda a cauda, e lhes pôs uma tocha no meio de cada duas caudas.",

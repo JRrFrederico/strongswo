@@ -1,9 +1,19 @@
 {
     "livro": "Marcos",
     "capitulo": 14,
-    "titulos": {},
+    "titulos": {
+        "1": "Trama para matar Jesus",
+        "3": "Jesus é ungido em Betânia",
+        "12": "A Ceia do Senhor",
+        "22": "O ato de partilhar o pão e o cálice",
+        "27": "Jesus prediz a traição de Pedro",
+        "32": "Jesus Cristo no Getsêmani",
+        "43": "Jesus é traído e preso",
+        "53": "Jesus perante o Sinédrio",
+        "66": "Pedro nega a Jesus"
+    },
     "versiculos": {
-        "1": "E dali a dois dias era a páscoa, e a festa dos pães ázimos; e os principais sacerdotes e os escribas buscavam como o prenderiam com dolo, e o matariam.",
+        "1": "E DALI a dois dias era a páscoa, e a festa dos pães ázimos; e os principais sacerdotes e os escribas buscavam como o prenderiam com dolo, e o matariam.",
         "2": "Mas eles diziam: Não na festa, para que porventura não se faça alvoroço entre o povo.",
         "3": "E, estando ele em Betânia, assentado à mesa, em casa de Simão, o leproso, veio uma mulher, que trazia um vaso de alabastro, com unguento de nardo puro, de muito preço, e quebrando o vaso, lho derramou sobre a cabeça.",
         "4": "E alguns houve que em si mesmos se indignaram, e disseram: Para que se fez este desperdício de unguento?",

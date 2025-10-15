@@ -1,9 +1,11 @@
 {
     "livro": "Gênesis",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus faz uma Aliança com Abrão"
+    },
     "versiculos": {
-        "1": "Depois destas coisas veio a palavra do Senhor a Abrão em visão, dizendo: Não temas, Abrão, eu sou o teu escudo, o teu grandíssimo galardão.",
+        "1": "DEPOIS destas coisas veio a palavra do Senhor a Abrão em visão, dizendo: Não temas, Abrão, eu sou o teu escudo, o teu grandíssimo galardão.",
         "2": "Então disse Abrão: Senhor Deus, que me hás de dar, pois ando sem filhos, e o mordomo da minha casa é o damasceno Eliézer?",
         "3": "Disse mais Abrão: Eis que não me tens dado filhos, e eis que um nascido na minha casa será o meu herdeiro.",
         "4": "E eis que veio a palavra do Senhor a ele dizendo: Este não será o teu herdeiro; mas aquele que de tuas entranhas sair, este será o teu herdeiro.",

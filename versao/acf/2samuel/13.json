@@ -1,9 +1,12 @@
 {
     "livro": "2 Samuel",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Amnom violenta sua irmã Tamar",
+        "23": "Absalão manda matar Amnom"
+    },
     "versiculos": {
-        "1": "E aconteceu depois disto que, tendo Absalão, filho de Davi, uma irmã formosa, cujo nome era Tamar, Amnom, filho de Davi, amou-a.",
+        "1": "E ACONTECEU depois disto que, tendo Absalão, filho de Davi, uma irmã formosa, cujo nome era Tamar, Amnom, filho de Davi, amou-a.",
         "2": "E angustiou-se Amnom, até adoecer, por Tamar, sua irmã, porque era virgem; e parecia aos olhos de Amnom dificultoso fazer-lhe coisa alguma.",
         "3": "Tinha, porém, Amnom um amigo, cujo nome era Jonadabe, filho de Simeia, irmão de Davi; e era Jonadabe homem mui sagaz.",
         "4": "O qual lhe disse: Por que tu de dia em dia tanto emagreces, sendo filho do rei? Não mo farás saber a mim? Então lhe disse Amnom: Amo a Tamar, irmã de Absalão, meu irmão.",

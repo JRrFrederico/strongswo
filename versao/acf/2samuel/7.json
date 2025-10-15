@@ -1,9 +1,12 @@
 {
     "livro": "2 Samuel",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "A promessa de Deus a Davi",
+        "18": "Ação de graças de Davi"
+    },
     "versiculos": {
-        "1": "E sucedeu que, estando o rei Davi em sua casa, e tendo o Senhor lhe dado descanso de todos os seus inimigos em redor,",
+        "1": "E SUCEDEU que, estando o rei Davi em sua casa, e tendo o Senhor lhe dado descanso de todos os seus inimigos em redor,",
         "2": "Disse o rei ao profeta Natã: Eis que eu moro em casa de cedro, e a arca de Deus mora dentro de cortinas.",
         "3": "E disse Natã ao rei: Vai, e faze tudo quanto está no teu coração; porque o Senhor é contigo.",
         "4": "Porém sucedeu naquela mesma noite, que a palavra do Senhor veio a Natã, dizendo:",

@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "Quem não é parte do povo de Deus",
+        "9": "Pureza no arraial da congregação",
+        "15": "Demais leis culturais e sociais"
+    },
     "versiculos": {
-        "1": "Aquele a quem forem trilhados os testículos, ou cortado o membro viril, não entrará na congregação do Senhor.",
+        "1": "AQUELE a quem forem trilhados os testículos, ou cortado o membro viril, não entrará na congregação do Senhor.",
         "2": "Nenhum bastardo entrará na congregação do Senhor; nem ainda a sua décima geração entrará na congregação do Senhor.",
         "3": "Nenhum amonita nem moabita entrará na congregação do Senhor; nem ainda a sua décima geração entrará na congregação do Senhor eternamente.",
         "4": "Porquanto não saíram com pão e água, a receber-vos no caminho, quando saíeis do Egito; e porquanto alugaram contra ti a Balaão, filho de Beor, de Petor, de Mesopotâmia, para te amaldiçoar.",

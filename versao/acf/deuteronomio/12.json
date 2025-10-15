@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 12,
-    "titulos": {},
+    "titulos": {
+        "1": "O santo lugar para adorar a Deus",
+        "13": "Orientações sobre os sacrifícios",
+        "29": "Contra os cultos cananeus"
+    },
     "versiculos": {
-        "1": "Estes são os estatutos e os juízos que tereis cuidado em cumprir na terra que vos deu o Senhor Deus de vossos pais, para a possuir todos os dias que viverdes sobre a terra.",
+        "1": "ESTES são os estatutos e os juízos que tereis cuidado em cumprir na terra que vos deu o Senhor Deus de vossos pais, para a possuir todos os dias que viverdes sobre a terra.",
         "2": "Totalmente destruireis todos os lugares, onde as nações que possuireis serviram os seus deuses, sobre as altas montanhas, e sobre os outeiros, e debaixo de toda a árvore frondosa;",
         "3": "E derrubareis os seus altares, e quebrareis as suas estátuas, e os seus bosques queimareis a fogo, e destruireis as imagens esculpidas dos seus deuses, e apagareis o seu nome daquele lugar.",
         "4": "Assim não fareis ao Senhor vosso Deus;",

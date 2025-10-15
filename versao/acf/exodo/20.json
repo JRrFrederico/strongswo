@@ -1,9 +1,12 @@
 {
     "livro": "Êxodo",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "Os dez mandamentos da Lei",
+        "22": "A lei quanto ao altar do SENHOR"
+    },
     "versiculos": {
-        "1": "Então falou Deus todas estas palavras, dizendo:",
+        "1": "ENTÃO falou Deus todas estas palavras, dizendo:",
         "2": "Eu sou o Senhor teu Deus, que te tirei da terra do Egito, da casa da servidão.",
         "3": "Não terás outros deuses diante de mim.",
         "4": "Não farás para ti imagem de escultura, nem alguma semelhança do que há em cima nos céus, nem embaixo na terra, nem nas águas debaixo da terra.",

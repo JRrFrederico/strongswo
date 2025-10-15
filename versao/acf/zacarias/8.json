@@ -1,9 +1,11 @@
 {
     "livro": "Zacarias",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Bênçãos a Jerusalém e outras nações"
+    },
     "versiculos": {
-        "1": "Depois veio a mim a palavra do Senhor dos Exércitos, dizendo:",
+        "1": "DEPOIS veio a mim a palavra do Senhor dos Exércitos, dizendo:",
         "2": "Assim diz o Senhor dos Exércitos: Zelei por Sião com grande zelo, e com grande indignação zelei por ela.",
         "3": "Assim diz o Senhor: Voltarei para Sião, e habitarei no meio de Jerusalém; e Jerusalém chamar-se-á a cidade da verdade, e o monte do Senhor dos Exércitos, o monte santo.",
         "4": "Assim diz o Senhor dos Exércitos: Ainda nas praças de Jerusalém habitarão velhos e velhas; levando cada um, na mão, o seu cajado, por causa da sua muita idade.",

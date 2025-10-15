@@ -1,9 +1,11 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "O rei de Tiro alia-se a Salomão"
+    },
     "versiculos": {
-        "1": "E determinou Salomão edificar uma casa ao nome do Senhor, como também uma casa para o seu reino.",
+        "1": "E DETERMINOU Salomão edificar uma casa ao nome do Senhor, como também uma casa para o seu reino.",
         "2": "E designou Salomão setenta mil homens de carga, e oitenta mil que talhavam pedras na montanha, e três mil e seiscentos inspetores sobre eles.",
         "3": "E Salomão mandou dizer a Hirão, rei de Tiro: Como fizeste com Davi, meu pai, mandando-lhe cedros, para edificar uma casa em que morasse, assim também faze comigo.",
         "4": "Eis que estou para edificar uma casa ao nome do Senhor meu Deus, para lhe consagrar, para queimar perante ele incenso aromático, e para a apresentação contínua do pão da proposição, para os holocaustos da manhã e da tarde, nos sábados e nas luas novas, e nas festividades do Senhor nosso Deus; o que é obrigação perpétua de Israel.",

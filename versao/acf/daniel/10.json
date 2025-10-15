@@ -1,9 +1,11 @@
 {
     "livro": "Daniel",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "Visão profética à beira do rio Tigre"
+    },
     "versiculos": {
-        "1": "No terceiro ano de Ciro, rei da Pérsia, foi revelada uma palavra a Daniel, cujo nome era chamado Beltessazar; a palavra era verdadeira e envolvia grande conflito; e ele entendeu esta palavra, e tinha entendimento da visão.",
+        "1": "NO terceiro ano de Ciro, rei da Pérsia, foi revelada uma palavra a Daniel, cujo nome era chamado Beltessazar; a palavra era verdadeira e envolvia grande conflito; e ele entendeu esta palavra, e tinha entendimento da visão.",
         "2": "Naqueles dias eu, Daniel, estive triste por três semanas.",
         "3": "Alimento desejável não comi, nem carne nem vinho entraram na minha boca, nem me ungi com unguento, até que se cumpriram as três semanas.",
         "4": "E no dia vinte e quatro do primeiro mês eu estava à borda do grande rio Hidequel;",

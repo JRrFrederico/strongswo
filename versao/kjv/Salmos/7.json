@@ -1,24 +1,26 @@
 {
     "livro": "Salmos",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus defende o justo"
+    },
     "versiculos": {
-        "1": "Sigaiom de Davi, que ele cantou para o Senhor, acerca das palavras de Cuxe, o benjamita. Ó SENHOR meu Deus, em ti eu ponho a minha confiança; salva-me de todos aqueles que me perseguem, e livra-me;",
-        "2": "Para que ele não rasgue a minha alma como um leão, dilacerando-a em pedaços, enquanto não há ninguém para me livrar.",
-        "3": "Ó ­SENHOR meu Deus, se eu fiz isto, se houver iniquidade nas minhas mãos;",
-        "4": "Se recompensei com o mal àquele que estava em paz comigo ;",
-        "5": "Que o inimigo persiga a minha alma e a tome; sim, que ele pisoteie a minha vida sobre a terra, e coloque minha honra no pó. Selá.",
-        "6": "Levanta-te, ó ­SENHOR, na tua ira; eleva-te por causa da ira dos meus inimigos; e desperta por mim para o juízo que tu comandaste.",
-        "7": "Assim a congregação dos povos te cercará; por causa deles, portanto, retorna para as alturas.",
-        "8": "O ­SENHOR julgará os povos; julga-me, ó ­SENHOR, de acordo com a minha justiça, e de acordo com a minha integridade que está em mim.",
-        "9": "Ó que a perversidade dos perversos venha ao fim; mas estabelece o justo; porque o justo Deus testa os corações e os rins.",
-        "10": "Minha defesa é de Deus, que salva o reto de coração.",
-        "11": "Deus julga os justos, e Deus está irritado com os perversos todos os dias.",
-        "12": "Se o homem não se transformar, ele afiará a sua espada; ele curvou o seu arco, e o preparou.",
-        "13": "Ele também preparou para si instrumentos de morte; ele ordena suas flechas contra os perseguidores.",
-        "14": "Eis que o mau está com dores de iniquidade, e concebeu o dano, e trouxe a falsidade.",
-        "15": "Ele fez uma cova, e a cavou, e caiu na vala que ele fez.",
-        "16": "Seu dano retornará sobre a sua própria cabeça; e o seu lidar violento descerá sobre a sua própria cabeça.",
-        "17": "Eu louvarei ao ­SENHOR de acordo com a sua justiça, e cantarei louvores ao nome do ­SENHOR altíssimo."
+        "1": "S ENHOR , meu Deus, eu me abrigo em ti! Salva-me de todos os meus perseguidores. Liberta-me!",
+        "2": "Que não me agarrem, como leões e, levando-me para longe, me estraçalhem, sem haver quem me livre.",
+        "3": "S ENHOR , meu Deus, se procedi como me culpam, se em minhas mãos há injustiça e iniquidade,",
+        "4": "se paguei com o mal ao amigo que me fez o bem, se de tudo despojei meus adversários,",
+        "5": "que o inimigo me persiga até alcançar, que me pisoteie vivo sobre a terra e arraste a minha honra no pó!",
+        "6": "Levanta-te, S ENHOR , na tua indignação! Ergue-te contra o excesso de fúria dos meus opressores. Desperta-te, meu Deus! Estabelece o teu juízo designado!",
+        "7": "Reúna-se ao teu redor a assembleia dos povos. Das alturas reina sobre todas as nações da terra.",
+        "8": "O S ENHOR é quem julga os povos. Julga-me, S ENHOR , conforme a minha justiça, segundo a inocência que há em mim!",
+        "9": "Deus justo, que sondas as mentes e entranhas, dá fim à maldade dos ímpios, e ao justo dá segurança e paz.",
+        "10": "Deus é o escudo que me cobre, o salvador dos corações retos.",
+        "11": "Deus é o justo juiz! Deus que demonstra, a cada dia, seu extremo zelo.",
+        "12": "Caso o homem não se converta, Deus afiará sua espada; pois já armou seu arco e o aponta,",
+        "13": "preparou para si armas de morte e produziu suas flechas flamejantes.",
+        "14": "Todo aquele que gera maldade concebe o sofrimento e dá à luz a desilusão.",
+        "15": "Quem cava um buraco como armadilha cai em fossa profunda, que ele mesmo fez.",
+        "16": "Assim, sua maldade se voltará contra ele e sobre a própria cabeça cairá sua violência.",
+        "17": "Eu, porém, darei graças ao S ENHOR por sua justiça, salmodiarei e cantarei louvores ao Nome do S ENHOR , o Altíssimo!"
     }
 }

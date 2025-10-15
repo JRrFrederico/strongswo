@@ -1,9 +1,12 @@
 {
     "livro": "Esdras",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Artaxerxes envia Esdras em Missão",
+        "11": "A carta missionária de Artaxerxes"
+    },
     "versiculos": {
-        "1": "E passadas estas coisas no reinado de Artaxerxes, rei da Pérsia, Esdras, filho de Seraías, filho de Azarias, filho de Hilquias,",
+        "1": "E PASSADAS estas coisas no reinado de Artaxerxes, rei da Pérsia, Esdras, filho de Seraías, filho de Azarias, filho de Hilquias,",
         "2": "Filho de Salum, filho de Zadoque, filho de Aitube,",
         "3": "Filho de Amarias, filho de Azarias, filho de Meraiote,",
         "4": "Filho de Zeraquias, filho de Uzi, filho de Buqui,",

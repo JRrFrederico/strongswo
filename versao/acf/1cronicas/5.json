@@ -1,9 +1,15 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 5,
-    "titulos": {},
+    "titulos": {
+        "1": "A descendência de Rúben",
+        "4": "Joel",
+        "11": "Gade",
+        "18": "Guerra entre as tribos transjordânicas",
+        "23": "A idolatria e sua punição"
+    },
     "versiculos": {
-        "1": "Quanto aos filhos de Rúben, o primogênito de Israel (pois ele era o primogênito; mas porque profanara a cama de seu pai, deu-se a sua primogenitura aos filhos de José, filho de Israel; de modo que não foi contado, na genealogia da primogenitura,",
+        "1": "QUANTO aos filhos de Rúben, o primogênito de Israel (pois ele era o primogênito; mas porque profanara a cama de seu pai, deu-se a sua primogenitura aos filhos de José, filho de Israel; de modo que não foi contado, na genealogia da primogenitura,",
         "2": "Porque Judá foi poderoso entre seus irmãos, e dele veio o soberano; porém a primogenitura foi de José).",
         "3": "Foram, pois, os filhos de Rúben, o primogênito de Israel: Enoque, Palu, Hezrom, e Carmi.",
         "4": "Os filhos de Joel: Semaías, seu filho; Gogue, seu filho; Simei, seu filho;",

@@ -1,9 +1,13 @@
 {
     "livro": "2 Coríntios",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Exercer a autocrítica cristã",
+        "11": "Saudações finais aos coríntios",
+        "14": "A bênção apostólica"
+    },
     "versiculos": {
-        "1": "É esta a terceira vez que vou ter convosco. Por boca de duas ou três testemunhas será confirmada toda a palavra.",
+        "1": "É ESTA a terceira vez que vou ter convosco. Por boca de duas ou três testemunhas será confirmada toda a palavra.",
         "2": "Já anteriormente o disse, e de antemão digo como estando presente uma segunda vez; mas agora, estando ausente, o escrevo aos que antes pecaram e a todos os mais, que, se outra vez for, não lhes pouparei;",
         "3": "Visto que buscais uma prova de Cristo que fala em mim, o qual não é fraco para convosco, antes é poderoso entre vós.",
         "4": "Porque, ainda que foi crucificado por fraqueza, vive, contudo, pelo poder de Deus. Porque nós também somos fracos nele, mas viveremos com ele pelo poder de Deus em vós.",

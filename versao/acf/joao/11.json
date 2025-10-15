@@ -1,9 +1,15 @@
 {
     "livro": "João",
     "capitulo": 11,
-    "titulos": {},
+    "titulos": {
+        "1": "A morte do amigo Lázaro",
+        "17": "Eu Sou a ressurreição e a vida",
+        "28": "Jesus vence a morte",
+        "38": "Jesus ressuscita seu amigo",
+        "45": "A trama para matar Jesus"
+    },
     "versiculos": {
-        "1": "Estava, porém, enfermo um certo Lázaro, de Betânia, aldeia de Maria e de sua irmã Marta.",
+        "1": "ESTAVA, porém, enfermo um certo Lázaro, de Betânia, aldeia de Maria e de sua irmã Marta.",
         "2": "E Maria era aquela que tinha ungido o Senhor com unguento, e lhe tinha enxugado os pés com os seus cabelos, cujo irmão Lázaro estava enfermo.",
         "3": "Mandaram-lhe, pois, suas irmãs dizer: Senhor, eis que está enfermo aquele que tu amas.",
         "4": "E Jesus, ouvindo isto, disse: Esta enfermidade não é para morte, mas para glória de Deus, para que o Filho de Deus seja glorificado por ela.",

@@ -1,9 +1,13 @@
 {
     "livro": "Números",
     "capitulo": 23,
-    "titulos": {},
+    "titulos": {
+        "1": "A primeira profecia de Balaão",
+        "13": "A segunda profecia de Balaão",
+        "27": "A terceira profecia de Balaão"
+    },
     "versiculos": {
-        "1": "Então Balaão disse a Balaque: Edifica-me aqui sete altares, e prepara-me aqui sete novilhos e sete carneiros.",
+        "1": "ENTÃO Balaão disse a Balaque: Edifica-me aqui sete altares, e prepara-me aqui sete novilhos e sete carneiros.",
         "2": "Fez, pois, Balaque como Balaão dissera: e Balaque e Balaão ofereceram um novilho e um carneiro sobre cada altar.",
         "3": "Então Balaão disse a Balaque: Fica-te junto do teu holocausto, e eu irei; porventura o Senhor me sairá ao encontro, e o que me mostrar te notificarei. Então foi a um lugar alto.",
         "4": "E encontrando-se Deus com Balaão, este lhe disse: Preparei sete altares, e ofereci um novilho e um carneiro sobre cada altar.",
@@ -22,7 +26,7 @@
         "17": "E, vindo a ele, eis que estava junto do holocausto, e os príncipes dos moabitas com ele; disse-lhe pois Balaque: Que coisa falou o Senhor?",
         "18": "Então proferiu a sua parábola, e disse: Levanta-te, Balaque, e ouve; inclina os teus ouvidos a mim, filho de Zipor.",
         "19": "Deus não é homem, para que minta; nem filho do homem, para que se arrependa; porventura diria ele, e não o faria? Ou falaria, e não o confirmaria?",
-        "20": "Eis que recebi mandado de abençoar; pois ele tem abençoado, e eu não o posso renovar.",
+        "20": "Eis que recebi mandado de abençoar; pois ele tem abençoado, e eu não o posso revogar.",
         "21": "Não viu iniquidade em Israel, nem contemplou maldade em Jacó; o Senhor seu Deus é com ele, e no meio dele se ouve a aclamação de um rei.",
         "22": "Deus os tirou do Egito; as suas forças são como as do boi selvagem.",
         "23": "Pois contra Jacó não vale encantamento, nem adivinhação contra Israel; neste tempo se dirá de Jacó e de Israel: Que coisas Deus tem realizado!",

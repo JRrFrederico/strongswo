@@ -1,9 +1,13 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "Asa faz aliança com o rei da Síria",
+        "7": "O profeta Hanani repreende Asa",
+        "11": "A morte do rei Asa"
+    },
     "versiculos": {
-        "1": "No trigésimo sexto ano do reinado de Asa, Baasa, rei de Israel, subiu contra Judá e edificou a Ramá, para não deixar ninguém sair, nem chegar a Asa, rei de Judá.",
+        "1": "NO trigésimo sexto ano do reinado de Asa, Baasa, rei de Israel, subiu contra Judá e edificou a Ramá, para não deixar ninguém sair, nem chegar a Asa, rei de Judá.",
         "2": "Então Asa tirou a prata e o ouro dos tesouros da casa do Senhor, e da casa do rei; e enviou servos a Ben-Hadade, rei da Síria, que habitava em Damasco, dizendo:",
         "3": "Acordo há entre mim e ti, como houve entre meu pai e o teu; eis que te envio prata e ouro; vai, pois, e anula o teu acordo com Baasa, rei de Israel, para que se retire de sobre mim.",
         "4": "E Ben-Hadade deu ouvidos ao rei Asa, e enviou os capitães dos seus exércitos, contra as cidades de Israel, e eles feriram a Ijom, a Dã, a Abel-Maim, e a todas as cidades-armazéns de Naftali.",

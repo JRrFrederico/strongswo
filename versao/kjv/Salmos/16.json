@@ -1,18 +1,20 @@
 {
     "livro": "Salmos",
     "capitulo": 16,
-    "titulos": {},
+    "titulos": {
+        "1": "A fidelidade de Deus"
+    },
     "versiculos": {
-        "1": "Mictã de Davi. Preserva-me, ó Deus; porque em ti eu ponho minha confiança.",
-        "2": "Ó minha alma, tu disseste ao SENHOR: Tu és meu Senhor; minha bondade não se estende a ti;",
-        "3": "Mas aos santos que estão na terra, e aos íntegros em quem está todo o meu prazer.",
-        "4": "Suas dores se multiplicarão, aqueles que se apressam atrás de outro deus; suas bebidas, ofertas de sangue, eu não oferecerei, nem tomarei os seus nomes nos meus lábios.",
-        "5": "O SENHOR é a porção da minha herança e do meu cálice; tu manténs a minha sorte.",
-        "6": "As linhas caem-me em lugares agradáveis; sim, eu tenho uma considerável herança.",
-        "7": "Eu bendirei o SENHOR que me aconselha; meus rins também me instruem nas temporadas da noite.",
-        "8": "Tenho posto o SENHOR sempre antes de mim; porque ele está à minha mão direita, eu não serei abalado.",
-        "9": "Portanto meu coração está alegre e a minha glória se regozija; minha carne também descansará na esperança.",
-        "10": "Porque tu não deixarás minha alma no inferno, nem farás com que o teu Santo veja corrupção.",
-        "11": "Mostrar-me-ás a vereda da vida; na tua presença há plenitude de alegria; à tua mão direita há prazeres para sempre."
+        "1": "Defende-me, ó Deus, pois eu me abrigo em ti.",
+        "2": "Ao S ENHOR declaro: “Tu és o meu Senhor; não tenho bem maior além de ti”.",
+        "3": "Quanto aos fiéis que há na terra, eles é que são os notáveis nos quais tenho todo o meu prazer.",
+        "4": "Muitos serão os sofrimentos dos que deixam o S ENHOR e buscam outros deuses; eu não tomarei parte nos seus sacrifícios de sangue, e os meus lábios sequer mencionarão seus nomes.",
+        "5": "S ENHOR , tu és a minha parte na herança e o meu cálice; és tu que garantes o meu futuro.",
+        "6": "As divisas das terras caíram para mim em lugares agradáveis; tenho uma maravilhosa herança!",
+        "7": "Darei louvores ao S ENHOR , que me aconselha; na calada da noite o meu coração me ensina!",
+        "8": "Tenho sempre o S ENHOR diante de mim. Com Ele à minha direita, não serei abalado.",
+        "9": "Essa é a razão da alegria que trago no coração e, no íntimo, exulto de prazer; e assim meu corpo repousará em paz, porque tu não me abandonarás nas profundezas da morte,",
+        "10": "nem permitirás que o teu santo sofra decomposição.",
+        "11": "Tu me fizeste conhecer o caminho da vida, a plena felicidade da tua presença e o eterno prazer de estar na tua destra."
     }
 }

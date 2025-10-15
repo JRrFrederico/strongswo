@@ -1,9 +1,14 @@
 {
     "livro": "1 Coríntios",
     "capitulo": 7,
-    "titulos": {},
+    "titulos": {
+        "1": "Princípios sobre a vida conjugal",
+        "8": "Melhor estar solteiro, pior é a separação",
+        "17": "Cada um viva conforme seu chamado",
+        "25": "Solteiros ou casados: consagrem-se!"
+    },
     "versiculos": {
-        "1": "Ora, quanto às coisas que me escrevestes, bom seria que o homem não tocasse em mulher;",
+        "1": "ORA, quanto às coisas que me escrevestes, bom seria que o homem não tocasse em mulher;",
         "2": "Mas, por causa da fornicação, cada um tenha a sua própria mulher, e cada uma tenha o seu próprio marido.",
         "3": "O marido pague à mulher a devida benevolência, e da mesma sorte a mulher ao marido.",
         "4": "A mulher não tem poder sobre o seu próprio corpo, mas tem-no o marido; e também da mesma maneira o marido não tem poder sobre o seu próprio corpo, mas tem-no a mulher.",

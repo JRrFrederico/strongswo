@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 40,
-    "titulos": {},
+    "titulos": {
+        "1": "Ação de graças e súplicas"
+    },
     "versiculos": {
-        "1": "Esperei com paciência no Senhor, e ele se inclinou para mim, e ouviu o meu clamor.",
+        "1": "ESPEREI com paciência no Senhor, e ele se inclinou para mim, e ouviu o meu clamor.",
         "2": "Tirou-me de um lago horrível, de um charco de lodo, pôs os meus pés sobre uma rocha, firmou os meus passos.",
         "3": "E pôs um novo cântico na minha boca, um hino ao nosso Deus; muitos o verão, e temerão, e confiarão no Senhor.",
         "4": "Bem-aventurado o homem que põe no Senhor a sua confiança, e que não respeita os soberbos nem os que se desviam para a mentira.",

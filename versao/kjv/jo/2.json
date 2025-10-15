@@ -1,20 +1,24 @@
 {
     "livro": "Jó",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "As provações aumentam sobre Jó",
+        "7": "A provação da terrível doença",
+        "11": "As atitudes dos amigos de Jó"
+    },
     "versiculos": {
-        "1": "Novamente, houve um dia quando os filhos de Deus vieram apresentar-se diante do SENHOR, Satanás veio também entre eles para apresentar-se diante do SENHOR.",
-        "2": "E o SENHOR disse a Satanás: De onde tu vens? E Satanás respondeu ao SENHOR, e disse: De ir para lá e para cá na terra, e de nela andar para cima e para baixo.",
-        "3": "E o SENHOR disse a Satanás: Tu consideraste o meu servo Jó, que não há ninguém como ele na terra, homem perfeito e justo, que teme a Deus e se afasta do mal, e que ainda se apega à sua integridade, apesar de que me incitaste contra ele, para destruí-lo sem causa.",
-        "4": "E Satanás respondeu ao SENHOR, e disse: Pele por pele, sim; tudo o que um homem tem ele dará por sua vida.",
-        "5": "Porém, estende tua mão agora, e toca-lhe os ossos, e a carne, e ele te amaldiçoará diante de tua face.",
-        "6": "E o SENHOR disse a Satanás: Eis que ele está na tua mão; mas poupa-lhe a vida.",
-        "7": "Então Satanás retirou-se da presença do SENHOR, e feriu Jó com úlceras malignas desde a sola de seu pé até sua coroa.",
-        "8": "E ele tomando para si um caco, se raspava com ele; estando assentado entre as cinzas.",
-        "9": "Então disse sua esposa a ele: Ainda reténs tua integridade? Amaldiçoa a Deus, e morre.",
-        "10": "Mas ele disse a ela: Tu falas como costumam falar as mulheres tolas. Se receberemos o bem da mão de Deus, não receberemos o mal? Em tudo isto não pecou Jó com os seus lábios.",
-        "11": "Então, quando os três amigos de Jó ouviram sobre todo este mal que lhe sobreviera, cada um veio de seu próprio lugar: Elifaz, o temanita, e Bildade, o suíta, e Zofar, o naamatita; porque haviam concordado em vir para prantear com ele e consolá-lo.",
-        "12": "E quando eles levantaram seus olhos de longe, não o conheceram, levantaram sua voz e choraram, e cada um rasgou o seu manto e lançou pó sobre as suas cabeças em direção ao céu.",
-        "13": "Então, assentaram-se com ele no chão, durante sete dias e sete noites; e ninguém lhe falou uma palavra, porque eles viram que sua dor era muito grande."
+        "1": "Em um outro dia os anjos, os servidores celestiais voltaram a se apresentar perante Yahweh , o S ENHOR , e Satan , o Acusador, também estava entre eles para, da mesma maneira, ser ouvido por Yahweh .",
+        "2": "Então Yahweh questionou a Satanás: “De onde vens?” E Satanás deu-lhe a seguinte resposta: “De perambular pela terra e ir e vir pelos caminhos do mundo!”",
+        "3": "Indagou-lhe então Yahweh : “Observaste o meu servo Jó? Em toda a terra não há ninguém como ele: ser humano íntegro e justo, que ama e teme a Deus e se desvia do mal! Jó se mantém integro, apesar de haver tentado me instigar contra ele a fim de castigá-lo sem motivo!”",
+        "4": "Diante do que declarou Satanás: “É porque não tocaste na pele dele! Pele por pele. Tudo quanto um ser humano tem ele dará para salvar a sua vida!",
+        "5": "Ora, estende a tua mão agora mesmo e toca-lhe nos ossos e na carne, e ele prontamente te amaldiçoará e blasfemará na tua face!”",
+        "6": "Então Yahweh declarou a Satanás: “Eis que meu servo está entregue em tuas mãos; contudo, poupa-lhe a vida!”",
+        "7": "Saiu, portanto, Satan , o Acusador e Inimigo, da presença do S ENHOR e passou a afligir Jó, o servo de Deus, com feridas terríveis, que iam da sola dos pés até o alto da cabeça.",
+        "8": "Então Jó lançou mão de um caco de cerâmica e com ele coçava-se, raspando suas feridas, sentado sobre as cinzas.",
+        "9": "Então aproximando-se a esposa de Jó admoestou-lhe: “Deixe de ser teimoso em sua lealdade homem! Isso não vai resolver nada, amaldiçoa logo a Deus e morre!”",
+        "10": "No entanto ele lhe afirmou: “Mulher! Tu falas como uma louca. Porventura receberemos de Deus apenas o bem que desejamos e não também o infortúnio que ele nos permite?” E em toda essa provação os lábios de Jó não o fizeram vacilar e pecar.",
+        "11": "E três amigos de Jó, ouvindo falar da desgraça que se abatera sobre ele e sua casa, vieram visitá-lo, partindo cada um de sua região, pois haviam combinado de vir prestar-lhe alguma solidariedade e consolo: Elifaz da cidade de Temã, Bildade de Suá, e Zofar, de Naamate.",
+        "12": "Eles o avistaram à distância, contudo, mal puderem reconhecê-lo e romperam em lamentação e profundo choro ali mesmo. Em desespero cada um deles rasgou seu manto e lançou terra sobre a própria cabeça.",
+        "13": "E ficaram sentados no chão, na companhia de Jó, durante sete dias e sete noites seguidos; e nenhum deles dizia a Jó qualquer palavra, pois ao contemplar seu grande sofrimento não encontravam forças para dizer nada."
     }
 }

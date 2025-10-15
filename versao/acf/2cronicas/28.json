@@ -1,9 +1,16 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 28,
-    "titulos": {},
+    "titulos": {
+        "1": "O reinado de Acaz e sua queda",
+        "5": "Deus entrega Acaz às derrotas",
+        "9": "Isarel ouve o profeta Odede",
+        "16": "Acaz pede socorro ao inimigo",
+        "22": "A falta de bom senso de Acaz",
+        "26": "A morte do rei Acaz"
+    },
     "versiculos": {
-        "1": "Tinha Acaz vinte anos de idade, quando começou a reinar, e dezesseis anos reinou em Jerusalém; e não fez o que era reto aos olhos do Senhor, como Davi, seu pai.",
+        "1": "TINHA Acaz vinte anos de idade, quando começou a reinar, e dezesseis anos reinou em Jerusalém; e não fez o que era reto aos olhos do Senhor, como Davi, seu pai.",
         "2": "Antes andou nos caminhos dos reis de Israel, e, além disso, fez imagens fundidas a Baalins.",
         "3": "Também queimou incenso no vale do filho de Hinom, e queimou a seus filhos no fogo, conforme as abominações dos gentios que o Senhor tinha expulsado de diante dos filhos de Israel.",
         "4": "Também sacrificou, e queimou incenso nos altos e nos outeiros, como também debaixo de toda a árvore verde.",

@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 87,
-    "titulos": {},
+    "titulos": {
+        "1": "Cântico profético sobre Jerusalém"
+    },
     "versiculos": {
-        "1": "O seu fundamento está nos montes santos.",
+        "1": "O SEU fundamento está nos montes santos.",
         "2": "O Senhor ama as portas de Sião, mais do que todas as habitações de Jacó.",
         "3": "Coisas gloriosas se dizem de ti, ó cidade de Deus. (Selá.)",
         "4": "Farei menção de Raabe e de Babilônia àqueles que me conhecem; eis que da Filístia, e de Tiro, e da Etiópia, se dirá: Este homem nasceu ali.",

@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 144,
-    "titulos": {},
+    "titulos": {
+        "1": "Graças pela proteção de Deus"
+    },
     "versiculos": {
-        "1": "Bendito seja o Senhor, minha rocha, que ensina as minhas mãos para a peleja e os meus dedos para a guerra;",
+        "1": "BENDITO seja o Senhor, minha rocha, que ensina as minhas mãos para a peleja e os meus dedos para a guerra;",
         "2": "Benignidade minha e fortaleza minha; alto retiro meu e meu libertador és tu; escudo meu, em quem eu confio, e que me sujeita o meu povo.",
         "3": "Senhor, que é o homem, para que o conheças, e o filho do homem, para que o estimes?",
         "4": "O homem é semelhante à vaidade; os seus dias são como a sombra que passa.",

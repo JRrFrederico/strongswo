@@ -1,9 +1,13 @@
 {
     "livro": "Deuteronômio",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "A lei principal: amar a Deus",
+        "10": "Orientação à obediência a Deus",
+        "14": "Apelo à fidelidade ao SENHOR"
+    },
     "versiculos": {
-        "1": "Estes, pois, são os mandamentos, os estatutos e os juízos que mandou o Senhor vosso Deus para ensinar-vos, para que os cumprísseis na terra a que passais a possuir;",
+        "1": "ESTES, pois, são os mandamentos, os estatutos e os juízos que mandou o Senhor vosso Deus para ensinar-vos, para que os cumprísseis na terra a que passais a possuir;",
         "2": "Para que temas ao Senhor teu Deus, e guardes todos os seus estatutos e mandamentos, que eu te ordeno, tu, e teu filho, e o filho de teu filho, todos os dias da tua vida, e que teus dias sejam prolongados.",
         "3": "Ouve, pois, ó Israel, e atenta em os guardares, para que bem te suceda, e muito te multipliques, como te disse o Senhor Deus de teus pais, na terra que mana leite e mel.",
         "4": "Ouve, Israel, o Senhor nosso Deus é o único Senhor.",

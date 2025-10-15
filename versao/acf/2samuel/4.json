@@ -1,9 +1,11 @@
 {
     "livro": "2 Samuel",
     "capitulo": 4,
-    "titulos": {},
+    "titulos": {
+        "1": "Is-Bosete é assassinado"
+    },
     "versiculos": {
-        "1": "Ouvindo, pois, o filho de Saul, que Abner morrera em Hebrom, as mãos se lhe afrouxaram; e todo o Israel pasmou.",
+        "1": "OUVINDO, pois, o filho de Saul, que Abner morrera em Hebrom, as mãos se lhe afrouxaram; e todo o Israel pasmou.",
         "2": "E tinha o filho de Saul dois homens capitães de tropas; e era o nome de um Baaná, e o nome do outro Recabe, filhos de Rimom, o beerotita, dos filhos de Benjamim, porque também Beerote se reputava de Benjamim.",
         "3": "E tinham fugido os beerotitas para Gitaim, e ali têm peregrinado até ao dia de hoje.",
         "4": "E Jônatas, filho de Saul, tinha um filho aleijado de ambos os pés; era da idade de cinco anos quando as novas de Saul e Jônatas vieram de Jizreel, e sua ama o tomou, e fugiu; e sucedeu que, apressando-se ela a fugir, ele caiu, e ficou coxo; e o seu nome era Mefibosete.",

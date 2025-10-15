@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 75,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus, o grande Juiz dos povos"
+    },
     "versiculos": {
-        "1": "A ti, ó Deus, glorificamos, a ti damos louvor, pois o teu nome está perto, as tuas maravilhas o declaram.",
+        "1": "A TI, ó Deus, glorificamos, a ti damos louvor, pois o teu nome está perto, as tuas maravilhas o declaram.",
         "2": "Quando eu ocupar o lugar determinado, julgarei retamente.",
         "3": "A terra e todos os seus moradores estão dissolvidos, mas eu fortaleci as suas colunas. (Selá.)",
         "4": "Disse eu aos loucos: Não enlouqueçais, e aos ímpios: Não levanteis a fronte;",

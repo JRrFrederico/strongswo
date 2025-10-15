@@ -1,9 +1,13 @@
 {
     "livro": "2 Reis",
     "capitulo": 24,
-    "titulos": {},
+    "titulos": {
+        "1": "O reinado de Jeoaquim em Judá",
+        "8": "O rei Joaquim é levado cativo",
+        "18": "O reinado de Zedequias"
+    },
     "versiculos": {
-        "1": "Nos seus dias subiu Nabucodonosor, rei de Babilônia, e Jeoiaquim ficou três anos seu servo; depois se virou, e se rebelou contra ele.",
+        "1": "NOS seus dias subiu Nabucodonosor, rei de Babilônia, e Jeoiaquim ficou três anos seu servo; depois se virou, e se rebelou contra ele.",
         "2": "E o Senhor enviou contra ele as tropas dos caldeus, as tropas dos sírios, as tropas dos moabitas e as tropas dos filhos de Amom; e as enviou contra Judá, para o destruir, conforme a palavra do Senhor, que falara pelo ministério de seus servos, os profetas.",
         "3": "E, na verdade, conforme o mandado do Senhor, assim sucedeu a Judá, para o afastar da sua presença por causa dos pecados de Manassés, conforme tudo quanto fizera.",
         "4": "Como também por causa do sangue inocente que derramou; pois encheu a Jerusalém de sangue inocente; e por isso o Senhor não quis perdoar.",

@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 41,
-    "titulos": {},
+    "titulos": {
+        "1": "Sofrimentos e bênçãos do crente"
+    },
     "versiculos": {
-        "1": "Bem-aventurado é aquele que atende ao pobre; o Senhor o livrará no dia do mal.",
+        "1": "BEM-AVENTURADO é aquele que atende ao pobre; o Senhor o livrará no dia do mal.",
         "2": "O Senhor o livrará, e o conservará em vida; será abençoado na terra, e tu não o entregarás à vontade de seus inimigos.",
         "3": "O Senhor o sustentará no leito da enfermidade; tu o restaurarás da sua cama de doença.",
         "4": "Dizia eu: Senhor, tem piedade de mim; sara a minha alma, porque pequei contra ti.",

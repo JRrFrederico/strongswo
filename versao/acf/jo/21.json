@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 21,
-    "titulos": {},
+    "titulos": {
+        "1": "O intrincado êxito dos ímpios"
+    },
     "versiculos": {
-        "1": "Respondeu, porém, Jó, dizendo:",
+        "1": "RESPONDEU, porém, Jó, dizendo:",
         "2": "Ouvi atentamente as minhas razões; e isto vos sirva de consolação.",
         "3": "Sofrei-me, e eu falarei; e havendo eu falado, zombai.",
         "4": "Porventura eu me queixo de algum homem? Porém, ainda que assim fosse, por que não se angustiaria o meu espírito?",

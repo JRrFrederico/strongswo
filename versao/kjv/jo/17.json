@@ -1,23 +1,25 @@
 {
     "livro": "Jó",
     "capitulo": 17,
-    "titulos": {},
+    "titulos": {
+        "1": "Jó não espera nada deste mundo"
+    },
     "versiculos": {
-        "1": "O meu fôlego é corrupto, meus dias são extintos, os túmulos estão prontos para mim.",
-        "2": "Não há zombadores comigo, e não continuam meus olhos em sua provocação?",
-        "3": "Estabelece agora, ponha-me em uma garantia contigo; quem é o que irá apertar a minha mão?",
-        "4": "Porque tu escondeste dos seus corações o entendimento. Por isso, não os exaltarás.",
-        "5": "Aquele que profere lisonja a seus amigos, até os olhos dos seus filhos falharão.",
-        "6": "Ele também fez de mim motivo de riso para as pessoas; e antes eu era como um adufe.",
-        "7": "Meus olhos também estão escurecidos por causa da tristeza, e todos os meus membros são como a sombra.",
-        "8": "Os homens retos ficarão espantados com isto, e o inocente se agitará contra o hipócrita.",
-        "9": "O justo também permanecerá em seu caminho, e aquele que tem mãos limpas ficará cada vez mais forte.",
-        "10": "Mas, em relação a vós todos, retornai e vinde agora, porque eu não posso achar um homem sábio entre vós.",
-        "11": "Os meus dias passaram, e meus propósitos são quebrados, até mesmo os pensamentos do meu coração.",
-        "12": "Eles trocam a noite em dia; a luz é curta por causa das trevas.",
-        "13": "Se eu espero, a sepultura é a minha casa; eu fiz o meu leito nas trevas.",
-        "14": "Eu disse à corrupção: Tu és meu pai; e aos vermes: Vós sois minha mãe, e minha irmã.",
-        "15": "E onde está agora a minha esperança? E quanto a minha esperança, quem a verá?",
-        "16": "Eles descerão às barras da cova, quando juntos nosso descanso estiver no pó."
+        "1": "“O fôlego de vida que há em mim está se esvaindo, estou quebrantando e os meus dias na terra estão chegando ao fim, a sepultura me aguarda!",
+        "2": "Em suma: pereço cercado de zombadores, e meus olhos ainda têm que contemplar a hostilidade desse povo!",
+        "3": "Dá-me, ó Deus, a tua garantia e sê o meu leal fiador para com tua própria pessoa; quem mais me estenderia a mão?",
+        "4": "Porquanto encobriste o entendimento ao coração dessa gente, por isso não permitirás que eles triunfem.",
+        "5": "Como diz o ditado: ‘Passarão fome os filhos daqueles que por dinheiro traem os seus amigos!’",
+        "6": "Entretanto, da minha própria carne Deus compôs um novo provérbio para toda a humanidade, de um simples homem em cujo rosto os seus semelhantes cospem!",
+        "7": "Meus olhos se turvaram de angústia e tristeza, o meu corpo não passa de uma leve sombra.",
+        "8": "Os íntegros ficam atônitos diante deste acontecimento, e os inocentes insurgem-se contra os maldosos.",
+        "9": "Contudo, os justos e piedosos se manterão firmes em seus princípios e convicções, e os homens justos e sinceros se tornarão cada vez mais fortes.",
+        "10": "Vinde pois, agora mesmo e fazei uma nova tentativa. Todavia, é certo que não encontrarei mais nenhum sábio entre vós!",
+        "11": "Os meus dias passaram, os planos, esperanças e ilusões do meu coração fracassaram.",
+        "12": "Os ímpios trocaram a noite pelo dia; afirmam que a luz se aproxima das trevas.",
+        "13": "Ora, se o único lar pelo qual aguardo é o Sheol , a sepultura, se estendo a minha cama na escuridão,",
+        "14": "se afirmo à corrupção mortal: Tu és meu pai; e aos vermes: Vós sois minha mãe e minha irmã;",
+        "15": "onde se encontrará então minha esperança? Quem poderá vislumbrar alguma possibilidade de vida para mim?",
+        "16": "Será que a esperança descerá comigo até as portas do Sheol , da morte? Baixaremos todos à sepultura e descansaremos juntos no pó da terra?”"
     }
 }

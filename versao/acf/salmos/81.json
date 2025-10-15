@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 81,
-    "titulos": {},
+    "titulos": {
+        "1": "Exortação ao culto e à obediência"
+    },
     "versiculos": {
-        "1": "Exultai a Deus, nossa fortaleza; jubilai ao Deus de Jacó.",
+        "1": "EXULTAI a Deus, nossa fortaleza; jubilai ao Deus de Jacó.",
         "2": "Tomai um salmo, e trazei junto o tamborim, a harpa suave e o saltério.",
         "3": "Tocai a trombeta na lua nova, no tempo apontado da nossa solenidade.",
         "4": "Porque isto era um estatuto para Israel, e uma lei do Deus de Jacó.",

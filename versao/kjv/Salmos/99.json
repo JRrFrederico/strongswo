@@ -1,16 +1,18 @@
 {
     "livro": "Salmos",
     "capitulo": 99,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvor à santidade do Senhor"
+    },
     "versiculos": {
-        "1": "O SENHOR reina; tremem os povos; ele assenta entre os querubins; mova-se a terra.",
-        "2": "O SENHOR é grande em Sião; e está muito acima de todos os povos.",
-        "3": "Louvem o teu grande e terrível nome; pois ele é santo.",
-        "4": "A força do rei também ama o juízo; tu estabeleces a equidade; tu executas o juízo e a justiça em Jacó.",
-        "5": "Exaltai vós o SENHOR nosso Deus, e adorai em seu escabelo; pois ele é santo.",
-        "6": "Moisés e Arão entre os seus sacerdotes, e Samuel entre aqueles que clamam o seu nome; eles clamaram ao SENHOR, e ele os respondeu.",
-        "7": "Ele falou a eles na coluna de nuvem; eles guardaram os seus testemunhos, e a ordenança que ele lhes deu.",
-        "8": "Tu os respondeste, ó SENHOR, nosso Deus; tu foste um Deus que os perdoaste, embora tivesses vingado as suas invenções.",
-        "9": "Exaltai o SENHOR, nosso Deus, e adorai-o no seu santo monte, pois o SENHOR nosso Deus é santo."
+        "1": "O S ENHOR reina! As nações tremem! O seu trono está sobre os querubins! Estremeça toda a terra!",
+        "2": "O Eterno é magnífico em Sião, excelso sobre todos os povos.",
+        "3": "Celebrem eles o teu Nome, que é grande e inspira reverente adoração, pois é Santo!",
+        "4": "É Rei poderoso, que ama a justiça: tu estabeleceste a retidão; o direito e a equidade em Jacó, tu pessoalmente os instruíste!",
+        "5": "Exaltai o S ENHOR , o nosso Deus, prostrai-vos diante do estrado dos seus pés. Ele é Santo!",
+        "6": "Moisés e Arão estavam entre os seus sacerdotes; Samuel, entre os que invocavam seu Nome; eles clamavam pelo S ENHOR , e Ele lhes respondia.",
+        "7": "Da coluna de nuvem, lhes falava, e o povo obedecia a seus decretos e à Lei que lhes dera.",
+        "8": "S ENHOR , nosso Deus, tu lhes respondias, demonstrando ser Deus perdoador, ainda que os tenhas disciplinado, por causa de suas rebeliões.",
+        "9": "Exaltai o S ENHOR , o nosso Deus; prostrai-vos voltados em direção ao seu santo monte, porquanto o Eterno, o nosso Deus, é Santo!"
     }
 }

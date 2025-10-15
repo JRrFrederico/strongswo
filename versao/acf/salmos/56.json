@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 56,
-    "titulos": {},
+    "titulos": {
+        "1": "Confiança em Deus na angústia"
+    },
     "versiculos": {
-        "1": "Tem misericórdia de mim, ó Deus, porque o homem procura devorar-me; pelejando todo dia, me oprime.",
+        "1": "TEM misericórdia de mim, ó Deus, porque o homem procura devorar-me; pelejando todo dia, me oprime.",
         "2": "Os meus inimigos procuram devorar-me todo dia; pois são muitos os que pelejam contra mim, ó Altíssimo.",
         "3": "Em qualquer tempo em que eu temer, confiarei em ti.",
         "4": "Em Deus louvarei a sua palavra, em Deus pus a minha confiança; não temerei o que me possa fazer a carne.",

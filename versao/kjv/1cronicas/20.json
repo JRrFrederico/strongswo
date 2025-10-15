@@ -1,15 +1,18 @@
 {
     "livro": "1 Crônicas",
     "capitulo": 20,
-    "titulos": {},
+    "titulos": {
+        "1": "Davi conquista Rabá",
+        "4": "Gigantes mortos por Israel"
+    },
     "versiculos": {
-        "1": "E sucedeu que, tendo decorrido um ano, no tempo em que os reis saem para a batalha, Joabe levou adiante o poder do exército, e devastou a terra dos filhos de Amom, e veio e sitiou Rabá. Porém, Davi esperou em Jerusalém. E Joabe feriu Rabá, e a destruiu.",
-        "2": "E Davi tomou a coroa da cabeça do rei, e achou nela o peso de um talento de ouro, e nela havia pedras preciosas; e ela foi posta na cabeça de Davi; e ele também trouxe muitíssimo despojo da cidade.",
-        "3": "E ele retirou o povo que nela estava, e cortou-lhes com serras, e com grades de ferro, e com machados. Assim Davi tratou todas as cidades dos filhos de Amom. E Davi, e todo o povo, retornaram a Jerusalém.",
-        "4": "E sucedeu, depois disso, que se ergueu ali guerra em Gezer, com os filisteus; tempo no qual Sibecai, o husatita, matou Sipai, que era um dos filhos dos gigantes; e eles foram subjugados.",
-        "5": "E houve guerra novamente contra os filisteus; e Elanã, o filho de Jair, matou Lami, o irmão de Golias, o geteu, de cuja lança a vara era como um eixo de tecelão.",
-        "6": "E mais uma vez houve guerra em Gate, onde estava um homem de grande estatura, cujos dedos das mãos e pés eram vinte e quatro, seis em cada mão, e seis em cada pé; e ele era também filho de gigantes.",
-        "7": "Porém, quando ele desafiou Israel, Jônatas, o filho de Simeia, o irmão de Davi, o matou.",
-        "8": "Estes nasceram aos gigantes em Gate; e caíram pela mão de Davi, e pela mão dos seus servos."
+        "1": "Quando chegou a primavera seguinte, no tempo em que os reis costumam partir para suas batalhas, Joabe conduziu o seu exército até a terra dos amonitas e a destruiu por completo. Enquanto Davi ainda estava em Jerusalém, Joabe sitiou Rabá, a capital, atacou a cidade e deixou-a em ruínas.",
+        "2": "Davi tirou a coroa da cabeça de Moleque, o rei deles, uma coroa confeccionada em ouro puro, pesando trinta e cinco quilos, toda ornamentada com pedras preciosas. E, essa coroa foi colocada sobre a cabeça de Davi. Ele trouxe uma grande quantidade de bens da cidade,",
+        "3": "e trouxe também os seus moradores, encarregando-lhes a execução de uma série de tarefas específicas e trabalhos com serras, picaretas de ferro e machados. Davi agiu dessa mesma maneira com todas as cidades amonitas. E, mais tarde, retornou com todo o seu exército para Jerusalém.",
+        "4": "Logo depois desses acontecimentos, houve uma guerra contra os filisteus, em Gezer. Naquele tempo, Sibecai, de Husate, matou Sipai, um dos descendentes dos refains, os gigantes; e os filisteus foram subjugados.",
+        "5": "Mais tarde ocorreu uma outra guerra contra os filisteus e Elanã, filho de Jair, matou Lami, irmão de Golias, o gigante de Gate, que possuía uma lança cuja haste parecia uma lançadeira de tecelão.",
+        "6": "Ainda em outra batalha, na cidade de Gate, havia um homem de grande estatura e que possuía seis dedos em cada mão e seis dedos em cada pé; vinte e quatro dedos ao todo. Esse geteu também era descendente do gigante Rafa.",
+        "7": "E foi Jônatas, filho de Simeia, irmão de Davi, que o matou porque ele havia desafiado e insultado o povo de Israel.",
+        "8": "Esses homens enormes eram descendentes dos refains, os gigantes de Gate, e foram mortos por Davi e seus soldados."
     }
 }

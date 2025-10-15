@@ -1,17 +1,19 @@
 {
     "livro": "Salmos",
     "capitulo": 111,
-    "titulos": {},
+    "titulos": {
+        "1": "Louvor a Deus por suas obras"
+    },
     "versiculos": {
-        "1": "Louvai ao SENHOR. Eu louvarei o SENHOR com todo o meu coração, na assembleia dos retos e na congregação.",
-        "2": "As obras do SENHOR são grandes, buscadas por todos os que tem prazer nelas.",
-        "3": "Sua obra é honorável e gloriosa, e as suas justiças duram para sempre.",
-        "4": "Ele fez suas maravilhosas obras para serem lembradas; o SENHOR é gracioso e cheio de compaixão.",
-        "5": "Ele deu alimento àqueles que o temem; ele sempre será cuidadoso com o seu pacto.",
-        "6": "Ele mostrou ao seu povo o poder das suas obras; que ele pode lhes dar a herança dos pagãos.",
-        "7": "As obras de suas mãos são verdade e juízo; todos os seus mandamentos são certos.",
-        "8": "Eles são firmes para sempre e sempre, e se cumprem na verdade e na retidão.",
-        "9": "Ele enviou a redenção ao seu povo; comandou o seu pacto para sempre; santo e venerável é o seu nome.",
-        "10": "O temor do SENHOR é o princípio da sabedoria; um bom entendimento têm todos aqueles que cumprem os seus mandamentos; seu louvor dura para sempre."
+        "1": "Aleluia! De todo o coração, louvarei ao S ENHOR , na congregação dos justos e na assembleia dos que se reúnem para adorá-lo.",
+        "2": "Portentosas são as obras do S ENHOR , dignas de profunda meditação para quem as aprecia.",
+        "3": "Os feitos do Eterno são magníficos e majestosos, e sua justiça permanece para sempre.",
+        "4": "Ele fez memoráveis as suas maravilhas; o S ENHOR é misericordioso e compassivo.",
+        "5": "Provê o sustento dos que o temem; porquanto, tem sempre presente a lembrança da sua aliança.",
+        "6": "Revelou a seu povo suas obras grandiosas, confiando-lhes as terras das nações.",
+        "7": "As realizações de suas mãos são verdadeiras e justas, e todos os seus ensinamentos merecem absoluta confiança:",
+        "8": "são firmes para todo o sempre, a fim de serem cumpridos fiel e retamente.",
+        "9": "Ele trouxe redenção a seu povo, promulgou para sempre sua aliança. Seu Nome é Santo e inspira temor!",
+        "10": "O temor do S ENHOR é o princípio da sabedoria; todos os que cumprem seus preceitos demonstram bom senso. Ele será louvado por toda a eternidade!"
     }
 }

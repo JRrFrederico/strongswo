@@ -1,9 +1,14 @@
 {
     "livro": "Isaías",
     "capitulo": 45,
-    "titulos": {},
+    "titulos": {
+        "1": "Ciro é usado por Deus como rei",
+        "8": "Yahweh é o Criador e SENHOR",
+        "14": "Yahweh é o Único Salvador",
+        "20": "Yahweh: Senhor do Universo"
+    },
     "versiculos": {
-        "1": "Assim diz o Senhor ao seu ungido, a Ciro, a quem tomo pela mão direita, para abater as nações diante de sua face, e descingir os lombos dos reis, para abrir diante dele as portas, e as portas não se fecharão.",
+        "1": "ASSIM diz o Senhor ao seu ungido, a Ciro, a quem tomo pela mão direita, para abater as nações diante de sua face, e descingir os lombos dos reis, para abrir diante dele as portas, e as portas não se fecharão.",
         "2": "Eu irei adiante de ti, e endireitarei os caminhos tortuosos; quebrarei as portas de bronze, e despedaçarei os ferrolhos de ferro.",
         "3": "Dar-te-ei os tesouros escondidos, e as riquezas encobertas, para que saibas que eu sou o Senhor, o Deus de Israel, que te chama pelo teu nome.",
         "4": "Por amor de meu servo Jacó, e de Israel, meu eleito, eu te chamei pelo teu nome, pus o teu sobrenome, ainda que não me conhecesses.",

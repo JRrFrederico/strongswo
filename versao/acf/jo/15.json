@@ -1,9 +1,11 @@
 {
     "livro": "Jó",
     "capitulo": 15,
-    "titulos": {},
+    "titulos": {
+        "1": "Elifaz censura as palavras de Jó"
+    },
     "versiculos": {
-        "1": "Então respondeu Elifaz o temanita, e disse:",
+        "1": "ENTÃO respondeu Elifaz o temanita, e disse:",
         "2": "Porventura proferirá o sábio vã sabedoria? E encherá do vento oriental o seu ventre,",
         "3": "Arguindo com palavras que de nada servem, e com razões, de que nada aproveita?",
         "4": "E tu tens feito vão o temor, e diminuis os rogos diante de Deus.",

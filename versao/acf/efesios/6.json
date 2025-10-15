@@ -1,9 +1,14 @@
 {
     "livro": "Efésios",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "Caminhando como pais e filhos",
+        "5": "Caminhando como servos",
+        "10": "Caminhando com a Armadura",
+        "21": "Saudações e a bênção apostólica"
+    },
     "versiculos": {
-        "1": "Vós, filhos, sede obedientes a vossos pais no Senhor, porque isto é justo.",
+        "1": "VÓS, filhos, sede obedientes a vossos pais no Senhor, porque isto é justo.",
         "2": "Honra a teu pai e a tua mãe, que é o primeiro mandamento com promessa;",
         "3": "Para que te vá bem, e vivas muito tempo sobre a terra.",
         "4": "E vós, pais, não provoqueis à ira a vossos filhos, mas criai-os na doutrina e admoestação do Senhor.",

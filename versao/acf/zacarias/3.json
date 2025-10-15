@@ -1,9 +1,11 @@
 {
     "livro": "Zacarias",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "Quarta visão: Vestes sacerdotais"
+    },
     "versiculos": {
-        "1": "E ele mostrou-me o sumo sacerdote Josué, o qual estava diante do anjo do Senhor, e Satanás estava à sua mão direita, para se lhe opor.",
+        "1": "E ELE mostrou-me o sumo sacerdote Josué, o qual estava diante do anjo do Senhor, e Satanás estava à sua mão direita, para se lhe opor.",
         "2": "Mas o Senhor disse a Satanás: O Senhor te repreenda, ó Satanás, sim, o Senhor, que escolheu Jerusalém, te repreenda; não é este um tição tirado do fogo?",
         "3": "Josué, vestido de vestes sujas, estava diante do anjo.",
         "4": "Então respondeu, aos que estavam diante dele, dizendo: Tirai-lhe estas vestes sujas. E a Josué disse: Eis que tenho feito com que passe de ti a tua iniquidade, e te vestirei de vestes finas.",

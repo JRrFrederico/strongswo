@@ -1,9 +1,14 @@
 {
     "livro": "Filipenses",
     "capitulo": 2,
-    "titulos": {},
+    "titulos": {
+        "1": "O humilde e fraterno amor cristão",
+        "5": "Cristo, sendo Deus, humilhou-se",
+        "12": "Os cristãos devem resplandecer",
+        "19": "Paulo envia homens de Deus"
+    },
     "versiculos": {
-        "1": "Portanto, se há algum conforto em Cristo, se alguma consolação de amor, se alguma comunhão no Espírito, se alguns entranháveis afetos e compaixões,",
+        "1": "PORTANTO, se há algum conforto em Cristo, se alguma consolação de amor, se alguma comunhão no Espírito, se alguns entranháveis afetos e compaixões,",
         "2": "Completai o meu gozo, para que sintais o mesmo, tendo o mesmo amor, o mesmo ânimo, sentindo uma mesma coisa.",
         "3": "Nada façais por contenda ou por vanglória, mas por humildade; cada um considere os outros superiores a si mesmo.",
         "4": "Não atente cada um para o que é propriamente seu, mas cada qual também para o que é dos outros.",

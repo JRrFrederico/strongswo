@@ -1,25 +1,28 @@
 {
     "livro": "Neemias",
     "capitulo": 8,
-    "titulos": {},
+    "titulos": {
+        "1": "Esdras lê a Torá com todo o povo",
+        "13": "A festa das Tendas ou Tabernáculos"
+    },
     "versiculos": {
-        "1": "E todo o povo se reuniu como um só homem na rua que estava diante do portão da água; e eles falaram a Esdras, o escriba, para trazer o livro da lei de Moisés, a qual o SENHOR havia ordenado a Israel.",
-        "2": "E o sacerdote Esdras trouxe a lei diante da congregação, tanto de homens, quanto de mulheres, e de todos que podiam ouvir com entendimento, no primeiro dia do sétimo mês.",
-        "3": "E ele leu ali, diante da rua que estava diante do portão da água, desde a manhã até o meio-dia, diante dos homens e das mulheres, e daqueles que conseguiam entender; e os ouvidos de todo o povo estavam atentos ao livro da lei.",
-        "4": "E Esdras, o escriba, pôs-se em pé sobre um púlpito de madeira, o qual eles haviam feito para o propósito; e ao seu lado pôs-se em pé à sua direita, Matitias, e Sema, e Anaías, e Urias, e Hilquias, e Maaseias; e à sua esquerda, Pedaías, e Misael, e Malquias, e Hasum, e Hasbadana, Zacarias e Mesulão.",
-        "5": "E Esdras abriu o livro à vista de todo o povo; e abrindo-o ele, todo o povo se pôs em pé;",
-        "6": "e Esdras bendisse o SENHOR, o grande Deus. E todo o povo respondeu: Amém, amém, erguendo as suas mãos; e eles curvaram as suas cabeças, e adoraram o SENHOR com as suas faces voltadas para o chão.",
-        "7": "Além disso Jesuá, e Bani, e Serebias, Jamim, Acube, Sabetai, Hodias, Maaseias, Quelita, Azarias, Jozabade, Hanã, Pelaías, e os levitas, fizeram com que o povo entendesse a lei; e o povo se pôs em pé no seu lugar.",
-        "8": "Assim, eles liam no livro da lei de Deus distintamente, e davam sentido, e faziam com que eles entendessem a leitura.",
-        "9": "E Neemias, que é o tirsata, e o sacerdote Esdras, o escriba, e os levitas que ensinavam o povo, disseram a todo o povo: Este dia é santo ao SENHOR vosso Deus; não vos lamenteis, nem pranteeis. Porque todo o povo chorou, quando ouviram as palavras da lei.",
-        "10": "Então lhes disse: Segui o vosso caminho, comei a gordura, e bebei a doçura, e enviai porções para aqueles que nada foi preparado; porque este dia é santo ao nosso Senhor; nem estejais contritos; porquanto a alegria do SENHOR é a vossa força.",
-        "11": "Assim, os levitas silenciaram todo o povo, dizendo: Retenhais a vossa paz, porque o dia é santo; tampouco fiqueis angustiados.",
-        "12": "E todo o povo seguiu o seu caminho para comer, e beber, e para enviar porções, e para fazer grande júbilo, porque eles haviam entendido as palavras que lhes foram declaradas.",
-        "13": "E no segundo dia foram reunidos os chefes dos pais de todo o povo, os sacerdotes, e os levitas, a Esdras, o escriba; a saber, para entenderem as palavras da lei.",
-        "14": "E eles acharam escrito na lei que o SENHOR havia ordenado por Moisés, que os filhos de Israel deveriam habitar em tendas na festa do sétimo mês;",
-        "15": "e que eles deveriam publicar e proclamar em todas as suas cidades, e em Jerusalém, dizendo: Saí para o monte, e apanhai ramos de oliveira, e ramos de pinheiro, e ramos de murtas, e ramos de palmeira, e ramos de árvores espessas, para fazer tendas, como está escrito.",
-        "16": "Assim o povo saiu, e os trouxeram, e fizeram para si tendas, cada um sobre o telhado da sua casa, e nos seus átrios, e nos átrios da casa de Deus, e na rua do portão da água, e na rua do portão de Efraim.",
-        "17": "E toda a congregação daqueles que tinham voltado do cativeiro fez tendas, e se assentou debaixo das tendas; porque não tinham feito assim os filhos de Israel, desde os dias de Josué, filho de Num, até aquele dia. E houve mui grande alegria.",
-        "18": "Além disso, dia após dia, do primeiro dia até o último dia, ele lia no livro da lei de Deus. E eles guardaram a festa dos sete dias; e no oitavo dia houve uma assembleia solene, de acordo com o costume."
+        "1": "Então, como se fosse uma só alma, todo o povo se reuniu na praça central, diante do Portão das Águas. E rogaram a Ezrá , Esdras, o escriba e mestre, que trouxesse o Livro da Torá , Lei de Moisés, que Yahweh , o S ENHOR , dera a Israel.",
+        "2": "E assim, no primeiro dia do sétimo mês, o sacerdote Esdras trouxe a Torá , Lei e apresentou-a diante de toda a congregação, que era composta de homens, mulheres, crianças e todos os que podiam entender a leitura.",
+        "3": "Ele leu a Torá , Lei, com grande voz, de frente para a praça, em frente ao portal das Águas, na presença de todos os homens, mulheres e crianças que já tinham idade para compreender.",
+        "4": "Esdras, o mestre, estava posicionado sobre uma plataforma elevada, de madeira, construída especialmente para a ocasião. Ao seu lado, à direita, estavam Matitias, Sema, Anaias, Urias, Hilquias e Maaseias; e à esquerda colocaram-se Pedaías, Misael, Malquias, Hasum, Hasbadana, Zacarias e Mesulão.",
+        "5": "Então, do alto do palanque, Esdras abriu a Torá diante de todo o povo, e todos podiam vê-lo perfeitamente. E assim que abriu o Livro, todo o povo se colocou em pé em sinal de reverência.",
+        "6": "Em seguida Esdras louvou a Yahweh , o grande Deus, e todo o povo ergueu as mãos e respondeu a uma só voz: “ Amen , Amen , Assim Seja! Verdade!” Então eles adoraram a Yahweh , o S ENHOR , prostrados, com as faces encostadas no chão.",
+        "7": "Os levitas Jesua, Bani, Serebias, Jamim, Acube, Sabetai, Hodias, Maaseias, Quelita, Azarias, Jozabade, Hanã e Pelaías, orientaram a população quanto à aplicação da Lei na vida diária, e todos permaneceram ali.",
+        "8": "Leram o Livro da Torá , Lei de Deus, interpretando-o e explicando-o, a fim de que todos os habitantes da cidade pudessem compreender bem os ensinos e prescrições que ouviam.",
+        "9": "Então Neemias, o governador, e Esdras o sacerdote e escriba, juntamente com todos os levitas que estavam instruindo o povo declararam à multidão: “Este dia é consagrado a Yahweh , o S ENHOR vosso Deus; não vos entristeceis nem pranteeis!” Pois todo o povo chorava e lamentava os erros cometidos enquanto ouvia as palavras da Torá , Lei.",
+        "10": "E Neemias aproveitou a exortação e dispensou o povo, recomendando: “Agora, pois, ide, comei e bebei, gorduras e doçuras, provai do melhor que tiverdes e enviai algo aos que não têm nada preparado para si, pois este dia é santificado a Yahweh , nosso S ENHOR . Sendo assim, não vos entristeçais. Eis que a alegria do Eterno é a vossa força!”",
+        "11": "Então os levitas acalmaram todas as pessoas da assembleia, explicando: “Acalmai-vos e ficai em paz, porquanto este dia é santo. Não vos aflijais nem vos amedrontais!”",
+        "12": "E, logo depois, o povo começou a sair dali para comer, beber e distribuir porções de alimento a todos quantos não tinham conseguido arranjar sua própria comida. E todos comemoraram com grande alegria, pois atenderam de coração as palavras que lhes haviam sido ministradas.",
+        "13": "No segundo dia do mês, os chefes de famílias de todo o povo, os sacerdotes e os levitas reuniram-se com o mestre Esdras para ouvirem a exposição da Torá , Lei e seus ensinos.",
+        "14": "Então descobriram no texto da Torá , Lei, que Yahweh , o S ENHOR , havia ordenado, por intermédio de Moisés, que os israelitas habitassem em tabernáculos, cabanas, durante a festa do sétimo mês.",
+        "15": "Por esse motivo, proclamaram em todas as suas cidades e em Jerusalém: “Saí ao monte e trazei ramos de oliveiras, ramos de zambujeiros, ramos de árvores frondosas, para fazerdes tendas, segundo as orientações do que está escrito.",
+        "16": "Então o povo saiu e trouxe os ramos e eles mesmos construíram cabanas nos terraços de suas casas, nos seus pátios, nos pátios da Casa de Deus e na praça junto ao Portão das Águas e na que fica próximo ao Portão de Efraim.",
+        "17": "Toda a congregação dos que tinham retornado do cativeiro armou suas barracas e nelas habitou. Desde os dias de Josué, filho de Num, até aquele dia, os israelitas não haviam mais celebrado deste modo. Por isso, o júbilo que expressavam era especial.",
+        "18": "E Esdras leu a Torá , o Livro da Lei de Deus, todos os dias, desde o primeiro até o último. E eles comemoraram com uma festa que durou sete dias, e no oitavo dia houve uma assembleia solene, tudo de acordo com o que estava prescrito."
     }
 }

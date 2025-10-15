@@ -1,9 +1,11 @@
 {
     "livro": "Isaías",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Oráculo contra a Babilônia"
+    },
     "versiculos": {
-        "1": "Peso de Babilônia, que viu Isaías, filho de Amós.",
+        "1": "PESO de Babilônia, que viu Isaías, filho de Amós.",
         "2": "Alçai uma bandeira sobre o monte elevado, levantai a voz para eles; acenai-lhes com a mão, para que entrem pelas portas dos nobres.",
         "3": "Eu dei ordens aos meus santificados; sim, já chamei os meus poderosos para executarem a minha ira, os que exultam com a minha majestade.",
         "4": "Já se ouve a gritaria da multidão sobre os montes, como a de muito povo; o som do rebuliço de reinos e de nações congregados. O Senhor dos Exércitos passa em revista o exército de guerra.",

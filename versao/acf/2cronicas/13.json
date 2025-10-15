@@ -1,9 +1,11 @@
 {
     "livro": "2 Crônicas",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "Deus entrega Israel à Judá"
+    },
     "versiculos": {
-        "1": "No ano décimo oitavo do rei Jeroboão, Abias começou a reinar sobre Judá.",
+        "1": "NO ano décimo oitavo do rei Jeroboão, Abias começou a reinar sobre Judá.",
         "2": "Três anos reinou em Jerusalém; e era o nome de sua mãe Micaía, filha de Uriel de Gibeá; e houve guerra entre Abias e Jeroboão.",
         "3": "E Abias ordenou a peleja com um exército de valentes guerreiros, quatrocentos mil homens escolhidos; e Jeroboão dispôs contra ele a batalha com oitocentos mil homens escolhidos, todos homens corajosos.",
         "4": "E pôs-se Abias em pé em cima do monte de Zemaraim, que está na montanha de Efraim, e disse: Ouvi-me, Jeroboão e todo o Israel:",

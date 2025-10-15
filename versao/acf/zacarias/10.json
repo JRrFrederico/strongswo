@@ -1,9 +1,11 @@
 {
     "livro": "Zacarias",
     "capitulo": 10,
-    "titulos": {},
+    "titulos": {
+        "1": "O carinho de Yahweh por Judá"
+    },
     "versiculos": {
-        "1": "Pedi ao Senhor chuva no tempo da chuva serôdia, sim, ao Senhor que faz relâmpagos; e lhes dará chuvas abundantes, e a cada um erva no campo.",
+        "1": "PEDI ao Senhor chuva no tempo da chuva serôdia, sim, ao Senhor que faz relâmpagos; e lhes dará chuvas abundantes, e a cada um erva no campo.",
         "2": "Porque os ídolos têm falado vaidade, e os adivinhos têm visto mentira, e contam sonhos falsos; com vaidade consolam, por isso seguem o seu caminho como ovelhas; estão aflitos, porque não há pastor.",
         "3": "Contra os pastores se acendeu a minha ira, e castigarei os bodes; mas o Senhor dos Exércitos visitará o seu rebanho, a casa de Judá, e os fará como o seu majestoso cavalo na peleja.",
         "4": "Dele sairá a pedra de esquina, dele a estaca, dele o arco de guerra, dele juntamente sairá todo o opressor.",

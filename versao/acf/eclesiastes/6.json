@@ -1,9 +1,11 @@
 {
     "livro": "Eclesiastes",
     "capitulo": 6,
-    "titulos": {},
+    "titulos": {
+        "1": "A vida passa como uma sombra"
+    },
     "versiculos": {
-        "1": "Há um mal que tenho visto debaixo do sol, e é mui frequente entre os homens:",
+        "1": "HÁ um mal que tenho visto debaixo do sol, e é mui frequente entre os homens:",
         "2": "Um homem a quem Deus deu riquezas, bens e honra, e nada lhe falta de tudo quanto a sua alma deseja, e Deus não lhe dá poder para daí comer, antes o estranho lho come; também isto é vaidade e má enfermidade.",
         "3": "Se o homem gerar cem filhos, e viver muitos anos, e os dias dos seus anos forem muitos, e se a sua alma não se fartar do bem, e além disso não tiver sepultura, digo que um aborto é melhor do que ele.",
         "4": "Porquanto em vão veio, e em trevas se vai, e de trevas se cobre o seu nome.",

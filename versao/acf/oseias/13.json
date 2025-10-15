@@ -1,9 +1,11 @@
 {
     "livro": "Oséias",
     "capitulo": 13,
-    "titulos": {},
+    "titulos": {
+        "1": "A ira de Yahweh contra Israel"
+    },
     "versiculos": {
-        "1": "Quando Efraim falava, tremia-se; foi exaltado em Israel; mas ele se fez culpado em Baal, e morreu.",
+        "1": "QUANDO Efraim falava, tremia-se; foi exaltado em Israel; mas ele se fez culpado em Baal, e morreu.",
         "2": "E agora multiplicaram pecados, e da sua prata fizeram uma imagem de fundição, ídolos segundo o seu entendimento, todos obra de artífices, dos quais dizem: Os homens que sacrificam beijem os bezerros.",
         "3": "Por isso serão como a nuvem da manhã, e como o orvalho da madrugada, que cedo passa; como folhelho que a tempestade lança da eira, e como a fumaça da chaminé.",
         "4": "Todavia, eu sou o Senhor teu Deus desde a terra do Egito; portanto não reconhecerás outro deus além de mim, porque não há Salvador senão eu.",

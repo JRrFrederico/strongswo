@@ -1,9 +1,12 @@
 {
     "livro": "Números",
     "capitulo": 33,
-    "titulos": {},
+    "titulos": {
+        "1": "A peregrinação desde o Egito",
+        "50": "Regras para a partilha de Canaã"
+    },
     "versiculos": {
-        "1": "Estas são as jornadas dos filhos de Israel, que saíram da terra do Egito, segundo os seus exércitos, sob a direção de Moisés e Arão.",
+        "1": "ESTAS são as jornadas dos filhos de Israel, que saíram da terra do Egito, segundo os seus exércitos, sob a direção de Moisés e Arão.",
         "2": "E escreveu Moisés as suas saídas, segundo as suas jornadas, conforme ao mandado do Senhor; e estas são as suas jornadas, segundo as suas saídas.",
         "3": "Partiram, pois, de Ramessés no primeiro mês, no dia quinze do primeiro mês; no dia seguinte da páscoa saíram os filhos de Israel por alta mão, aos olhos de todos os egípcios,",
         "4": "Enquanto os egípcios enterravam os que o Senhor tinha ferido entre eles, a todo o primogênito, e havendo o Senhor executado juízos também contra os seus deuses.",

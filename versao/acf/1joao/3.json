@@ -1,9 +1,12 @@
 {
     "livro": "1 João",
     "capitulo": 3,
-    "titulos": {},
+    "titulos": {
+        "1": "A vida santa dos filhos de Deus",
+        "11": "A marca do cristão: o amor"
+    },
     "versiculos": {
-        "1": "Vede quão grande amor nos tem concedido o Pai, que fôssemos chamados filhos de Deus. Por isso o mundo não nos conhece; porque não o conhece a ele.",
+        "1": "VEDE quão grande amor nos tem concedido o Pai, que fôssemos chamados filhos de Deus. Por isso o mundo não nos conhece; porque não o conhece a ele.",
         "2": "Amados, agora somos filhos de Deus, e ainda não é manifestado o que havemos de ser. Mas sabemos que, quando ele se manifestar, seremos semelhantes a ele; porque assim como é o veremos.",
         "3": "E qualquer que nele tem esta esperança purifica-se a si mesmo, como também ele é puro.",
         "4": "Qualquer que pratica o pecado, também transgride a lei; porque o pecado é a transgressão da lei.",
@@ -18,7 +21,7 @@
         "13": "Meus irmãos, não vos maravilheis, se o mundo vos odeia.",
         "14": "Nós sabemos que passamos da morte para a vida, porque amamos os irmãos. Quem não ama a seu irmão permanece na morte.",
         "15": "Qualquer que odeia a seu irmão é homicida. E vós sabeis que nenhum homicida tem a vida eterna permanecendo nele.",
-        "16": "Conhecemos o amor nisto: que ele deu a sua vida por nós, e nós devemos dar a vida pelos irmãos.",
+        "16": "Conhecemos o amor nisto: Que ele deu a sua vida por nós, e nós devemos dar a vida pelos irmãos.",
         "17": "Quem, pois, tiver bens do mundo, e, vendo o seu irmão necessitado, lhe cerrar as suas entranhas, como reside nele o amor de Deus?",
         "18": "Meus filhinhos, não amemos de palavra, nem de língua, mas em obra e em verdade.",
         "19": "E nisto conhecemos que somos da verdade, e diante dele estaremos seguros em nossos corações;",

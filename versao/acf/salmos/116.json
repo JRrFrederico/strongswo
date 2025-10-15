@@ -1,9 +1,11 @@
 {
     "livro": "Salmos",
     "capitulo": 116,
-    "titulos": {},
+    "titulos": {
+        "1": "Ações de graças pela salvação"
+    },
     "versiculos": {
-        "1": "Amo ao Senhor, porque ele ouviu a minha voz e a minha súplica.",
+        "1": "AMO ao Senhor, porque ele ouviu a minha voz e a minha súplica.",
         "2": "Porque inclinou a mim os seus ouvidos; portanto, o invocarei enquanto viver.",
         "3": "Os cordéis da morte me cercaram, e angústias do inferno se apoderaram de mim; encontrei aperto e tristeza.",
         "4": "Então invoquei o nome do Senhor, dizendo: Ó Senhor, livra a minha alma.",
