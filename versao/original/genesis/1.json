@@ -1,363 +1,521 @@
-[
-  {
-    "livro": "Gênesis - בְּרֵאשִׁית - Bereshit",
-    "capitulo": 1,
-    "titulos": {},
-    "versiculos": {
-      "1": {
-        "traducao_completa": "No princípio, criou Deus os céus e a terra.",
-        "palavras": [
-          { "hebraico": "בְּרֵאשִׁית", "transliteral": "BERESHIT", "traducao_palavra": "No princípio" },
-          { "hebraico": "בָּרָא", "transliteral": "BARA", "traducao_palavra": "criou" },
-          { "hebraico": "אֱלֹהִים", "transliteral": "ELOHIM", "traducao_palavra": "Deus" },
-          { "hebraico": "אֵת הַשָּׁמַיִם", "transliteral": "ET HASHAMAYIM", "traducao_palavra": "os céus" },
-          { "hebraico": "וְאֵת הָאָרֶץ", "transliteral": "VE'ET HA'ARETZ", "traducao_palavra": "e a terra" }
-        ]
-      },
-      "2": {
-        "traducao_completa": "E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.",
-        "palavras": [
-          { "hebraico": "וְהָאָרֶץ", "transliteral": "VEHA'ARETZ", "traducao_palavra": "E a terra" },
-          { "hebraico": "הָיְתָה", "transliteral": "HAYTAH", "traducao_palavra": "era" },
-          { "hebraico": "תֹהוּ וָבֹהוּ", "transliteral": "TOHU VAVOHU", "traducao_palavra": "sem forma e vazia" },
-          { "hebraico": "וְחֹשֶׁךְ", "transliteral": "VECHOSHECH", "traducao_palavra": "e havia trevas" },
-          { "hebraico": "עַל פְּנֵי תְהוֹם", "transliteral": "AL PENEI TEHOM", "traducao_palavra": "sobre a face do abismo" },
-          { "hebraico": "וְרוּחַ אֱלֹהִים", "transliteral": "VERUACH ELOHIM", "traducao_palavra": "e o Espírito de Deus" },
-          { "hebraico": "מְרַחֶפֶת", "transliteral": "MERACHEFET", "traducao_palavra": "se movia" },
-          { "hebraico": "עַל פְּנֵי הַמָּיִם", "transliteral": "AL PENEI HAMAYIM", "traducao_palavra": "sobre a face das águas" }
-        ]
-      },
-      "3": {
-        "traducao_completa": "E disse Deus: Haja luz; e houve luz.",
-        "palavras": [
-          { "hebraico": "וַיֹּאמֶר אֱלֹהִים", "transliteral": "VAYOMER ELOHIM", "traducao_palavra": "E disse Deus" },
-          { "hebraico": "יְהִי אוֹר", "transliteral": "YEHI OR", "traducao_palavra": "Haja luz" },
-          { "hebraico": "וַיְהִי אוֹר", "transliteral": "VAYHI OR", "traducao_palavra": "e houve luz" }
-        ]
-      },
-      "4": {
-        "traducao_completa": "E viu Deus que a luz era boa; e Deus separou a luz das trevas.",
-        "palavras": [
-          { "hebraico": "וַיַּרְא אֱלֹהִים", "transliteral": "VAYAR ELOHIM", "traducao_palavra": "E viu Deus" },
-          { "hebraico": "אֶת הָאוֹר", "transliteral": "ET HA'OR", "traducao_palavra": "que a luz" },
-          { "hebraico": "כִּי טוֹב", "transliteral": "KI TOV", "traducao_palavra": "era boa" },
-          { "hebraico": "וַיַּבְדֵּל אֱלֹהִים", "transliteral": "VAYAVDEL ELOHIM", "traducao_palavra": "e Deus separou" },
-          { "hebraico": "בֵּין הָאוֹר", "transliteral": "BEIN HA'OR", "traducao_palavra": "a luz" },
-          { "hebraico": "וּבֵין הַחֹשֶׁךְ", "transliteral": "UBEIN HACHOSHECH", "traducao_palavra": "das trevas" }
-        ]
-      },
-      "5": {
-        "traducao_completa": "E Deus chamou à luz Dia, e às trevas chamou Noite. E foi a tarde e a manhã, o dia primeiro.",
-        "palavras": [
-          { "hebraico": "וַיִּקְרָא אֱלֹהִים", "transliteral": "VAYIQRA ELOHIM", "traducao_palavra": "E Deus chamou" },
-          { "hebraico": "לָאוֹר יוֹם", "transliteral": "LA'OR YOM", "traducao_palavra": "à luz Dia" },
-          { "hebraico": "וְלַחֹשֶׁךְ קָרָא לָיְלָה", "transliteral": "VELACHOSHECH QARA LAYLAH", "traducao_palavra": "e às trevas chamou Noite" },
-          { "hebraico": "וַיְהִי עֶרֶב וַיְהִי בֹקֶר", "transliteral": "VAYHI EREV VAYHI BOQER", "traducao_palavra": "E foi a tarde e a manhã" },
-          { "hebraico": "יוֹם אֶחָד", "transliteral": "YOM ECHAD", "traducao_palavra": "o dia primeiro" }
-        ]
-      },
-      "6": {
-        "traducao_completa": "E disse Deus: Haja uma expansão no meio das águas, e haja separação entre águas e águas.",
-        "palavras": [
-          { "hebraico": "וַיֹּאמֶר אֱלֹהִים", "transliteral": "VAYOMER ELOHIM", "traducao_palavra": "E disse Deus" },
-          { "hebraico": "יְהִי רָקִיעַ", "transliteral": "YEHI RAQIA", "traducao_palavra": "Haja uma expansão" },
-          { "hebraico": "בְּתוֹךְ הַמָּיִם", "transliteral": "BETOCH HAMAYIM", "traducao_palavra": "no meio das águas" },
-          { "hebraico": "וִיהִי מַבְדִּיל", "transliteral": "VIHI MAVDIL", "traducao_palavra": "e haja separação" },
-          { "hebraico": "בֵּין מַיִם לָמָיִם", "transliteral": "BEIN MAYIM LAMAYIM", "traducao_palavra": "entre águas e águas" }
-        ]
-      },
-      "7": {
-        "traducao_completa": "E fez Deus a expansão, e separou as águas que estavam debaixo da expansão das águas que estavam sobre a expansão; e assim foi.",
-        "palavras": [
-          { "hebraico": "וַיַּעַשׂ אֱלֹהִים", "transliteral": "VAYA'AS ELOHIM", "traducao_palavra": "E fez Deus" },
-          { "hebraico": "אֶת הָרָקִיעַ", "transliteral": "ET HARAQIA", "traducao_palavra": "a expansão" },
-          { "hebraico": "וַיַּבְדֵּל", "transliteral": "VAYAVDEL", "traducao_palavra": "e separou" },
-          { "hebraico": "בֵּין הַמַּיִם", "transliteral": "BEIN HAMAYIM", "traducao_palavra": "as águas" },
-          { "hebraico": "אֲשֶׁר מִתַּחַת לָרָקִיעַ", "transliteral": "ASHER MITACHAT LARAQIA", "traducao_palavra": "que estavam debaixo da expansão" },
-          { "hebraico": "וּבֵין הַמַּיִם", "transliteral": "UBEIN HAMAYIM", "traducao_palavra": "das águas" },
-          { "hebraico": "אֲשֶׁר מֵעַל לָרָקִיעַ", "transliteral": "ASHER ME'AL LARAQIA", "traducao_palavra": "que estavam sobre a expansão" },
-          { "hebraico": "וַיְהִי כֵן", "transliteral": "VAYHI KEN", "traducao_palavra": "e assim foi" }
-        ]
-      },
-      "8": {
-        "traducao_completa": "E Deus chamou à expansão Céus; e foi a tarde e a manhã, o dia segundo.",
-        "palavras": [
-          { "hebraico": "וַיִּקְרָא אֱלֹהִים", "transliteral": "VAYIQRA ELOHIM", "traducao_palavra": "E Deus chamou" },
-          { "hebraico": "לָרָקִיעַ שָׁמָיִם", "transliteral": "LARAQIA SHAMAYIM", "traducao_palavra": "à expansão Céus" },
-          { "hebraico": "וַיְהִי עֶרֶב וַיְהִי בֹקֶר", "transliteral": "VAYHI EREV VAYHI BOQER", "traducao_palavra": "e foi a tarde e a manhã" },
-          { "hebraico": "יוֹם שֵׁנִי", "transliteral": "YOM SHENI", "traducao_palavra": "o dia segundo" }
-        ]
-      },
-      "9": {
-        "traducao_completa": "E disse Deus: Ajuntem-se as águas debaixo dos céus num lugar; e apareça a porção seca; e assim foi.",
-        "palavras": [
-          { "hebraico": "וַיֹּאמֶר אֱלֹהִים", "transliteral": "VAYOMER ELOHIM", "traducao_palavra": "E disse Deus" },
-          { "hebraico": "יִקָּווּ הַמַּיִם", "transliteral": "YIQQAVU HAMAYIM", "traducao_palavra": "Ajuntem-se as águas" },
-          { "hebraico": "מִתַּחַת הַשָּׁמַיִם", "transliteral": "MITACHAT HASHAMAYIM", "traducao_palavra": "debaixo dos céus" },
-          { "hebraico": "אֶל מָקוֹם אֶחָד", "transliteral": "EL MAQOM ECHAD", "traducao_palavra": "num lugar" },
-          { "hebraico": "וְתֵרָאֶה הַיַּבָּשָׁה", "transliteral": "VETERAHEH HAYABBASHAH", "traducao_palavra": "e apareça a porção seca" },
-          { "hebraico": "וַיְהִי כֵן", "transliteral": "VAYHI KEN", "traducao_palavra": "e assim foi" }
-        ]
-      },
-      "10": {
-        "traducao_completa": "E Deus chamou à porção seca Terra; e ao ajuntamento das águas chamou Mares; e viu Deus que era bom.",
-        "palavras": [
-          { "hebraico": "וַיִּקְרָא אֱלֹהִים", "transliteral": "VAYIQRA ELOHIM", "traducao_palavra": "E Deus chamou" },
-          { "hebraico": "לַיַּבָּשָׁה אֶרֶץ", "transliteral": "LAYABBASHAH ERETZ", "traducao_palavra": "à porção seca Terra" },
-          { "hebraico": "וּלְמִקְוֵה הַמַּיִם", "transliteral": "ULEMIQVEH HAMAYIM", "traducao_palavra": "e ao ajuntamento das águas" },
-          { "hebraico": "קָרָא יַמִּים", "transliteral": "QARA YAMIM", "traducao_palavra": "chamou Mares" },
-          { "hebraico": "וַיַּרְא אֱלֹהִים", "transliteral": "VAYAR ELOHIM", "traducao_palavra": "e viu Deus" },
-          { "hebraico": "כִּי טוֹב", "transliteral": "KI TOV", "traducao_palavra": "que era bom" }
-        ]
-      },
-      "11": {
-        "traducao_completa": "E disse Deus: Produza a terra erva verde, erva que dê semente, árvore frutífera que dê fruto segundo a sua espécie, cuja semente esteja nela sobre a terra; e assim foi.",
-        "palavras": [
-          { "hebraico": "וַיֹּאמֶר אֱלֹהִים", "transliteral": "VAYOMER ELOHIM", "traducao_palavra": "E disse Deus" },
-          { "hebraico": "תַּדְשֵׁא הָאָרֶץ", "transliteral": "TADSHÉ HA'ARETZ", "traducao_palavra": "Produza a terra" },
-          { "hebraico": "דֶּשֶׁא עֵשֶׂב", "transliteral": "DESHE ESEV", "traducao_palavra": "erva verde, erva" },
-          { "hebraico": "מַזְרִיעַ זֶרַע", "transliteral": "MAZRIA ZERA", "traducao_palavra": "que dê semente" },
-          { "hebraico": "עֵץ פְּרִי עֹשֶׂה", "transliteral": "ETZ PERI OSEH", "traducao_palavra": "árvore frutífera que dê fruto" },
-          { "hebraico": "פְּרִי לְמִינוֹ", "transliteral": "PERI LEMINO", "traducao_palavra": "segundo a sua espécie" },
-          { "hebraico": "אֲשֶׁר זַרְעוֹ בוֹ", "transliteral": "ASHER ZAR'O BO", "traducao_palavra": "cuja semente esteja nela" },
-          { "hebraico": "עַל הָאָרֶץ", "transliteral": "AL HA'ARETZ", "traducao_palavra": "sobre a terra" },
-          { "hebraico": "וַיְהִי כֵן", "transliteral": "VAYHI KEN", "traducao_palavra": "e assim foi" }
-        ]
-      },
-      "12": {
-        "traducao_completa": "E a terra produziu erva, erva que dá semente segundo a sua espécie, e árvore frutífera cuja semente está nela, segundo a sua espécie; e viu Deus que era bom.",
-        "palavras": [
-          { "hebraico": "וַתּוֹצֵא הָאָרֶץ", "transliteral": "VATOTZE HA'ARETZ", "traducao_palavra": "E a terra produziu" },
-          { "hebraico": "דֶּשֶׁא עֵשֶׂב", "transliteral": "DESHE ESEV", "traducao_palavra": "erva, erva" },
-          { "hebraico": "מַזְרִיעַ זָרַע", "transliteral": "MAZRIA ZARA", "traducao_palavra": "que dá semente" },
-          { "hebraico": "לְמִינֵהוּ", "transliteral": "LEMINEHU", "traducao_palavra": "segundo a sua espécie" },
-          { "hebraico": "וְעֵץ עֹשֶׂה", "transliteral": "VE'ETZ OSEH", "traducao_palavra": "e árvore frutífera" },
-          { "hebraico": "פְּרִי אֲשֶׁר זַרְעוֹ בוֹ", "transliteral": "PERI ASHER ZAR'O BO", "traducao_palavra": "cuja semente está nela" },
-          { "hebraico": "לְמִינֵהוּ", "transliteral": "LEMINEHU", "traducao_palavra": "segundo a sua espécie" },
-          { "hebraico": "וַיַּרְא אֱלֹהִים", "transliteral": "VAYAR ELOHIM", "traducao_palavra": "e viu Deus" },
-          { "hebraico": "כִּי טוֹב", "transliteral": "KI TOV", "traducao_palavra": "que era bom" }
-        ]
-      },
-      "13": {
-        "traducao_completa": "E foi a tarde e a manhã, o dia terceiro.",
-        "palavras": [
-          { "hebraico": "וַיְהִי עֶרֶב וַיְהִי בֹקֶר", "transliteral": "VAYHI EREV VAYHI BOQER", "traducao_palavra": "E foi a tarde e a manhã" },
-          { "hebraico": "יוֹם שְׁלִישִׁי", "transliteral": "YOM SHELISHI", "traducao_palavra": "o dia terceiro" }
-        ]
-      },
-      "14": {
-        "traducao_completa": "E disse Deus: Haja luminares na expansão dos céus, para fazerem separação entre o dia e a noite; e sejam eles para sinais e para tempos determinados, e para dias e anos;",
-        "palavras": [
-          { "hebraico": "וַיֹּאמֶר אֱלֹהִים", "transliteral": "VAYOMER ELOHIM", "traducao_palavra": "E disse Deus" },
-          { "hebraico": "יְהִי מְאֹרֹת", "transliteral": "YEHI ME'OROT", "traducao_palavra": "Haja luminares" },
-          { "hebraico": "בְּרָקִיעַ הַשָּׁמָיִם", "transliteral": "BERAQIA HASHAMAYIM", "traducao_palavra": "na expansão dos céus" },
-          { "hebraico": "לְהַבְדִּיל", "transliteral": "LEHAVDIL", "traducao_palavra": "para fazerem separação" },
-          { "hebraico": "בֵּין הַיּוֹם", "transliteral": "BEIN HAYYOM", "traducao_palavra": "entre o dia" },
-          { "hebraico": "וּבֵין הַלַּיְלָה", "transliteral": "UBEIN HALLAYLAH", "traducao_palavra": "e a noite" },
-          { "hebraico": "וְהָיוּ לְאֹתֹת", "transliteral": "VEHAYU LE'OTOT", "traducao_palavra": "e sejam eles para sinais" },
-          { "hebraico": "וּלְמוֹעֲדִים", "transliteral": "ULEMO'ADIM", "traducao_palavra": "e para tempos determinados" },
-          { "hebraico": "וּלְיָמִים וְשָׁנִים", "transliteral": "ULEYAMIM VESHANIM", "traducao_palavra": "e para dias e anos" }
-        ]
-      },
-      "15": {
-        "traducao_completa": "E sejam por luminares na expansão dos céus, para alumiar a terra; e assim foi.",
-        "palavras": [
-          { "hebraico": "וְהָיוּ לִמְאוֹרֹת", "transliteral": "VEHAYU LIM'OROT", "traducao_palavra": "E sejam por luminares" },
-          { "hebraico": "בְּרָקִיעַ הַשָּׁמָיִם", "transliteral": "BERAQIA HASHAMAYIM", "traducao_palavra": "na expansão dos céus" },
-          { "hebraico": "לְהָאִיר עַל הָאָרֶץ", "transliteral": "LEHA'IR AL HA'ARETZ", "traducao_palavra": "para alumiar a terra" },
-          { "hebraico": "וַיְהִי כֵן", "transliteral": "VAYHI KEN", "traducao_palavra": "e assim foi" }
-        ]
-      },
-      "16": {
-        "traducao_completa": "E fez Deus os dois grandes luminares: o maior luminar para governar o dia, e o menor luminar para governar a noite; fez também as estrelas.",
-        "palavras": [
-          { "hebraico": "וַיַּעַשׂ אֱלֹהִים", "transliteral": "VAYA'AS ELOHIM", "traducao_palavra": "E fez Deus" },
-          { "hebraico": "אֶת שְׁנֵי הַמְּאֹרֹת", "transliteral": "ET SHNEI HAME'OROT", "traducao_palavra": "os dois grandes luminares" },
-          { "hebraico": "הַגְּדֹלִים", "transliteral": "HAGGEDOLIM", "traducao_palavra": "" },
-          { "hebraico": "אֶת הַמָּאוֹר הַגָּדֹל", "transliteral": "ET HAMA'OR HAGGADOL", "traducao_palavra": "o maior luminar" },
-          { "hebraico": "לְמֶמְשֶׁלֶת הַיּוֹם", "transliteral": "LEMEMSHELET HAYYOM", "traducao_palavra": "para governar o dia" },
-          { "hebraico": "וְאֶת הַמָּאוֹר הַקָּטֹן", "transliteral": "VE'ET HAMA'OR HAQATON", "traducao_palavra": "e o menor luminar" },
-          { "hebraico": "לְמֶמְשֶׁלֶת הַלַּיְלָה", "transliteral": "LEMEMSHELET HALLAYLAH", "traducao_palavra": "para governar a noite" },
-          { "hebraico": "וְאֵת הַכּוֹכָבִים", "transliteral": "VE'ET HAKOCHAVIM", "traducao_palavra": "fez também as estrelas" }
-        ]
-      },
-      "17": {
-        "traducao_completa": "E Deus os pôs na expansão dos céus para alumiar a terra,",
-        "palavras": [
-          { "hebraico": "וַיִּתֵּן אֹתָם אֱלֹהִים", "transliteral": "VAYITEN OTAM ELOHIM", "traducao_palavra": "E Deus os pôs" },
-          { "hebraico": "בְּרָקִיעַ הַשָּׁמָיִם", "transliteral": "BERAQIA HASHAMAYIM", "traducao_palavra": "na expansão dos céus" },
-          { "hebraico": "לְהָאִיר עַל הָאָרֶץ", "transliteral": "LEHA'IR AL HA'ARETZ", "traducao_palavra": "para alumiar a terra" }
-        ]
-      },
-      "18": {
-        "traducao_completa": "E para governar o dia e a noite, e para fazer separação entre a luz e as trevas; e viu Deus que era bom.",
-        "palavras": [
-          { "hebraico": "וְלִמְשֹׁל בַּיּוֹם וּבַלַּיְלָה", "transliteral": "VELIMSHOL BAYYOM UVALAYLAH", "traducao_palavra": "E para governar o dia e a noite" },
-          { "hebraico": "וּלְהַבְדִּיל בֵּין הָאוֹר", "transliteral": "ULEHAVDIL BEIN HA'OR", "traducao_palavra": "e para fazer separação entre a luz" },
-          { "hebraico": "וּבֵין הַחֹשֶׁךְ", "transliteral": "UBEIN HACHOSHECH", "traducao_palavra": "e as trevas" },
-          { "hebraico": "וַיַּרְא אֱלֹהִים", "transliteral": "VAYAR ELOHIM", "traducao_palavra": "e viu Deus" },
-          { "hebraico": "כִּי טוֹב", "transliteral": "KI TOV", "traducao_palavra": "que era bom" }
-        ]
-      },
-      "19": {
-        "traducao_completa": "E foi a tarde e a manhã, o dia quarto.",
-        "palavras": [
-          { "hebraico": "וַיְהִי עֶרֶב וַיְהִי בֹקֶר", "transliteral": "VAYHI EREV VAYHI BOQER", "traducao_palavra": "E foi a tarde e a manhã" },
-          { "hebraico": "יוֹם רְבִיעִי", "transliteral": "YOM REVI'I", "traducao_palavra": "o dia quarto" }
-        ]
-      },
-      "20": {
-        "traducao_completa": "E disse Deus: Produzam as águas abundantemente répteis de alma vivente; e voem as aves sobre a face da expansão dos céus.",
-        "palavras": [
-          { "hebraico": "וַיֹּאמֶר אֱלֹהִים", "transliteral": "VAYOMER ELOHIM", "traducao_palavra": "E disse Deus" },
-          { "hebraico": "יִשְׁרְצוּ הַמַּיִם", "transliteral": "YISHR'TZU HAMAYIM", "traducao_palavra": "Produzam as águas abundantemente" },
-          { "hebraico": "שֶׁרֶץ נֶפֶשׁ חַיָּה", "transliteral": "SHERETZ NEFESH CHAYYAH", "traducao_palavra": "répteis de alma vivente" },
-          { "hebraico": "וְעוֹף יְעוֹפֵף", "transliteral": "VE'OF YE'OFEF", "traducao_palavra": "e voem as aves" },
-          { "hebraico": "עַל פְּנֵי רְקִיעַ הַשָּׁמָיִם", "transliteral": "AL PENEI REQI'A HASHAMAYIM", "traducao_palavra": "sobre a face da expansão dos céus" }
-        ]
-      },
-      "21": {
-        "traducao_completa": "E criou Deus os grandes monstros marinhos, e todo réptil de alma vivente que as águas abundantemente produziram, segundo as suas espécies; e toda ave alada segundo a sua espécie; e viu Deus que era bom.",
-        "palavras": [
-          { "hebraico": "וַיִּבְרָא אֱלֹהִים", "transliteral": "VAYIVRA ELOHIM", "traducao_palavra": "E criou Deus" },
-          { "hebraico": "אֶת הַתַּנִּינִם הַגְּדֹלִים", "transliteral": "ET HATANINIM HAGGEDOLIM", "traducao_palavra": "os grandes monstros marinhos" },
-          { "hebraico": "וְאֵת כָּל נֶפֶשׁ הַחַיָּה", "transliteral": "VE'ET KOL NEFESH HACHAYYAH", "traducao_palavra": "e todo réptil de alma vivente" },
-          { "hebraico": "הָרֹמֶשֶׂת", "transliteral": "HAROMESET", "traducao_palavra": "que" },
-          { "hebraico": "אֲשֶׁר שָׁרְצוּ הַמַּיִם", "transliteral": "ASHER SHAR'TZU HAMAYIM", "traducao_palavra": "as águas abundantemente produziram" },
-          { "hebraico": "לְמִינֵהֶם", "transliteral": "LEMINEHEM", "traducao_palavra": "segundo as suas espécies" },
-          { "hebraico": "וְאֵת כָּל עוֹף כָּנָף", "transliteral": "VE'ET KOL OF KANAF", "traducao_palavra": "e toda ave alada" },
-          { "hebraico": "לְמִינֵהוּ", "transliteral": "LEMINEHU", "traducao_palavra": "segundo a sua espécie" },
-          { "hebraico": "וַיַּרְא אֱלֹהִים", "transliteral": "VAYAR ELOHIM", "traducao_palavra": "e viu Deus" },
-          { "hebraico": "כִּי טוֹב", "transliteral": "KI TOV", "traducao_palavra": "que era bom" }
-        ]
-      },
-      "22": {
-        "traducao_completa": "E Deus os abençoou, dizendo: Frutificai e multiplicai-vos, e enchei as águas nos mares, e multipliquem-se as aves sobre a terra.",
-        "palavras": [
-          { "hebraico": "וַיְבָרֶךְ אֹתָם אֱלֹהִים", "transliteral": "VAYVARECH OTAM ELOHIM", "traducao_palavra": "E Deus os abençoou" },
-          { "hebraico": "לֵאמֹר", "transliteral": "LEMOR", "traducao_palavra": "dizendo" },
-          { "hebraico": "פְּרוּ וּרְבוּ", "transliteral": "PERU URVU", "traducao_palavra": "Frutificai e multiplicai-vos" },
-          { "hebraico": "וּמִלְאוּ אֶת הַמַּיִם", "transliteral": "UMIL'U ET HAMAYIM", "traducao_palavra": "e enchei as águas" },
-          { "hebraico": "בַּיַּמִּים", "transliteral": "BAYAMMIM", "traducao_palavra": "nos mares" },
-          { "hebraico": "וְהָעוֹף", "transliteral": "VEHA'OF", "traducao_palavra": "e multipliquem-se as aves" },
-          { "hebraico": "יִרֶב בָּאָרֶץ", "transliteral": "YIREV BA'ARETZ", "traducao_palavra": "sobre a terra" }
-        ]
-      },
-      "23": {
-        "traducao_completa": "E foi a tarde e a manhã, o dia quinto.",
-        "palavras": [
-          { "hebraico": "וַיְהִי עֶרֶב וַיְהִי בֹקֶר", "transliteral": "VAYHI EREV VAYHI BOQER", "traducao_palavra": "E foi a tarde e a manhã" },
-          { "hebraico": "יוֹם חֲמִישִׁי", "transliteral": "YOM CHAMISHI", "traducao_palavra": "o dia quinto" }
-        ]
-      },
-      "24": {
-        "traducao_completa": "E disse Deus: Produza a terra alma vivente segundo a sua espécie: gado, e répteis, e bestas da terra, segundo a sua espécie; e assim foi.",
-        "palavras": [
-          { "hebraico": "וַיֹּאמֶר אֱלֹהִים", "transliteral": "VAYOMER ELOHIM", "traducao_palavra": "E disse Deus" },
-          { "hebraico": "תּוֹצֵא הָאָרֶץ", "transliteral": "TOTZE HA'ARETZ", "traducao_palavra": "Produza a terra" },
-          { "hebraico": "נֶפֶשׁ חַיָּה", "transliteral": "NEFESH CHAYYAH", "traducao_palavra": "alma vivente" },
-          { "hebraico": "לְמִינָהּ", "transliteral": "LEMINAH", "traducao_palavra": "segundo a sua espécie" },
-          { "hebraico": "בְּהֵמָה", "transliteral": "BEHEMAH", "traducao_palavra": "gado" },
-          { "hebraico": "וָרֶמֶשׂ", "transliteral": "VAREMES", "traducao_palavra": "e répteis" },
-          { "hebraico": "וְחַיְתוֹ אֶרֶץ", "transliteral": "VECHAYTO ERETZ", "traducao_palavra": "e bestas da terra" },
-          { "hebraico": "לְמִינָהּ", "transliteral": "LEMINAH", "traducao_palavra": "segundo a sua espécie" },
-          { "hebraico": "וַיְהִי כֵן", "transliteral": "VAYHI KEN", "traducao_palavra": "e assim foi" }
-        ]
-      },
-      "25": {
-        "traducao_completa": "E fez Deus as bestas da terra segundo a sua espécie, e o gado segundo a sua espécie, e todo réptil da terra segundo a sua espécie; e viu Deus que era bom.",
-        "palavras": [
-          { "hebraico": "וַיַּעַשׂ אֱלֹהִים", "transliteral": "VAYA'AS ELOHIM", "traducao_palavra": "E fez Deus" },
-          { "hebraico": "אֶת חַיַּת הָאָרֶץ", "transliteral": "ET CHAYYAT HA'ARETZ", "traducao_palavra": "as bestas da terra" },
-          { "hebraico": "לְמִינָהּ", "transliteral": "LEMINAH", "traducao_palavra": "segundo a sua espécie" },
-          { "hebraico": "וְאֶת הַבְּהֵמָה", "transliteral": "VE'ET HABEHEMAH", "traducao_palavra": "e o gado" },
-          { "hebraico": "לְמִינָהּ", "transliteral": "LEMINAH", "traducao_palavra": "segundo a sua espécie" },
-          { "hebraico": "וְאֵת כָּל רֶמֶשׂ", "transliteral": "VE'ET KOL REMES", "traducao_palavra": "e todo réptil" },
-          { "hebraico": "הָאֲדָמָה", "transliteral": "HA'ADAMAH", "traducao_palavra": "da terra" },
-          { "hebraico": "לְמִינֵהוּ", "transliteral": "LEMINEHU", "traducao_palavra": "segundo a sua espécie" },
-          { "hebraico": "וַיַּרְא אֱלֹהִים", "transliteral": "VAYAR ELOHIM", "traducao_palavra": "e viu Deus" },
-          { "hebraico": "כִּי טוֹב", "transliteral": "KI TOV", "traducao_palavra": "que era bom" }
-        ]
-      },
-      "26": {
-        "traducao_completa": "E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; e domine ele sobre os peixes do mar, e sobre as aves dos céus, e sobre o gado, e sobre toda a terra, e sobre todo réptil que se move sobre a terra.",
-        "palavras": [
-          { "hebraico": "וַיֹּאמֶר אֱלֹהִים", "transliteral": "VAYOMER ELOHIM", "traducao_palavra": "E disse Deus" },
-          { "hebraico": "נַעֲשֶׂה אָדָם", "transliteral": "NA'ASEH ADAM", "traducao_palavra": "Façamos o homem" },
-          { "hebraico": "בְּצַלְמֵנוּ", "transliteral": "BETZALMENU", "traducao_palavra": "à nossa imagem" },
-          { "hebraico": "כִּדְמוּתֵנוּ", "transliteral": "KIDMUTEINU", "traducao_palavra": "conforme a nossa semelhança" },
-          { "hebraico": "וְיִרְדּוּ", "transliteral": "VEYIRDU", "traducao_palavra": "e domine ele" },
-          { "hebraico": "בִּדְגַת הַיָּם", "transliteral": "BIDGAT HAYYAM", "traducao_palavra": "sobre os peixes do mar" },
-          { "hebraico": "וּבְעוֹף הַשָּׁמַיִם", "transliteral": "UVE'OF HASHAMAYIM", "traducao_palavra": "e sobre as aves dos céus" },
-          { "hebraico": "וּבַבְּהֵמָה", "transliteral": "UVABBEHEMAH", "traducao_palavra": "e sobre o gado" },
-          { "hebraico": "וּבְכָל הָאָרֶץ", "transliteral": "UVACHOL HA'ARETZ", "traducao_palavra": "e sobre toda a terra" },
-          { "hebraico": "וּבְכָל הָרֶמֶשׂ", "transliteral": "UVACHOL HA'REMES", "traducao_palavra": "e sobre todo réptil" },
-          { "hebraico": "הָרֹמֵשׂ עַל הָאָרֶץ", "transliteral": "HAROMES AL HA'ARETZ", "traducao_palavra": "que se move sobre a terra" }
-        ]
-      },
-      "27": {
-        "traducao_completa": "E criou Deus o homem à sua imagem; à imagem de Deus o criou; macho e fêmea os criou.",
-        "palavras": [
-          { "hebraico": "וַיִּבְרָא אֱלֹהִים", "transliteral": "VAYIVRA ELOHIM", "traducao_palavra": "E criou Deus" },
-          { "hebraico": "אֶת הָאָדָם", "transliteral": "ET HA'ADAM", "traducao_palavra": "o homem" },
-          { "hebraico": "בְּצַלְמֹו", "transliteral": "BETZALMO", "traducao_palavra": "à sua imagem" },
-          { "hebraico": "בְּצֶלֶם אֱלֹהִים", "transliteral": "BETZELEM ELOHIM", "traducao_palavra": "à imagem de Deus" },
-          { "hebraico": "בָּרָא אֹתוֹ", "transliteral": "BARA OTO", "traducao_palavra": "o criou" },
-          { "hebraico": "זָכָר וּנְקֵבָה", "transliteral": "ZACHAR UNEKEVAH", "traducao_palavra": "macho e fêmea" },
-          { "hebraico": "בָּרָא אֹתָם", "transliteral": "BARA OTAM", "traducao_palavra": "os criou" }
-        ]
-      },
-      "28": {
-        "traducao_completa": "E abençoou-os Deus, e disse-lhes: Frutificai e multiplicai-vos, e enchei a terra, e sujeitai-a; e dominai sobre os peixes do mar, e sobre as aves dos céus, e sobre todo animal que se move sobre a terra.",
-        "palavras": [
-          { "hebraico": "וַיְבָרֶךְ אֹתָם אֱלֹהִים", "transliteral": "VAYVARECH OTAM ELOHIM", "traducao_palavra": "E abençoou-os Deus" },
-          { "hebraico": "וַיֹּאמֶר לָהֶם", "transliteral": "VAYOMER LAHEM", "traducao_palavra": "e disse-lhes" },
-          { "hebraico": "פְּרוּ וּרְבוּ", "transliteral": "PERU URVU", "traducao_palavra": "Frutificai e multiplicai-vos" },
-          { "hebraico": "וּמִלְאוּ אֶת הָאָרֶץ", "transliteral": "UMIL'U ET HA'ARETZ", "traducao_palavra": "e enchei a terra" },
-          { "hebraico": "וְכִבְשֻׁהָ", "transliteral": "VECHIVSHUHA", "traducao_palavra": "e sujeitai-a" },
-          { "hebraico": "וּרְדוּ", "transliteral": "URDU", "traducao_palavra": "e dominai" },
-          { "hebraico": "בִּדְגַת הַיָּם", "transliteral": "BIDGAT HAYYAM", "traducao_palavra": "sobre os peixes do mar" },
-          { "hebraico": "וּבְעוֹף הַשָּׁמַיִם", "transliteral": "UVE'OF HASHAMAYIM", "traducao_palavra": "e sobre as aves dos céus" },
-          { "hebraico": "וּבְכָל חַיָּה", "transliteral": "UVACHOL CHAYYAH", "traducao_palavra": "e sobre todo animal" },
-          { "hebraico": "הָרֹמֶשֶׂת עַל הָאָרֶץ", "transliteral": "HAROMESET AL HA'ARETZ", "traducao_palavra": "que se move sobre a terra" }
-        ]
-      },
-      "29": {
-        "traducao_completa": "E disse Deus: Eis que vos tenho dado toda erva que dá semente, que está sobre a face de toda a terra, e toda árvore em que há fruto de árvore que dá semente; isso vos será para mantimento.",
-        "palavras": [
-          { "hebraico": "וַיֹּאמֶר אֱלֹהִים", "transliteral": "VAYOMER ELOHIM", "traducao_palavra": "E disse Deus" },
-          { "hebraico": "הִנֵּה נָתַתִּי לָכֶם", "transliteral": "HINNEH NATATI LACHEM", "traducao_palavra": "Eis que vos tenho dado" },
-          { "hebraico": "אֶת כָּל עֵשֶׂב", "transliteral": "ET KOL ESEV", "traducao_palavra": "toda erva" },
-          { "hebraico": "זֹרֵעַ זֶרַע", "transliteral": "ZOREA ZERA", "traducao_palavra": "que dá semente" },
-          { "hebraico": "אֲשֶׁר עַל פְּנֵי כָל הָאָרֶץ", "transliteral": "ASHER AL PENEI KOL HA'ARETZ", "traducao_palavra": "que está sobre a face de toda a terra" },
-          { "hebraico": "וְאֶת כָּל הָעֵץ", "transliteral": "VE'ET KOL HA'ETZ", "traducao_palavra": "e toda árvore" },
-          { "hebraico": "אֲשֶׁר בּוֹ פְרִי עֵץ", "transliteral": "ASHER BO PERI ETZ", "traducao_palavra": "em que há fruto de árvore" },
-          { "hebraico": "זֹרֵעַ זָרַע", "transliteral": "ZOREA ZARA", "traducao_palavra": "que dá semente" },
-          { "hebraico": "לָכֶם יִהְיֶה לְאָכְלָה", "transliteral": "LACHEM YIHYEH LE'ACHLAH", "traducao_palavra": "isso vos será para mantimento" }
-        ]
-      },
-      "30": {
-        "traducao_completa": "E a todo animal da terra, e a toda ave dos céus, e a todo réptil que se move sobre a terra, em que há vida, toda erva verde lhes será para mantimento; e assim foi.",
-        "palavras": [
-          { "hebraico": "וּלְכָל חַיַּת הָאָרֶץ", "transliteral": "ULECHOL CHAYYAT HA'ARETZ", "traducao_palavra": "E a todo animal da terra" },
-          { "hebraico": "וּלְכָל עוֹף הַשָּׁמַיִם", "transliteral": "ULECHOL OF HASHAMAYIM", "traducao_palavra": "e a toda ave dos céus" },
-          { "hebraico": "וּלְכָל רֹמֵשׂ עַל הָאָרֶץ", "transliteral": "ULECHOL ROMES AL HA'ARETZ", "traducao_palavra": "e a todo réptil que se move sobre a terra" },
-          { "hebraico": "אֲשֶׁר בּוֹ נֶפֶשׁ חַיָּה", "transliteral": "ASHER BO NEFESH CHAYYAH", "traducao_palavra": "em que há vida" },
-          { "hebraico": "אֶת כָּל יֶרֶק עֵשֶׂב", "transliteral": "ET KOL YEREQ ESEV", "traducao_palavra": "toda erva verde" },
-          { "hebraico": "לְאָכְלָה", "transliteral": "LE'ACHLAH", "traducao_palavra": "lhes será para mantimento" },
-          { "hebraico": "וַיְהִי כֵן", "transliteral": "VAYHI KEN", "traducao_palavra": "e assim foi" }
-        ]
-      },
-      "31": {
-        "traducao_completa": "E viu Deus tudo quanto tinha feito, e eis que era muito bom; e foi a tarde e a manhã, o dia sexto.",
-        "palavras": [
-          { "hebraico": "וַיַּרְא אֱלֹהִים", "transliteral": "VAYAR ELOHIM", "traducao_palavra": "E viu Deus" },
-          { "hebraico": "אֶת כָּל אֲשֶׁר עָשָׂה", "transliteral": "ET KOL ASHER ASAH", "traducao_palavra": "tudo quanto tinha feito" },
-          { "hebraico": "וְהִנֵּה טוֹב מְאֹד", "transliteral": "VEHINNEH TOV ME'OD", "traducao_palavra": "e eis que era muito bom" },
-          { "hebraico": "וַיְהִי עֶרֶב וַיְהִי בֹקֶר", "transliteral": "VAYHI EREV VAYHI BOQER", "traducao_palavra": "e foi a tarde e a manhã" },
-          { "hebraico": "יוֹם הַשִּׁשִּׁי", "transliteral": "YOM HASHISHI", "traducao_palavra": "o dia sexto" }
-        ]
-      }
+{
+  "livro": "Gênesis - בְּרֵאשִׁית - Bereshit",
+  "capítulo": 1,
+  "titulos": {},
+  "versiculos": {
+    "1": {
+      "traducao_completa": "No-princípio criou Deus * os-céus e a-terra.",
+      "palavras": [
+        { "hebraico": "בְּרֵאשִׁית", "transliteral": "bere'shit", "traducao_palavra": "No-princípio" },
+        { "hebraico": "בָּרָא", "transliteral": "bara'", "traducao_palavra": "criou" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "אֵת", "transliteral": "'et", "traducao_palavra": "*" },
+        { "hebraico": "הַשָּׁמַיִם", "transliteral": "hashamayim", "traducao_palavra": "os-céus" },
+        { "hebraico": "וְאֵת", "transliteral": "ve'et", "traducao_palavra": "e" },
+        { "hebraico": "הָאָרֶץ", "transliteral": "ha'arets", "traducao_palavra": "a-terra" }
+      ]
+    },
+    "2": {
+      "traducao_completa": "E-a-terra era sem-forma e-vazia e-treva face de-sobre abismo.",
+      "palavras": [
+        { "hebraico": "וְהָאָרֶץ", "transliteral": "veha'arets", "traducao_palavra": "E-a-terra" },
+        { "hebraico": "הָיְתָה", "transliteral": "hayetah", "traducao_palavra": "era" },
+        { "hebraico": "תֹהוּ", "transliteral": "tohu", "traducao_palavra": "sem-forma" },
+        { "hebraico": "וָבֹהוּ", "transliteral": "vavohu", "traducao_palavra": "e-vazia" },
+        { "hebraico": "וְחֹשֶׁךְ", "transliteral": "vechoshech", "traducao_palavra": "e-treva" },
+        { "hebraico": "עַל־פְּנֵי", "transliteral": "peney-'al", "traducao_palavra": "face de-sobre" },
+        { "hebraico": "תְהוֹם", "transliteral": "tchom", "traducao_palavra": "abismo" }
+      ]
+    },
+    "3": {
+      "traducao_completa": "E-Ele-disse Deus: ele-seja luz; e-ele-foi luz.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "vayo'mer", "traducao_palavra": "E-Ele-disse" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "יְהִי", "transliteral": "yehi", "traducao_palavra": "ele-seja" },
+        { "hebraico": "אוֹר", "transliteral": "'or", "traducao_palavra": "luz" },
+        { "hebraico": "וַיְהִי", "transliteral": "vayehi", "traducao_palavra": "e-ele-foi" },
+        { "hebraico": "אוֹר", "transliteral": "'or", "traducao_palavra": "luz" }
+      ]
+    },
+    "4": {
+      "traducao_completa": "E-Ele-viu Deus a-luz-* bom-que; e-Ele-separou entre a-luz e-entre a-treva.",
+      "palavras": [
+        { "hebraico": "וַיַּרְא", "transliteral": "vayarə’", "traducao_palavra": "E-Ele-viu" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "אֶת־הָאוֹר", "transliteral": "ha'or-'et", "traducao_palavra": "a-luz-*" },
+        { "hebraico": "כִּי־טוֹב", "transliteral": "tov-ki", "traducao_palavra": "bom-que" },
+        { "hebraico": "וַיַּבְדֵּל", "transliteral": "vayavdel", "traducao_palavra": "e-Ele-separou" },
+        { "hebraico": "בֵּין", "transliteral": "beyn", "traducao_palavra": "entre" },
+        { "hebraico": "הָאוֹר", "transliteral": "ha'or", "traducao_palavra": "a-luz" },
+        { "hebraico": "וּבֵין", "transliteral": "uveyn", "traducao_palavra": "e-entre" },
+        { "hebraico": "הַחֹשֶׁךְ", "transliteral": "hachoshech", "traducao_palavra": "a-treva" }
+      ]
+    },
+    "5": {
+      "traducao_completa": "E-Ele-chamou Deus à-luz dia; e-à-treva Ele-chamou noite; tarde-e ele foi, manhã-e ele foi: dia um.",
+      "palavras": [
+        { "hebraico": "וַיִּקְרָא", "transliteral": "vayiqra'", "traducao_palavra": "E-Ele-chamou" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "לָאוֹר", "transliteral": "la'or", "traducao_palavra": "à-luz" },
+        { "hebraico": "יוֹם", "transliteral": "yom", "traducao_palavra": "dia" },
+        { "hebraico": "וְלַחֹשֶׁךְ", "transliteral": "hachoshech-'el", "traducao_palavra": "e-à-treva" },
+        { "hebraico": "קָרָא", "transliteral": "qara'", "traducao_palavra": "Ele-chamou" },
+        { "hebraico": "לָיְלָה", "transliteral": "layelah", "traducao_palavra": "noite" },
+        { "hebraico": "וַיְהִי־עֶרֶב", "transliteral": "'erev-vayehi", "traducao_palavra": "tarde-e ele foi" },
+        { "hebraico": "וַיְהִי־בֹקֶר", "transliteral": "voqer-vayehi", "traducao_palavra": "manhã-e ele foi" },
+        { "hebraico": "יוֹם", "transliteral": "yom", "traducao_palavra": "dia" },
+        { "hebraico": "אֶחָד", "transliteral": "'echad", "traducao_palavra": "um" }
+      ]
+    },
+    "6": {
+      "traducao_completa": "E-Ele-disse Deus: haja expansão no-meio das-águas e-ela-seja separação entre águas e-entre águas.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "vayo'mer", "traducao_palavra": "E-Ele-disse" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "יְהִי", "transliteral": "yehi", "traducao_palavra": "haja" },
+        { "hebraico": "רָקִיעַ", "transliteral": "raqia'", "traducao_palavra": "expansão" },
+        { "hebraico": "בְּתוֹךְ", "transliteral": "betoch", "traducao_palavra": "no-meio" },
+        { "hebraico": "הַמָּיִם", "transliteral": "hamayim", "traducao_palavra": "das-águas" },
+        { "hebraico": "וִיהִי", "transliteral": "vihi", "traducao_palavra": "e-ela-seja" },
+        { "hebraico": "מַבְדִּיל", "transliteral": "mavdil", "traducao_palavra": "separação" },
+        { "hebraico": "בֵּין", "transliteral": "beyn", "traducao_palavra": "entre" },
+        { "hebraico": "מַיִם", "transliteral": "mayim", "traducao_palavra": "águas" },
+        { "hebraico": "וּבֵין", "transliteral": "uveyn", "traducao_palavra": "e-entre" },
+        { "hebraico": "מָיִם", "transliteral": "mayim", "traducao_palavra": "águas" }
+      ]
+    },
+    "7": {
+      "traducao_completa": "E-Ele-fez Deus a-expansão-* e-Ele-separou entre as-águas que de-abaixo à-expansão e-entre as-águas que de-acima à-expansão; e-ele-foi assim.",
+      "palavras": [
+        { "hebraico": "וַיַּעַשׂ", "transliteral": "vaya'as", "traducao_palavra": "E-Ele-fez" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "אֶת־הָרָקִיעַ", "transliteral": "haraqia'-'et", "traducao_palavra": "a-expansão-*" },
+        { "hebraico": "וַיַּבְדֵּל", "transliteral": "vayavdel", "traducao_palavra": "e-Ele-separou" },
+        { "hebraico": "בֵּין", "transliteral": "beyn", "traducao_palavra": "entre" },
+        { "hebraico": "הַמַּיִם", "transliteral": "hamayim", "traducao_palavra": "as-águas" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "'asher", "traducao_palavra": "que" },
+        { "hebraico": "מִתַּחַת", "transliteral": "mitachat", "traducao_palavra": "de-abaixo" },
+        { "hebraico": "לָרָקִיעַ", "transliteral": "laraqia'", "traducao_palavra": "à-expansão" },
+        { "hebraico": "וּבֵין", "transliteral": "uveyn", "traducao_palavra": "e-entre" },
+        { "hebraico": "הַמַּיִם", "transliteral": "hamayim", "traducao_palavra": "as-águas" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "'asher", "traducao_palavra": "que" },
+        { "hebraico": "מֵעַל", "transliteral": "me'al", "traducao_palavra": "de-acima" },
+        { "hebraico": "לָרָקִיעַ", "transliteral": "laraqia'", "traducao_palavra": "à-expansão" },
+        { "hebraico": "וַיְהִי־כֵן", "transliteral": "chen-vayehi", "traducao_palavra": "e-ele-foi assim" }
+      ]
+    },
+    "8": {
+      "traducao_completa": "E-Ele-chamou Deus à-expansão Céus; tarde-e ele foi, manhã-e ele foi: dia segundo.",
+      "palavras": [
+        { "hebraico": "וַיִּקְרָא", "transliteral": "vayiqra'", "traducao_palavra": "E-Ele-chamou" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "לָרָקִיעַ", "transliteral": "laraqia'", "traducao_palavra": "à-expansão" },
+        { "hebraico": "שָׁמַיִם", "transliteral": "shamayim", "traducao_palavra": "Céus" },
+        { "hebraico": "וַיְהִי־עֶרֶב", "transliteral": "'erev-vayehi", "traducao_palavra": "tarde-e ele foi" },
+        { "hebraico": "וַיְהִי־בֹקֶר", "transliteral": "voqer-vayehi", "traducao_palavra": "manhã-e ele foi" },
+        { "hebraico": "יוֹם", "transliteral": "yom", "traducao_palavra": "dia" },
+        { "hebraico": "שֵׁנִי", "transliteral": "sheni", "traducao_palavra": "segundo" }
+      ]
+    },
+    "9": {
+      "traducao_completa": "E-Ele-disse Deus: Ajuntem-se as-águas de-debaixo dos-céus num-lugar um, e-apareça a-porção-seca; e-ele-foi assim.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "vayo'mer", "traducao_palavra": "E-Ele-disse" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "יִקָּווּ", "transliteral": "yiqqavu", "traducao_palavra": "Ajuntem-se" },
+        { "hebraico": "הַמַּיִם", "transliteral": "hamayim", "traducao_palavra": "as-águas" },
+        { "hebraico": "מִתַּחַת", "transliteral": "mitachat", "traducao_palavra": "de-debaixo" },
+        { "hebraico": "הַשָּׁמַיִם", "transliteral": "hashamayim", "traducao_palavra": "dos-céus" },
+        { "hebraico": "אֶל־מָקוֹם", "transliteral": "maqom-'el", "traducao_palavra": "num-lugar" },
+        { "hebraico": "אֶחָד", "transliteral": "'echad", "traducao_palavra": "um" },
+        { "hebraico": "וְתֵרָאֶה", "transliteral": "vetera'eh", "traducao_palavra": "e-apareça" },
+        { "hebraico": "הַיַּבָּשָׁה", "transliteral": "hayabashah", "traducao_palavra": "a-porção-seca" },
+        { "hebraico": "וַיְהִי־כֵן", "transliteral": "chen-vayehi", "traducao_palavra": "e-ele-foi assim" }
+      ]
+    },
+    "10": {
+      "traducao_completa": "E-Ele-chamou Deus à-porção-seca Terra; e-ao-ajuntamento das-águas Ele-chamou Mares; e-Ele-viu Deus que-[era]bom.",
+      "palavras": [
+        { "hebraico": "וַיִּקְרָא", "transliteral": "vayiqra'", "traducao_palavra": "E-Ele-chamou" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "לַיַּבָּשָׁה", "transliteral": "layabashah", "traducao_palavra": "à-porção-seca" },
+        { "hebraico": "אֶרֶץ", "transliteral": "'erets", "traducao_palavra": "Terra" },
+        { "hebraico": "וּלְמִקְוֵה", "transliteral": "ulemiqveh", "traducao_palavra": "e-ao-ajuntamento" },
+        { "hebraico": "הַמַּיִם", "transliteral": "hamayim", "traducao_palavra": "das-águas" },
+        { "hebraico": "קָרָא", "transliteral": "qara'", "traducao_palavra": "Ele-chamou" },
+        { "hebraico": "יַמִּים", "transliteral": "yamim", "traducao_palavra": "Mares" },
+        { "hebraico": "וַיַּרְא", "transliteral": "vayarə’", "traducao_palavra": "e-Ele-viu" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "כִּי־טוֹב", "transliteral": "tov-ki", "traducao_palavra": "que-[era]bom" }
+      ]
+    },
+    "11": {
+      "traducao_completa": "[ela]produza a-terra vegetação, planta sementeira semente, árvore fruto fazendo fruto segundo-sua-espécie, que sua-semente nele sobre-a-terra; e-assim foi.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "vayo'mer", "traducao_palavra": "E-Ele-disse" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "תַּדְשֵׁא", "transliteral": "tadshe'", "traducao_palavra": "[ela]produza" },
+        { "hebraico": "הָאָרֶץ", "transliteral": "ha'arets", "traducao_palavra": "a-terra" },
+        { "hebraico": "דֶּשֶׁא", "transliteral": "deshe'", "traducao_palavra": "vegetação" },
+        { "hebraico": "עֵשֶׂב", "transliteral": "'essev", "traducao_palavra": "planta" },
+        { "hebraico": "מַזְרִיעַ", "transliteral": "mazri'a", "traducao_palavra": "sementeira" },
+        { "hebraico": "זֶרַע", "transliteral": "zera'", "traducao_palavra": "semente" },
+        { "hebraico": "עֵץ", "transliteral": "'ets", "traducao_palavra": "árvore" },
+        { "hebraico": "פְּרִי", "transliteral": "peri", "traducao_palavra": "fruto" },
+        { "hebraico": "עֹשֶׂה", "transliteral": "'oseh", "traducao_palavra": "fazendo" },
+        { "hebraico": "פְּרִי", "transliteral": "peri", "traducao_palavra": "fruto" },
+        { "hebraico": "לְמִינּוֹ", "transliteral": "lemino", "traducao_palavra": "segundo-sua-espécie" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "'asher", "traducao_palavra": "que" },
+        { "hebraico": "זַרְעוֹ", "transliteral": "zar'o", "traducao_palavra": "sua-semente" },
+        { "hebraico": "בּוֹ", "transliteral": "bo", "traducao_palavra": "nele" },
+        { "hebraico": "עַל־הָאָרֶץ", "transliteral": "ha'arets-'al", "traducao_palavra": "sobre-a-terra" },
+        { "hebraico": "וַיְהִי־כֵן", "transliteral": "chen-vayehi", "traducao_palavra": "e-assim foi" }
+      ]
+    },
+    "12": {
+      "traducao_completa": "E-[ela]produziu a-terra vegetação, planta sementeira semente segundo-sua-espécie, e-árvore fazendo fruto que sua-semente nele segundo-sua-espécie; E-Ele-viu Deus que-[era]bom.",
+      "palavras": [
+        { "hebraico": "וַתּוֹצֵא", "transliteral": "vatto'tse'", "traducao_palavra": "E-[ela]produziu" },
+        { "hebraico": "הָאָרֶץ", "transliteral": "ha'arets", "traducao_palavra": "a-terra" },
+        { "hebraico": "דֶּשֶׁא", "transliteral": "deshe'", "traducao_palavra": "vegetação" },
+        { "hebraico": "עֵשֶׂב", "transliteral": "'essev", "traducao_palavra": "planta" },
+        { "hebraico": "מַזְרִיעַ", "transliteral": "mazri'a", "traducao_palavra": "sementeira" },
+        { "hebraico": "זֶרַע", "transliteral": "zera'", "traducao_palavra": "semente" },
+        { "hebraico": "לְמִינֵהוּ", "transliteral": "leminehu", "traducao_palavra": "segundo-sua-espécie" },
+        { "hebraico": "וְעֵץ", "transliteral": "ve'ets", "traducao_palavra": "e-árvore" },
+        { "hebraico": "עֹשֶׂה", "transliteral": "'oseh", "traducao_palavra": "fazendo" },
+        { "hebraico": "פְּרִי", "transliteral": "peri", "traducao_palavra": "fruto" },
+        { "hebraico": "לְמִינּוֹ", "transliteral": "lemino", "traducao_palavra": "segundo-sua-espécie" },
+        { "hebraico": "וַיַּרְא", "transliteral": "vayarə’", "traducao_palavra": "E-Ele-viu" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "כִּי־טוֹב", "transliteral": "tov-ki", "traducao_palavra": "que-[era]bom" }
+      ]
+    },
+    "13": {
+      "traducao_completa": "tarde-e ele foi, manhã-e ele foi: dia terceiro.",
+      "palavras": [
+        { "hebraico": "וַיְהִי־עֶרֶב", "transliteral": "'erev-vayehi", "traducao_palavra": "tarde-e ele foi" },
+        { "hebraico": "וַיְהִי־בֹקֶר", "transliteral": "voqer-vayehi", "traducao_palavra": "manhã-e ele foi" },
+        { "hebraico": "יוֹם", "transliteral": "yom", "traducao_palavra": "dia" },
+        { "hebraico": "שְׁלִישִׁי", "transliteral": "shlishi", "traducao_palavra": "terceiro" }
+      ]
+    },
+    "14": {
+      "traducao_completa": "E-Ele-disse Deus: ele-seja luminárias na-expansão dos-céus para-separar entre o-dia e-entre a-noite; e-eles-sejam para-sinais e-para-temporadas e-para-dias e-anos;",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "vayo'mer", "traducao_palavra": "E-Ele-disse" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "יְהִי", "transliteral": "yehi", "traducao_palavra": "ele-seja" },
+        { "hebraico": "מְאֹרֹת", "transliteral": "me'orot", "traducao_palavra": "luminárias" },
+        { "hebraico": "בִּרְקִיעַ", "transliteral": "birqia'", "traducao_palavra": "na-expansão" },
+        { "hebraico": "הַשָּׁמַיִם", "transliteral": "hashamayim", "traducao_palavra": "dos-céus" },
+        { "hebraico": "לְהַבְדִּיל", "transliteral": "lehavdil", "traducao_palavra": "para-separar" },
+        { "hebraico": "בֵּין", "transliteral": "beyn", "traducao_palavra": "entre" },
+        { "hebraico": "הַיּוֹם", "transliteral": "hayom", "traducao_palavra": "o-dia" },
+        { "hebraico": "וּבֵין", "transliteral": "uveyn", "traducao_palavra": "e-entre" },
+        { "hebraico": "הַלָּיְלָה", "transliteral": "halayelah", "traducao_palavra": "a-noite" },
+        { "hebraico": "וְהָיוּ", "transliteral": "vehayu", "traducao_palavra": "e-eles-sejam" },
+        { "hebraico": "לְאֹתֹת", "transliteral": "le'otot", "traducao_palavra": "para-sinais" },
+        { "hebraico": "וּלְמוֹעֲדִים", "transliteral": "ulemo'adim", "traducao_palavra": "e-para-temporadas" },
+        { "hebraico": "וּלְיָמִים", "transliteral": "uleyamim", "traducao_palavra": "e-para-dias" },
+        { "hebraico": "וְשָׁנִים", "transliteral": "veshanim", "traducao_palavra": "e-anos" }
+      ]
+    },
+    "15": {
+      "traducao_completa": "e-eles-sejam para-luminárias na-expansão dos-céus para-iluminar sobre-a-terra; e-assim foi.",
+      "palavras": [
+        { "hebraico": "וְהָיוּ", "transliteral": "vehayu", "traducao_palavra": "e-eles-sejam" },
+        { "hebraico": "לִמְאוֹרֹת", "transliteral": "lime'orot", "traducao_palavra": "para-luminárias" },
+        { "hebraico": "בִּרְקִיעַ", "transliteral": "birqia'", "traducao_palavra": "na-expansão" },
+        { "hebraico": "הַשָּׁמַיִם", "transliteral": "hashamayim", "traducao_palavra": "dos-céus" },
+        { "hebraico": "לְהָאִיר", "transliteral": "leha'ir", "traducao_palavra": "para-iluminar" },
+        { "hebraico": "עַל־הָאָרֶץ", "transliteral": "ha'arets-'al", "traducao_palavra": "sobre-a-terra" },
+        { "hebraico": "וַיְהִי־כֵן", "transliteral": "chen-vayehi", "traducao_palavra": "e-assim foi" }
+      ]
+    },
+    "16": {
+      "traducao_completa": "E-Ele-fez Deus os-dois-* as-luminárias as-grandes; e-a-luminária a-grande para-domínio do-dia, e-a-luminária a-pequena para-domínio da-noite, e-as-estrelas;",
+      "palavras": [
+        { "hebraico": "וַיַּעַשׂ", "transliteral": "vaya'as", "traducao_palavra": "E-Ele-fez" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "אֶת־שְׁנֵי", "transliteral": "shney-'et", "traducao_palavra": "os-dois-*" },
+        { "hebraico": "הַמְּאֹרֹת", "transliteral": "hame'orot", "traducao_palavra": "as-luminárias" },
+        { "hebraico": "הַגְּדֹלִים", "transliteral": "haggedolim", "traducao_palavra": "as-grandes" },
+        { "hebraico": "וְאֵת", "transliteral": "ve'et", "traducao_palavra": "e" },
+        { "hebraico": "הַמָּאוֹר", "transliteral": "hama'or", "traducao_palavra": "a-luminária" },
+        { "hebraico": "הַגָּדֹל", "transliteral": "hagadol", "traducao_palavra": "a-grande" },
+        { "hebraico": "לְמֶמְשֶׁלֶת", "transliteral": "lememshelet", "traducao_palavra": "para-domínio" },
+        { "hebraico": "הַיּוֹם", "transliteral": "hayom", "traducao_palavra": "do-dia" },
+        { "hebraico": "וְאֵת", "transliteral": "ve'et", "traducao_palavra": "e" },
+        { "hebraico": "הַמָּאוֹר", "transliteral": "hama'or", "traducao_palavra": "a-luminária" },
+        { "hebraico": "הַקָּטֹן", "transliteral": "haqaton", "traducao_palavra": "a-pequena" },
+        { "hebraico": "לְמֶמְשֶׁלֶת", "transliteral": "lememshelet", "traducao_palavra": "para-domínio" },
+        { "hebraico": "הַלַּיְלָה", "transliteral": "halayelah", "traducao_palavra": "da-noite" },
+        { "hebraico": "וְאֵת", "transliteral": "ve'et", "traducao_palavra": "e" },
+        { "hebraico": "הַכּוֹכָבִים", "transliteral": "hakochavim", "traducao_palavra": "as-estrelas" }
+      ]
+    },
+    "17": {
+      "traducao_completa": "E-Ele-deu [a]elas Deus na-expansão dos-céus para-iluminar sobre-a-terra;",
+      "palavras": [
+        { "hebraico": "וַיִּתֵּן", "transliteral": "vayiten", "traducao_palavra": "E-Ele-deu" },
+        { "hebraico": "אֹתָם", "transliteral": "'otam", "traducao_palavra": "[a]elas" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "בִּרְקִיעַ", "transliteral": "birqia'", "traducao_palavra": "na-expansão" },
+        { "hebraico": "הַשָּׁמַיִם", "transliteral": "hashamayim", "traducao_palavra": "dos-céus" },
+        { "hebraico": "לְהָאִיר", "transliteral": "leha'ir", "traducao_palavra": "para-iluminar" },
+        { "hebraico": "עַל־הָאָרֶץ", "transliteral": "ha'arets-'al", "traducao_palavra": "sobre-a-terra" }
+      ]
+    },
+    "18": {
+      "traducao_completa": "e-para-domínio de-dia e-de-noite, e-para-separar entre a-luz e-entre a-treva; E-Ele-viu Deus que-[era]bom.",
+      "palavras": [
+        { "hebraico": "וְלִמְשֹׁל", "transliteral": "ulemshol", "traducao_palavra": "e-para-domínio" },
+        { "hebraico": "בַּיּוֹם", "transliteral": "bayom", "traducao_palavra": "de-dia" },
+        { "hebraico": "וּבַלַּיְלָה", "transliteral": "uvalayelah", "traducao_palavra": "e-na-noite" },
+        { "hebraico": "וּלְהַבְדִּיל", "transliteral": "ulehavdil", "traducao_palavra": "e-para-separar" },
+        { "hebraico": "בֵּין", "transliteral": "beyn", "traducao_palavra": "entre" },
+        { "hebraico": "הָאוֹר", "transliteral": "ha'or", "traducao_palavra": "a-luz" },
+        { "hebraico": "וּבֵין", "transliteral": "uveyn", "traducao_palavra": "e-entre" },
+        { "hebraico": "הַחֹשֶׁךְ", "transliteral": "hachoshech", "traducao_palavra": "a-treva" },
+        { "hebraico": "וַיַּרְא", "transliteral": "vayarə’", "traducao_palavra": "E-Ele-viu" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "כִּי־טוֹב", "transliteral": "tov-ki", "traducao_palavra": "que-[era]bom" }
+      ]
+    },
+    "19": {
+      "traducao_completa": "tarde-e ele foi, manhã-e ele foi: dia quarto.",
+      "palavras": [
+        { "hebraico": "וַיְהִי־עֶרֶב", "transliteral": "'erev-vayehi", "traducao_palavra": "tarde-e ele foi" },
+        { "hebraico": "וַיְהִי־בֹקֶר", "transliteral": "voqer-vayehi", "traducao_palavra": "manhã-e ele foi" },
+        { "hebraico": "יוֹם", "transliteral": "yom", "traducao_palavra": "dia" },
+        { "hebraico": "רְבִיעִי", "transliteral": "revi'i", "traducao_palavra": "quarto" }
+      ]
+    },
+    "20": {
+      "traducao_completa": "E-Ele-disse Deus: eles-criem as-águas criatura alma vivente, e-ave voando sobre-a-terra face de-sobre expansão dos-céus.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "vayo'mer", "traducao_palavra": "E-Ele-disse" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "יִשְׁרְצוּ", "transliteral": "yishretsu", "traducao_palavra": "eles-criem" },
+        { "hebraico": "הַמַּיִם", "transliteral": "hamayim", "traducao_palavra": "as-águas" },
+        { "hebraico": "שֶׁרֶץ", "transliteral": "sherets", "traducao_palavra": "criatura" },
+        { "hebraico": "נֶפֶשׁ", "transliteral": "nefesh", "traducao_palavra": "alma" },
+        { "hebraico": "חַיָּה", "transliteral": "chayah", "traducao_palavra": "vivente" },
+        { "hebraico": "וְעוֹף", "transliteral": "ve'of", "traducao_palavra": "e-ave" },
+        { "hebraico": "יְעוֹפֵף", "transliteral": "ye'ofef", "traducao_palavra": "voando" },
+        { "hebraico": "עַל־הָאָרֶץ", "transliteral": "ha'arets-'al", "traducao_palavra": "sobre-a-terra" },
+        { "hebraico": "עַל־פְּנֵי", "transliteral": "peney-'al", "traducao_palavra": "face de-sobre" },
+        { "hebraico": "רְקִיעַ", "transliteral": "rqia'", "traducao_palavra": "expansão" },
+        { "hebraico": "הַשָּׁמָיִם", "transliteral": "hashamayim", "traducao_palavra": "dos-céus" }
+      ]
+    },
+    "21": {
+      "traducao_completa": "E-Ele-criou Deus os-grandes monstros marinhos e-toda alma vivente rastejante que as-águas criaram segundo-sua-espécie, e-toda ave com-asas segundo-sua-espécie; E-Ele-viu Deus que-[era]bom.",
+      "palavras": [
+        { "hebraico": "וַיִּבְרָא", "transliteral": "vayivra’", "traducao_palavra": "E-Ele-criou" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "אֶת־הַתַּנִּינִם", "transliteral": "hataninim-'et", "traducao_palavra": "os-grandes monstros marinhos-*" },
+        { "hebraico": "הַגְּדֹלִים", "transliteral": "haggedolim", "traducao_palavra": "os-grandes" },
+        { "hebraico": "וְאֵת", "transliteral": "ve'et", "traducao_palavra": "e" },
+        { "hebraico": "כָּל־נֶפֶשׁ", "transliteral": "nefesh-kol", "traducao_palavra": "toda alma" },
+        { "hebraico": "הַחַיָּה", "transliteral": "hachayah", "traducao_palavra": "vivente" },
+        { "hebraico": "הָרֹמֶשֶׂת", "transliteral": "ha'romeset", "traducao_palavra": "rastejante" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "'asher", "traducao_palavra": "que" },
+        { "hebraico": "שָׁרְצוּ", "transliteral": "shar'tsu", "traducao_palavra": "as-águas criaram" },
+        { "hebraico": "הַמַּיִם", "transliteral": "hamayim", "traducao_palavra": "as-águas" },
+        { "hebraico": "לְמִינָהּ", "transliteral": "leminah", "traducao_palavra": "segundo-sua-espécie" },
+        { "hebraico": "וְאֵת", "transliteral": "ve'et", "traducao_palavra": "e" },
+        { "hebraico": "כָּל־עוֹף", "transliteral": "'of-kol", "traducao_palavra": "toda ave" },
+        { "hebraico": "כָּנָף", "transliteral": "kanaf", "traducao_palavra": "com-asas" },
+        { "hebraico": "לְמִינֵהוּ", "transliteral": "leminehu", "traducao_palavra": "segundo-sua-espécie" },
+        { "hebraico": "וַיַּרְא", "transliteral": "vayarə’", "traducao_palavra": "E-Ele-viu" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "כִּי־טוֹב", "transliteral": "tov-ki", "traducao_palavra": "que-[era]bom" }
+      ]
+    },
+    "22": {
+      "traducao_completa": "E-Ele-abençoou Deus [a]elas para-dizer: frutificai-vos e-multiplicai-vos, e-enchei as-águas-* nos-mares; e-a-ave ela-se-multiplique na-terra.",
+      "palavras": [
+        { "hebraico": "וַיְבָרֶךְ", "transliteral": "vayevarech", "traducao_palavra": "E-Ele-abençoou" },
+        { "hebraico": "אֹתָם", "transliteral": "'otam", "traducao_palavra": "[a]elas" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "לֵאמֹר", "transliteral": "le'mor", "traducao_palavra": "para-dizer" },
+        { "hebraico": "פְּרוּ", "transliteral": "peru", "traducao_palavra": "frutificai-vos" },
+        { "hebraico": "וּרְבוּ", "transliteral": "urevu", "traducao_palavra": "e-multiplicai-vos" },
+        { "hebraico": "וּמִלְאוּ", "transliteral": "umil’u", "traducao_palavra": "e-enchei" },
+        { "hebraico": "אֶת־הַמַּיִם", "transliteral": "hamayim-'et", "traducao_palavra": "as-águas-*" },
+        { "hebraico": "בַּיַּמִּים", "transliteral": "bayamim", "traducao_palavra": "nos-mares" },
+        { "hebraico": "וְהָעוֹף", "transliteral": "ve’of", "traducao_palavra": "e-a-ave" },
+        { "hebraico": "יִרֶב", "transliteral": "yirev", "traducao_palavra": "ela-se-multiplique" },
+        { "hebraico": "בָּאָרֶץ", "transliteral": "ba’arets", "traducao_palavra": "na-terra" }
+      ]
+    },
+    "23": {
+      "traducao_completa": "tarde-e ele foi, manhã-e ele foi: dia quinto.",
+      "palavras": [
+        { "hebraico": "וַיְהִי־עֶרֶב", "transliteral": "'erev-vayehi", "traducao_palavra": "tarde-e ele foi" },
+        { "hebraico": "וַיְהִי־בֹקֶר", "transliteral": "voqer-vayehi", "traducao_palavra": "manhã-e ele foi" },
+        { "hebraico": "יוֹם", "transliteral": "yom", "traducao_palavra": "dia" },
+        { "hebraico": "חֲמִישִׁי", "transliteral": "chamishi", "traducao_palavra": "quinto" }
+      ]
+    },
+    "24": {
+      "traducao_completa": "E-Ele-disse Deus: produza a-terra alma vivente segundo-sua-espécie: gado e-réptil e-fera-da-terra segundo-sua-espécie; e-assim foi.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "vayo'mer", "traducao_palavra": "E-Ele-disse" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "תּוֹצֵא", "transliteral": "totse'", "traducao_palavra": "produza" },
+        { "hebraico": "הָאָרֶץ", "transliteral": "ha'arets", "traducao_palavra": "a-terra" },
+        { "hebraico": "נֶפֶשׁ", "transliteral": "nefesh", "traducao_palavra": "alma" },
+        { "hebraico": "חַיָּה", "transliteral": "chayah", "traducao_palavra": "vivente" },
+        { "hebraico": "לְמִינָהּ", "transliteral": "leminah", "traducao_palavra": "segundo-sua-espécie" },
+        { "hebraico": "בְּהֵמָה", "transliteral": "behemah", "traducao_palavra": "gado" },
+        { "hebraico": "וָרֶמֶשׂ", "transliteral": "varemes", "traducao_palavra": "e-réptil" },
+        { "hebraico": "וְחַיַּת־הָאָרֶץ", "transliteral": "ha’arets-chayat", "traducao_palavra": "e-fera-da-terra" },
+        { "hebraico": "לְמִינָהּ", "transliteral": "leminah", "traducao_palavra": "segundo-sua-espécie" },
+        { "hebraico": "וַיְהִי־כֵן", "transliteral": "chen-vayehi", "traducao_palavra": "e-assim foi" }
+      ]
+    },
+    "25": {
+      "traducao_completa": "E-Ele-fez Deus a-fera-* da-terra segundo-sua-espécie, e-o-gado-* segundo-sua-espécie, e-todo réptil da-terra segundo-sua-espécie; E-Ele-viu Deus que-[era]bom.",
+      "palavras": [
+        { "hebraico": "וַיַּעַשׂ", "transliteral": "vaya’as", "traducao_palavra": "E-Ele-fez" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "’elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "אֶת־חַיַּת", "transliteral": "chayat-’et", "traducao_palavra": "a-fera-*" },
+        { "hebraico": "הָאָרֶץ", "transliteral": "ha’arets", "traducao_palavra": "da-terra" },
+        { "hebraico": "לְמִינָהּ", "transliteral": "leminah", "traducao_palavra": "segundo-sua-espécie" },
+        { "hebraico": "וְאֶת־הַבְּהֵמָה", "transliteral": "behemah-’et", "traducao_palavra": "e-o-gado-*" },
+        { "hebraico": "לְמִינָהּ", "transliteral": "leminah", "traducao_palavra": "segundo-sua-espécie" },
+        { "hebraico": "וְאֵת", "transliteral": "ve’et", "traducao_palavra": "e" },
+        { "hebraico": "כָּל־רֶמֶשׂ", "transliteral": "remes-kol", "traducao_palavra": "todo réptil" },
+        { "hebraico": "הָאֲדָמָה", "transliteral": "ha’adamah", "traducao_palavra": "da-terra" },
+        { "hebraico": "לְמִינֵהוּ", "transliteral": "leminehu", "traducao_palavra": "segundo-sua-espécie" },
+        { "hebraico": "וַיַּרְא", "transliteral": "vayarə’", "traducao_palavra": "E-Ele-viu" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "’elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "כִּי־טוֹב", "transliteral": "tov-ki", "traducao_palavra": "que-[era]bom" }
+      ]
+    },
+    "26": {
+      "traducao_completa": "E-Ele-disse Deus: façamos homem à-nossa-imagem conforme-nossa-semelhança; e-ele-domine sobre-os-peixes do-mar e-sobre-as-aves dos-céus e-sobre-o-gado e-sobre-toda-a-terra e-sobre-todo-réptil rastejante sobre-a-terra.",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "vayo’mer", "traducao_palavra": "E-Ele-disse" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "’elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "נַעֲשֶׂה", "transliteral": "na’aseh", "traducao_palavra": "façamos" },
+        { "hebraico": "אָדָם", "transliteral": "’adam", "traducao_palavra": "homem" },
+        { "hebraico": "בְּצַלְמֵנוּ", "transliteral": "betsalmenu", "traducao_palavra": "à-nossa-imagem" },
+        { "hebraico": "כִּדְמוּתֵנוּ", "transliteral": "kidmutenu", "traducao_palavra": "conforme-nossa-semelhança" },
+        { "hebraico": "וְיִרְדּוּ", "transliteral": "veyirdu", "traducao_palavra": "e-ele-domine" },
+        { "hebraico": "בִדְגַת", "transliteral": "digat", "traducao_palavra": "sobre-os-peixes" },
+        { "hebraico": "הַיָּם", "transliteral": "hayam", "traducao_palavra": "do-mar" },
+        { "hebraico": "וּבְעוֹף", "transliteral": "uve’of", "traducao_palavra": "e-sobre-as-aves" },
+        { "hebraico": "הַשָּׁמַיִם", "transliteral": "hashamayim", "traducao_palavra": "dos-céus" },
+        { "hebraico": "וּבַבְּהֵמָה", "transliteral": "uvabehemah", "traducao_palavra": "e-sobre-o-gado" },
+        { "hebraico": "וּבְכָל־הָאָרֶץ", "transliteral": "uvəchol-ha’arets", "traducao_palavra": "e-sobre-toda-a-terra" },
+        { "hebraico": "וּבְכָל־הָרֶמֶשׂ", "transliteral": "uvəchol-haremes", "traducao_palavra": "e-sobre-todo-réptil" },
+        { "hebraico": "הָרֹמֵשׂ", "transliteral": "ha'romes", "traducao_palavra": "rastejante" },
+        { "hebraico": "עַל־הָאָרֶץ", "transliteral": "ha’arets-'al", "traducao_palavra": "sobre-a-terra" }
+      ]
+    },
+    "27": {
+      "traducao_completa": "E-Ele-criou Deus o-homem-* à-sua-imagem; à-imagem de-Deus [Ele]criou [a]ele; macho e-fêmea [Ele]criou [a]eles.",
+      "palavras": [
+        { "hebraico": "וַיִּבְרָא", "transliteral": "vayivra’", "traducao_palavra": "E-Ele-criou" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "’elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "אֶת־הָאָדָם", "transliteral": "ha’adam-’et", "traducao_palavra": "o-homem-*" },
+        { "hebraico": "בְּצַלְמוֹ", "transliteral": "betsalmo", "traducao_palavra": "à-sua-imagem" },
+        { "hebraico": "בְּצֶלֶם", "transliteral": "betselem", "traducao_palavra": "à-imagem" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "’elohim", "traducao_palavra": "de-Deus" },
+        { "hebraico": "בָּרָא", "transliteral": "bara’", "traducao_palavra": "[Ele]criou" },
+        { "hebraico": "אֹתוֹ", "transliteral": "’oto", "traducao_palavra": "[a]ele" },
+        { "hebraico": "זָכָר", "transliteral": "zachar", "traducao_palavra": "macho" },
+        { "hebraico": "וּנְקֵבָה", "transliteral": "uneqevah", "traducao_palavra": "e-fêmea" },
+        { "hebraico": "בָּרָא", "transliteral": "bara’", "traducao_palavra": "[Ele]criou" },
+        { "hebraico": "אֹתָם", "transliteral": "’otam", "traducao_palavra": "[a]eles" }
+      ]
+    },
+    "28": {
+      "traducao_completa": "E-Ele-abençoou Deus [a]eles; E-Ele-disse a-eles: frutificai-vos e-multiplicai-vos, e-enchei a-terra-*, e-subjugai-a; e-domine sobre-os-peixes do-mar e-sobre-as-aves dos-céus e-sobre-toda fera rastejante sobre-a-terra.",
+      "palavras": [
+        { "hebraico": "וַיְבָרֶךְ", "transliteral": "vayevarech", "traducao_palavra": "E-Ele-abençoou" },
+        { "hebraico": "אֹתָם", "transliteral": "'otam", "traducao_palavra": "[a]eles" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "vayo'mer", "traducao_palavra": "E-Ele-disse" },
+        { "hebraico": "לָהֶם", "transliteral": "lahem", "traducao_palavra": "a-eles" },
+        { "hebraico": "פְּרוּ", "transliteral": "peru", "traducao_palavra": "frutificai-vos" },
+        { "hebraico": "וּרְבוּ", "transliteral": "urevu", "traducao_palavra": "e-multiplicai-vos" },
+        { "hebraico": "וּמִלְאוּ", "transliteral": "umil’u", "traducao_palavra": "e-enchei" },
+        { "hebraico": "אֶת־הָאָרֶץ", "transliteral": "ha’arets-'et", "traducao_palavra": "a-terra-*" },
+        { "hebraico": "וְכִבְשֻׁהָ", "transliteral": "vechivshuha", "traducao_palavra": "e-subjugai-a" },
+        { "hebraico": "וּרְדוּ", "transliteral": "urdu", "traducao_palavra": "e-domine" },
+        { "hebraico": "בִדְגַת", "transliteral": "digat", "traducao_palavra": "sobre-os-peixes" },
+        { "hebraico": "הַיָּם", "transliteral": "hayam", "traducao_palavra": "do-mar" },
+        { "hebraico": "וּבְעוֹף", "transliteral": "uve’of", "traducao_palavra": "e-sobre-as-aves" },
+        { "hebraico": "הַשָּׁמַיִם", "transliteral": "hashamayim", "traducao_palavra": "dos-céus" },
+        { "hebraico": "וּבְכָל־חַיָּה", "transliteral": "chayah-uvəchol", "traducao_palavra": "e-sobre-toda fera" },
+        { "hebraico": "הָרֹמֶשֶׂת", "transliteral": "ha'romeset", "traducao_palavra": "rastejante" },
+        { "hebraico": "עַל־הָאָרֶץ", "transliteral": "ha’arets-'al", "traducao_palavra": "sobre-a-terra" }
+      ]
+    },
+    "29": {
+      "traducao_completa": "E-Ele-disse Deus: eis-que eu-dei para-vós toda-planta-* sementeira semente que sobre-toda-a-terra, e-toda-árvore-* que-nele fruto-de-árvore sementeira semente; para-vós ele-será para-comida;",
+      "palavras": [
+        { "hebraico": "וַיֹּאמֶר", "transliteral": "vayo'mer", "traducao_palavra": "E-Ele-disse" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "הִנֵּה", "transliteral": "hineh", "traducao_palavra": "eis-que" },
+        { "hebraico": "נָתַתִּי", "transliteral": "natati", "traducao_palavra": "eu-dei" },
+        { "hebraico": "לָכֶם", "transliteral": "lachem", "traducao_palavra": "para-vós" },
+        { "hebraico": "אֶת־כָּל־עֵשֶׂב", "transliteral": "'essev-kol-'et", "traducao_palavra": "toda-planta-*" },
+        { "hebraico": "זֹרֵעַ", "transliteral": "zore’a", "traducao_palavra": "sementeira" },
+        { "hebraico": "זֶרַע", "transliteral": "zera’", "traducao_palavra": "semente" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "'asher", "traducao_palavra": "que" },
+        { "hebraico": "עַל־פְּנֵי", "transliteral": "peney-'al", "traducao_palavra": "face de-sobre" },
+        { "hebraico": "כָּל־הָאָרֶץ", "transliteral": "ha’arets-kol", "traducao_palavra": "toda-a-terra" },
+        { "hebraico": "וְאֶת־כָּל־הָעֵץ", "transliteral": "'ets-kol-'et", "traducao_palavra": "e-toda-árvore-*" },
+        { "hebraico": "אֲשֶׁר־בּוֹ", "transliteral": "bo-'asher", "traducao_palavra": "que-nele" },
+        { "hebraico": "פְּרִי־עֵץ", "transliteral": "'ets-peri", "traducao_palavra": "fruto-de-árvore" },
+        { "hebraico": "זֹרֵעַ", "transliteral": "zore’a", "traducao_palavra": "sementeira" },
+        { "hebraico": "זָרַע", "transliteral": "zara’", "traducao_palavra": "semente" },
+        { "hebraico": "לָכֶם", "transliteral": "lachem", "traducao_palavra": "para-vós" },
+        { "hebraico": "יִהְיֶה", "transliteral": "yihyeh", "traducao_palavra": "ele-será" },
+        { "hebraico": "לְאָכְלָה", "transliteral": "le’ochlah", "traducao_palavra": "para-comida" }
+      ]
+    },
+    "30": {
+      "traducao_completa": "e-para-toda-fera da-terra e-para-toda-ave dos-céus e-para-tudo rastejante sobre-a-terra que-nele alma vivente toda-erva-* planta para-comida; e-assim foi.",
+      "palavras": [
+        { "hebraico": "וּלְכָל־חַיַּת", "transliteral": "chayat-kol-ule", "traducao_palavra": "e-para-toda-fera" },
+        { "hebraico": "הָאָרֶץ", "transliteral": "ha’arets", "traducao_palavra": "da-terra" },
+        { "hebraico": "וּלְכָל־עוֹף", "transliteral": "'of-kol-ule", "traducao_palavra": "e-para-toda-ave" },
+        { "hebraico": "הַשָּׁמַיִם", "transliteral": "hashamayim", "traducao_palavra": "dos-céus" },
+        { "hebraico": "וּלְכֹל", "transliteral": "ulechol", "traducao_palavra": "e-para-tudo" },
+        { "hebraico": "רוֹמֵשׂ", "transliteral": "romes", "traducao_palavra": "rastejante" },
+        { "hebraico": "עַל־הָאָרֶץ", "transliteral": "ha’arets-'al", "traducao_palavra": "sobre-a-terra" },
+        { "hebraico": "אֲשֶׁר־בּוֹ", "transliteral": "bo-’asher", "traducao_palavra": "que-nele" },
+        { "hebraico": "נֶפֶשׁ", "transliteral": "nefesh", "traducao_palavra": "alma" },
+        { "hebraico": "חַיָּה", "transliteral": "chayah", "traducao_palavra": "vivente" },
+        { "hebraico": "אֶת־כָּל־יֶרֶק", "transliteral": "yerek-kol-'et", "traducao_palavra": "toda-erva-*" },
+        { "hebraico": "עֵשֶׂב", "transliteral": "'essev", "traducao_palavra": "planta" },
+        { "hebraico": "לְאָכְלָה", "transliteral": "le’ochlah", "traducao_palavra": "para-comida" },
+        { "hebraico": "וַיְהִי־כֵן", "transliteral": "chen-vayehi", "traducao_palavra": "e-assim foi" }
+      ]
+    },
+    "31": {
+      "traducao_completa": "E-Ele-viu Deus tudo que-* [Ele]fez; e-eis-que bom muito; tarde-e ele foi, manhã-e ele foi: dia sexto.",
+      "palavras": [
+        { "hebraico": "וַיַּרְא", "transliteral": "vayarə’", "traducao_palavra": "E-Ele-viu" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "’elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "אֶת־כָּל־אֲשֶׁר", "transliteral": "’asher-kol-’et", "traducao_palavra": "tudo que-*" },
+        { "hebraico": "עָשָׂה", "transliteral": "‘asah", "traducao_palavra": "[Ele]fez" },
+        { "hebraico": "וְהִנֵּה", "transliteral": "vehineh", "traducao_palavra": "e-eis-que" },
+        { "hebraico": "טוֹב", "transliteral": "tov", "traducao_palavra": "bom" },
+        { "hebraico": "מְאֹד", "transliteral": "me’od", "traducao_palavra": "muito" },
+        { "hebraico": "וַיְהִי־עֶרֶב", "transliteral": "‘erev-vayehi", "traducao_palavra": "tarde-e ele foi" },
+        { "hebraico": "וַיְהִי־בֹקֶר", "transliteral": "voqer-vayehi", "traducao_palavra": "manhã-e ele foi" },
+        { "hebraico": "יוֹם", "transliteral": "yom", "traducao_palavra": "dia" },
+        { "hebraico": "הַשִּׁשִּׁי", "transliteral": "hashishi", "traducao_palavra": "sexto" }
+      ]
     }
   }
-]
+}

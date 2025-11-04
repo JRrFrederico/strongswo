@@ -49,9 +49,9 @@ body::before {
 #slide-header {
     background-color: rgba(0, 0, 0, 0.6);                /* Fundo preto com transparência.                    */
     width: 100%;                                           /* Largura total.                                    */
-    padding: 0.75rem 0;                                    /* Preenchimento vertical.                           */
+    padding: 0.3rem 0;                                    /* Reduzido de 0.65rem para 0.3rem                  */
     text-align: center;                                    /* Alinhamento do texto ao centro.                   */
-    font-size: clamp(1.2rem, 3vw, 2rem);                 /* Tamanho de fonte responsivo.                       */
+    /*font-size: clamp(1rem, 2vw, 3rem);                 /* Tamanho de fonte responsivo.                       */
     font-weight: bold;                                     /* Peso da fonte em negrito.                         */
     font-style: italic;                                    /* Estilo da fonte itálico.                          */
     text-transform: uppercase;                             /* Texto em maiúsculas.                              */
@@ -71,39 +71,50 @@ body::before {
 #slide-progresso {
     color: #cccccc;                                        /* Cor do texto cinza claro.                         */
     font-size: clamp(0.9rem, 1.5vw, 1.5rem);             /* Tamanho de fonte responsivo.                       */
-    margin-top: 0.5vh;                                     /* Margem superior.                                  */
+    margin-top: 0.2vh;                                     /* Reduzido o espaço do progresso                    */
 }
 
 /* O bloco abaixo estiliza o conteúdo do slide */
 #slide-conteudo {
-    width: 95%;                                            /* Largura de 95%.                                   */
-    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
-    flex-grow: 1;                                          /* Ocupa o espaço restante.                          */
-    display: flex;                                         /* Layout flexível.                                  */
-    align-items: center;                                   /* Alinha os itens ao centro.                        */
-    justify-content: center;                               /* Centraliza o conteúdo.                            */
-    z-index: 3;                                            /* Ordem de empilhamento.                            */
-    padding: 1rem;                                         /* Preenchimento interno.                            */
-    box-sizing: border-box;                                /* Inclui bordas e preenchimento no tamanho total.   */
-    overflow-y: auto;                                      /* Rolagem vertical automática.                      */
+    width: 100%;              
+    height: 100%;            
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    overflow: auto;          /* Permite rolagem se necessário */
 }
 
 /* O bloco abaixo estiliza o texto da estrofe */
 .estrofe-texto {
     text-align: center;                                    /* Alinhamento do texto ao centro.                   */
-    font-size: clamp(2rem, 2.82vw, 5rem);                /* Tamanho de fonte responsivo.                       */
+    /*font-size: clamp(0.5rem, 1.5vw, 2rem);                /* Tamanho de fonte responsivo.                       */
     max-width: 100%;                                       /* Largura máxima total.                             */
     overflow-wrap: break-word;                             /* Quebra palavras longas.                           */
-    line-height: 1.3;                                      /* Altura da linha.                                  */
+    line-height: 1;                                      /* Altura da linha.                                  */
     font-weight: bold;                                     /* Peso da fonte em negrito.                         */
     font-style: italic;                                    /* Estilo da fonte itálico.                          */
     font-family: "Arial Black", Gadget, sans-serif;      /* Família da fonte.                                 */
     z-index: 3;                                            /* Ordem de empilhamento.                            */
-    padding: 1.5rem;                                       /* Preenchimento interno.                            */
+    padding: 1rem 2rem;                                    /* Reduzido o padding vertical                       */
+    /*margin-top: 1rem;                                     /* Margem negativa para subir o texto                */
     background-color: rgba(0, 0, 0, 0.4);                /* Fundo preto com transparência.                    */
     border-radius: 10px;                                   /* Cantos arredondados.                              */
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);               /* Sombra para profundidade.                         */
     animation: fadeIn 0.5s ease-out;                       /* Animação de fade-in.                              */
+    width: 90vw;                /* Usa viewport width */
+    min-height: 50vh;           /* Reduzida a altura mínima */
+    display: flex;              
+    flex-direction: column;     
+    justify-content: center;    
+    padding: 2rem;             
+    font-size: clamp(2rem, 3.25vw, 4rem);                /* Tamanho de fonte responsivo.                       */
+    line-height: 1.2;          /* Espaçamento entre linhas */
+    white-space: pre-line;     /* Preserva quebras de linha do \n */
+    overflow-wrap: break-word; /* Quebra palavras longas */
+    box-sizing: border-box;    
+    margin: 0 auto;           
+    background-color: rgba(0, 0, 0, 0.6); /* Fundo mais escuro */
 }
 
 /* O bloco abaixo estiliza o texto da estrofe do coro */
@@ -181,7 +192,6 @@ body::before {
     background-image: url('../img/biblia.png');           /* Imagem de fundo.                                  */
     opacity: 0.15;                                         /* Opacidade.                                        */
     z-index: 1;                                            /* Ordem de empilhamento.                            */
-    pointer-events: none;                                  /* Impede eventos de mouse.                          */
     background-size: cover;                                /* Cobre toda a área.                                */
     background-repeat: no-repeat;                          /* Não repete a imagem.                              */
     background-position: center;                           /* Centraliza a imagem.                              */

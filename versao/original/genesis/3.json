@@ -1,260 +1,62 @@
 {
-  "livro": "Gênesis",
-  "capitulo": 3,
-  "versiculos": {
-    "1": {
-      "traducao_completa": "Ora, a serpente era mais astuta do que todos os animais do campo que o SENHOR Deus tinha feito; e disse à mulher: É assim que Deus disse: Não comereis de toda árvore do jardim?",
-      "palavras": [
-        { "hebraico": "וְהַנָּחָשׁ", "transliteral": "VEHANACHASH", "traducao_palavra": "Ora, a serpente" },
-        { "hebraico": "הָיָה עָרוּם", "transliteral": "HAYAH ARUM", "traducao_palavra": "era mais astuta" },
-        { "hebraico": "מִכֹּל חַיַּת הַשָּׂדֶה", "transliteral": "MIKOL CHAYYAT HASSEDEH", "traducao_palavra": "do que todos os animais do campo" },
-        { "hebraico": "אֲשֶׁר עָשָׂה יְהוָה אֱלֹהִים", "transliteral": "ASHER ASAH YHVH ELOHIM", "traducao_palavra": "que o SENHOR Deus tinha feito" },
-        { "hebraico": "וַיֹּאמֶר אֶל הָאִשָּׁה", "transliteral": "VAYOMER EL HA'ISHAH", "traducao_palavra": "e disse à mulher" },
-        { "hebraico": "אַף כִּי אָמַר אֱלֹהִים", "transliteral": "AF KI AMAR ELOHIM", "traducao_palavra": "É assim que Deus disse" },
-        { "hebraico": "לֹא תֹאכְלוּ", "transliteral": "LO TOCHLU", "traducao_palavra": "Não comereis" },
-        { "hebraico": "מִכֹּל עֵץ הַגָּן", "transliteral": "MIKOL ETZ HAGAN", "traducao_palavra": "de toda árvore do jardim" }
-      ]
-    },
-    "2": {
-      "traducao_completa": "E disse a mulher à serpente: Do fruto das árvores do jardim comeremos;",
-      "palavras": [
-        { "hebraico": "וַתֹּאמֶר הָאִשָּׁה", "transliteral": "VATOMER HA'ISHAH", "traducao_palavra": "E disse a mulher" },
-        { "hebraico": "אֶל הַנָּחָשׁ", "transliteral": "EL HANACHASH", "traducao_palavra": "à serpente" },
-        { "hebraico": "מִפְּרִי עֵץ הַגָּן", "transliteral": "MIPRI ETZ HAGAN", "traducao_palavra": "Do fruto das árvores do jardim" },
-        { "hebraico": "נֹאכֵל", "transliteral": "NOCHEL", "traducao_palavra": "comeremos" }
-      ]
-    },
-    "3": {
-      "traducao_completa": "Mas do fruto da árvore que está no meio do jardim, disse Deus: Não comereis dele, nem o tocareis, para que não morrais.",
-      "palavras": [
-        { "hebraico": "וּמִפְּרִי הָעֵץ", "transliteral": "UMIPRI HA'ETZ", "traducao_palavra": "Mas do fruto da árvore" },
-        { "hebraico": "אֲשֶׁר בְּתוֹךְ הַגָּן", "transliteral": "ASHER BETOCH HAGAN", "traducao_palavra": "que está no meio do jardim" },
-        { "hebraico": "אָמַר אֱלֹהִים", "transliteral": "AMAR ELOHIM", "traducao_palavra": "disse Deus" },
-        { "hebraico": "לֹא תֹאכְלוּ מִמֶּנּוּ", "transliteral": "LO TOCHLU MIMENNU", "traducao_palavra": "Não comereis dele" },
-        { "hebraico": "וְלֹא תִגְּעוּ בּוֹ", "transliteral": "VELO TIG'GU BO", "traducao_palavra": "nem o tocareis" },
-        { "hebraico": "פֶּן תְּמֻתוּן", "transliteral": "PEN TEMUTUN", "traducao_palavra": "para que não morrais" }
-      ]
-    },
-    "4": {
-      "traducao_completa": "Então a serpente disse à mulher: Certamente não morrereis;",
-      "palavras": [
-        { "hebraico": "וַיֹּאמֶר הַנָּחָשׁ", "transliteral": "VAYOMER HANACHASH", "traducao_palavra": "Então a serpente disse" },
-        { "hebraico": "אֶל הָאִשָּׁה", "transliteral": "EL HA'ISHAH", "traducao_palavra": "à mulher" },
-        { "hebraico": "לֹא מוֹת תְּמֻתוּן", "transliteral": "LO MOT TEMUTUN", "traducao_palavra": "Certamente não morrereis" }
-      ]
-    },
-    "5": {
-      "traducao_completa": "Porque Deus sabe que no dia em que dele comerdes se abrirão os vossos olhos, e sereis como Deus, sabendo o bem e o mal.",
-      "palavras": [
-        { "hebraico": "כִּי יֹדֵעַ אֱלֹהִים", "transliteral": "KI YODE'A ELOHIM", "traducao_palavra": "Porque Deus sabe" },
-        { "hebraico": "כִּי בְּיוֹם אֲכָלְכֶם מִמֶּנּוּ", "transliteral": "KI BEYOM ACHALCHEM MIMENNU", "traducao_palavra": "que no dia em que dele comerdes" },
-        { "hebraico": "וְנִפְקְחוּ עֵינֵיכֶם", "transliteral": "VENIFQECHU EINEICHEM", "traducao_palavra": "se abrirão os vossos olhos" },
-        { "hebraico": "וִהְיִיתֶם כֵּאלֹהִים", "transliteral": "VIHYITEM KE'ELOHIM", "traducao_palavra": "e sereis como Deus" },
-        { "hebraico": "יֹדְעֵי טוֹב וָרָע", "transliteral": "YODE'EI TOV VARA", "traducao_palavra": "sabendo o bem e o mal" }
-      ]
-    },
-    "6": {
-      "traducao_completa": "E viu a mulher que aquela árvore era boa para se comer, e agradável aos olhos, e árvore desejável para dar entendimento; e tomou do seu fruto, e comeu, e deu também a seu marido, que estava com ela, e ele comeu.",
-      "palavras": [
-        { "hebraico": "וַתֵּרֶא הָאִשָּׁה", "transliteral": "VATTERE HA'ISHAH", "traducao_palavra": "E viu a mulher" },
-        { "hebraico": "כִּי טוֹב הָעֵץ", "transliteral": "KI TOV HA'ETZ", "traducao_palavra": "que aquela árvore era boa" },
-        { "hebraico": "לְמַאֲכָל", "transliteral": "LEMA'AKHAL", "traducao_palavra": "para se comer" },
-        { "hebraico": "וְכִי תַאֲוָה הוּא לָעֵינַיִם", "transliteral": "VECHI TA'AVAH HU LA'EINAYIM", "traducao_palavra": "e agradável aos olhos" },
-        { "hebraico": "וְנֶחְמָד הָעֵץ", "transliteral": "VENECHMAD HA'ETZ", "traducao_palavra": "e árvore desejável" },
-        { "hebraico": "לְהַשְׂכִּיל", "transliteral": "LEHASKIL", "traducao_palavra": "para dar entendimento" },
-        { "hebraico": "וַתִּקַּח מִפִּרְיוֹ", "transliteral": "VATIQQACH MIPIRYO", "traducao_palavra": "e tomou do seu fruto" },
-        { "hebraico": "וַתֹּאכַל", "transliteral": "VATOCHAL", "traducao_palavra": "e comeu" },
-        { "hebraico": "וַתִּתֵּן גַּם לְאִישָׁהּ", "transliteral": "VATITEN GAM LE'ISHHAH", "traducao_palavra": "e deu também a seu marido" },
-        { "hebraico": "עִמָּהּ", "transliteral": "IMMAH", "traducao_palavra": "que estava com ela" },
-        { "hebraico": "וַיֹּאכַל", "transliteral": "VAYYOKHAL", "traducao_palavra": "e ele comeu" }
-      ]
-    },
-    "7": {
-      "traducao_completa": "Então abriram-se os olhos de ambos, e conheceram que estavam nus; e coseram folhas de figueira, e fizeram para si aventais.",
-      "palavras": [
-        { "hebraico": "וַתִּפָּקַחְנָה עֵינֵי שְׁנֵיהֶם", "transliteral": "VATIPPAQCHNA EINEI SHNEIHEM", "traducao_palavra": "Então abriram-se os olhos de ambos" },
-        { "hebraico": "וַיֵּדְעוּ כִּי עֵירֻמִּם הֵם", "transliteral": "VAYEDE'U KI EIRUMMIM HEM", "traducao_palavra": "e conheceram que estavam nus" },
-        { "hebraico": "וַיִּתְפְּרוּ עֲלֵה תְאֵנָה", "transliteral": "VAYITPERU ALEH TE'ENAH", "traducao_palavra": "e coseram folhas de figueira" },
-        { "hebraico": "וַיַּעֲשׂוּ לָהֶם חֲגֹרֹת", "transliteral": "VAYA'ASU LAHEM CHAGOROT", "traducao_palavra": "e fizeram para si aventais" }
-      ]
-    },
-    "8": {
-      "traducao_completa": "E ouviram a voz do SENHOR Deus, que passeava no jardim pela viração do dia; e esconderam-se o homem e sua mulher da presença do SENHOR Deus entre as árvores do jardim.",
-      "palavras": [
-        { "hebraico": "וַיִּשְׁמְעוּ אֶת קוֹל יְהוָה אֱלֹהִים", "transliteral": "VAYISHME'U ET QOL YHVH ELOHIM", "traducao_palavra": "E ouviram a voz do SENHOR Deus" },
-        { "hebraico": "מִתְהַלֵּךְ בַּגָּן", "transliteral": "MITHALECH BAGAN", "traducao_palavra": "que passeava no jardim" },
-        { "hebraico": "לְרוּחַ הַיּוֹם", "transliteral": "LERUACH HAYYOM", "traducao_palavra": "pela viração do dia" },
-        { "hebraico": "וַיִּתְחַבֵּא הָאָדָם", "transliteral": "VAYITCHABBE HA'ADAM", "traducao_palavra": "e esconderam-se o homem" },
-        { "hebraico": "וְאִשְׁתּוֹ", "transliteral": "VE'ISHTO", "traducao_palavra": "e sua mulher" },
-        { "hebraico": "מִפְּנֵי יְהוָה אֱלֹהִים", "transliteral": "MIPNEI YHVH ELOHIM", "traducao_palavra": "da presença do SENHOR Deus" },
-        { "hebraico": "בְּתוֹךְ עֵץ הַגָּן", "transliteral": "BETOCH ETZ HAGAN", "traducao_palavra": "entre as árvores do jardim" }
-      ]
-    },
-    "9": {
-      "traducao_completa": "E chamou o SENHOR Deus ao homem, e disse-lhe: Onde estás tu?",
-      "palavras": [
-        { "hebraico": "וַיִּקְרָא יְהוָה אֱלֹהִים", "transliteral": "VAYIQQRA YHVH ELOHIM", "traducao_palavra": "E chamou o SENHOR Deus" },
-        { "hebraico": "אֶל הָאָדָם", "transliteral": "EL HA'ADAM", "traducao_palavra": "ao homem" },
-        { "hebraico": "וַיֹּאמֶר לוֹ", "transliteral": "VAYOMER LO", "traducao_palavra": "e disse-lhe" },
-        { "hebraico": "אַיֶּךָ", "transliteral": "AYYECHA", "traducao_palavra": "Onde estás tu" }
-      ]
-    },
-    "10": {
-      "traducao_completa": "E ele disse: Ouvi a tua voz no jardim, e temi, porque estava nu; e escondi-me.",
-      "palavras": [
-        { "hebraico": "וַיֹּאמֶר", "transliteral": "VAYOMER", "traducao_palavra": "E ele disse" },
-        { "hebraico": "אֶת קוֹלְךָ שָׁמַעְתִּי בַּגָּן", "transliteral": "ET QOLCHA SHAMA'TI BAGAN", "traducao_palavra": "Ouvi a tua voz no jardim" },
-        { "hebraico": "וָאִירָא", "transliteral": "VA'IRA", "traducao_palavra": "e temi" },
-        { "hebraico": "כִּי עֵירֹם אָנֹכִי", "transliteral": "KI EIROM ANOCHI", "traducao_palavra": "porque estava nu" },
-        { "hebraico": "וָאֵחָבֵא", "transliteral": "VA'ECHAVE", "traducao_palavra": "e escondi-me" }
-      ]
-    },
-    "11": {
-      "traducao_completa": "E disse-lhe: Quem te mostrou que estavas nu? Comeste tu da árvore de que te ordenei que não comesses?",
-      "palavras": [
-        { "hebraico": "וַיֹּאמֶר", "transliteral": "VAYOMER", "traducao_palavra": "E disse-lhe" },
-        { "hebraico": "מִי הִגִּיד לְךָ", "transliteral": "MI HIGGID LECHA", "traducao_palavra": "Quem te mostrou" },
-        { "hebraico": "כִּי עֵירֹם אָתָּה", "transliteral": "KI EIROM ATTAH", "traducao_palavra": "que estavas nu" },
-        { "hebraico": "הֲמִן הָעֵץ", "transliteral": "HAMMIN HA'ETZ", "traducao_palavra": "Comeste tu da árvore" },
-        { "hebraico": "אֲשֶׁר צִוִּיתִיךָ", "transliteral": "ASHER TZIVVITICHA", "traducao_palavra": "de que te ordenei" },
-        { "hebraico": "לְבִלְתִּי אֲכָל מִמֶּנּוּ", "transliteral": "LEVILTI ACHAL MIMENNU", "traducao_palavra": "que não comesses" }
-      ]
-    },
-    "12": {
-      "traducao_completa": "E disse o homem: A mulher que me deste por companhia, ela me deu da árvore, e comi.",
-      "palavras": [
-        { "hebraico": "וַיֹּאמֶר הָאָדָם", "transliteral": "VAYOMER HA'ADAM", "traducao_palavra": "E disse o homem" },
-        { "hebraico": "הָאִשָּׁה אֲשֶׁר נָתַתָּה", "transliteral": "HA'ISHAH ASHER NATATTAH", "traducao_palavra": "A mulher que me deste" },
-        { "hebraico": "עִמָּדִי", "transliteral": "IMMADI", "traducao_palavra": "por companhia" },
-        { "hebraico": "הִיא נָתְנָה לִי מִן הָעֵץ", "transliteral": "HI NATNAH LI MIN HA'ETZ", "traducao_palavra": "ela me deu da árvore" },
-        { "hebraico": "וָאֹכֵל", "transliteral": "VA'OCHEL", "traducao_palavra": "e comi" }
-      ]
-    },
-    "13": {
-      "traducao_completa": "E disse o SENHOR Deus à mulher: Que é isto que fizeste? E disse a mulher: A serpente me enganou, e comi.",
-      "palavras": [
-        { "hebraico": "וַיֹּאמֶר יְהוָה אֱלֹהִים", "transliteral": "VAYOMER YHVH ELOHIM", "traducao_palavra": "E disse o SENHOR Deus" },
-        { "hebraico": "לָאִשָּׁה", "transliteral": "LA'ISHAH", "traducao_palavra": "à mulher" },
-        { "hebraico": "מַה זֹּאת עָשִׂית", "transliteral": "MAH ZO'T ASIT", "traducao_palavra": "Que é isto que fizeste" },
-        { "hebraico": "וַתֹּאמֶר הָאִשָּׁה", "transliteral": "VATOMER HA'ISHAH", "traducao_palavra": "E disse a mulher" },
-        { "hebraico": "הַנָּחָשׁ", "transliteral": "HANACHASH", "traducao_palavra": "A serpente" },
-        { "hebraico": "הִשִּׁיאַנִי", "transliteral": "HISHI'ANI", "traducao_palavra": "me enganou" },
-        { "hebraico": "וָאֹכֵל", "transliteral": "VA'OCHEL", "traducao_palavra": "e comi" }
-      ]
-    },
-    "14": {
-      "traducao_completa": "E disse o SENHOR Deus à serpente: Porquanto fizeste isto, maldita serás tu entre todos os animais, e entre todas as bestas do campo; sobre o teu ventre andarás, e pó comerás todos os dias da tua vida;",
-      "palavras": [
-        { "hebraico": "וַיֹּאמֶר יְהוָה אֱלֹהִים", "transliteral": "VAYOMER YHVH ELOHIM", "traducao_palavra": "E disse o SENHOR Deus" },
-        { "hebraico": "לַנָּחָשׁ", "transliteral": "LANACHASH", "traducao_palavra": "à serpente" },
-        { "hebraico": "יַעַן אֲשֶׁר עָשִׂיתָ זֹּאת", "transliteral": "YA'AN ASHER ASITA ZO'T", "traducao_palavra": "Porquanto fizeste isto" },
-        { "hebraico": "אָרוּר אַתָּה", "transliteral": "ARUR ATTAH", "traducao_palavra": "maldita serás tu" },
-        { "hebraico": "מִכָּל הַבְּהֵמָה", "transliteral": "MIKOL HABEHEMAH", "traducao_palavra": "entre todos os animais" },
-        { "hebraico": "וּמִכֹּל חַיַּת הַשָּׂדֶה", "transliteral": "UMIKOL CHAYYAT HASSEDEH", "traducao_palavra": "e entre todas as bestas do campo" },
-        { "hebraico": "עַל גְּחֹנְךָ תֵלֵךְ", "transliteral": "AL GECHONCHA TELECH", "traducao_palavra": "sobre o teu ventre andarás" },
-        { "hebraico": "וְעָפָר תֹּאכַל", "transliteral": "VE'AFAR TOCHAL", "traducao_palavra": "e pó comerás" },
-        { "hebraico": "כֹּל יְמֵי חַיֶּיךָ", "transliteral": "KOL YEMEI CHAYYECHA", "traducao_palavra": "todos os dias da tua vida" }
-      ]
-    },
-    "15": {
-      "traducao_completa": "E porei inimizade entre ti e a mulher, e entre a tua semente e a sua semente; esta te ferirá a cabeça, e tu lhe ferirás o calcanhar.",
-      "palavras": [
-        { "hebraico": "וְאֵיבָה אָשִׂית", "transliteral": "VE'EIVAH ASIT", "traducao_palavra": "E porei inimizade" },
-        { "hebraico": "בֵּינְךָ וּבֵין הָאִשָּׁה", "transliteral": "BEINCHA UVEIN HA'ISHAH", "traducao_palavra": "entre ti e a mulher" },
-        { "hebraico": "וּבֵין זַרְעֲךָ וּבֵין זַרְעָהּ", "transliteral": "UBEIN ZAR'ACHA UVEIN ZAR'AH", "traducao_palavra": "e entre a tua semente e a sua semente" },
-        { "hebraico": "הוּא יְשׁוּפְךָ רֹאשׁ", "transliteral": "HU YESHUFECHA RO'SH", "traducao_palavra": "esta te ferirá a cabeça" },
-        { "hebraico": "וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב", "transliteral": "VE'ATTAH TESHUFEINU AQEV", "traducao_palavra": "e tu lhe ferirás o calcanhar" }
-      ]
-    },
-    "16": {
-      "traducao_completa": "À mulher disse: Multiplicarei sobremaneira os teus sofrimentos e tuas concepções; com dor darás à luz filhos; e o teu desejo será para o teu marido, e ele te dominará.",
-      "palavras": [
-        { "hebraico": "אֶל הָאִשָּׁה אָמַר", "transliteral": "EL HA'ISHAH AMAR", "traducao_palavra": "À mulher disse" },
-        { "hebraico": "הַרְבָּה אַרְבֶּה", "transliteral": "HARBAH ARBEH", "traducao_palavra": "Multiplicarei sobremaneira" },
-        { "hebraico": "עִצְּבוֹנֵךְ וְהֵרֹנֵךְ", "transliteral": "ITZ'VONECH VEHERONECH", "traducao_palavra": "os teus sofrimentos e tuas concepções" },
-        { "hebraico": "בְּעֶצֶב תֵּלְדִי בָּנִים", "transliteral": "BE'ETZEV TELDI VANIM", "traducao_palavra": "com dor darás à luz filhos" },
-        { "hebraico": "וְאֶל אִישֵׁךְ תְּשׁוּקָתֵךְ", "transliteral": "VE'EL ISHECHA TESHUQATECH", "traducao_palavra": "e o teu desejo será para o teu marido" },
-        { "hebraico": "וְהוּא יִמְשֹׁל בָּךְ", "transliteral": "VEHU YIMSHOL BACH", "traducao_palavra": "e ele te dominará" }
-      ]
-    },
-    "17": {
-      "traducao_completa": "E a Adão disse: Porquanto deste ouvidos à voz de tua mulher, e comeste da árvore de que te ordenei, dizendo: Não comerás dela; maldita é a terra por causa de ti; com trabalho a comerás todos os dias da tua vida;",
-      "palavras": [
-        { "hebraico": "וּלְאָדָם אָמַר", "transliteral": "ULE'ADAM AMAR", "traducao_palavra": "E a Adão disse" },
-        { "hebraico": "יַעַן שָׁמַעְתָּ לְקוֹל אִשְׁתֶּךָ", "transliteral": "YA'AN SHAMA'TA LEQOL ISHTECHA", "traducao_palavra": "Porquanto deste ouvidos à voz de tua mulher" },
-        { "hebraico": "וַתֹּאכַל מִן הָעֵץ", "transliteral": "VATOCHAL MIN HA'ETZ", "traducao_palavra": "e comeste da árvore" },
-        { "hebraico": "אֲשֶׁר צִוִּיתִיךָ לֵאמֹר", "transliteral": "ASHER TZIVVITICHA LEMOR", "traducao_palavra": "de que te ordenei, dizendo" },
-        { "hebraico": "לֹא תֹאכַל מִמֶּנּוּ", "transliteral": "LO TOCHAL MIMENNU", "traducao_palavra": "Não comerás dela" },
-        { "hebraico": "אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ", "transliteral": "ARURAH HA'ADAMAH BA'AVURECHA", "traducao_palavra": "maldita é a terra por causa de ti" },
-        { "hebraico": "בְּעִצָּבוֹן תֹּאכְלֶנָּה", "transliteral": "BE'ITZTZAVON TOCHLENNAH", "traducao_palavra": "com trabalho a comerás" },
-        { "hebraico": "כֹּל יְמֵי חַיֶּיךָ", "transliteral": "KOL YEMEI CHAYYECHA", "traducao_palavra": "todos os dias da tua vida" }
-      ]
-    },
-    "18": {
-      "traducao_completa": "Espinhos e cardos também te produzirá; e comerás a erva do campo;",
-      "palavras": [
-        { "hebraico": "וְקוֹץ וְדַרְדַּר תַּצְמִיחַ לָךְ", "transliteral": "VEQOTZ VEDARDAR TATMICH LACH", "traducao_palavra": "Espinhos e cardos também te produzirá" },
-        { "hebraico": "וְאָכַלְתָּ אֶת עֵשֶׂב הַשָּׂדֶה", "transliteral": "VE'ACHALTA ET ESEV HASSEDEH", "traducao_palavra": "e comerás a erva do campo" }
-      ]
-    },
-    "19": {
-      "traducao_completa": "No suor do teu rosto comerás o teu pão, até que tornes à terra; porque dela foste tomado; porquanto és pó, e ao pó tornarás.",
-      "palavras": [
-        { "hebraico": "בְּזֵעַת אַפֶּיךָ תֹּאכַל לֶחֶם", "transliteral": "BEZE'AT APECHA TOCHAL LECHEM", "traducao_palavra": "No suor do teu rosto comerás o teu pão" },
-        { "hebraico": "עַד שׁוּבְךָ אֶל הָאֲדָמָה", "transliteral": "AD SHUVCHA EL HA'ADAMAH", "traducao_palavra": "até que tornes à terra" },
-        { "hebraico": "כִּי מִמֶּנָּה לֻקַּחְתָּ", "transliteral": "KI MIMENNAH LUKACHTA", "traducao_palavra": "porque dela foste tomado" },
-        { "hebraico": "כִּי עָפָר אַתָּה", "transliteral": "KI AFAR ATTAH", "traducao_palavra": "porquanto és pó" },
-        { "hebraico": "וְאֶל עָפָר תָּשׁוּב", "transliteral": "VE'EL AFAR TASHUV", "traducao_palavra": "e ao pó tornarás" }
-      ]
-    },
-    "20": {
-      "traducao_completa": "E chamou o homem o nome de sua mulher Eva, porquanto ela era a mãe de todos os viventes.",
-      "palavras": [
-        { "hebraico": "וַיִּקְרָא הָאָדָם", "transliteral": "VAYIQQRA HA'ADAM", "traducao_palavra": "E chamou o homem" },
-        { "hebraico": "שֵׁם אִשְׁתּוֹ חַוָּה", "transliteral": "SHEM ISHTO CHAVVAH", "traducao_palavra": "o nome de sua mulher Eva" },
-        { "hebraico": "כִּי הִיא הָיְתָה אֵם", "transliteral": "KI HI HAYTAH EM", "traducao_palavra": "porquanto ela era a mãe" },
-        { "hebraico": "כָּל חָי", "transliteral": "KOL CHAY", "traducao_palavra": "de todos os viventes" }
-      ]
-    },
-    "21": {
-      "traducao_completa": "E fez o SENHOR Deus a Adão e a sua mulher túnicas de peles, e os vestiu.",
-      "palavras": [
-        { "hebraico": "וַיַּעַשׂ יְהוָה אֱלֹהִים", "transliteral": "VAYA'AS YHVH ELOHIM", "traducao_palavra": "E fez o SENHOR Deus" },
-        { "hebraico": "לְאָדָם וּלְאִשְׁתּוֹ", "transliteral": "LE'ADAM ULE'ISHTO", "traducao_palavra": "a Adão e a sua mulher" },
-        { "hebraico": "כָּתְנוֹת עוֹר", "transliteral": "KATNOT OR", "traducao_palavra": "túnicas de peles" },
-        { "hebraico": "וַיַּלְבִּשֵׁם", "transliteral": "VAYYALBISHEN", "traducao_palavra": "e os vestiu" }
-      ]
-    },
-    "22": {
-      "traducao_completa": "E disse o SENHOR Deus: Eis que o homem se tornou como um de nós, sabendo o bem e o mal; ora, pois, que não estenda a sua mão, e tome também da árvore da vida, e coma, e viva eternamente.",
-      "palavras": [
-        { "hebraico": "וַיֹּאמֶר יְהוָה אֱלֹהִים", "transliteral": "VAYOMER YHVH ELOHIM", "traducao_palavra": "E disse o SENHOR Deus" },
-        { "hebraico": "הֵן הָאָדָם הָיָה", "transliteral": "HEN HA'ADAM HAYA", "traducao_palavra": "Eis que o homem se tornou" },
-        { "hebraico": "כְּאַחַד מִמֶּנּוּ", "transliteral": "KE'ACHAD MIMENNU", "traducao_palavra": "como um de nós" },
-        { "hebraico": "לָדַעַת טוֹב וָרָע", "transliteral": "LADA'AT TOV VARA", "traducao_palavra": "sabendo o bem e o mal" },
-        { "hebraico": "וְעַתָּה פֶּן יִשְׁלַח יָדוֹ", "transliteral": "VE'ATTAH PEN YISHLACH YADO", "traducao_palavra": "ora, pois, que não estenda a sua mão" },
-        { "hebraico": "וְלָקַח גַּם מֵעֵץ הַחַיִּים", "transliteral": "VELAQACH GAM ME'ETZ HACHAYYIM", "traducao_palavra": "e tome também da árvore da vida" },
-        { "hebraico": "וְאָכַל וָחַי לְעֹלָם", "transliteral": "VE'ACHAL VACHAY LE'OLAM", "traducao_palavra": "e coma, e viva eternamente" }
+        { "hebraico": "לְעֹלָם", "transliteral": "le'olam", "traducao_palavra": "para-sempre" }
       ]
     },
     "23": {
-      "traducao_completa": "Então o SENHOR Deus o lançou fora do jardim do Éden, para lavrar a terra de que fora tomado.",
+      "traducao_completa": "E-Ele-enviou-ele SENHOR Deus do-jardim-* de-Éden para-lavar a-terra que dele [ele]havia tomado; e-expulsou o-homem, e-pôs diante-do-jardim-* de-Éden querubins e-espada flamejante que gira por todos os-lados para-guardar caminho da-árvore a-vida.",
       "palavras": [
-        { "hebraico": "וַיְשַׁלְּחֵהוּ יְהוָה אֱלֹהִים", "transliteral": "VAYSHALLECHEHU YHVH ELOHIM", "traducao_palavra": "Então o SENHOR Deus o lançou fora" },
-        { "hebraico": "מִגַּן עֵדֶן", "transliteral": "MIGAN EDEN", "traducao_palavra": "do jardim do Éden" },
-        { "hebraico": "לַעֲבֹד אֶת הָאֲדָמָה", "transliteral": "LA'AVOD ET HA'ADAMAH", "traducao_palavra": "para lavrar a terra" },
-        { "hebraico": "אֲשֶׁר לֻקַּח מִשָּׁם", "transliteral": "ASHER LUKACH MISHAM", "traducao_palavra": "de que fora tomado" }
+        { "hebraico": "וַיְשַׁלְּחֵהוּ", "transliteral": "vayishalchehu", "traducao_palavra": "E-Ele-enviou-ele" },
+        { "hebraico": "יְהוָה", "transliteral": "'adonay", "traducao_palavra": "SENHOR" },
+        { "hebraico": "אֱלֹהִים", "transliteral": "'elohim", "traducao_palavra": "Deus" },
+        { "hebraico": "מִגַּן", "transliteral": "migan", "traducao_palavra": "do-jardim-*" },
+        { "hebraico": "עֵדֶן", "transliteral": "'eden", "traducao_palavra": "de-Éden" },
+        { "hebraico": "לַעֲבֹד", "transliteral": "la'avod", "traducao_palavra": "para-lavar" },
+        { "hebraico": "אֶת", "transliteral": "'et", "traducao_palavra": "*" },
+        { "hebraico": "הָאֲדָמָה", "transliteral": "ha'adamah", "traducao_palavra": "a-terra" },
+        { "hebraico": "אֲשֶׁר", "transliteral": "'asher", "traducao_palavra": "que" },
+        { "hebraico": "לֻקַּח", "transliteral": "luqach", "traducao_palavra": "[ele]havia tomado" },
+        { "hebraico": "מִמֶּנָּה", "transliteral": "mimennah", "traducao_palavra": "dela" },
+        { "hebraico": "וַיְגָרֶשׁ", "transliteral": "vaygarash", "traducao_palavra": "e-expulsou" },
+        { "hebraico": "אֶת", "transliteral": "'et", "traducao_palavra": "*" },
+        { "hebraico": "הָאָדָם", "transliteral": "ha'adam", "traducao_palavra": "o-homem" },
+        { "hebraico": "וַיַּשְׁכֵּן", "transliteral": "vayashken", "traducao_palavra": "e-pôs" },
+        { "hebraico": "מִקֶּדֶם", "transliteral": "miqedem", "traducao_palavra": "diante-de" },
+        { "hebraico": "לְגַן", "transliteral": "legan", "traducao_palavra": "do-jardim-*" },
+        { "hebraico": "עֵדֶן", "transliteral": "'eden", "traducao_palavra": "de-Éden" },
+        { "hebraico": "אֶת", "transliteral": "'et", "traducao_palavra": "*" },
+        { "hebraico": "הַכְּרֻבִים", "transliteral": "hakeruvim", "traducao_palavra": "querubins" },
+        { "hebraico": "וְאֵת", "transliteral": "ve'et", "traducao_palavra": "e" },
+        { "hebraico": "לַהַט", "transliteral": "lahat", "traducao_palavra": "espada" },
+        { "hebraico": "הַחֶרֶב", "transliteral": "hacherev", "traducao_palavra": "flamejante" },
+        { "hebraico": "הַמִּתְהַפֶּכֶת", "transliteral": "hamithapechet", "traducao_palavra": "que gira" },
+        { "hebraico": "לִשְׁמֹר", "transliteral": "lishmor", "traducao_palavra": "para-guardar" },
+        { "hebraico": "אֶת", "transliteral": "'et", "traducao_palavra": "*" },
+        { "hebraico": "דֶּרֶךְ", "transliteral": "derech", "traducao_palavra": "caminho" },
+        { "hebraico": "עֵץ", "transliteral": "'ets", "traducao_palavra": "da-árvore" },
+        { "hebraico": "הַחַיִּים", "transliteral": "hachayim", "traducao_palavra": "a-vida" }
       ]
     },
     "24": {
-      "traducao_completa": "E lançou fora o homem; e colocou ao oriente do jardim do Éden os querubins, e uma espada flamejante que se movia ao redor, para guardar o caminho da árvore da vida.",
+      "traducao_completa": "Então expulsou o-homem; e-pôs ao-oriente do-jardim-* de-Éden querubins, e-espada flamejante que gira, para-guardar caminho da-árvore da-vida.",
       "palavras": [
-        { "hebraico": "וַיְגָרֶשׁ אֶת הָאָדָם", "transliteral": "VAYGARSH ET HA'ADAM", "traducao_palavra": "E lançou fora o homem" },
-        { "hebraico": "וַיַּשְׁכֵּן מִקֶּדֶם לְגַן עֵדֶן", "transliteral": "VAYASHKEN MIQQEDDEM LEGAN EDEN", "traducao_palavra": "e colocou ao oriente do jardim do Éden" },
-        { "hebraico": "אֶת הַכְּרֻבִים", "transliteral": "ET HAKRUBIM", "traducao_palavra": "os querubins" },
-        { "hebraico": "וְאֵת לַהַט הַחֶרֶב", "transliteral": "VE'ET LAHAT HACHEVET", "traducao_palavra": "e uma espada flamejante" },
-        { "hebraico": "הַמִּתְהַפֶּכֶת", "transliteral": "HAMITHAPPECHET", "traducao_palavra": "que se movia ao redor" },
-        { "hebraico": "לִשְׁמֹר אֶת דֶּרֶךְ עֵץ הַחַיִּים", "transliteral": "LISHMOR ET DERECH ETZ HACHAYYIM", "traducao_palavra": "para guardar o caminho da árvore da vida" }
+        { "hebraico": "וַיְגָרֶשׁ", "transliteral": "vaygarash", "traducao_palavra": "Então expulsou" },
+        { "hebraico": "אֶת", "transliteral": "'et", "traducao_palavra": "*" },
+        { "hebraico": "הָאָדָם", "transliteral": "ha'adam", "traducao_palavra": "o-homem" },
+        { "hebraico": "וַיַּשְׁכֵּן", "transliteral": "vayashken", "traducao_palavra": "e-pôs" },
+        { "hebraico": "מִקֶּדֶם", "transliteral": "miqedem", "traducao_palavra": "ao-oriente" },
+        { "hebraico": "לְגַן", "transliteral": "legan", "traducao_palavra": "do-jardim-*" },
+        { "hebraico": "עֵדֶן", "transliteral": "'eden", "traducao_palavra": "de-Éden" },
+        { "hebraico": "אֶת", "transliteral": "'et", "traducao_palavra": "*" },
+        { "hebraico": "הַכְּרֻבִים", "transliteral": "hakeruvim", "traducao_palavra": "querubins" },
+        { "hebraico": "וְאֵת", "transliteral": "ve'et", "traducao_palavra": "e" },
+        { "hebraico": "לַהַט", "transliteral": "lahat", "traducao_palavra": "espada" },
+        { "hebraico": "הַחֶרֶב", "transliteral": "hacherev", "traducao_palavra": "flamejante" },
+        { "hebraico": "הַמִּתְהַפֶּכֶת", "transliteral": "hamithapechet", "traducao_palavra": "que gira" },
+        { "hebraico": "לִשְׁמֹר", "transliteral": "lishmor", "traducao_palavra": "para-guardar" },
+        { "hebraico": "אֶת", "transliteral": "'et", "traducao_palavra": "*" },
+        { "hebraico": "דֶּרֶךְ", "transliteral": "derech", "traducao_palavra": "caminho" },
+        { "hebraico": "עֵץ", "transliteral": "'ets", "traducao_palavra": "da-árvore" },
+        { "hebraico": "הַחַיִּים", "transliteral": "hachayim", "traducao_palavra": "da-vida" }
       ]
     }
   }
