@@ -45,7 +45,7 @@ body {
     appearance: none;
 }
 
-.barra-pesquisa input[type="text"] {
+.barra-pesquisa input[type=\"text\"] {
     width: 200px;
     margin-right: 10px;
     padding: 8px;
@@ -383,7 +383,7 @@ footer p {
 
 /*=====================================================*/
 /*                ESTILO PARA A SEÇÃO SOBRE            */
-/*      Estilização da seção "Sobre" como um modal     */
+/*      Estilização da seção \"Sobre\" como um modal     */
 /*=====================================================*/
 
 .conteudo-sobre {
@@ -542,14 +542,7 @@ body.sobre-ativo::after {
 .versiculo .palavras-container {
     display: flex;
     flex-wrap: wrap;
-    /* Remover flex-direction: row-reverse; e confiar mais no direction: rtl */
-    /* flex-direction: row-reverse; */
-    
-    /* Mantenha justify-content: flex-start para alinhar à direita em um contexto RTL */
-    justify-content: flex-start;
     align-items: flex-start;
-    direction: rtl; /* O MAIS IMPORTANTE: Força o contexto de escrita RTL para o contêiner */
-
     margin-top: 20px;
     padding-top: 15px;
     border-top: 1px dashed #444;
@@ -558,20 +551,44 @@ body.sobre-ativo::after {
     gap: 15px 20px;
 }
 
+/* Direção para o Antigo Testamento (Hebraico) */
+.versiculo .palavras-container.testamento-at {
+    direction: rtl;
+    justify-content: flex-start; /* Em RTL, start é à direita */
+}
+
+/* Direção para o Novo Testamento (Grego) */
+.versiculo .palavras-container.testamento-nt {
+    direction: ltr;
+    justify-content: flex-start; /* Em LTR, start é à esquerda */
+}
+
 .versiculo .word-detail-item {
     padding: 12px 15px;
-    /*border: 1px solid #333;*/
     border-radius: 6px;
-    /*background-color: #222;*/
-    /*box-shadow: 0 1px 3px rgba(0,0,0,0.2);*/
     display: flex;
     flex-direction: column;
-    align-items: flex-end; /* Alinha o texto interno à direita dentro do seu próprio bloco */
     white-space: nowrap;
     min-width: 80px;
     max-width: 320px;
     flex-grow: 0;
     flex-shrink: 1;
+}
+
+/* Alinhamento para o Antigo Testamento (Hebraico) */
+.testamento-at .word-detail-item {
+    align-items: flex-end; /* Alinha o conteúdo interno à direita */
+}
+.testamento-at .word-detail-item > div {
+    text-align: right;
+}
+
+/* Alinhamento para o Novo Testamento (Grego) */
+.testamento-nt .word-detail-item {
+    align-items: flex-start; /* Alinha o conteúdo interno à esquerda */
+}
+.testamento-nt .word-detail-item > div {
+    text-align: left;
 }
 
 
@@ -580,15 +597,22 @@ body.sobre-ativo::after {
     margin-bottom: 4px;
     line-height: 1.2;
     width: 100%;
-    text-align: right;
 }
 
 .versiculo .word-detail-item > div:last-child {
     margin-bottom: 0;
 }
 
+/* Estilos de fonte */
 .versiculo .hebraico-text {
     font-family: "Noto Sans Hebrew", serif;
+    font-size: 1.4em;
+    color: #d4ac0d;
+    font-weight: 700;
+}
+
+.versiculo .grego-text {
+    font-family: serif;
     font-size: 1.4em;
     color: #d4ac0d;
     font-weight: 700;
@@ -604,24 +628,6 @@ body.sobre-ativo::after {
     font-weight: normal;
     color: #f8f8f8;
     font-size: 1em;
-}
-
-/* Estilos para o modo de leitura (se `modo_leitura.css` não sobrescrever) */
-body.module-leitura .versiculo .word-detail-item {
-    background-color: #f9f6f0;
-    border-color: #d0c4ac;
-}
-
-body.module-leitura .versiculo .hebraico-text {
-    color: #8b4513;
-}
-
-body.module-leitura .versiculo .transliteral-text {
-    color: #777;
-}
-
-body.module-leitura .versiculo .traducao-palavra-text {
-    color: #333;
 }
 
 
@@ -662,7 +668,7 @@ body.module-leitura .versiculo .traducao-palavra-text {
         margin-right: 10px;
     }
     
-    .barra-pesquisa input[type="text"] {
+    .barra-pesquisa input[type=\"text\"] {
         width: 150px;
     }
     
@@ -670,7 +676,8 @@ body.module-leitura .versiculo .traducao-palavra-text {
         margin-left: 30px;
     }
 
-    .versiculo .hebraico-text {
+    .versiculo .hebraico-text,
+    .versiculo .grego-text {
         font-size: 1.5em;
     }
 
@@ -709,7 +716,7 @@ body.module-leitura .versiculo .traducao-palavra-text {
         margin-left: 15px;
     }
     
-    .barra-pesquisa input[type="text"] {
+    .barra-pesquisa input[type=\"text\"] {
         width: 120px;
     }
     
@@ -723,7 +730,8 @@ body.module-leitura .versiculo .traducao-palavra-text {
         font-size: 1em;
     }
 
-    .versiculo .hebraico-text {
+    .versiculo .hebraico-text,
+    .versiculo .grego-text {
         font-size: 1.2em;
     }
     

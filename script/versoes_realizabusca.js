@@ -7,7 +7,7 @@
 (function() {
     'use strict';
     
-    const CACHE_VERSION = 'v9'; // Versão incrementada para forçar a reconstrução
+    const CACHE_VERSION = 'v10'; // Versão incrementada para forçar a reconstrução
     const MAX_RESULTS = 500;
     
     window.searchEngine = {
@@ -55,6 +55,14 @@
     
     async function carregarConstruirIndice() {
         const versao = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';
+
+        // Se a versão for 'original', não construa o índice, pois os arquivos estão incompletos.
+        if (versao === 'original') {
+            console.log("[Busca] Indexação pulada para a versão 'original' (incompleta).");
+            window.searchEngine.isReady = true; // Marca como "pronto" para não bloquear a interface de busca.
+            return;
+        }
+
         if (window.searchEngine.isReady && window.searchEngine.versaoAtual === versao) { return; }
         
         window.searchEngine.isReady = false;
@@ -74,14 +82,11 @@
         const isHtmlVersion = versao.toLowerCase() === 'arc';
         const fileExtension = isHtmlVersion ? 'html' : 'json';
         
-        // **AQUI ESTÁ A MÁGICA DA VELOCIDADE**
-        // 1. Cria uma lista de todas as "promessas" de download de capítulos.
         const todasAsPromessas = [];
         for (const livro in livrosBiblicos) {
             const totalCapitulos = livrosBiblicos[livro];
             for (let cap = 1; cap <= totalCapitulos; cap++) {
                 const caminho = `../versao/${versao}/${livro}/${cap}.${fileExtension}`;
-                // Adiciona a promessa de download à lista
                 todasAsPromessas.push(fetch(caminho).then(res => {
                     if (!res.ok) return null;
                     return isHtmlVersion ? res.text().then(html => ({ tipo: 'html', data: html, livro, cap }))
@@ -90,12 +95,10 @@
             }
         }
 
-        // 2. Executa todas as promessas em paralelo
         const todosOsCapitulos = await Promise.all(todasAsPromessas);
 
-        // 3. Processa os resultados, que agora estão todos na memória
         for (const resultado of todosOsCapitulos) {
-            if (!resultado) continue; // Pula capítulos que falharam ao carregar
+            if (!resultado) continue;
 
             const { tipo, data, livro, cap } = resultado;
             let versiculosCapitulo = [];
@@ -103,8 +106,13 @@
             if (tipo === 'html') {
                 versiculosCapitulo = extrairVersiculosDoHTML(data, livro, cap);
             } else { // json
-                for (const [vers, texto] of Object.entries(data.versiculos || {})) {
-                    versiculosCapitulo.push({ livro: livro, cap: parseInt(cap), vers: parseInt(vers), texto: texto });
+                const chapterData = Array.isArray(data) ? data[0] : data;
+                for (const [vers, texto] of Object.entries(chapterData.versiculos || {})) {
+                    if (typeof texto === 'object' && texto !== null && texto.traducao_completa) {
+                        versiculosCapitulo.push({ livro: livro, cap: parseInt(cap), vers: parseInt(vers), texto: texto.traducao_completa });
+                    } else if (typeof texto === 'string') {
+                        versiculosCapitulo.push({ livro: livro, cap: parseInt(cap), vers: parseInt(vers), texto: texto });
+                    }
                 }
             }
             
@@ -128,19 +136,18 @@
         window.searchEngine.isReady = true;
     }
     
-    // ... (As funções de IndexedDB, realizarBuscaAvancada e combinarEstrategiasBusca permanecem as mesmas)
-    
     document.addEventListener('DOMContentLoaded', () => {
-        setTimeout(() => { carregarConstruirIndice(); }, 1000); // Inicia a indexação em segundo plano
+        setTimeout(() => { carregarConstruirIndice(); }, 1000);
     });
 
-    // Colando as funções que faltavam aqui para garantir que o arquivo esteja completo
     async function carregarIndexedDB(chave) {
         return new Promise((resolve) => {
             const request = indexedDB.open('BibleSearchDB', 1);
             request.onupgradeneeded = (event) => {
                 const db = event.target.result;
-                db.createObjectStore('searchIndexes', { keyPath: 'id' });
+                if (!db.objectStoreNames.contains('searchIndexes')) {
+                    db.createObjectStore('searchIndexes', { keyPath: 'id' });
+                }
             };
             request.onsuccess = (event) => {
                 const db = event.target.result;
