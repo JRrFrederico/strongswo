@@ -81,6 +81,13 @@ function gerarHtmlJanelaHino(hinoData) {
     <link rel="stylesheet" href="../css/slide_harpacantor.css">
 </head>
 <body>
+    <!-- POPUP DE ORIENTAÇÃO FULLSCREEN -->
+    <div id="orientacao-fullscreen" style="position: fixed; top: 20px; left: 50%; transform: translateX(-50%); background-color: rgba(0, 0, 0, 0.85); color: white; padding: 20px; border-radius: 10px; z-index: 10001; text-align: center; font-family: Arial, sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
+        <p style="margin: 0; font-size: 16px;">Pressione <b>F11</b> para uma melhor experiência em tela cheia.</p>
+        <p style="margin: 10px 0 0 0; font-size: 14px;">Para sair, pressione <b>ESC</b> ou mova o mouse para o topo.</p>
+        <button onclick="document.getElementById('orientacao-fullscreen').remove()" style="background-color: #5c5c5c; color: white; border: none; padding: 8px 15px; margin-top: 15px; border-radius: 5px; cursor: pointer;">Entendi</button>
+    </div>
+    
     <div id="marcadagua"></div>
     
     <div id="slide-conteiner">
@@ -102,6 +109,8 @@ function gerarHtmlJanelaHino(hinoData) {
             const conteudoEl = document.getElementById('slide-conteudo');
             const btnAnterior = document.getElementById('btn-anterior');
             const btnProximo = document.getElementById('btn-proximo');
+            
+            // Lógica do popup antigo removida pois o novo usa onclick inline
             
             const hino = ${JSON.stringify(hinoData)};
             const estrofes = ${JSON.stringify(estrofesArray)};

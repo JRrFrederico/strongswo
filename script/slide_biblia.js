@@ -1185,6 +1185,12 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
     ${cssLink}
 </head>
 <body>
+    <div id="popup-bem-vindo" class="popup-overlay">
+        <div class="popup-conteudo">
+            <h2>SEJA BEM VINDO</h2>
+            <button id="fechar-popup">Fechar</button>
+        </div>
+    </div>
     <div id="marcadagua"></div>
     <div id="titulo">${livroAcentuado.toUpperCase()} ${capituloAtual}:${versiculoAtual}</div>
     <div id="versiculo-conteiner"><div class="texto-versiculo">Carregando...</div></div>
@@ -1208,6 +1214,13 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
         const versiculoConteiner = document.getElementById('versiculo-conteiner');
         const btnVoltar = document.getElementById('voltar-botao');
         const btnProximo = document.getElementById('proximo-botao');
+
+        const popup = document.getElementById('popup-bem-vindo');
+        const fecharPopup = document.getElementById('fechar-popup');
+
+        fecharPopup.addEventListener('click', () => {
+            popup.style.display = 'none';
+        });
 
         const jsonFileVersions = ['ara', 'nvi', 'acf', 'ntlh', 'kjv', 'naa', 'original'];
         const isJsonFile = jsonFileVersions.includes(versaoBiblia);
