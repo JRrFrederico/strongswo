@@ -1,0 +1,88 @@
+{
+    "livro": "Gênesis - בְּרֵאשִׁית - Bereshit",
+    "capítulo": 17,
+    "titulos": {},
+    "versiculos": {
+      "1": {
+        "traducao_completa": "E foi Abrão da idade de noventa e nove anos; e apareceu o SENHOR a Abrão, e disse-lhe: Eu sou o Deus Todo-Poderoso; anda diante de mim, e sê perfeito.",
+        "palavras": [
+          { "hebraico": "וַיְהִי", "transliteral": "vayehi", "traducao_palavra": "E foi" },
+          { "hebraico": "אַבְרָם", "transliteral": "avram", "traducao_palavra": "Abrão" },
+          { "hebraico": "בֶּן", "transliteral": "ven", "traducao_palavra": "da idade de" },
+          { "hebraico": "תִּשְׁעִים", "transliteral": "tish'im", "traducao_palavra": "noventa" },
+          { "hebraico": "וְתֵשַׁע", "transliteral": "veteish'a", "traducao_palavra": "e nove" },
+          { "hebraico": "שָׁנָה", "transliteral": "shanah", "traducao_palavra": "anos" },
+          { "hebraico": "וַיֵּרָא", "transliteral": "vayera", "traducao_palavra": "e apareceu" },
+          { "hebraico": "יְהוָה", "transliteral": "Adonay", "traducao_palavra": "o SENHOR" },
+          { "hebraico": "אֶל", "transliteral": "el", "traducao_palavra": "a" },
+          { "hebraico": "אַבְרָם", "transliteral": "avram", "traducao_palavra": "Abrão" },
+          { "hebraico": "וַיֹּאמֶר", "transliteral": "vayomer", "traducao_palavra": "e disse-lhe" },
+          { "hebraico": "לוֹ", "transliteral": "lo", "traducao_palavra": "" },
+          { "hebraico": "אֲנִי", "transliteral": "ani", "traducao_palavra": "Eu sou" },
+          { "hebraico": "אֵל", "transliteral": "El", "traducao_palavra": "Deus" },
+          { "hebraico": "שַׁדַּי", "transliteral": "Shaddai", "traducao_palavra": "Todo-Poderoso" },
+          { "hebraico": "הִתְהַלֵּךְ", "transliteral": "hithalech", "traducao_palavra": "anda" },
+          { "hebraico": "לְפָנַי", "transliteral": "lefani", "traducao_palavra": "diante de mim" },
+          { "hebraico": "וֶהְיֵה", "transliteral": "vehayah", "traducao_palavra": "e sê" },
+          { "hebraico": "תָמִים", "transliteral": "tamim", "traducao_palavra": "perfeito" }
+        ]
+      },
+      "2": {
+        "traducao_completa": "E porei o meu concerto entre mim e ti, e te multiplicarei grandemente.",
+        "palavras": [
+          { "hebraico": "וְאֶתְּנָה", "transliteral": "vetenah", "traducao_palavra": "E porei" },
+          { "hebraico": "בְרִיתִי", "transliteral": "veriti", "traducao_palavra": "o meu concerto" },
+          { "hebraico": "בֵּינִי", "transliteral": "beini", "traducao_palavra": "entre mim" },
+          { "hebraico": "וּבֵינֶיךָ", "transliteral": "uveinecha", "traducao_palavra": "e ti" },
+          { "hebraico": "וְאַרְבֶּה", "transliteral": "ve'arbeh", "traducao_palavra": "e te multiplicarei" },
+          { "hebraico": "אוֹתְךָ", "transliteral": "otcha", "traducao_palavra": "" },
+          { "hebraico": "בִּמְאֹד", "transliteral": "bime'od", "traducao_palavra": "grandemente" }
+        ]
+      },
+      "3": {
+        "traducao_completa": "E prostrou-se Abrão sobre o seu rosto; e falou-lhe Deus, dizendo:",
+        "palavras": [
+          { "hebraico": "וַיִּפֹּל", "transliteral": "vayipol", "traducao_palavra": "E prostrou-se" },
+          { "hebraico": "אַבְרָם", "transliteral": "avram", "traducao_palavra": "Abrão" },
+          { "hebraico": "עַל", "transliteral": "al", "traducao_palavra": "sobre" },
+          { "hebraico": "פָּנָיו", "transliteral": "panav", "traducao_palavra": "o seu rosto" },
+          { "hebraico": "וַיְדַבֵּר", "transliteral": "vayedaber", "traducao_palavra": "e falou-lhe" },
+          { "hebraico": "אִתּוֹ", "transliteral": "itto", "traducao_palavra": "" },
+          { "hebraico": "אֱלֹהִים", "transliteral": "Elohim", "traducao_palavra": "Deus" },
+          { "hebraico": "לֵאמֹר", "transliteral": "le'mor", "traducao_palavra": "dizendo" }
+        ]
+      },
+      "4": {
+        "traducao_completa": "Quanto a mim, eis que o meu concerto é contigo, e serás pai de muitas nações.",
+        "palavras": [
+          { "hebraico": "אֲנִי", "transliteral": "ani", "traducao_palavra": "Quanto a mim" },
+          { "hebraico": "הִנֵּה", "transliteral": "hineh", "traducao_palavra": "eis que" },
+          { "hebraico": "בְרִיתִי", "transliteral": "veriti", "traducao_palavra": "o meu concerto" },
+          { "hebraico": "אִתָּךְ", "transliteral": "ittach", "traducao_palavra": "é contigo" },
+          { "hebraico": "וְהָיִיתָ", "transliteral": "vehayita", "traducao_palavra": "e serás" },
+          { "hebraico": "לְאַב", "transliteral": "le'av", "traducao_palavra": "pai" },
+          { "hebraico": "הֲמוֹן", "transliteral": "hamon", "traducao_palavra": "de muitas" },
+          { "hebraico": "גּוֹיִם", "transliteral": "goyim", "traducao_palavra": "nações" }
+        ]
+      },
+      "5": {
+        "traducao_completa": "E não se chamará mais o teu nome Abrão, mas o teu nome será Abraão; porque pai de muitas nações te ten constituído.",
+        "palavras": [
+          { "hebraico": "וְלֹא", "transliteral": "velo", "traducao_palavra": "E não" },
+          { "hebraico": "יִקָּרֵא", "transliteral": "yikare", "traducao_palavra": "se chamará" },
+          { "hebraico": "עוֹד", "transliteral": "od", "traducao_palavra": "mais" },
+          { "hebraico": "אֶת", "transliteral": "et", "traducao_palavra": "" },
+          { "hebraico": "שִׁמְךָ", "transliteral": " shimcha", "traducao_palavra": "o teu nome" },
+          { "hebraico": "אַבְרָם", "transliteral": "avram", "traducao_palavra": "Abrão" },
+          { "hebraico": "וְהָיָה", "transliteral": "vehayah", "traducao_palavra": "mas será" },
+          { "hebraico": "שִׁמְךָ", "transliteral": "shimcha", "traducao_palavra": "o teu nome" },
+          { "hebraico": "אַבְרָהָם", "transliteral": "avraham", "traducao_palavra": "Abraão" },
+          { "hebraico": "כִּי", "transliteral": "ki", "traducao_palavra": "porque" },
+          { "hebraico": "אַב", "transliteral": "av", "traducao_palavra": "pai" },
+          { "hebraico": "הֲמוֹן", "transliteral": "hamon", "traducao_palavra": "de muitas" },
+          { "hebraico": "גּוֹיִם", "transliteral": "goyim", "traducao_palavra": "nações" },
+          { "hebraico": "נְתַתִּיךָ", "transliteral": "netatticha", "traducao_palavra": "te ten constituído" }
+        ]
+      }
+    }
+  }

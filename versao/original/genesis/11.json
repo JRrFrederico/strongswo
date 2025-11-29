@@ -1,0 +1,107 @@
+"27": {
+  "traducao_completa": "Estas são as gerações de Terá: Terá gerou a-Abrão, a-Nacôr e-a-Hará; e-Hará gerou a-Ló.",
+  "palavras": [
+    { "hebraico": "אֵלֶּה", "transliteral": "'eleh", "traducao_palavra": "Estas são" },
+    { "hebraico": "תּוֹלְדֹת", "transliteral": "toledot", "traducao_palavra": "as gerações" },
+    { "hebraico": "תֶרַח", "transliteral": "terakh", "traducao_palavra": "de Terá" },
+    { "hebraico": "תֶרַח", "transliteral": "terakh", "traducao_palavra": "Terá" },
+    { "hebraico": "הוֹלִיד", "transliteral": "holiyd", "traducao_palavra": "gerou" },
+    { "hebraico": "אֶת־אַבְרָם", "transliteral": "et-'avram", "traducao_palavra": "a-Abrão" },
+    { "hebraico": "אֶת־נָחוֹר", "transliteral": "et-nakhor", "traducao_palavra": "a-Nacôr" },
+    { "hebraico": "וְאֶת־הָרָן", "transliteral": "ve'et-haran", "traducao_palavra": "e-a-Hará" },
+    { "hebraico": "וְהָרָן", "transliteral": "veharan", "traducao_palavra": "e-Hará" },
+    { "hebraico": "הוֹלִיד", "transliteral": "holiyd", "traducao_palavra": "gerou" },
+    { "hebraico": "אֶת־לוֹט", "transliteral": "et-lot", "traducao_palavra": "a-Ló" }
+  ]
+},
+"28": {
+  "traducao_completa": "E-morreu Hará diante de Terá, seu-pai, na-terra do-seu-nascimento, em-Ur dos-Caldeus.",
+  "palavras": [
+    { "hebraico": "וַיָּמָת", "transliteral": "vayyamot", "traducao_palavra": "E-morreu" },
+    { "hebraico": "הָרָן", "transliteral": "haran", "traducao_palavra": "Hará" },
+    { "hebraico": "עַל־פְּנֵי", "transliteral": "al-peney", "traducao_palavra": "diante de" },
+    { "hebraico": "תֶּרַח", "transliteral": "terakh", "traducao_palavra": "Terá" },
+    { "hebraico": "אָבִיו", "transliteral": "aviv", "traducao_palavra": "seu-pai" },
+    { "hebraico": "בְּאֶרֶץ", "transliteral": "be'erets", "traducao_palavra": "na-terra" },
+    { "hebraico": "מוֹלַדְתּוֹ", "transliteral": "moladeto", "traducao_palavra": "do-seu-nascimento" },
+    { "hebraico": "בְּאוּר", "transliteral": "be'ur", "traducao_palavra": "em-Ur" },
+    { "hebraico": "כַּשְׂדִּים", "transliteral": "kasdim", "traducao_palavra": "dos-Caldeus" }
+  ]
+},
+"29": {
+  "traducao_completa": "E-tomaram-se Abrão e-Nacôr para si mulheres: o-nome da-mulher de-Abrão era Sarái; e-o-nome da-mulher de-Nacôr, Milcá, filha de-Hará, pai de-Milcá, e-pai de-Iscá.",
+  "palavras": [
+    { "hebraico": "וַיִּקְחוּ", "transliteral": "vayyiqkhu", "traducao_palavra": "E-tomaram-se" },
+    { "hebraico": "אַבְרָם", "transliteral": "'avram", "traducao_palavra": "Abrão" },
+    { "hebraico": "וְנָחוֹר", "transliteral": "venakhor", "traducao_palavra": "e-Nacôr" },
+    { "hebraico": "לָהֶם", "transliteral": "lahem", "traducao_palavra": "para si" },
+    { "hebraico": "נָשִׁים", "transliteral": "nashim", "traducao_palavra": "mulheres" },
+    { "hebraico": "שֵׁם", "transliteral": "shem", "traducao_palavra": "o-nome" },
+    { "hebraico": "אֵשֶׁת", "transliteral": "eshet", "traducao_palavra": "da-mulher" },
+    { "hebraico": "אַבְרָם", "transliteral": "'avram", "traducao_palavra": "de-Abrão" },
+    { "hebraico": "שָׂרָי", "transliteral": "saray", "traducao_palavra": "era Sarái" },
+    { "hebraico": "וְשֵׁם", "transliteral": "veshem", "traducao_palavra": "e-o-nome" },
+    { "hebraico": "אֵשֶׁת", "transliteral": "eshet", "traducao_palavra": "da-mulher" },
+    { "hebraico": "נָחוֹר", "transliteral": "nakhor", "traducao_palavra": "de-Nacôr" },
+    { "hebraico": "מִלְכָּה", "transliteral": "milkah", "traducao_palavra": "Milcá" },
+    { "hebraico": "בַּת־הָרָן", "transliteral": "bat-haran", "traducao_palavra": "filha de-Hará" },
+    { "hebraico": "אֲבִי", "transliteral": "avi", "traducao_palavra": "pai de" },
+    { "hebraico": "מִלְכָּה", "transliteral": "milkah", "traducao_palavra": "Milcá" },
+    { "hebraico": "וַאֲבִי", "transliteral": "ve'avi", "traducao_palavra": "e-pai de" },
+    { "hebraico": "יִסְכָּה", "transliteral": "yiskah", "traducao_palavra": "Iscá" }
+  ]
+},
+"30": {
+  "traducao_completa": "E-foi Sarái estéril; não-tinha filho.",
+  "palavras": [
+    { "hebraico": "וַתְּהִי", "transliteral": "vattehi", "traducao_palavra": "E-foi" },
+    { "hebraico": "שָׂרַי", "transliteral": "saray", "traducao_palavra": "Sarái" },
+    { "hebraico": "עֲקָרָה", "transliteral": "'aqarah", "traducao_palavra": "estéril" },
+    { "hebraico": "אֵין", "transliteral": "'eyn", "traducao_palavra": "não-tinha" },
+    { "hebraico": "לָהּ", "transliteral": "lah", "traducao_palavra": "" },
+    { "hebraico": "וָלָד", "transliteral": "valad", "traducao_palavra": "filho" }
+  ]
+},
+"31": {
+  "traducao_completa": "E-tomou Terá a-Abrão, seu-filho, e-Ló, filho de-Hará, filho de-seu-filho, e-Sarái, sua-nora, mulher de-Abrão, seu-filho; e-saiu com eles de-Ur dos-Caldeus, para ir à-terra de-Canaã; e-foram até Harã, e-habitaram ali.",
+  "palavras": [
+    { "hebraico": "וַיִּקַּח", "transliteral": "vayyiqqakh", "traducao_palavra": "E-tomou" },
+    { "hebraico": "תֶּרַח", "transliteral": "terakh", "traducao_palavra": "Terá" },
+    { "hebraico": "אֶת־אַבְרָם", "transliteral": "et-'avram", "traducao_palavra": "a-Abrão" },
+    { "hebraico": "בְּנוֹ", "transliteral": "beno", "traducao_palavra": "seu-filho" },
+    { "hebraico": "וְאֶת־לוֹט", "transliteral": "ve'et-lot", "traducao_palavra": "e-Ló" },
+    { "hebraico": "בֶּן־הָרָן", "transliteral": "ben-haran", "traducao_palavra": "filho de-Hará" },
+    { "hebraico": "בֶּן־בְּנוֹ", "transliteral": "ben-beno", "traducao_palavra": "filho de-seu-filho" },
+    { "hebraico": "וְאֶת־שָׂרַי", "transliteral": "ve'et-saray", "traducao_palavra": "e-Sarái" },
+    { "hebraico": "כַּלָּתוֹ", "transliteral": "kalato", "traducao_palavra": "sua-nora" },
+    { "hebraico": "אֵשֶׁת", "transliteral": "eshet", "traducao_palavra": "mulher de" },
+    { "hebraico": "אַבְרָם", "transliteral": "'avram", "traducao_palavra": "Abrão" },
+    { "hebraico": "בְּנוֹ", "transliteral": "beno", "traducao_palavra": "seu-filho" },
+    { "hebraico": "וַיֵּצְאוּ", "transliteral": "vayyetse'u", "traducao_palavra": "e-saiu com eles" },
+    { "hebraico": "אִתָּם", "transliteral": "'ittam", "traducao_palavra": "" },
+    { "hebraico": "מֵאוּר", "transliteral": "me'ur", "traducao_palavra": "de-Ur" },
+    { "hebraico": "כַּשְׂדִּים", "transliteral": "kasdim", "traducao_palavra": "dos-Caldeus" },
+    { "hebraico": "לָלֶכֶת", "transliteral": "lalekhet", "traducao_palavra": "para ir" },
+    { "hebraico": "אַרְצָה", "transliteral": "artsah", "traducao_palavra": "à-terra de" },
+    { "hebraico": "כְּנָעַן", "transliteral": "kena'an", "traducao_palavra": "Canaã" },
+    { "hebraico": "וַיָּבֹאוּ", "transliteral": "vayyavo'u", "traducao_palavra": "e-foram" },
+    { "hebraico": "עַד־חָרָן", "transliteral": "ad-haran", "traducao_palavra": "até Harã" },
+    { "hebraico": "וַיֵּשְׁבוּ", "transliteral": "vayyeshevu", "traducao_palavra": "e-habitaram ali" }
+  ]
+},
+"32": {
+  "traducao_completa": "E-foram os-dias de-Terá duzentos e-cinco anos; e-morreu Terá em-Harã.",
+  "palavras": [
+    { "hebraico": "וַיִּהְיוּ", "transliteral": "vayyihyu", "traducao_palavra": "E-foram" },
+    { "hebraico": "יְמֵי", "transliteral": "yemey", "traducao_palavra": "os-dias" },
+    { "hebraico": "תֶּרַח", "transliteral": "terakh", "traducao_palavra": "de-Terá" },
+    { "hebraico": "חָמֵשׁ", "transliteral": "khamish", "traducao_palavra": "duzentos e-cinco" },
+    { "hebraico": "וּמָאתַיִם", "transliteral": "umatayim", "traducao_palavra": "" },
+    { "hebraico": "שָׁנָה", "transliteral": "shanah", "traducao_palavra": "anos" },
+    { "hebraico": "וַיָּמָת", "transliteral": "vayyamot", "traducao_palavra": "e-morreu" },
+    { "hebraico": "תֶּרַח", "transliteral": "terakh", "traducao_palavra": "Terá" },
+    { "hebraico": "בְּחָרָן", "transliteral": "beharan", "traducao_palavra": "em-Harã" }
+  ]
+}
+}
+}
