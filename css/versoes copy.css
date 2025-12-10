@@ -1,666 +1,540 @@
-/*=====================================================*/
-/*                ARQUIVO BASE DAS VERSÕES             */
-/*   Reset, configurações globais e conteiner principal */
-/*=====================================================*/
+/*=============================================================================*/
+/* NOME DO ARQUIVO: versoes.css                                                */
+/* PROPÓSITO: Estilização MESTRA da Bíblia (Layout, Menus, Texto, Botões).     */
+/*=============================================================================*/
 
-/* O bloco abaixo reseta estilos e configura o corpo da página */
+/* --- RESET GLOBAL --- */
 * {
-    margin: 0;                                             /* Remove as margens padrão de todos os elementos.   */
-    padding: 0;                                            /* Remove o preenchimento padrão de todos os elementos.*/
-    box-sizing: border-box;                                /* Define o modelo de caixa para incluir borda e preenchimento nas dimensões. */
+    margin: 0;                                             /* Remove margens externas de tudo. */
+    padding: 0;                                            /* Remove preenchimento interno de tudo. */
+    box-sizing: border-box;                                /* Bordas não aumentam o tamanho do elemento. */
 }
 
+/* --- CORPO DA PÁGINA --- */
 body {
-    width: 100%;                                           /* Define a largura total da página.                 */
-    margin: 0;                                             /* Remove as margens do corpo.                       */
-    background-color: #181818;                           /* Define a cor de fundo escura.                     */
-    color: #fff;                                         /* Define a cor do texto como branca.                */
-    font-family: sans-serif;                               /* Usa uma fonte sem serifa.                         */
-    font-style: italic;                                    /* Aplica o estilo itálico ao texto.                 */
-    font-weight: bold;                                     /* Define o texto como negrito.                      */
-    overflow-x: hidden;                                    /* Impede a rolagem horizontal.                      */
+    width: 100%;                                           /* Largura total da tela. */
+    margin: 0;                                             /* Garante zero margem. */
+    background-color: #181818;                             /* Fundo cinza escuro. */
+    color: #fff;                                           /* Texto branco. */
+    font-family: sans-serif;                               /* Fonte padrão sem serifa. */
+    font-style: italic;                                    /* Estilo itálico global. */
+    font-weight: bold;                                     /* Negrito global. */
+    overflow-x: hidden;                                    /* Evita rolagem horizontal indesejada. */
 }
 
-/*=====================================================*/
-/*                BARRA DE PESQUISA                    */
-/*        Barra de pesquisa e seletor de versão        */
-/*=====================================================*/
-
-/* O bloco abaixo estiliza a barra de pesquisa */
-.barra-pesquisa {
-    display: flex;                                         /* Usa flexbox para alinhar elementos horizontalmente.*/
-    align-items: center;                                   /* Alinha os elementos verticalmente ao centro.      */
-    flex-shrink: 0;                                        /* Impede que a barra encolha em layouts flexíveis.  */
-    margin-top: 20px;                                      /* Adiciona margem superior.                         */
-    margin-right: 20px;                                    /* Adiciona margem à direita.                        */
-}
-
-/* O bloco abaixo estiliza o seletor da barra de pesquisa */
-.barra-pesquisa select {
-    width: auto;                                           /* Define a largura automática para o seletor.       */
-    margin-right: 5px;                                     /* Adiciona margem à direita do seletor.             */
-    padding: 8px;                                          /* Adiciona preenchimento interno.                   */
-    background-color: #383838;                           /* Define a cor de fundo escura.                     */
-    border: 1px solid #fff;                              /* Adiciona borda branca.                            */
-    border-radius: 5px;                                    /* Arredonda as bordas.                              */
-    color: #fff;                                         /* Define a cor do texto como branca.                */
-    font-size: 16px;                                       /* Define o tamanho da fonte.                        */
-    appearance: none;                                      /* Remove o estilo padrão do navegador.              */
-}
-
-/* O bloco abaixo estiliza o campo de texto da barra de pesquisa */
-.barra-pesquisa input[type="text"] {
-    width: 200px;                                          /* Define a largura fixa para o campo de texto.      */
-    margin-right: 10px;                                    /* Adiciona margem à direita.                        */
-    padding: 8px;                                          /* Adiciona preenchimento interno.                   */
-    background-color: #383838;                           /* Define a cor de fundo escura.                     */
-    border: 1px solid #fff;                              /* Adiciona borda branca.                            */
-    border-radius: 5px;                                    /* Arredonda as bordas.                              */
-    color: #fff;                                         /* Define a cor do texto como branca.                */
-    font-size: 16px;                                       /* Define o tamanho da fonte.                        */
-}
-
-/* O bloco abaixo estiliza o botão da barra de pesquisa */
-.barra-pesquisa button {
-    padding: 8px 15px;                                     /* Define o preenchimento interno do botão.          */
-    background-color: #4CAF50;                           /* Define a cor de fundo verde.                      */
-    border: 1px solid #fff;                              /* Adiciona borda branca.                            */
-    border-radius: 5px;                                    /* Arredonda as bordas.                              */
-    color: white;                                        /* Define a cor do texto como branca.                */
-    font-size: 16px;                                       /* Define o tamanho da fonte.                        */
-    cursor: pointer;                                       /* Muda o cursor para indicar clicabilidade.         */
-    transition: background-color 0.3s ease;                /* Adiciona transição suave para a cor de fundo.     */
-}
-
-/* O bloco abaixo estiliza o hover do botão da barra de pesquisa */
-.barra-pesquisa button:hover {
-    background-color: #f34141;                            /* Muda a cor de fundo para vermelho ao passar o mouse. */
-}
-
-/*=====================================================*/
-/*              CABEÇALHO E TÍTULOS                    */
-/*   Header, títulos principais e seletor de versão    */
-/*=====================================================*/
-
-/* O bloco abaixo estiliza o cabeçalho */
+/* --- CABEÇALHO (Desktop) --- */
 header {
-    width: 100%;                                           /* Define a largura total do cabeçalho.              */
+    width: 100%;                                           /* Ocupa toda a largura. */
+    z-index: 50;                                           /* Camada acima do conteúdo. */
+    position: relative;                                    /* Posicionamento relativo. */
 }
 
-/* O bloco abaixo estiliza o título principal da versão */
-#titulo-principal-versao {
-    margin: 0;                                             /* Remove as margens padrão.                         */
-    margin-top: 20px;                                      /* Adiciona margem superior.                         */
-    margin-left: 30px;                                     /* Adiciona margem à esquerda.                       */
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Define a família da fonte.                        */
-    font-size: 2.5rem;                                      /* Define o tamanho da fonte.                        */
-    font-style: italic;                                    /* Aplica o estilo itálico.                          */
-    color: #d4ac0d;                                      /* Define a cor dourada.                             */
-    font-weight: 700;                                    /* Define o peso da fonte.                           */
-}
-
-/* O bloco abaixo estiliza o subtítulo da versão */
-#subtitulo-versao-extenso {
-    margin-top: 1px;                                       /* Adiciona margem superior mínima.                  */
-    margin-bottom: 0.5px;                                  /* Adiciona margem inferior mínima.                  */
-    margin-left: 295px;                                    /* Adiciona margem à esquerda.                       */
-    font-size: 1.2em;                                      /* Define o tamanho da fonte.                        */
-    color: #d4ac0d;                                      /* Define a cor dourada.                             */
-}
-
-/* O bloco abaixo estiliza o seletor de versão principal */
-#seletor-versao-principal {
-    padding: 8px;                                          /* Adiciona preenchimento interno.                   */
-    background-color: #383838;                           /* Define a cor de fundo escura.                     */
-    border: 1px solid #fff;                              /* Adiciona borda branca.                            */
-    border-radius: 5px;                                    /* Arredonda as bordas.                              */
-    color: #fff;                                         /* Define a cor do texto como branca.                */
-    font-size: 16px;                                       /* Define o tamanho da fonte.                        */
-}
-
-/* O bloco abaixo estiliza o cabeçalho superior */
+/* Parte superior do cabeçalho */
 .cabecalho-superior {
-    display: flex;                                         /* Usa flexbox para alinhar elementos.               */
-    justify-content: space-between;                        /* Espaça os elementos igualmente.                   */
-    align-items: center;                                   /* Alinha elementos verticalmente ao centro.         */
+    display: flex;                                         /* Layout flexível. */
+    justify-content: space-between;                        /* Itens nas extremidades. */
+    align-items: center;                                   /* Alinha verticalmente ao centro. */
+    padding-top: 20px;                                     /* Espaço no topo. */
 }
 
-/* O bloco abaixo estiliza o cabeçalho inferior */
-.cabecalho-inferior {
-    width: 100%;                                           /* Define a largura total.                           */
+/* Título "Bíblia Sagrada" */
+#titulo-principal-versao {
+    margin: 0;                                             /* Sem margem. */
+    margin-left: 30px;                                     /* Afastamento da esquerda. */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Fontes modernas. */
+    font-size: 2.5rem;                                     /* Tamanho grande. */
+    font-style: italic;                                    /* Itálico. */
+    color: #d4ac0d;                                        /* Cor dourada. */
+    font-weight: 700;                                      /* Negrito forte. */
 }
 
-/*=====================================================*/
-/*                ÁREA DE CONTEÚDO PRINCIPAL           */
-/*  Área principal onde o conteúdo da Bíblia é exibido */
-/*=====================================================*/
-
-/* O bloco abaixo estiliza a área de conteúdo */
-.conteudo {
-    height: calc(100vh - 160px);                           /* Define a altura ajustada à janela.                */
-    margin-top: 50px;                                      /* Adiciona margem superior.                         */
-    gap: 10px;                                             /* Define o espaçamento entre elementos filhos.      */
-    flex: 3;                                               /* Define a proporção flexível para ocupar espaço.   */
-    overflow-y: auto;                                      /* Habilita a rolagem vertical.                      */
-    overflow-x: hidden;                                    /* Impede a rolagem horizontal.                      */
+/* Subtítulo (Versão) */
+#subtitulo-versao-extenso {
+    margin-top: 1px;                                       /* Espaço mínimo acima. */
+    margin-bottom: 0.5px;                                  /* Espaço mínimo abaixo. */
+    margin-left: 295px;                                    /* Alinhamento específico desktop. */
+    font-size: 1.5em;                                      /* Tamanho médio. */
+    color: #d4ac0d;                                        /* Cor dourada. */
 }
 
-/* O bloco abaixo estiliza a barra de rolagem do conteúdo */
-.conteudo::-webkit-scrollbar {
-    width: 16px;                                           /* Define a largura da barra de rolagem.             */
+/* Barra de Pesquisa */
+.barra-pesquisa {
+    display: flex;                                         /* Itens lado a lado. */
+    align-items: center;                                   /* Centraliza verticalmente. */
+    margin-right: 20px;                                    /* Espaço da direita. */
 }
 
-.conteudo::-webkit-scrollbar-track {
-    background: #383838;                                 /* Define a cor do fundo da barra de rolagem.        */
+/* Seletor da Barra */
+.barra-pesquisa select {
+    width: auto;                                           /* Largura automática. */
+    margin-right: 5px;                                     /* Espaço à direita. */
+    padding: 8px;                                          /* Espaço interno. */
+    background-color: #383838;                             /* Fundo cinza. */
+    border: 1px solid #fff;                                /* Borda branca. */
+    border-radius: 5px;                                    /* Cantos arredondados. */
+    color: #fff;                                           /* Texto branco. */
+    font-size: 16px;                                       /* Tamanho legível. */
 }
 
-.conteudo::-webkit-scrollbar-thumb {
-    margin: 5px;                                           /* Adiciona margem ao redor da alavanca.             */
-    min-height: 50px;                                      /* Define a altura mínima da alavanca.               */
-    background: #a7a2a2;                                 /* Define a cor da alavanca.                         */
-    border-radius: 10px;                                   /* Arredonda as bordas da alavanca.                  */
+/* Campo de Texto */
+.barra-pesquisa input[type="text"] {
+    width: 200px;                                          /* Largura fixa. */
+    margin-right: 10px;                                    /* Espaço à direita. */
+    padding: 8px;                                          /* Espaço interno. */
+    background-color: #383838;                             /* Fundo cinza. */
+    border: 1px solid #fff;                                /* Borda branca. */
+    border-radius: 5px;                                    /* Cantos arredondados. */
+    color: #fff;                                           /* Texto branco. */
+    font-size: 16px;                                       /* Tamanho legível. */
 }
 
-/* O bloco abaixo estiliza os títulos h2 */
-h2 {
-    margin-top: 30px;                                      /* Adiciona margem superior.                         */
-    margin-bottom: 30px;                                   /* Adiciona margem inferior.                         */
-    margin-left: 230px;                                    /* Adiciona margem à esquerda.                       */
-    max-width: calc(100% - 80px);                          /* Define a largura máxima ajustada.                 */
-    font-size: 2.5vw;                                      /* Define o tamanho da fonte proporcional à janela.    */
-    font-style: italic;                                    /* Aplica o estilo itálico.                          */
-    text-align: center;                                    /* Centraliza o texto.                               */
-    color: #d4ac0d;                                      /* Define a cor dourada.                             */
+/* Botão Buscar */
+.barra-pesquisa button {
+    padding: 8px 15px;                                     /* Espaço interno. */
+    background-color: #4CAF50;                             /* Fundo verde. */
+    border: 1px solid #fff;                                /* Borda branca. */
+    border-radius: 5px;                                    /* Cantos arredondados. */
+    color: white;                                          /* Texto branco. */
+    font-size: 1.6rem;                                     /* Tamanho da fonte. */
+    cursor: pointer;                                       /* Ícone de mãozinha. */
 }
 
-/* O bloco abaixo estiliza os títulos h3 */
-h3 {
-    margin: 0;                                             /* Remove as margens padrão.                         */
-    margin-top: 10px;                                      /* Adiciona margem superior.                         */
-    margin-left: 30px;                                     /* Adiciona margem à esquerda.                       */
-    font-size: 1.5em;                                      /* Define o tamanho da fonte.                        */
-    font-style: italic;                                    /* Aplica o estilo itálico.                          */
-    color: #d4ac0d;                                      /* Define a cor dourada.                             */
-}
-
-/* O bloco abaixo estiliza a imagem de marca d'água */
-.marca-dagua-imagem {
-    position: fixed;                                       /* Fixa a imagem na janela.                          */
-    top: 0;                                                /* Alinha ao topo.                                   */
-    left: 0;                                               /* Alinha à esquerda.                                */
-    width: 100%;                                           /* Define a largura total.                           */
-    height: 120%;                                          /* Define a altura maior que a janela.               */
-    z-index: 10;                                           /* Define a camada acima do conteúdo principal.      */
-    opacity: 0.3;                                          /* Define a opacidade para o efeito de marca d'água. */
-    overflow: hidden;                                      /* Impede o transbordo de conteúdo.                  */
-    pointer-events: none;                                  /* Impede a interação com a imagem.                  */
-    background-size: cover;                                /* Ajusta a imagem para cobrir o espaço.             */
-    background-repeat: no-repeat;                          /* Impede a repetição da imagem.                     */
-    background-position: center;                           /* Centraliza a imagem.                              */
-}
-
-/*=====================================================*/
-/*                ELEMENTOS DE INTERFACE               */
-/*  Dropdowns, sobre e outros elementos de interface   */
-/*=====================================================*/
-
-/* O bloco abaixo estiliza o menu suspenso */
-.meu-suspenso {
-    position: relative;                                    /* Define o posicionamento relativo para dropdowns.    */
-    display: inline-block;                                 /* Permite que o elemento fique em linha.            */
-}
-
-/* O bloco abaixo estiliza o conteúdo do menu suspenso */
-.conteudo-menu-suspenso {
-    position: absolute;                                    /* Posiciona o menu dropdown absolutamente.           */
-    top: 100%;                                             /* Alinha abaixo do elemento pai.                    */
-    left: -5px;                                            /* Ajusta ligeiramente à esquerda.                   */
-    width: 240px;                                          /* Define a largura fixa do menu.                    */
-    margin: 0;                                             /* Remove as margens padrão.                         */
-    margin-top: 10px;                                      /* Adiciona margem superior.                         */
-    padding: 0;                                            /* Remove o preenchimento padrão.                    */
-    background-color: rgba(0, 0, 0, 0.9);                /* Define o fundo preto semitransparente.            */
-    border-radius: 8px;                                    /* Arredonda as bordas.                              */
-    box-shadow: 0px 8px 16px 0px rgb(255, 255, 255);     /* Adiciona sombra branca.                           */
-    z-index: 1;                                            /* Define a camada acima do conteúdo principal.      */
-    display: none;                                         /* Esconde o menu por padrão.                        */
-    list-style: none;                                      /* Remove os marcadores de lista.                    */
-}
-
-/* O bloco abaixo estiliza os itens do menu suspenso */
-.conteudo-menu-suspenso li {
-    margin-bottom: 2px;                                    /* Adiciona margem inferior entre os itens.          */
-    padding: 0;                                            /* Remove o preenchimento padrão.                    */
-    font-size: 16px;                                       /* Define o tamanho da fonte.                        */
-    line-height: 1.2;                                      /* Define a altura da linha.                         */
-}
-
-/* O bloco abaixo estiliza os links do menu suspenso */
-nav .meu-suspenso .conteudo-menu-suspenso li a {
-    display: block;                                        /* Faz o link ocupar toda a área do item.            */
-    width: 100%;                                           /* Define a largura total.                           */
-    height: 100%;                                          /* Define a altura total.                            */
-    padding: 6px 8px;                                      /* Adiciona preenchimento interno.                   */
-    box-sizing: border-box;                                /* Inclui borda e preenchimento nas dimensões.       */
-    text-decoration: none;                                 /* Remove o sublinhado padrão.                       */
-    text-align: left;                                      /* Alinha o texto à esquerda.                        */
-    color: #d4ac0d;                                      /* Define a cor dourada.                             */
-    white-space: nowrap;                                   /* Impede a quebra de linha.                         */
-    border-radius: 4px;                                    /* Arredonda as bordas.                              */
-}
-
-/* O bloco abaixo exibe o menu suspenso ao passar o mouse */
-.meu-suspenso:hover .conteudo-menu-suspenso {
-    display: block;                                        /* Exibe o menu.                                     */
-}
-
-/* O bloco abaixo estiliza o hover dos links do menu suspenso */
-nav .meu-suspenso .conteudo-menu-suspenso li a:hover {
-    background-color: #0f0e0e;                           /* Define o fundo escuro ao passar o mouse.          */
-    color: white;                                        /* Muda a cor do texto para branco.                  */
-}
-
-/*=====================================================*/
-/*                MENU LATERAL DE LIVROS               */
-/*           Menu lateral com lista de livros da Bíblia */
-/*=====================================================*/
-
-/* O bloco abaixo estiliza o menu lateral de livros */
-.menu-livros {
-    position: fixed;                                       /* Fixa o menu na lateral da página.                 */
-    top: 150px;                                            /* Posiciona abaixo do cabeçalho.                    */
-    left: 0;                                               /* Alinha à esquerda.                                */
-    bottom: 0;                                             /* Estende até o fundo da página.                    */
-    z-index: 10;                                           /* Define a camada acima do conteúdo principal.      */
-    width: 225px;                                          /* Define a largura fixa.                            */
-    height: calc(100vh - 180px);                           /* Ajusta a altura à janela.                         */
-    margin-right: 20px;                                    /* Adiciona margem à direita.                        */
-    padding: 18px;                                         /* Adiciona preenchimento interno.                   */
-    background-color: #181818;                           /* Define a cor de fundo escura.                     */
-    color: #fff;                                         /* Define a cor do texto como branca.                */
-    flex: 1;                                               /* Define a proporção flexível.                      */
-    overflow-y: auto;                                      /* Habilita a rolagem vertical.                      */
-    /*border-right: 2px solid #d4af37;                     /* Borda direita dourada.                            */
-}
-
-/* O bloco abaixo estiliza a barra de rolagem do menu de livros */
-.menu-livros::-webkit-scrollbar {
-    width: 12px;                                           /* Define a largura da barra de rolagem.             */
-}
-
-.menu-livros::-webkit-scrollbar-track {
-    background: #383838;                                 /* Define a cor do fundo da barra de rolagem.        */
-}
-
-.menu-livros::-webkit-scrollbar-thumb {
-    margin: 5px;                                           /* Adiciona margem ao redor da alavanca.             */
-    background: #a7a2a2;                                 /* Define a cor da alavanca.                         */
-    border-radius: 10px;                                   /* Arredonda as bordas da alavanca.                  */
-}
-
-/* O bloco abaixo estiliza a lista de livros */
-.menu-livros ul {
-    margin: 15px;                                          /* Adiciona margem ao redor da lista.                */
-    margin-top: 5px;                                       /* Ajusta a margem superior.                         */
-    padding: 0;                                            /* Remove o preenchimento padrão.                    */
-    list-style-type: none;                                 /* Remove os marcadores de lista.                    */
-}
-
-/* O bloco abaixo estiliza os itens da lista de livros */
-.menu-livros li {
-    margin-bottom: 10px;                                   /* Adiciona margem inferior entre os itens.          */
-}
-
-/* O bloco abaixo estiliza os links do menu de livros */
-.menu-livros a {
-    text-decoration: none;                                 /* Remove o sublinhado padrão.                       */
-    color: #fcf9f9;                                      /* Define a cor do texto como quase branco.          */
-}
-
-/* O bloco abaixo estiliza o hover dos links do menu de livros */
-.menu-livros a:hover {
-    text-decoration: underline;                            /* Adiciona sublinhado ao passar o mouse.            */
-}
-
-/*=====================================================*/
-/*                BARRA DE NAVEGAÇÃO                   */
-/*           Navegação superior com menu de opções     */
-/*=====================================================*/
-
-/* O bloco abaixo estiliza a barra de navegação */
+/* --- NAVEGAÇÃO SUPERIOR (Desktop) --- */
 nav {
-    position: fixed;                                       /* Fixa a barra no topo.                             */
-    top: 110px;                                            /* Posiciona abaixo do cabeçalho.                    */
-    left: 0;                                               /* Alinha à esquerda.                                */
-    z-index: 1;                                            /* Define a camada acima do conteúdo principal.      */
-    width: 100%;                                           /* Define a largura total.                           */
-    height: 40px;                                          /* Define a altura fixa.                             */
-    padding: 10px 0;                                       /* Adiciona preenchimento vertical.                  */
-    background: linear-gradient(to right, #333, #555, #777); /* Aplica gradiente de fundo.                        */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);              /* Adiciona sombra.                                  */
-    display: flex;                                         /* Usa flexbox para alinhar elementos.               */
-    align-items: center;                                   /* Alinha elementos verticalmente ao centro.         */
-    justify-content: space-between;                        /* Espaça elementos igualmente.                      */
-    /*border-top: #d4ac0d 3px solid;                           /* Adiciona borda dourada na parte superior.         */
-    /*border-bottom: #d4ac0d 3px solid;                        /* Adiciona borda dourada na parte inferior.         */
+    position: fixed;                                       /* Fixa no topo ao rolar. */
+    top: 110px;                                            /* Distância do topo. */
+    left: 0;                                               /* Cola na esquerda. */
+    z-index: 100;                                          /* Fica acima de tudo. */
+    width: 100%;                                           /* Largura total. */
+    height: 40px;                                          /* Altura fixa. */
+    padding: 10px 0;                                       /* Espaço interno vertical. */
+    background: linear-gradient(to right, #333, #555, #777); /* Degradê cinza. */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);              /* Sombra suave. */
+    display: flex;                                         /* Flexbox. */
+    align-items: center;                                   /* Centraliza verticalmente. */
+    justify-content: space-between;                        /* Espalha nas pontas. */
 }
 
-/* O bloco abaixo estiliza as opções do menu de navegação */
+/* Lista de Opções */
 nav .menu-opcoes {
-    display: flex;                                         /* Usa flexbox para alinhar opções.                  */
-    width: auto;                                           /* Define a largura automática.                      */
-    margin: 0;                                             /* Remove as margens padrão.                         */
-    margin-left: 80px;                                     /* Adiciona margem à esquerda.                       */
-    padding: 0;                                            /* Remove o preenchimento padrão.                    */
-    flex-grow: 1;                                          /* Permite que o menu cresça para ocupar espaço.     */
-    justify-content: center;                               /* Centraliza as opções.                             */
-    align-items: center;                                   /* Alinha verticalmente ao centro.                   */
-    flex-wrap: nowrap;                                     /* Impede a quebra de linha.                         */
-    list-style: none;                                      /* Remove os marcadores de lista.                    */
+    display: flex;                                         /* Itens lado a lado. */
+    margin-left: 80px;                                     /* Espaço da esquerda. */
+    padding: 0;                                            /* Sem padding. */
+    flex-grow: 1;                                          /* Ocupa espaço livre. */
+    justify-content: center;                               /* Centraliza. */
+    align-items: center;                                   /* Alinha verticalmente. */
+    list-style: none;                                      /* Sem bolinhas. */
 }
 
-/* O bloco abaixo estiliza os itens do menu de navegação */
+/* Item da Lista */
 nav .menu-opcoes li {
-    margin: 0 13px;                                        /* Adiciona margens horizontais entre os itens.      */
-    white-space: nowrap;                                   /* Impede a quebra de linha.                         */
+    margin: 0 13px;                                        /* Espaço entre itens. */
+    white-space: nowrap;                                   /* Não quebra linha. */
 }
 
-/* O bloco abaixo estiliza os links do menu de navegação */
+/* Links do Menu */
 nav .menu-opcoes li a {
-    display: inline-block;                                 /* Permite definir dimensões.                        */
-    padding: 4px 4px;                                      /* Adiciona preenchimento interno.                   */
-    border-radius: 5px;                                    /* Arredonda as bordas.                              */
-    text-decoration: none;                                 /* Remove o sublinhado padrão.                       */
-    color: white;                                        /* Define a cor do texto como branca.                */
-    font-size: 1.2vw;                                      /* Define o tamanho da fonte proporcional.           */
-    transition: background 0.3s ease;                      /* Adiciona transição suave para o fundo.            */
+    display: inline-block;                                 /* Bloco em linha. */
+    padding: 4px 4px;                                      /* Espaço interno. */
+    border-radius: 5px;                                    /* Borda arredondada. */
+    text-decoration: none;                                 /* Sem sublinhado. */
+    color: white;                                          /* Texto branco. */
+    font-size: 1.2vw;                                      /* Fonte responsiva desktop. */
+    transition: background 0.3s ease;                      /* Animação suave. */
 }
 
-/* O bloco abaixo estiliza o hover dos links do menu de navegação */
+/* Hover no Menu */
 nav .menu-opcoes li a:hover {
-    background: rgba(255, 255, 255, 0.2);                 /* Define o fundo semitransparente ao passar o mouse.*/
+    background: rgba(255, 255, 255, 0.2);                  /* Fundo claro transparente. */
 }
 
-/* O bloco abaixo estiliza o título do menu */
+/* Título "LIVROS" */
 .titulo-menu {
-    display: flex;                                         /* Usa flexbox para alinhar o título.                */
-    width: auto;                                           /* Define a largura automática.                      */
-    margin-left: 37px;                                     /* Adiciona margem à esquerda.                       */
-    margin-right: 20px;                                    /* Adiciona margem à direita.                        */
-    align-items: center;                                   /* Alinha verticalmente ao centro.                   */
-    color: white;                                        /* Define a cor do texto como branca.                */
-    font-size: 1.5vw;                                      /* Define o tamanho da fonte proporcional.           */
-    text-align: left;                                      /* Alinha o texto à esquerda.                        */
-    white-space: nowrap;                                   /* Impede a quebra de linha.                         */
+    display: flex;                                         /* Flexbox. */
+    margin-left: 37px;                                     /* Margem esquerda. */
+    margin-right: 20px;                                    /* Margem direita. */
+    align-items: center;                                   /* Centraliza verticalmente. */
+    color: white;                                          /* Texto branco. */
+    font-size: 1.5vw;                                      /* Fonte responsiva. */
 }
 
-/*=====================================================*/
-/*                       RODAPÉ                        */
-/*           Estilos para o rodapé da página           */
-/*=====================================================*/
+/* Dropdowns (Menus Suspensos) */
+.meu-suspenso { 
+    position: relative;                                    /* Referência para filho absoluto. */
+    display: inline-block; 
+}
+.conteudo-menu-suspenso {
+    position: absolute;                                    /* Flutua. */
+    top: 100%;                                             /* Abaixo do pai. */
+    left: -5px;                                            /* Ajuste lateral. */
+    width: 240px;                                          /* Largura fixa. */
+    background-color: rgba(0, 0, 0, 0.9);                  /* Fundo preto. */
+    border-radius: 8px;                                    /* Bordas arredondadas. */
+    display: none;                                         /* Oculto por padrão. */
+    list-style: none;                                      /* Sem lista. */
+    z-index: 101;                                          /* Camada alta. */
+}
+.meu-suspenso:hover .conteudo-menu-suspenso { 
+    display: block;                                        /* Mostra no hover. */
+}
+.conteudo-menu-suspenso li a {
+    display: block;                                        /* Ocupa linha toda. */
+    padding: 6px 8px;                                      /* Espaço interno. */
+    color: #d4ac0d;                                        /* Texto dourado. */
+    text-decoration: none;                                 /* Sem sublinhado. */
+}
+.conteudo-menu-suspenso li a:hover { 
+    background-color: #0f0e0e;                             /* Fundo escuro no hover. */
+    color: white;                                          /* Texto branco no hover. */
+}
 
-/* O bloco abaixo estiliza o rodapé */
+/* --- MENU LATERAL DE LIVROS (Desktop) --- */
+.menu-livros {
+    position: fixed;                                       /* Fixa na lateral. */
+    top: 150px;                                            /* Abaixo do cabeçalho. */
+    left: 0;                                               /* Encostado esquerda. */
+    bottom: 0;                                             /* Até o fim. */
+    z-index: 10;                                           /* Camada média. */
+    width: 225px;                                          /* Largura fixa. */
+    height: calc(100vh - 180px);                           /* Altura calculada. */
+    margin-right: 20px;                                    /* Margem direita. */
+    padding: 18px;                                         /* Padding interno. */
+    background-color: #181818;                             /* Fundo cinza. */
+    color: #fff;                                           /* Texto branco. */
+    overflow-y: auto;                                      /* Rolagem se precisar. */
+}
+
+.menu-livros ul { margin: 15px 0 0 15px; list-style-type: none; } /* Lista limpa. */
+.menu-livros li { margin-bottom: 10px; }                   /* Espaço entre itens. */
+.menu-livros a { text-decoration: none; color: #fcf9f9; }  /* Link normal. */
+.menu-livros a:hover { text-decoration: underline; }       /* Sublinhado no hover. */
+
+/* Scrollbar do menu lateral */
+.menu-livros::-webkit-scrollbar { width: 12px; }
+.menu-livros::-webkit-scrollbar-track { background: #383838; }
+.menu-livros::-webkit-scrollbar-thumb { margin: 5px; background: #a7a2a2; border-radius: 10px; }
+
+/* --- CONTEÚDO PRINCIPAL (Desktop) --- */
+.conteudo {
+    height: calc(100vh - 160px);                           /* Altura disponível. */
+    margin-top: 50px;                                      /* Margem topo. */
+    flex: 3;                                               /* Flex grow. */
+    overflow-y: auto;                                      /* Rolagem vertical. */
+    overflow-x: hidden;                                    /* Sem rolagem lateral. */
+    margin-left: 20px;                                     /* Ajusta a distancia entre os botões e o menu livro a esquerda */
+    padding-right: 20px;                                   /* Respiro direita. */
+}
+
+/* Scrollbar do conteúdo */
+.conteudo::-webkit-scrollbar { width: 16px; }
+.conteudo::-webkit-scrollbar-track { background: #383838; }
+.conteudo::-webkit-scrollbar-thumb { margin: 5px; min-height: 50px; background: #a7a2a2; border-radius: 10px; }
+
+/* Título do Capítulo (H2) */
+h2 {
+    margin-top: 30px;                                      /* Espaço cima. */
+    margin-bottom: 30px;                                   /* Espaço baixo. */
+    margin-left: 0;                                        /* Sem margem extra. */
+    width: 100%;                                           /* Largura total. */
+    max-width: 100%;                                       /* Sem limite. */
+    font-size: 2.5vw;                                      /* Fonte responsiva. */
+    font-style: italic;                                    /* Itálico. */
+    text-align: center;                                    /* Centralizado. */
+    color: #d4ac0d;                                        /* Dourado. */
+}
+
+h3 { margin: 10px 0 0 30px; font-size: 1.5em; color: #d4ac0d; } /* Subtítulos. */
+
+/* Marca d'água */
+.marca-dagua-imagem {
+    position: fixed;                                       /* Fixo na tela. */
+    top: 0; left: 0; width: 100%; height: 120%;            /* Cobre tudo. */
+    z-index: 10;                                           /* Camada de fundo. */
+    opacity: 0.3;                                          /* Transparente. */
+    overflow: hidden;                                      /* Sem estouro. */
+    pointer-events: none;                                  /* Não clicável. */
+    background-size: cover;                                /* Cobre área. */
+    background-repeat: no-repeat;                          /* Não repete. */
+    background-position: center;                           /* Centraliza. */
+}
+
+/* --- ESTILOS DO TEXTO BÍBLICO --- */
+.versiculo {
+    margin-bottom: 20px;                                   /* Espaço entre versículos. */
+}
+
+/* Título interno ("No Princípio") */
+.titulo-versiculo-interno {
+    color: #d4ac0d;                                        /* Dourado. */
+    font-style: italic;                                    /* Itálico. */
+    margin-bottom: 15px;                                   /* Margem baixo. */
+    margin-top: 15px;                                      /* Margem cima. */
+    margin-left: 30px;                                     /* Margem esquerda. */
+    font-size: 1.5rem;                                     /* Tamanho fonte. */
+}
+
+/* Parágrafo do texto */
+.texto-versiculo p {
+    font-size: 3rem;                                     /* Tamanho fonte. */
+    line-height: 1.1;                                      /* Altura linha. */
+    color: #f0f0f0;                                        /* Branco gelo. */
+    text-align: justify;                                   /* Justificado. */
+    margin: 0;                                             /* Sem margem. */
+    padding: 0 10px;                                       /* Padding lateral. */
+}
+
+/* --- Versão Original (Hebraico) --- */
+.versiculo .traducao-completa {
+    font-weight: bold; margin-bottom: 15px; display: block; font-size: 1.1em; color: #f8f8f8; margin-left: 30px; margin-right: 30px; text-align: justify;
+}
+.versiculo .palavras-container {
+    display: flex; flex-wrap: wrap; justify-content: flex-start; direction: rtl; margin-top: 20px; padding-top: 15px; border-top: 1px dashed #444; margin-left: 30px; margin-right: 30px; gap: 15px 20px;
+}
+.versiculo .word-detail-item {
+    padding: 12px 15px; border-radius: 6px; display: flex; flex-direction: column; align-items: flex-end; white-space: nowrap; min-width: 80px; max-width: 320px;
+}
+.versiculo .word-detail-item > div { display: block; margin-bottom: 4px; line-height: 1.2; width: 100%; text-align: right; }
+.versiculo .hebraico-text { font-family: "Noto Sans Hebrew", serif; font-size: 1.4em; color: #d4ac0d; font-weight: 700; }
+.versiculo .transliteral-text { font-style: italic; color: #aaa; font-size: 0.9em; }
+.versiculo .traducao-palavra-text { font-weight: normal; color: #f8f8f8; font-size: 1em; }
+body.module-leitura .versiculo .word-detail-item { background-color: #f9f6f0; border-color: #d0c4ac; }
+body.module-leitura .versiculo .hebraico-text { color: #8b4513; }
+body.module-leitura .versiculo .transliteral-text { color: #777; }
+body.module-leitura .versiculo .traducao-palavra-text { color: #333; }
+
+/* Rodapé */
 footer {
-    position: fixed;                                       /* Fixa o rodapé no fundo.                           */
-    bottom: 0;                                             /* Alinha ao fundo da página.                        */
-    left: 0px;                                             /* Alinha à esquerda.                                */
-    z-index: 1;                                            /* Define a camada acima do conteúdo principal.      */
-    width: 100%;                                           /* Define a largura total.                           */
-    height: 30px;                                          /* Define a altura fixa.                             */
-    background-color: #383838;                           /* Define a cor de fundo escura.                     */
-    color: #d4ac0d;                                      /* Define a cor do texto como dourada.               */
-    text-align: center;                                    /* Centraliza o texto.                               */
+    position: fixed; bottom: 0; left: 0; z-index: 100; width: 100%; height: 30px; background-color: #383838; color: #d4ac0d; text-align: center;
 }
+footer p { font-size: 1.3em; line-height: 1.5; }
 
-/* O bloco abaixo estiliza o texto do rodapé */
-footer p {
-    font-size: 1.3em;                                      /* Define o tamanho da fonte.                        */
-    line-height: 1.5;                                      /* Define a altura da linha.                         */
-}
-
-/*=====================================================*/
-/*                ESTILO PARA A SEÇÃO SOBRE            */
-/*      Estilização da seção "Sobre" como um modal     */
-/*=====================================================*/
-
-/* O bloco abaixo estiliza o conteúdo da seção "Sobre" */
+/* Sobre (Modal) */
 .conteudo-sobre {
-    position: fixed;                                       /* Fixa o modal na janela.                           */
-    top: 50%;                                              /* Centraliza verticalmente.                         */
-    left: 50%;                                             /* Centraliza horizontalmente.                       */
-    transform: translate(-50%, -50%);                      /* Ajusta a posição para o centro exato.             */
-    z-index: 1000;                                         /* Define a camada acima da camada escura e do conteúdo. */
-    background: rgba(0, 0, 0, 0.9);                      /* Define o fundo preto semitransparente.            */
-    border: 2px solid #d4ac0d;                           /* Adiciona borda dourada.                           */
-    border-radius: 12px;                                   /* Arredonda as bordas.                              */
-    padding: 45px;                                         /* Adiciona preenchimento interno.                   */
-    width: 92%;                                            /* Define a largura proporcional à janela.           */
-    max-width: 1000px;                                     /* Define a largura máxima.                          */
-    height: 82vh;                                          /* Define a altura proporcional à janela.            */
-    max-height: 650px;                                     /* Define a altura máxima.                           */
-    overflow: hidden;                                      /* Impede o transbordo de conteúdo.                  */
-    box-shadow: 0 8px 45px rgba(129, 128, 128, 0.95);     /* Adiciona sombra.                                  */
-    margin: 0;                                             /* Remove as margens padrão.                         */
+    position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000; background: rgba(0, 0, 0, 0.9); border: 2px solid #d4ac0d; border-radius: 12px; padding: 45px; width: 92%; max-width: 1000px; height: 82vh; overflow: hidden;
+}
+.fechar-sobre { position: absolute; top: 15px; right: 15px; background: transparent; border: none; color: #d4ac0d; font-size: 28px; font-weight: bold; cursor: pointer; }
+.texto-sobre { position: relative; z-index: 920; max-height: calc(82vh - 120px); overflow-y: auto; }
+body.sobre-ativo::after { content: ''; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.7); z-index: 900; }
+
+
+/*=========================================================================*/
+/*                    INTEGRAÇÃO DO CAPITULOS.CSS                          */
+/*    Estilos para os botões de Capítulos e Versículos (Grade e Botões)    */
+/*=========================================================================*/
+
+/* --- DESKTOP (Padrão) --- */
+.capitulos {
+    display: grid;                                         /* Define como Grid. */
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); /* Colunas flexíveis. */
+    gap: 10px;                                             /* Espaço entre botões. */
+    padding: 20px;                                         /* Padding interno. */
+    margin-left: 250px;                                    /* Margem esquerda. */
+    margin-right: 20px;                                    /* Margem direita. */
+    margin-top: -40px;                                     /* Ajuste vertical. */
+    max-width: calc(100% - 80px);                          /* Largura máxima. */
 }
 
-/* O bloco abaixo remove a barra de rolagem do conteúdo "Sobre" */
-.conteudo-sobre::-webkit-scrollbar {
-    width: 0;                                               /* Remove a barra de rolagem vertical.               */
-    height: 0;                                              /* Remove a barra de rolagem horizontal.             */
-    background: transparent;                               /* Define o fundo transparente.                      */
+.capitulos button,
+.botao-capitulo {
+    background-color: #3f51b5;                             /* Cor azul. */
+    color: white;                                          /* Cor texto. */
+    border: none;                                          /* Sem borda. */
+    padding: 8px 12px;                                     /* Padding interno. */
+    margin: 2px;                                           /* Margem externa. */
+    cursor: pointer;                                       /* Cursor mão. */
+    min-width: 40px;                                       /* Largura mínima. */
+    text-align: center;                                    /* Centralizado. */
+    border-radius: 4px;                                    /* Arredondado. */
+    font-size: 1vw;                                        /* Fonte responsiva. */
+    transition: background-color 0.3s;                     /* Transição suave. */
+}
+.capitulos button:hover, .botao-capitulo:hover { background-color: #45a049; }
+.capitulos button.active { background-color: #4CAF50; }
+
+.versiculos {
+    display: grid;                                         /* Grid. */
+    flex-wrap: wrap;                                       /* Quebra linha. */
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); /* Colunas. */
+    gap: 10px;                                             /* Espaço. */
+    padding: 20px;                                         /* Padding. */
+    margin-left: 250px;                                    /* Margem esquerda. */
+    margin-right: 20px;                                    /* Margem direita. */
+    margin-top: -10px;                                     /* Ajuste vertical. */
+    max-width: calc(100% - 80px);                          /* Largura máxima. */
 }
 
-.conteudo-sobre::-webkit-scrollbar-thumb {
-    background: transparent;                               /* Define a alavanca transparente.                   */
+.botao-versiculo {
+    background-color: #6758ec;                             /* Roxo. */
+    border: none;                                          /* Sem borda. */
+    color: white;                                          /* Branco. */
+    text-align: center;                                    /* Centralizado. */
+    padding: 8px 12px;                                     /* Padding. */
+    border-radius: 5px;                                    /* Arredondado. */
+    cursor: pointer;                                       /* Cursor mão. */
+    font-size: 1vw;                                        /* Fonte. */
+    transition: background-color 0.3s;                     /* Transição. */
 }
+.botao-versiculo:hover { background-color: #45a049; }
+.botao-versiculo.active { background-color: #4CAF50; }
 
-/* O bloco abaixo estiliza o título h2 do conteúdo "Sobre" */
-.conteudo-sobre h2 {
-    position: relative;                                    /* Define o posicionamento relativo para z-index.    */
-    z-index: 920;                                           /* Garante que o título fique acima da marca d'água. */
-    color: #d4ac0d;                                      /* Define a cor dourada.                             */
-    font-size: 2.3em;                                      /* Define o tamanho da fonte.                        */
-    text-align: center;                                    /* Centraliza o texto.                               */
-    margin-bottom: 25px;                                   /* Adiciona margem inferior.                         */
-    margin-top: 5px;                                       /* Adiciona margem superior.                         */
-    margin-left: 0;                                        /* Remove a margem à esquerda.                       */
-}
+.capitulos-conteiner { margin-bottom: 20px; }
+.conteudo-versiculos { margin-bottom: 20px; }
 
-/* O bloco abaixo estiliza os parágrafos do conteúdo "Sobre" */
-.conteudo-sobre p {
-    color: #f8f8f8;                                        /* Define a cor do texto como quase branco.          */
-    font-size: 1.12em;                                     /* Define o tamanho da fonte.                        */
-    margin-bottom: 20px;                                   /* Adiciona margem inferior.                         */
-    text-align: justify;                                   /* Justifica o texto.                                */
-    line-height: 1.65;                                      /* Define a altura da linha.                         */
-    text-indent: 2em;                                      /* Adiciona recuo na primeira linha.                 */
-}
-
-/* O bloco abaixo estiliza o botão de fechar do "Sobre" */
-.fechar-sobre {
-    position: absolute;                                    /* Posiciona o botão no canto superior direito.      */
-    top: 15px;                                             /* Alinha a 15px do topo.                            */
-    right: 15px;                                           /* Alinha a 15px da direita.                         */
-    background: transparent;                               /* Define o fundo transparente.                      */
-    border: none;                                          /* Remove a borda padrão.                            */
-    color: #d4ac0d;                                      /* Define a cor dourada.                             */
-    font-size: 28px;                                       /* Define o tamanho da fonte.                        */
-    font-weight: bold;                                     /* Define o texto como negrito.                      */
-    cursor: pointer;                                       /* Muda o cursor para indicar clicabilidade.         */
-    width: 30px;                                           /* Define a largura fixa.                            */
-    height: 30px;                                          /* Define a altura fixa.                             */
-    display: flex;                                         /* Usa flexbox para centralizar o conteúdo.          */
-    align-items: center;                                   /* Centraliza verticalmente.                         */
-    justify-content: center;                               /* Centraliza horizontalmente.                       */
-    border-radius: 50%;                                    /* Arredonda o botão.                                */
-    transition: background-color 0.3s ease;                /* Adiciona transição suave para o fundo.            */
-    z-index: 1001;                                         /* Define a camada acima do modal.                   */
-}
-
-/* O bloco abaixo estiliza o hover do botão de fechar */
-.fechar-sobre:hover {
-    background: rgba(212, 172, 13, 0.2);                 /* Define o fundo semitransparente ao passar o mouse.*/
-}
-
-/* O bloco abaixo estiliza o texto do "Sobre" */
-.texto-sobre {
-    position: relative;                                    /* Define o posicionamento relativo para z-index.    */
-    z-index: 920;                                           /* Garante que o texto fique acima da marca d'água. */
-    max-height: calc(82vh - 120px);                        /* Define a altura máxima ajustada.                  */
-    overflow-y: auto;                                      /* Habilita a rolagem vertical.                      */
-    padding-right: 5px;                                    /* Adiciona preenchimento à direita.                 */
-    margin-top: 15px;                                      /* Adiciona margem superior.                         */
-    scrollbar-width: none;                                 /* Remove a barra de rolagem no Firefox.             */
-    -ms-overflow-style: none;                              /* Remove a barra de rolagem no Edge.                */
-}
-
-/* O bloco abaixo remove a barra de rolagem do texto "Sobre" */
-.texto-sobre::-webkit-scrollbar {
-    width: 0px;                                             /* Remove a largura da barra de rolagem.             */
-    height: 0px;                                            /* Remove a altura da barra de rolagem.              */
-    background: transparent;                               /* Define o fundo transparente.                      */
-}
-
-.texto-sobre::-webkit-scrollbar-thumb {
-    background: transparent;                               /* Define a alavanca transparente.                   */
-}
-
-.texto-sobre::-webkit-scrollbar-track {
-    background: transparent;                               /* Define o fundo da trilha transparente.            */
-}
-
-/* O bloco abaixo estiliza a marca d'água do "Sobre" */
-.marcadagua-sobre {
-    position: absolute;                                    /* Posiciona a marca d'água no modal.                */
-    top: 0;                                                /* Alinha ao topo.                                   */
-    left: 0;                                               /* Alinha à esquerda.                                */
-    width: 100%;                                           /* Define a largura total.                           */
-    height: 100%;                                          /* Define a altura total.                            */
-    z-index: 910;                                           /* Define a camada acima da camada escura, mas abaixo do texto. */
-    opacity: 0.12;                                         /* Define a opacidade para o efeito de marca d'água. */
-    pointer-events: none;                                  /* Impede a interação com a marca d'água.            */
-    overflow: hidden;                                      /* Impede o transbordo de conteúdo.                  */
-}
-
-/* O bloco abaixo estiliza a imagem da marca d'água do "Sobre" */
-.marcadagua-sobre .marca-dagua-imagem {
-    position: absolute;                                    /* Posiciona a imagem no centro.                     */
-    top: 50%;                                              /* Centraliza verticalmente.                         */
-    left: 50%;                                             /* Centraliza horizontalmente.                       */
-    transform: translate(-50%, -50%);                      /* Ajusta a posição para o centro exato.             */
-    max-width: 100%;                                       /* Define a largura máxima.                          */
-    max-height: 100%;                                      /* Define a altura máxima.                           */
-    opacity: 1;                                            /* Mantém a opacidade total (controlada pelo pai).   */
-}
-
-/* O bloco abaixo cria uma camada escura quando o "Sobre" está ativo */
-body::after {
-    content: '';                                           /* Cria um pseudo-elemento vazio.                    */
-    position: fixed;                                       /* Fixa a camada na janela.                          */
-    top: 0;                                                /* Alinha ao topo.                                   */
-    left: 0;                                               /* Alinha à esquerda.                                */
-    width: 100%;                                           /* Define a largura total.                           */
-    height: 100%;                                          /* Define a altura total.                            */
-    background: rgba(0, 0, 0, 0.7);                      /* Define o fundo preto semitransparente.            */
-    z-index: 900;                                           /* Define a camada acima do conteúdo, mas abaixo do modal. */
-    pointer-events: none;                                  /* Impede a interação com a camada.                  */
-    opacity: 0;                                            /* Esconde a camada por padrão.                      */
-    transition: opacity 0.3s ease;                         /* Adiciona transição suave para a opacidade.        */
-}
-
-/* O bloco abaixo exibe a camada escura quando o "Sobre" está ativo */
-body.sobre-ativo::after {
-    opacity: 1;                                            /* Exibe a camada escura.                            */
-}
 
 /*=====================================================*/
-/*                RESPONSIVIDADE                       */
-/*   Media queries para diferentes tamanhos de tela    */
+/*           CORREÇÕES ESPECÍFICAS PARA MOBILE         */
 /*=====================================================*/
 
-/* Ajustes para telas menores (máximo 768px) */
-@media (max-width: 768px) {
-    .titulo-menu {
-        font-size: 1.2vw;                                   /* Reduz o tamanho da fonte.                         */
-        margin-left: 20px;                                  /* Reduz a margem à esquerda.                        */
+@media (max-width: 900px) {
+
+    /* --- RESET GERAL MOBILE --- */
+    ::-webkit-scrollbar { display: none; }                 /* Remove barra de rolagem visual. */
+    html, body { scrollbar-width: none; -ms-overflow-style: none; } /* Remove em outros browsers. */
+
+    /* Oculta botões de desktop */
+    #modo-leitura, #link-slide { display: none !important; }
+    nav .menu-opcoes li:has(#modo-leitura), 
+    nav .menu-opcoes li:has(#link-slide) { display: none !important; }
+
+    /* 1. CABEÇALHO MOBILE */
+    .cabecalho-superior {
+        flex-direction: column;                            /* Empilha itens. */
+        align-items: center;                               /* Centraliza. */
+        text-align: center;                                /* Texto centralizado. */
+        gap: 10px;                                         /* Espaço. */
+        padding-bottom: 10px;                              /* Padding baixo. */
     }
-    
-    nav .menu-opcoes {
-        margin-left: 40px;                                  /* Reduz a margem à esquerda.                        */
-    }
-    
-    nav .menu-opcoes li {
-        margin: 0 8px;                                     /* Reduz as margens horizontais.                     */
-    }
-    
-    nav .menu-opcoes li a {
-        font-size: 1vw;                                     /* Reduz o tamanho da fonte.                         */
-    }
-    
-    .menu-livros {
-        width: 180px;                                       /* Reduz a largura do menu lateral.                  */
-    }
-    
-    h2 {
-        font-size: 1.5em;                                   /* Reduz o tamanho da fonte.                         */
-        margin-left: 20px;                                  /* Reduz a margem à esquerda.                        */
-    }
-    
+    #titulo-principal-versao { margin-left: 0; font-size: 2.3rem; }
+    #subtitulo-versao-extenso { margin-left: 0; text-align: center; }
+
+    /* Barra de Pesquisa */
     .barra-pesquisa {
-        margin-right: 10px;                                 /* Reduz a margem à direita.                         */
+        margin-right: 0;
+        width: 92%;                                        /* Largura total. */
+        margin-left: auto; margin-right: auto;
+        display: flex; flex-direction: column;             /* Empilha. */
+        align-items: stretch; gap: 8px;
     }
-    
-    .barra-pesquisa input[type="text"] {
-        width: 150px;                                       /* Reduz a largura do campo de texto.                */
+    .barra-pesquisa input[type="text"], .barra-pesquisa button {
+        width: 100%; height: 40px; margin: 0; border-radius: 5px;
     }
-    
-    #subtitulo-versao-extenso {
-        margin-left: 30px;                                  /* Reduz a margem à esquerda.                        */
-    }
-}
+    .barra-pesquisa select { width: 100%; height: 40px; }
 
-/* Ajustes para telas muito pequenas (máximo 480px) */
-@media (max-width: 480px) {
-    .titulo-menu {
-        font-size: 1vw;                                     /* Reduz ainda mais o tamanho da fonte.              */
-        margin-left: 10px;                                  /* Reduz a margem à esquerda.                        */
+    /* 2. MENU DE OPÇÕES (GRID 6 COLUNAS) */
+    nav {
+        position: static;                                  /* Fluxo normal. */
+        height: auto;                                      /* Altura auto. */
+        padding: 5px;
+        background: rgba(68, 68, 68, 0.95);                /* Fundo escuro. */
+        flex-direction: column;                            /* Coluna. */
     }
-    
+    .titulo-menu { display: none; }                        /* Esconde título "LIVROS". */
+
     nav .menu-opcoes {
-        margin-left: 20px;                                  /* Reduz a margem à esquerda.                        */
-        flex-wrap: wrap;                                   /* Permite a quebra de linha nas opções.             */
+        margin-left: 0; width: 100%;
+        display: grid;                                     /* Grid layout. */
+        grid-template-columns: repeat(6, 1fr);             /* 6 colunas virtuais. */
+        gap: 10px 5px; padding: 10px;
     }
-    
     nav .menu-opcoes li {
-        margin: 0 5px;                                     /* Reduz as margens horizontais.                     */
+        display: flex; justify-content: center;
+        align-items: center; margin: 0;
     }
+
+    /* DISTRIBUIÇÃO DO MENU */
+    /* Linha 1 */
+    nav .menu-opcoes li:nth-child(1) { grid-column: span 3; order: 1; } /* Menu Principal */
+    nav .menu-opcoes li:nth-child(4) { grid-column: span 3; order: 2; } /* Concordância */
     
+    /* Linha 2 (Ajustada) */
+    nav .menu-opcoes li:nth-child(5) { 
+        grid-column: span 3; order: 3; 
+        justify-content: flex-end; padding-right: 2px; position: relative; left: -2px; /* Harpa */
+    } 
+    nav .menu-opcoes li:nth-child(7) { 
+        grid-column: span 3; order: 4;
+        justify-content: flex-start; padding-left: 2px; position: relative; left: -2px; /* Utilidades */
+    }
+
+    /* Linha 3 */
+    nav .menu-opcoes li:nth-child(6) { grid-column: span 2; order: 5; justify-content: center; padding: 0; } /* Baixar */
+    nav .menu-opcoes li:nth-child(8) { grid-column: span 2; order: 6; } /* Contato */
+    nav .menu-opcoes li:nth-child(9) { grid-column: span 2; order: 7; } /* Sobre */
+
+    /* Links do Menu */
     nav .menu-opcoes li a {
-        font-size: 0.9vw;                                   /* Reduz o tamanho da fonte.                         */
-        padding: 2px 3px;                                  /* Reduz o preenchimento.                            */
+        font-size: 1.2rem; color: #e0e0e0; font-weight: bold; font-style: italic;
+        padding: 5px 0; line-height: 1.1; text-align: center; width: calc(100% - 2px); white-space: nowrap;
     }
-    
+    nav .menu-opcoes li:nth-child(1) a { white-space: normal; width: min-content; margin: 0 auto; line-height: 1; }
+    nav .menu-opcoes li:nth-child(4) a { white-space: normal; line-height: 1; text-align: center; padding-left: 0; width: 100%; }
+
+    /* 3. LISTA DE LIVROS (2 COLUNAS) */
     .menu-livros {
-        width: 150px;                                       /* Reduz a largura do menu lateral.                  */
-        padding: 15px;                                     /* Reduz o preenchimento.                            */
+        position: static; width: 100%; height: auto;
+        background-color: rgba(5, 5, 5, 0.95); padding: 15px 10px;
+        border-right: none; border-bottom: 2px solid #555;
+        overflow: visible; margin-bottom: 5px;
     }
-    
-    h2 {
-        font-size: 1.2em;                                   /* Reduz o tamanho da fonte.                         */
-        margin-left: 15px;                                  /* Reduz a margem à esquerda.                        */
+    .menu-livros::before {
+        content: "LIVROS"; display: block; color: #fff;
+        font-size: 1.8rem; font-weight: bold;
+        margin-bottom: 10px; border-bottom: 1px solid #777; padding-bottom: 5px; text-align: left;
     }
-    
-    .barra-pesquisa input[type="text"] {
-        width: 120px;                                       /* Reduz a largura do campo de texto.                */
+    .menu-livros ul {
+        display: grid; grid-template-columns: 1fr 1fr; /* 2 colunas. */
+        gap: 10px 40px; /* Espaçamento. */
+        margin: 0; padding: 0; text-align: left;
     }
-    
-    #titulo-principal-versao {
-        font-size: 2em;                                     /* Reduz o tamanho da fonte.                         */
-        margin-left: 20px;                                  /* Reduz a margem à esquerda.                        */
+    .menu-livros li { display: block; margin: 0; }
+    .menu-livros a {
+        display: block; color: #fff; font-size: 1rem; font-weight: bold; font-style: italic;
+        text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
     }
-    
-    #subtitulo-versao-extenso {
-        margin-left: 20px;                                  /* Reduz a margem à esquerda.                        */
-        font-size: 1em;                                    /* Reduz o tamanho da fonte.                         */
+    .menu-livros a:hover { text-decoration: underline; color: #d4ac0d; }
+
+    /* 4. CONTEÚDO PRINCIPAL (MOBILE) */
+    .conteudo {
+        margin-left: 0; margin-top: 0; padding: 0 5px 10px 5px;
+        height: auto; overflow: visible; width: 100%;
     }
+    h2 { 
+        margin-left: 0; margin-right: 0; width: 100%; max-width: 100% !important;
+        text-align: center; white-space: normal; font-size: 5vw; line-height: 1.1;
+        overflow: visible; padding: 0 2px; margin-top: 5px; margin-bottom: 5px;
+    }
+    h3 { margin-left: 0; text-align: center; }
+
+    /* Versículos Mobile */
+    .versiculo, .texto-versiculo {
+        width: 100%; margin-left: 0; margin-right: 0; padding: 0 10px; box-sizing: border-box;
+    }
+    .texto-versiculo h3, .titulo-versiculo-interno {
+        width: 100%; margin: 0; margin-bottom: 20px;
+        font-size: 2rem; line-height: 1.3; color: #4CAF50;
+        text-align: center; text-transform: uppercase; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
+    }
+    .texto-versiculo p {
+        width: 100%; font-size: 1.9rem; padding: 0; text-align: center; margin: 0;
+    }
+
+    /* BOTÕES DE CAPÍTULOS/VERSÍCULOS (INTEGRADOS MOBILE) */
+    .capitulos {
+        margin: 0 auto; padding: 10px 5px; max-width: 100%; width: 100%;
+        display: grid; grid-template-columns: repeat(5, 1fr); gap: 5px; justify-content: center;
+    }
+    .capitulos button, .botao-capitulo {
+        width: 100%; margin: 0; padding: 10px 0; font-size: 1.6rem; font-weight: bold; border-radius: 8px;
+    }
+    .versiculos {
+        margin: 0 auto; padding: 10px 5px; max-width: 100%; width: 100%;
+        display: grid; grid-template-columns: repeat(5, 1fr); gap: 5px; justify-content: center;
+    }
+    .botao-versiculo {
+        width: 100%; margin: 0; padding: 10px 0; font-size: 1.6rem; font-weight: bold; border-radius: 8px;
+    }
+
+    .versiculo .palavras-container { justify-content: center; margin: 15px 0; gap: 8px; }
+    .versiculo .word-detail-item { width: 48%; align-items: center; }
+    .versiculo .word-detail-item > div { text-align: center; }
 }

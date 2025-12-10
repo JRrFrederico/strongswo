@@ -163,73 +163,80 @@
     background-color: rgba(255, 255, 255, 0.2) !important; /* Adiciona um fundo semitransparente ao passar o mouse. */
 }
 
-/* --- ESTILIZAÇÃO DO TEXTO DO VERSÍCULO (Desktop First com Proteção Mobile) --- */
-
+/* O bloco abaixo configura o texto do versículo */
 .texto-versiculo {
-    position: relative;
-    margin-top: 10px;
-    margin-bottom: 80px;
-    
-    /* Configuração de Fonte Global */
-    line-height: 1.2;
-    text-align: center;
-    color: #f8f8f8;
-    font-style: italic;
-    white-space: normal;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    word-wrap: break-word;
-    transition: margin-left 0.3s ease;
+    position: relative;                                    /* Define o posicionamento.                          */
+    margin-top: 10px;                                      /* Adiciona margem superior.                         */
+    margin-left: 266px;                                    /* Adiciona margem à esquerda.                       */
+    margin-right: 30px;                                    /* Adiciona margem à direita.                        */
+    margin-bottom: 80px;                                   /* Adiciona margem inferior.                         */
+    max-width: calc(100% - 80px);                          /* Calcula a largura máxima.                         */
+    font-size: 2.2vw;                                      /* Define o tamanho da fonte responsivo.             */
+    line-height: 1.2;                                      /* Define a altura da linha.                         */
+    text-align: center;                                    /* Centraliza o texto.                               */
+    color: #f8f8f8;                                        /* Define a cor do texto.                            */
+    font-style: italic;                                    /* Aplica o estilo itálico.                          */
+    white-space: normal;                                   /* Permite a quebra de linha.                        */
+    overflow: hidden;                                      /* Oculta o conteúdo excedente.                      */
+    text-overflow: ellipsis;                               /* Adiciona reticências ao texto excedente.          */
+    word-wrap: break-word;                                 /* Permite a quebra de palavras.                     */
+    transition: margin-left 0.3s ease;                     /* Adiciona uma transição suave na margem.           */
 }
 
-/* Título do Versículo (H3) */
+/* O bloco abaixo configura o texto do versículo no modo leitura */
+body[modo-leitura="true"] .texto-versiculo {
+    margin-left: 400px;                                    /* Ajusta a margem esquerda.                         */
+    margin-right: 0;                                       /* Remove a margem direita.                          */
+    max-width: calc(100% - 420px);                         /* Calcula a nova largura máxima.                    */
+}
+
+/* O bloco abaixo configura o título do versículo */
 .texto-versiculo h3 {
-    margin: 0 0 20px 0;
-    line-height: 1.3;
-    color: #4CAF50;
-    text-align: center;
-    text-transform: uppercase;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
+    margin: 0;                                             /* Remove a margem.                                  */
+    margin-bottom: 20px;                                   /* Adiciona margem inferior.                         */
+    margin-left: 0;                                        /* Remove a margem esquerda.                         */
+    margin-right: 0;                                       /* Remove a margem direita.                          */
+    font-size: 1.9vw;                                      /* Define o tamanho da fonte responsivo.             */
+    line-height: 1.3;                                      /* Define a altura da linha.                         */
+    color: #4CAF50;                                        /* Define a cor do texto.                            */
+    text-align: center;                                    /* Centraliza o texto.                               */
+    text-transform: uppercase;                             /* Converte o texto para maiúsculas.                 */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);          /* Adiciona uma sombra ao texto.                     */
 }
 
-/* --- REGRAS ESPECÍFICAS PARA DESKTOP (Telas maiores que 900px) --- */
-@media (min-width: 901px) {
-    .texto-versiculo {
-        margin-left: 266px;            /* Margem do menu lateral */
-        margin-right: 30px;
-        max-width: calc(100% - 80px);
-        font-size: 3.2vw;              /* Fonte responsiva para desktop */
-    }
-
-    .texto-versiculo h3 {
-        font-size: 3.2vw;              /* Título acompanha escala do texto */
-    }
-
-    /* Ajuste quando o modo leitura está ativo no Desktop */
-    body[modo-leitura="true"] .texto-versiculo {
-        margin-left: 400px;
-        margin-right: 0;
-        max-width: calc(100% - 420px);
-    }
-}
-
-/* --- REGRAS ESPECÍFICAS PARA MOBILE (Telas até 900px) --- */
-@media (max-width: 900px) {
-    .texto-versiculo {
-        margin-left: 0;                /* Remove margem lateral */
-        margin-right: 0;
-        padding: 0 10px;               /* Pequeno respiro interno */
-        max-width: 100%;
-        font-size: 1.9rem;             /* Tamanho fixo legível para mobile */
-    }
-
-    .texto-versiculo h3 {
-        font-size: 2rem;               /* Tamanho fixo para título mobile */
+/*=====================================================*/
+/*                RESPONSIVIDADE                       */
+/*   Media queries para diferentes tamanhos de tela    */
+/*=====================================================*/
+@media (max-width: 768px) {
+    /* O bloco abaixo ajusta o conteúdo do modo leitura para telas menores */
+    .modo-leitura-conteudo {
+        margin-left: 10px;                                 /* Ajusta a margem esquerda.                         */
+        margin-right: 10px;                                /* Ajusta a margem direita.                          */
+        max-width: calc(100% - 20px);                      /* Calcula a largura máxima.                         */
     }
     
-    /* Garante que o modo leitura não quebre o mobile */
-    body[modo-leitura="true"] .texto-versiculo {
-        margin-left: 0;
-        max-width: 100%;
+    /* O bloco abaixo ajusta a navegação do modo leitura para telas menores */
+    .reading-mode-navigation {
+        text-align: center;                                /* Centraliza o texto.                               */
+    }
+    
+    /* O bloco abaixo ajusta os botões de navegação para telas menores */
+    #modoLeitura-capitulo-anterior,
+    #modoLeitura-capitulo-proximo {
+        margin: 5px;                                       /* Ajusta a margem.                                  */
+        font-size: 0.9em;                                  /* Reduz o tamanho da fonte.                         */
+    }
+    
+    /* O bloco abaixo ajusta o texto do versículo para telas menores */
+    .verse-text {
+        font-size: 1em;                                    /* Ajusta o tamanho da fonte.                        */
+    }
+    
+    /* O bloco abaixo ajusta o texto do versículo para telas menores */
+    .texto-versiculo {
+        margin-left: 10px;                                 /* Ajusta a margem esquerda.                         */
+        margin-right: 10px;                                /* Ajusta a margem direita.                          */
+        font-size: 1.8vw;                                  /* Ajusta o tamanho da fonte responsivo.             */
     }
 }
