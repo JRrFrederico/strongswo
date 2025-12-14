@@ -1,262 +1,414 @@
 /*=====================================================*/
-/*        ESTILOS PARA HARPA CRISTÃ E CANTOR CRISTÃO   */
-/*   Layout, vídeo de fundo, botões, hinos e rodapé    */
+/*      CONFIGURAÇÃO GLOBAL (CRUCIAL PARA O LAYOUT)    */
 /*=====================================================*/
 
-/* O bloco abaixo reseta estilos e configura o corpo da página */
+/* 1. Garante que bordas e preenchimentos não aumentem o tamanho dos elementos */
+* {
+    box-sizing: border-box; 
+}
+
+/* 2. Personalização da Barra de Rolagem (Desktop) */
+/* Chrome, Edge, Opera */
+::-webkit-scrollbar {
+    width: 10px;               /* Largura da barra */
+}
+
+::-webkit-scrollbar-track {
+    background: #0a0a0a;       /* Fundo da trilha (Preto) */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #ffd700; /* Puxador (Dourado) */
+    border-radius: 5px;        /* Bordas arredondadas */
+    border: 1px solid #0a0a0a; /* Contorno para separar */
+}
+
+/* Firefox */
+html {
+    scrollbar-width: thin;
+    scrollbar-color: #ffd700 #0a0a0a;
+}
+
+
+/*=====================================================*/
+/*        ESTILOS PARA HARPA CRISTÃ E CANTOR CRISTÃO   */
+/*=====================================================*/
+
 body, html {
-    height: 100%;                                          /* Define a altura total.                            */
-    min-height: 100vh;                                     /* Garante a altura mínima da viewport.              */
-    margin: 0;                                             /* Remove margens padrão.                            */
-    padding: 0;                                            /* Remove preenchimento padrão.                      */
-    font-family: sans-serif;                               /* Define a família da fonte.                        */
-    font-style: italic;                                    /* Aplica estilo itálico.                            */
-    font-weight: bold;                                     /* Aplica peso de fonte em negrito.                  */
-    color: #fff;                                           /* Define a cor do texto como branca.                */
-    overflow-x: hidden;                                    /* Esconde a barra de rolagem horizontal.            */
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color: #fff;
+    overflow-x: hidden;
+    
+    /* [CORREÇÃO DE LAYOUT] */
+    /* Transforma o corpo em uma coluna flexível. */
+    /* Isso impede que a barra de rolagem apareça sem necessidade. */
+    display: flex;
+    flex-direction: column;
 }
 
-/* O bloco abaixo configura o vídeo de fundo */
+/* Vídeo de fundo */
 #background-video {
-    position: fixed;                                       /* Posição fixa na tela.                             */
-    top: 0;                                                /* Alinha no topo.                                   */
-    left: 0;                                               /* Alinha à esquerda.                                */
-    width: 100%;                                           /* Largura total.                                    */
-    height: 100vh;                                         /* Altura total da viewport.                         */
-    object-fit: cover;                                     /* Cobre toda a área, cortando se necessário.        */
-    z-index: -2;                                           /* Coloca o vídeo atrás de outros elementos.         */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -2;
 }
 
-/* O bloco abaixo cria uma sobreposição escura sobre o vídeo */
+/* Sobreposição escura */
 .overlay {
-    position: fixed;                                       /* Posição fixa na tela.                             */
-    top: 0;                                                /* Alinha no topo.                                   */
-    left: 0;                                               /* Alinha à esquerda.                                */
-    width: 100%;                                           /* Largura total.                                    */
-    height: 100vh;                                         /* Altura total da viewport.                         */
-    background-color: rgba(10, 10, 10, 0.7);               /* Cor de fundo preta com transparência.             */
-    z-index: -1;                                           /* Coloca a sobreposição acima do vídeo.             */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(10, 10, 10, 0.7);
+    z-index: -1;
 }
 
-/* O bloco abaixo estiliza o cabeçalho */
+/* Cabeçalho */
 header {
-    text-align: center;                                    /* Centraliza o texto.                               */
-    padding: 30px 20px 15px 20px;                          /* Preenchimento interno.                            */
+    text-align: center;
+    padding: 30px 20px 15px 20px;
+    flex-shrink: 0; /* Impede que o cabeçalho seja esmagado */
 }
 
-/* O bloco abaixo estiliza o título principal */
 .titulo-principal {
-    font-size: 2.7em;                                      /* Tamanho da fonte.                                 */
-    color: #ffd700;                                        /* Cor do texto dourada.                             */
-    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.8);            /* Sombra no texto.                                  */
-    margin: 0;                                             /* Remove a margem.                                  */
+    font-size: 2.7em;
+    color: #ffd700;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.8);
+    margin: 0;
 }
 
-/* O bloco abaixo estiliza o subtítulo */
 .subtitulo {
-    font-size: 1.2em;                                      /* Tamanho da fonte.                                 */
-    margin-top: 5px;                                       /* Margem superior.                                  */
-    text-shadow: 0 2px 8px #000;                         /* Sombra no texto.                                  */
+    font-size: 1.2em;
+    margin-top: 5px;
+    text-shadow: 0 2px 8px #000;
 }
 
-/* O bloco abaixo estiliza o menu de navegação */
+/* Menu de Navegação */
 .menu-harpa-cantor {
-    display: flex;                                         /* Layout flexível.                                  */
-    justify-content: center;                               /* Centraliza os itens horizontalmente.              */
-    align-items: center;                                   /* Centraliza os itens verticalmente.                */
-    background: rgba(0,0,0,0.6);                           /* Fundo preto com transparência.                    */
-    padding: 10px 0;                                       /* Preenchimento vertical.                           */
-    border-top: 1px solid rgba(255, 255, 255, 0.2);        /* Borda superior sutil.                             */
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);      /* Borda inferior sutil.                             */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0,0,0,0.6);
+    padding: 10px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-/* O bloco abaixo estiliza os botões e links do menu */
 .menu-button, .menu-link {
-    background: none;                                      /* Sem cor de fundo.                                 */
-    border: none;                                          /* Sem borda.                                        */
-    color: #e0e0e0;                                        /* Cor do texto cinza claro.                         */
-    margin: 0 20px;                                        /* Margem horizontal.                                */
-    padding: 8px 18px;                                     /* Preenchimento interno.                            */
-    font-size: 1.1em;                                      /* Tamanho da fonte.                                 */
-    cursor: pointer;                                       /* Cursor de ponteiro.                               */
-    transition: all 0.3s ease;                             /* Transição suave.                                  */
-    text-decoration: none;                                 /* Remove sublinhado.                                */
-    border-radius: 4px;                                    /* Cantos arredondados.                              */
+    background: none;
+    border: none;
+    color: #e0e0e0;
+    margin: 0 20px;
+    padding: 8px 18px;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    border-radius: 4px;
 }
 
-/* O bloco abaixo estiliza o efeito hover dos botões e links do menu */
 .menu-button:hover, .menu-link:hover {
-    background-color: rgba(255, 255, 255, 0.1);            /* Fundo branco com transparência ao passar o mouse. */
-    color: #fff;                                           /* Cor do texto branca ao passar o mouse.            */
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
 }
 
-/* O bloco abaixo estiliza a área de conteúdo principal */
+/* Área de Conteúdo Principal */
 main {
-    padding: 20px;                                         /* Preenchimento interno.                            */
-    min-height: calc(100vh - 60px);                        /* Altura mínima calculada.                          */
-    position: relative;                                    /* Posição relativa.                                 */
-    z-index: 0;                                            /* Ordem de empilhamento.                            */
+    padding: 20px;
+    position: relative;
+    z-index: 0;
+    
+    /* [CORREÇÃO] Ocupa o espaço restante da tela automaticamente */
+    flex: 1; 
+    
+    /* Centraliza verticalmente o conteúdo se for pouco (opcional) */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
 }
 
-/* O bloco abaixo estiliza a tela inicial */
 #tela-inicial {
-    padding: 60px 20px;                                    /* Preenchimento interno.                            */
-    text-align: center;                                    /* Centraliza o texto.                               */
+    padding: 40px 20px;
+    text-align: center;
+    /* Centraliza o texto de boas vindas na tela */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1; 
 }
 
-/* O bloco abaixo estiliza a mensagem de boas-vindas */
 .bem-vindo {
-    font-size: 2.5em;                                      /* Tamanho da fonte.                                 */
-    text-shadow: 0 2px 12px #000;                         /* Sombra no texto.                                  */
+    font-size: 2.5em;
+    text-shadow: 0 2px 12px #000;
 }
 
-/* O bloco abaixo estiliza a instrução */
 .instrucao {
-    font-size: 1.5em;                                      /* Tamanho da fonte.                                 */
-    margin-top: 15px;                                      /* Margem superior.                                  */
-    text-shadow: 0 2px 8px #000;                         /* Sombra no texto.                                  */
+    font-size: 1.5em;
+    margin-top: 15px;
+    text-shadow: 0 2px 8px #000;
 }
 
-/* O bloco abaixo esconde a faixa de botões de hinos por padrão */
+/* Faixa de botões */
 #botoes-faixa-hinos {
-    display: none;                                         /* Esconde o elemento.                               */
+    display: none;
 }
 
-/* O bloco abaixo exibe e estiliza a faixa de botões de hinos quando ativa */
 #botoes-faixa-hinos.active {
-    display: flex;                                         /* Layout flexível.                                  */
-    flex-wrap: wrap;                                       /* Permite que os botões quebrem para a próxima linha.*/
-    justify-content: center;                               /* Centraliza os botões horizontalmente.             */
-    gap: 15px;                                             /* Espaçamento entre os botões.                      */
-    max-width: 1200px;                                     /* Largura máxima.                                   */
-    margin: 20px auto;                                     /* Margem automática para centralizar.               */
-    padding: 20px;                                         /* Preenchimento interno.                            */
-    background-color: rgba(0, 0, 0, 0.5);                  /* Fundo preto com transparência.                    */
-    border-radius: 10px;                                   /* Cantos arredondados.                              */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
 }
 
-/* O bloco abaixo estiliza os botões de faixa */
 .botao-faixa {
-    padding: 12px 25px;                                    /* Preenchimento interno.                            */
-    font-size: 1.1em;                                      /* Tamanho da fonte.                                 */
-    border: 2px solid transparent;                         /* Borda transparente.                               */
-    color: #fff;                                           /* Cor do texto branca.                              */
-    background-color: rgba(255, 215, 0, 0.4);              /* Fundo dourado com transparência.                  */
-    border-radius: 8px;                                    /* Cantos arredondados.                              */
-    cursor: pointer;                                       /* Cursor de ponteiro.                               */
-    transition: all 0.3s ease;                             /* Transição suave.                                  */
+    padding: 12px 25px;
+    font-size: 1.1em;
+    border: 2px solid transparent;
+    color: #fff;
+    background-color: rgba(255, 215, 0, 0.4);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
 }
 
-/* O bloco abaixo estiliza o efeito hover dos botões de faixa */
 .botao-faixa:hover {
-    background-color: rgba(255, 215, 0, 0.8);              /* Fundo dourado mais opaco ao passar o mouse.       */
-    border-color: rgba(35, 43, 92, 0.9);                   /* Cor da borda azul escura ao passar o mouse.       */
-    color: #fff;                                           /* Cor do texto branca.                              */
-    border-width: 4px;                                     /* Largura da borda.                                 */
+    background-color: rgba(255, 215, 0, 0.8);
+    border-color: rgba(35, 43, 92, 0.9);
+    color: #fff;
+    border-width: 4px;
 }
 
-/* O bloco abaixo estiliza um botão de faixa ativo */
 .botao-faixa.active {
-    background-color: #ffd700;                             /* Fundo dourado sólido.                             */
-    color: #000;                                           /* Cor do texto preta.                               */
-    border-color: rgba(35, 43, 92, 0.9);                   /* Cor da borda azul escura.                         */
-    border-width: 4px;                                     /* Largura da borda.                                 */
+    background-color: #ffd700;
+    color: #000;
+    border-color: rgba(35, 43, 92, 0.9);
+    border-width: 4px;
 }
 
-/* O bloco abaixo estiliza os botões de hino (capítulo) */
+/* Botões de Hinos (Capítulos) */
 .botao-capitulo {
-    min-width: 200px;                                      /* Largura mínima.                                   */
-    max-width: 100%;                                       /* Largura máxima.                                   */
-    min-height: 48px;                                      /* Altura mínima.                                    */
-    padding: 10px 16px;                                    /* Preenchimento interno.                            */
-    border-radius: 8px;                                    /* Cantos arredondados.                              */
-    background: rgba(59, 71, 161, 0.8);                    /* Fundo azul com transparência.                     */
-    color: #fff;                                           /* Cor do texto branca.                              */
-    font-size: 1em;                                        /* Tamanho da fonte.                                 */
-    border: 2px solid transparent;                         /* Borda transparente.                               */
-    margin: 0;                                             /* Remove a margem.                                  */
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15);                /* Sombra sutil.                                     */
-    transition: background 0.2s, transform 0.2s, border-color 0.2s; /* Transições suaves.                                */
-    display: flex;                                         /* Layout flexível.                                  */
-    align-items: center;                                   /* Alinha os itens verticalmente.                    */
-    justify-content: flex-start;                           /* Alinha os itens à esquerda.                       */
-    gap: 5px;                                              /* Espaçamento entre os itens.                       */
-    text-align: left;                                      /* Alinha o texto à esquerda.                        */
-    box-sizing: border-box;                                /* Modelo de caixa.                                  */
-    cursor: pointer;                                       /* Cursor de ponteiro.                               */
+    min-width: 200px;
+    max-width: 100%;
+    min-height: 48px;
+    padding: 10px 16px;
+    border-radius: 8px;
+    background: rgba(59, 71, 161, 0.8);
+    color: #fff;
+    font-size: 1em;
+    border: 2px solid transparent;
+    margin: 0;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    transition: background 0.2s, transform 0.2s, border-color 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5px;
+    text-align: left;
+    cursor: pointer;
 }
 
-/* O bloco abaixo estiliza o efeito hover dos botões de hino */
 .botao-capitulo:hover {
-    background: rgba(35, 43, 92, 0.9);                     /* Fundo azul mais escuro ao passar o mouse.         */
-    transform: translateY(-1px);                           /* Move o botão para cima.                           */
-    border-color: #ffd700;                                 /* Cor da borda dourada ao passar o mouse.           */
+    background: rgba(35, 43, 92, 0.9);
+    transform: translateY(-1px);
+    border-color: #ffd700;
 }
 
-/* O bloco abaixo adiciona margem inferior ao hino exibido */
 #hino-exibido {
-    margin-bottom: 80px;                                   /* Margem inferior.                                  */
+    margin-bottom: 80px; /* Espaço para o rodapé fixo não cobrir */
 }
 
-/* O bloco abaixo estiliza o contêiner do hino */
 .hino-conteiner {
-    background: rgba(0,0,0,0.8);                           /* Fundo preto com transparência.                    */
-    border-radius: 10px;                                   /* Cantos arredondados.                              */
-    margin: 40px auto 0 auto;                              /* Margem automática para centralizar.               */
-    max-width: 800px;                                      /* Largura máxima.                                   */
-    padding: 20px 30px;                                    /* Preenchimento interno.                            */
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);               /* Sombra sutil.                                     */
-    border-top: 2px solid;                                 /* Borda superior sólida.                            */
+    background: rgba(0,0,0,0.8);
+    border-radius: 10px;
+    margin: 40px auto 0 auto;
+    max-width: 800px;
+    padding: 20px 30px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+    border-top: 2px solid;
 }
 
-/* O bloco abaixo estiliza o título do hino */
 .hino-titulo {
-    font-size: 1.8em;                                      /* Tamanho da fonte.                                 */
-    margin-bottom: 15px;                                   /* Margem inferior.                                  */
-    text-align: center;                                    /* Centraliza o texto.                               */
+    font-size: 1.8em;
+    margin-bottom: 15px;
+    text-align: center;
 }
 
-/* O bloco abaixo estiliza a letra do hino */
 .hino-letra p {
-    font-size: 1.8em;                                      /* Tamanho da fonte.                                 */
-    line-height: 1.6;                                      /* Altura da linha.                                  */
-    text-align: center;                                    /* Centraliza o texto.                               */
-    margin-bottom: 15px;                                   /* Margem inferior.                                  */
+    font-size: 1.8em;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 15px;
 }
 
-/* O bloco abaixo estiliza o coro da letra do hino */
 .hino-letra .coro {
-    opacity: 0.9;                                          /* Opacidade levemente reduzida.                     */
+    opacity: 0.9;
 }
 
-/* O bloco abaixo estiliza o rodapé */
+/* Rodapé */
 .rodape {
-    position: fixed;                                       /* Posição fixa na tela.                             */
-    bottom: 0;                                             /* Alinha na parte inferior.                         */
-    left: 0;                                               /* Alinha à esquerda.                                */
-    width: 100%;                                           /* Largura total.                                    */
-    text-align: center;                                    /* Centraliza o texto.                               */
-    font-size: 1.3em;                                      /* Tamanho da fonte.                                 */
-    background: rgba(0,0,0,0.8);                           /* Fundo preto com transparência.                    */
-    height: 50px;                                          /* Altura fixa.                                      */
-    z-index: 10;                                           /* Ordem de empilhamento.                            */
-    letter-spacing: 0.5px;                                 /* Espaçamento entre as letras.                      */
-    border-top: 1px solid rgba(255, 255, 255, 0.1);        /* Borda superior sutil.                             */
-    color: #d4ac0d;                                        /* Cor do texto dourada.                             */
-    line-height: 0.5;                                      /* Altura da linha.                                  */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.3em;
+    background: rgba(0,0,0,0.8);
+    height: 50px;
+    z-index: 10;
+    letter-spacing: 0.5px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    color: #d4ac0d;
+    line-height: 0.5;
+    
+    /* Garante alinhamento perfeito do texto */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-/* O bloco abaixo estiliza a mensagem de erro de carregamento */
 .erro-carregamento {
-    color: #ffbaba;                                        /* Cor do texto avermelhada.                         */
-    background-color: #881111;                             /* Fundo vermelho escuro.                            */
-    padding: 12px;                                         /* Preenchimento interno.                            */
-    border-radius: 5px;                                    /* Cantos arredondados.                              */
-    text-align: center;                                    /* Centraliza o texto.                               */
-    font-size: 0.95em;                                     /* Tamanho da fonte.                                 */
+    color: #ffbaba;
+    background-color: #881111;
+    padding: 12px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 0.95em;
 }
 
-/* O bloco abaixo esconde o contêiner de botões de hinos se estiver vazio */
 #botoes-hinos:empty {
-    display: none !important;                              /* Esconde o elemento se estiver vazio.              */
+    display: none !important;
+}
+
+/*=====================================================*/
+/*           CORREÇÕES ESPECÍFICAS PARA MOBILE         */
+/*=====================================================*/
+
+@media (max-width: 900px) {
+
+    /* --- Esconde Botão Slide (Último item do menu) --- */
+    .menu-harpa-cantor > :last-child {
+        display: none !important;
+    }
+    
+    .botao-slide, #btn-slide {
+        display: none !important;
+    }
+
+    /* --- Oculta a barra de rolagem visualmente --- */
+    ::-webkit-scrollbar {
+        width: 0px;
+        background: transparent;
+        display: none;
+    }
+
+    /* --- Ajustes de Texto --- */
+    .titulo-principal {
+        font-size: 1.8em;
+        line-height: 1.2;
+    }
+
+    .subtitulo {
+        font-size: 1em;
+    }
+
+    header {
+        padding: 15px 10px;
+    }
+
+    .menu-harpa-cantor {
+        flex-wrap: wrap;
+        padding: 5px 0;
+        gap: 5px;
+    }
+
+    .menu-button, .menu-link {
+        margin: 2px;
+        padding: 10px 15px;
+        font-size: 1em;
+        flex-grow: 1;
+        text-align: center;
+    }
+
+    .bem-vindo {
+        font-size: 1.8em;
+    }
+
+    .instrucao {
+        font-size: 1.1em;
+    }
+
+    /* --- AJUSTE DA GRADE (GRID) PARA MOBILE --- */
+    #botoes-faixa-hinos.active {
+        display: grid; 
+        grid-template-columns: repeat(3, 1fr); /* 3 Colunas Fixas */
+        gap: 8px;
+        padding: 10px;
+        justify-content: normal;
+    }
+
+    .botao-faixa {
+        padding: 10px 5px;
+        font-size: 0.95em;
+        width: 100%;       
+        margin: 0;         
+        display: flex;
+        justify-content: center;
+    }
+
+    /* --- [NOVO] Ajuste Específico para o botão "601-640" --- */
+    /* Como ele é o 13º elemento, mandamos ele para a coluna 2 (meio) */
+    /* O Cantor Cristão só tem 12 botões, então essa regra não afeta ele. */
+    .botao-faixa:nth-child(13) {
+        grid-column: 2;
+    }
+
+    /* Botões dos Capítulos */
+    .botao-capitulo {
+        width: 100%;
+        min-width: auto;
+        font-size: 1.1em;
+        padding: 12px 15px;
+        justify-content: flex-start;
+    }
+
+    .hino-conteiner {
+        width: 95%;
+        padding: 15px;
+        margin-top: 20px;
+    }
+
+    .hino-titulo {
+        font-size: 1.5em;
+    }
+
+    .hino-letra p {
+        font-size: 1.3em;
+        line-height: 1.5;
+    }
+
+    .rodape {
+        font-size: 0.9em;
+        height: auto;
+        padding: 10px 0;
+        line-height: 1.2;
+    }
+
+    #hino-exibido {
+        margin-bottom: 70px;
+    }
 }

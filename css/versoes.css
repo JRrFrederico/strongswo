@@ -26,7 +26,7 @@ body {
 /* --- CABEÇALHO (Desktop) --- */
 header {
     width: 100%;                                           /* Ocupa toda a largura. */
-    z-index: 50;                                           /* Camada acima do conteúdo. */
+    /*z-index: 50;                                           /* Camada acima do conteúdo. */
     position: relative;                                    /* Posicionamento relativo. */
 }
 
@@ -105,7 +105,8 @@ nav {
     position: fixed;                                       /* Fixa no topo ao rolar. */
     top: 110px;                                            /* Distância do topo. */
     left: 0;                                               /* Cola na esquerda. */
-    z-index: 100;                                          /* Fica acima de tudo. */
+    /*z-index: 100;                                          /* Fica acima de tudo. */
+    z-index: 1;
     width: 100%;                                           /* Largura total. */
     height: 40px;                                          /* Altura fixa. */
     padding: 10px 0;                                       /* Espaço interno vertical. */
@@ -173,7 +174,8 @@ nav .menu-opcoes li a:hover {
     border-radius: 8px;                                    /* Bordas arredondadas. */
     display: none;                                         /* Oculto por padrão. */
     list-style: none;                                      /* Sem lista. */
-    z-index: 101;                                          /* Camada alta. */
+    /*z-index: 101;                                          /* Camada alta. */
+    z-index: 1;
 }
 .meu-suspenso:hover .conteudo-menu-suspenso { 
     display: block;                                        /* Mostra no hover. */
@@ -318,7 +320,10 @@ body.module-leitura .versiculo .traducao-palavra-text { color: #333; }
 
 /* Rodapé */
 footer {
-    position: fixed; bottom: 0; left: 0; z-index: 100; width: 100%; height: 30px; background-color: #383838; color: #d4ac0d; text-align: center;
+    position: fixed; bottom: 0; left: 0;
+    /*z-index: 100;*/
+    z-index: 1;
+    width: 100%; height: 30px; background-color: #383838; color: #d4ac0d; text-align: center;
 }
 footer p { font-size: 1.3em; line-height: 1.5; }
 
@@ -370,7 +375,7 @@ body.sobre-ativo::after {
     width: 100%;
     height: 100%;
     background: rgba(0, 0, 0, 0.7);
-    z-index: 900;
+    /*z-index: 900;*/
 }
 
 
