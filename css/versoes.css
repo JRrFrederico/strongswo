@@ -184,7 +184,10 @@ nav .menu-opcoes li a:hover {
     font-size: 1.5vw;                                      /* Fonte responsiva. */
 }
 
-/* Dropdowns (Menus Suspensos) */
+/*=========================================================================*/
+/*                    MENU SUSPENSO (DROPDOWN)                              */
+/*    Listas flutuantes para navegação hierárquica                          */
+/*=========================================================================*/
 .meu-suspenso { 
     position: relative;                                    /* Referência para filho absoluto. */
     display: inline-block;                                 /* Exibe como bloco em linha. */
@@ -358,9 +361,10 @@ h3 {
     padding: 0 10px;                                       /* Padding lateral. */
 }
 
-/* --- Versão Original (Hebraico) --- */
-
-/* Estilos para a tradução completa do versículo */
+/*=========================================================================*/
+/*                    TEXTO ORIGINAL (HEBRAICO)                             */
+/*    Palavras, transliteração e tradução palavra a palavra                */
+/*=========================================================================*/
 .versiculo .traducao-completa {
     font-weight: bold;                                     /* Define o texto em negrito.                        */
     margin-bottom: 15px;                                   /* Espaço abaixo. */
@@ -372,7 +376,7 @@ h3 {
     text-align: justify;                                   /* Texto justificado. */
 }
 
-/* Container flexível para organizar as palavras hebraicas */
+
 .versiculo .palavras-container {
     display: flex;                                         /* Ativa o layout flexível.                          */
     flex-wrap: wrap;                                       /* Permite quebra de linha dos itens.                */
