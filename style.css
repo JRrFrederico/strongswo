@@ -5,8 +5,8 @@
 /*  em todos os lugares.                               */
 /*=====================================================*/
 * {
-    margin: 0;                                             /* Remove margens padrão dos elementos.                   */
-    padding: 0;                                            /* Remove espaçamentos internos padrão.                   */
+    margin: 0;                                             /* Remove margens externas */
+    padding: 0;                                            /* Remove preenchimento interno */
     box-sizing: border-box;                                /* Faz com que o tamanho total inclua bordas e padding.   */
     font-family: 'Roboto Mono', monospace;                 /* Define uma fonte padrão para toda a página.            */
 }
@@ -17,7 +17,7 @@
 /*  definindo o layout principal e a imagem de fundo.  */
 /*=====================================================*/
 body {
-    display: flex;                                         /* Usa Flexbox para alinhar os itens.                     */
+    display: flex;                                         /* Ativa o layout flexível. */
     flex-direction: column;                                /* Organiza os itens em coluna.                           */
     overflow: hidden;                                      /* Esconde conteúdo que sai da tela.                      */
     z-index: 1;                                            /* Define a ordem de empilhamento (camada 1).             */
@@ -73,10 +73,10 @@ a {
 /*           que funciona como o cabeçalho.            */
 /*=====================================================*/
 .cabecalho {
-    display: flex;                                         /* Usa Flexbox para alinhar itens internos.               */
+    display: flex;                                         /* Ativa o layout flexível. */
     flex-wrap: wrap;                                       /* Permite que os itens quebrem para a próxima linha.     */
-    justify-content: center;                               /* Centraliza os itens no eixo horizontal.                */
-    align-items: center;                                   /* Centraliza os itens no eixo vertical.                  */
+    justify-content: center;                               /* Centraliza horizontalmente. */
+    align-items: center;                                   /* Centraliza verticalmente. */
     padding: 15px;                                         /* Adiciona um espaçamento interno.                       */
     background: #000000;                                 /* Define a cor de fundo como preta.                      */
 }
@@ -126,9 +126,9 @@ footer {
 /*     deve ser mostrada, usando a classe "ativo".     */
 /*=====================================================*/
 .seja-bem-vindo.ativo {
-    display: flex;                                         /* Torna o elemento visível.                              */
-    justify-content: center;                               /* Centraliza o conteúdo na horizontal.                   */
-    align-items: center;                                   /* Centraliza o conteúdo na vertical.                     */
+    display: flex;                                         /* Ativa o layout flexível. */
+    justify-content: center;                               /* Centraliza horizontalmente. */
+    align-items: center;                                   /* Centraliza verticalmente. */
     height: auto;                                          /* Deixa a altura se ajustar ao conteúdo.                 */
 }
 
@@ -197,11 +197,11 @@ img:hover {
 /*=====================================================*/
 .lista-versoes {
     z-index: 2;                                            /* Fica na camada 2, acima do fundo.                      */
-    display: flex;                                         /* Usa Flexbox para organizar os itens.                   */
+    display: flex;                                         /* Ativa o layout flexível. */
     flex-grow: 1;                                          /* Faz a lista ocupar o espaço vertical disponível.       */
     flex-wrap: wrap;                                       /* Permite que os itens quebrem a linha.                  */
-    justify-content: center;                               /* Centraliza os itens na horizontal.                     */
-    align-items: center;                                   /* Centraliza os itens na vertical.                       */
+    justify-content: center;                               /* Centraliza horizontalmente. */
+    align-items: center;                                   /* Centraliza verticalmente. */
     width: 100%;                                           /* Ocupa 100% da largura.                                 */
     overflow: auto;                                        /* Adiciona barra de rolagem se necessário.               */
     list-style-type: none;                                 /* Remove os marcadores de lista (bolinhas).              */
@@ -223,10 +223,10 @@ img:hover {
 /*       capa e o título de uma versão da Bíblia.      */
 /*=====================================================*/
 .lista-versoes li {
-    display: flex;                                         /* Usa Flexbox para organizar a imagem e o título.        */
+    display: flex;                                         /* Ativa o layout flexível. */
     flex-direction: column;                                /* Organiza os itens em coluna.                           */
-    justify-content: center;                               /* Centraliza verticalmente.                              */
-    align-items: center;                                   /* Centraliza horizontalmente.                            */
+    justify-content: center;                               /* Centraliza horizontalmente. */
+    align-items: center;                                   /* Centraliza verticalmente. */
     z-index: 1;                                            /* Define a ordem de empilhamento.                        */
     transition: 100ms ease-in-out;                         /* Anima qualquer mudança de forma suave.                 */
 }
@@ -279,7 +279,7 @@ img:hover {
 /*     esta regra torna a janela pop-up visível.       */
 /*=====================================================*/
 .visible .popup-nova-versao {
-    display: flex;                                         /* Torna a janela visível.                                */
+    display: flex;                                         /* Ativa o layout flexível. */
 }
 
 /*=====================================================*/

@@ -47,7 +47,7 @@
 
 /* O bloco abaixo estiliza a linha de busca e paginação */
 .dicionario-linha {
-    display: flex;                                         /* Layout flexível.                                  */
+    display: flex;                                         /* Ativa o layout flexível.                          */
     align-items: center;                                   /* Alinhamento vertical ao centro.                   */
     justify-content: space-between;                        /* Espaçamento distribuído entre os elementos.       */
     padding: 10px 0px; /* AJUSTADO: Padding vertical 10px, horizontal 0px */
@@ -62,7 +62,7 @@
 
 /* O bloco abaixo estiliza o grupo de busca (input + botão) */
 .dicionario-busca-grupo {
-    display: flex;                                         /* Layout flexível.                                  */
+    display: flex;                                         /* Ativa o layout flexível.                          */
     align-items: center;                                   /* Alinhamento vertical ao centro.                   */
     gap: 15px;                                             /* Espaçamento entre os elementos.                   */
 }
@@ -74,7 +74,7 @@
 
 /* O bloco abaixo estiliza o grupo de paginação */
 .dicionario-paginacao-grupo {
-    display: flex;                                         /* Layout flexível.                                  */
+    display: flex;                                         /* Ativa o layout flexível.                          */
     align-items: center;                                   /* Alinhamento vertical ao centro.                   */
     gap: 0px;                                              /* Sem espaçamento entre os elementos.               */
     padding: 0 2px;                                        /* Preenchimento horizontal.                         */
@@ -86,12 +86,12 @@
     padding: 0 15px;                                       /* Preenchimento horizontal.                         */
     background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%); /* Fundo com gradiente dourado.                      */
     height: 36px;                                          /* Altura fixa.                                      */
-    border: none;                                          /* Sem borda.                                        */
+    border: none;                                          /* Remove a borda.                                   */
     border-radius: 6px;                                    /* Cantos arredondados.                              */
-    cursor: pointer;                                       /* Cursor de ponteiro.                               */
+    cursor: pointer;                                       /* Define o cursor como ponteiro.                    */
     font-weight: 600;                                      /* Peso da fonte.                                    */
     font-size: 0.9rem;                                     /* Tamanho da fonte.                                 */
-    text-transform: uppercase;                             /* Texto em maiúsculas.                              */
+    text-transform: uppercase;                             /* Transforma o texto em maiúsculas.                 */
     transition: all 0.3s ease;                             /* Transição suave.                                  */
     white-space: nowrap;                                   /* Impede a quebra de linha.                         */
     box-sizing: border-box;                                /* Modelo de caixa.                                  */
@@ -106,7 +106,7 @@
 /* O bloco abaixo estiliza o botão de página anterior desativado */
 #btn-anterior-dicionario:disabled {
     background: linear-gradient(135deg, #555555 0%, #444444 100%); /* Fundo com gradiente cinza.                        */
-    cursor: not-allowed;                                   /* Cursor de não permitido.                          */
+    cursor: not-allowed;                                   /* Define o cursor como não permitido.               */
     opacity: 0.6;                                          /* Opacidade reduzida.                               */
 }
 
@@ -115,12 +115,12 @@
     padding: 0 15px;                                       /* Preenchimento horizontal.                         */
     background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%); /* Fundo com gradiente dourado.                      */
     height: 36px;                                          /* Altura fixa.                                      */
-    border: none;                                          /* Sem borda.                                        */
+    border: none;                                          /* Remove a borda.                                   */
     border-radius: 6px;                                    /* Cantos arredondados.                              */
-    cursor: pointer;                                       /* Cursor de ponteiro.                               */
+    cursor: pointer;                                       /* Define o cursor como ponteiro.                    */
     font-weight: 600;                                      /* Peso da fonte.                                    */
     font-size: 0.9rem;                                     /* Tamanho da fonte.                                 */
-    text-transform: uppercase;                             /* Texto em maiúsculas.                              */
+    text-transform: uppercase;                             /* Transforma o texto em maiúsculas.                 */
     transition: all 0.3s ease;                             /* Transição suave.                                  */
     white-space: nowrap;                                   /* Impede a quebra de linha.                         */
     box-sizing: border-box;                                /* Modelo de caixa.                                  */
@@ -137,7 +137,7 @@
 /* O bloco abaixo estiliza o botão de próxima página desativado */
 #btn-proximo-dicionario:disabled {
     background: linear-gradient(135deg, #555555 0%, #444444 100%); /* Fundo com gradiente cinza.                        */
-    cursor: not-allowed;                                   /* Cursor de não permitido.                          */
+    cursor: not-allowed;                                   /* Define o cursor como não permitido.               */
     opacity: 0.6;                                          /* Opacidade reduzida.                               */
 }
 
@@ -151,16 +151,16 @@
     padding: 5px 22px;                                     /* Preenchimento interno.                            */
     border-radius: 6px;                                    /* Cantos arredondados.                              */
     border: 1px solid rgba(212, 175, 55, 0.3);             /* Borda semitransparente dourada.                   */
-    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
+    text-align: center;                                    /* Centraliza o texto.                               */
     min-width: 200px;                                      /* Largura mínima.                                   */
     box-sizing: border-box;                                /* Modelo de caixa.                                  */
-    overflow: hidden;                                      /* Esconde o conteúdo que transborda.                */
+    overflow: hidden;                                      /* Oculta o conteúdo que transborda.                 */
     text-overflow: ellipsis;                               /* Adiciona "..." ao texto que transborda.           */
 }
 
 /* O bloco abaixo estiliza o wrapper do conteúdo principal do dicionário */
 .dicionario-conteudo-wrapper {
-    display: flex;                                         /* Layout flexível.                                  */
+    display: flex;                                         /* Ativa o layout flexível.                          */
     align-items: flex-start;                               /* Alinhamento vertical ao topo.                     */
     gap: 0;                                                /* Sem espaçamento entre os elementos.               */
 }
@@ -178,12 +178,12 @@
     padding: 0 20px;                                       /* Preenchimento horizontal.                         */
     background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%); /* Fundo com gradiente dourado.                      */
     color: #1a1a1a;                                        /* Cor do texto escura.                              */
-    border: none;                                          /* Sem borda.                                        */
+    border: none;                                          /* Remove a borda.                                   */
     border-radius: 6px;                                    /* Cantos arredondados.                              */
-    cursor: pointer;                                       /* Cursor de ponteiro.                               */
+    cursor: pointer;                                       /* Define o cursor como ponteiro.                    */
     font-weight: 600;                                      /* Peso da fonte.                                    */
     font-size: 0.9rem;                                     /* Tamanho da fonte.                                 */
-    text-transform: uppercase;                             /* Texto em maiúsculas.                              */
+    text-transform: uppercase;                             /* Transforma o texto em maiúsculas.                 */
     transition: all 0.3s ease;                             /* Transição suave.                                  */
     white-space: nowrap;                                   /* Impede a quebra de linha.                         */
     box-sizing: border-box;                                /* Modelo de caixa.                                  */
@@ -206,7 +206,7 @@
 
 /* O bloco abaixo estiliza o contêiner de sugestões */
 #sugestoes-conteiner {
-    position: absolute;                                    /* Posição absoluta.                                 */
+    position: absolute;                                    /* Posiciona o elemento de forma absoluta.           */
     top: 100%;                                             /* Posição abaixo do elemento pai.                   */
     left: 0;                                               /* Alinhamento à esquerda.                           */
     right: 0;                                              /* Alinhamento à direita.                            */
@@ -215,21 +215,21 @@
     border-top: none;                                      /* Remove a borda superior.                          */
     border-radius: 0 0 12px 12px;                            /* Arredonda os cantos inferiores.                   */
     max-height: 200px;                                     /* Altura máxima.                                    */
-    overflow-y: auto;                                      /* Adiciona rolagem vertical.                        */
+    overflow-y: auto;                                      /* Adiciona rolagem vertical quando necessário.      */
     z-index: 1000;                                         /* Ordem de empilhamento.                            */
-    display: none;                                         /* Escondido por padrão.                             */
+    display: none;                                         /* Oculta o elemento.                                */
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);             /* Sombra para profundidade.                         */
 }
 
 /* O bloco abaixo exibe o contêiner de sugestões */
 #sugestoes-conteiner.show {
-    display: block;                                        /* Exibe o contêiner.                                */
+    display: block;                                        /* Exibe o elemento como bloco.                      */
 }
 
 /* O bloco abaixo estiliza os itens de sugestão */
 .sugestao-item {
     padding: 12px 20px;                                    /* Preenchimento interno.                            */
-    cursor: pointer;                                       /* Cursor de ponteiro.                               */
+    cursor: pointer;                                       /* Define o cursor como ponteiro.                    */
     transition: all 0.3s ease;                             /* Transição suave.                                  */
     border-bottom: 1px solid #444444;                      /* Borda inferior cinza.                             */
 }
@@ -252,7 +252,7 @@
     padding: 20px 0px; /* AJUSTADO: Padding vertical 20px, horizontal 0px */
     min-height: 400px;                                     /* Altura mínima.                                    */
     flex-grow: 1;                                          /* Ocupa o espaço restante.                          */
-    overflow-y: auto;                                      /* Adiciona rolagem vertical.                        */
+    overflow-y: auto;                                      /* Adiciona rolagem vertical quando necessário.      */
     height: calc(100vh - 240px);                           /* Altura calculada.                                 */
     scrollbar-width: none;                                 /* Esconde a barra de rolagem no Firefox.            */
     -ms-overflow-style: none;                              /* Esconde a barra de rolagem no IE e Edge.          */
@@ -261,7 +261,7 @@
 
 /* O bloco abaixo esconde a barra de rolagem no Chrome, Safari e Opera */
 #dicionario-resultados::-webkit-scrollbar {
-    display: none;                                         /* Esconde a barra de rolagem.                       */
+    display: none;                                         /* Oculta o elemento.                                */
 }
 
 /* O bloco abaixo estiliza o contêiner de resultados durante o carregamento */
@@ -276,7 +276,7 @@
     border: 2px solid #444444;                             /* Borda cinza.                                      */
     border-radius: 12px;                                   /* Cantos arredondados.                              */
     margin-bottom: 10px;                                   /* Margem inferior.                                  */
-    overflow: hidden;                                      /* Esconde o conteúdo que transborda.                */
+    overflow: hidden;                                      /* Oculta o conteúdo que transborda.                 */
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);             /* Sombra para profundidade.                         */
     transition: all 0.3s ease;                             /* Transição suave.                                  */
     opacity: 0;                                            /* Opacidade inicial 0.                              */
@@ -321,10 +321,10 @@
     border-radius: 10px;                                   /* Cantos arredondados.                              */
     font-size: 1.5rem;                                     /* Tamanho da fonte.                                 */
     font-weight: 700;                                      /* Peso da fonte.                                    */
-    text-transform: uppercase;                             /* Texto em maiúsculas.                              */
+    text-transform: uppercase;                             /* Transforma o texto em maiúsculas.                 */
     letter-spacing: 1.5px;                                 /* Espaçamento entre as letras.                      */
     margin-bottom: 20px;                                   /* Margem inferior.                                  */
-    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
+    text-align: center;                                    /* Centraliza o texto.                               */
     box-shadow: 0 4px 15px rgba(74, 91, 255, 0.3);         /* Sombra azul.                                      */
 }
 
@@ -334,7 +334,7 @@
     font-size: 1.1rem;                                     /* Tamanho da fonte.                                 */
     font-weight: 600;                                      /* Peso da fonte.                                    */
     margin-bottom: 15px;                                   /* Margem inferior.                                  */
-    font-style: italic;                                    /* Estilo da fonte itálico.                          */
+    font-style: italic;                                    /* Define o texto em itálico.                        */
 }
 
 /* O bloco abaixo estiliza o texto em negrito na etimologia */
@@ -355,14 +355,14 @@
 
 /* O bloco abaixo estiliza os termos relacionados */
 .termo-relacionado {
-    display: inline-block;                                 /* Exibição como bloco em linha.                     */
+    display: inline-block;                                 /* Exibe o elemento como bloco em linha.             */
     background: rgba(212, 175, 55, 0.2);                   /* Fundo semitransparente dourado.                   */
     color: #d4af37;                                        /* Cor do texto dourada.                             */
     padding: 4px 8px;                                      /* Preenchimento interno.                            */
     border-radius: 4px;                                    /* Cantos arredondados.                              */
     margin: 2px;                                           /* Margem externa.                                   */
     font-size: 0.9rem;                                     /* Tamanho da fonte.                                 */
-    cursor: pointer;                                       /* Cursor de ponteiro.                               */
+    cursor: pointer;                                       /* Define o cursor como ponteiro.                    */
     transition: all 0.3s ease;                             /* Transição suave.                                  */
 }
 
@@ -405,7 +405,7 @@
     font-size: 1.2rem;                                     /* Tamanho da fonte.                                 */
     font-weight: 700;                                      /* Peso da fonte.                                    */
     margin-bottom: 15px;                                   /* Margem inferior.                                  */
-    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
+    text-align: center;                                    /* Centraliza o texto.                               */
 }
 
 /* O bloco abaixo estiliza os itens de referência */

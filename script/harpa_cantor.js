@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
             nome: 'Cantor Cristão',
             total: 581,
             pasta: '../cantorcristao',
-            css: '../css/cantor_cristao_novo.css'
+            css: '../css/cantor_cristao.css'
         }
     };
 

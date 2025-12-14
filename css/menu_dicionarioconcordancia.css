@@ -6,8 +6,8 @@
 
 /* O bloco abaixo reseta estilos e configura o corpo da página */
 * {
-    margin: 0;                                             /* Remove margens padrão.                            */
-    padding: 0;                                            /* Remove preenchimento padrão.                      */
+    margin: 0;                                             /* Remove as margens.                                */
+    padding: 0;                                            /* Remove o preenchimento interno.                   */
     box-sizing: border-box;                                /* Inclui bordas e preenchimento no tamanho total.   */
 }
 
@@ -16,21 +16,21 @@ body {
     background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); /* Fundo com gradiente escuro.                       */
     color: #ffffff;                                        /* Cor do texto branca.                              */
     line-height: 1.6;                                      /* Altura da linha.                                  */
-    overflow: hidden;                                      /* Esconde o conteúdo que transborda.                */
+    overflow: hidden;                                      /* Oculta o conteúdo que transborda.                 */
     min-height: 100vh;                                     /* Altura mínima da viewport.                        */
-    display: flex;                                         /* Layout flexível.                                  */
+    display: flex;                                         /* Ativa o layout flexível.                          */
     flex-direction: column;                                /* Direção da flexbox para coluna.                   */
 }
 
 /* O bloco abaixo estiliza o cabeçalho */
 header {
-    background: linear-gradient(135deg, rgba(26, 26, 26, 0.2) 0%, rgba(51, 51, 51, 0.2) 100%); /* Fundo semitransparente.                           */
+    background: linear-gradient(135deg, rgba(26, 26, 26, 0.2) 0%, rgba(51, 51, 51, 0.2) 100%); /* Define a cor de fundo */
     /*border-bottom: 3px solid #d4af37;                      /* Borda inferior dourada.                           */
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);             /* Sombra para profundidade.                         */
-    position: fixed;                                       /* Posição fixa no topo.                             */
-    top: 0;                                                /* Alinha no topo.                                   */
-    left: 0;                                               /* Alinha à esquerda.                                */
-    width: 100%;                                           /* Largura total.                                    */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);             /* Adiciona sombra */
+    position: fixed;                                       /* Define o posicionamento */
+    top: 0;                                                /* Define a posição superior */
+    left: 0;                                               /* Define a posição esquerda */
+    width: 100%;                                           /* Define a largura */
     z-index: 1000;                                         /* Ordem de empilhamento.                            */
     height: 100px;                                         /* Altura fixa.                                      */
 }
@@ -39,7 +39,7 @@ header {
 .cabecalho-superior {
     padding: 20px;                                         /* Preenchimento interno.                            */
     height: 100%;                                          /* Altura total.                                     */
-    display: flex;                                         /* Layout flexível.                                  */
+    display: flex;                                         /* Ativa o layout flexível.                          */
     align-items: center;                                   /* Alinhamento vertical ao centro.                   */
     justify-content: flex-start;                           /* Alinhamento horizontal à esquerda.                */
 }
@@ -70,13 +70,13 @@ nav {
     background: rgba(0, 0, 0, 0.1);                        /* Fundo preto com transparência.                    */
     padding: 15px 20px;                                    /* Preenchimento interno.                            */
     border-top: 3px solid #d4af37;         /* Borda superior semitransparente dourada.          */
-    position: fixed;                                       /* Posição fixa.                                     */
+    position: fixed;                                       /* Fixa o elemento na tela.                          */
     top: 100px;                                            /* Distância do topo.                                */
     left: 0;                                               /* Alinhamento à esquerda.                           */
     width: 100%;                                           /* Largura total.                                    */
     z-index: 900;                                          /* Ordem de empilhamento.                            */
     height: 60px;                                          /* Altura fixa.                                      */
-    display: flex;                                         /* Layout flexível.                                  */
+    display: flex;                                         /* Ativa o layout flexível.                          */
     align-items: center;                                   /* Alinhamento vertical ao centro.                   */
     border-bottom: 3px solid #d4af37;                      /* Borda inferior dourada.                           */
     justify-content: center;                               /* Centraliza o conteúdo horizontalmente.            */
@@ -94,7 +94,7 @@ nav {
 
 /* O bloco abaixo estiliza as opções do menu */
 .menu-opcoes {
-    display: inline-flex;                                  /* Layout flexível em linha.                         */
+    display: inline-flex;                                  /* Ativa o layout flexível em linha.                 */
     list-style: none;                                      /* Remove os marcadores da lista.                    */
     gap: 30px;                                             /* Espaçamento entre os itens.                       */
     margin-left: 20px;                                     /* Margem à esquerda.                                */
@@ -103,7 +103,7 @@ nav {
 /* O bloco abaixo estiliza os links do menu */
 .menu-opcoes a {
     color: #ffffff;                                        /* Cor do texto branca.                              */
-    text-decoration: none;                                 /* Remove o sublinhado.                              */
+    text-decoration: none;                                 /* Remove a decoração do texto.                      */
     padding: 8px 16px;                                     /* Preenchimento interno.                            */
     border-radius: 5px;                                    /* Cantos arredondados.                              */
     transition: all 0.3s ease;                             /* Transição suave.                                  */
@@ -120,10 +120,10 @@ nav {
 
 /* O bloco abaixo estiliza o contêiner principal */
 .conteiner {
-    display: flex;                                         /* Layout flexível.                                  */
+    display: flex;                                         /* Ativa o layout flexível.                          */
     padding-top: 160px;                                    /* Preenchimento superior.                           */
     flex-grow: 1;                                          /* Ocupa o espaço restante.                          */
-    position: relative;                                    /* Posição relativa.                                 */
+    position: relative;                                    /* Posiciona o elemento de forma relativa.           */
     background: rgba(26, 26, 26, 0.3);                     /* Fundo semitransparente.                           */
 }
 
@@ -134,7 +134,7 @@ nav {
     border-right: 2px solid #d4af37;                       /* Borda direita dourada.                            */
     padding: 20px 10px;                                    /* Preenchimento interno.                            */
     box-shadow: 4px 0 15px rgba(0, 0, 0, 0.3);             /* Sombra para profundidade.                         */
-    position: fixed;                                       /* Posição fixa.                                     */
+    position: fixed;                                       /* Fixa o elemento na tela.                          */
     top: 160px;                                            /* Distância do topo.                                */
     left: 0;                                               /* Alinhamento à esquerda.                           */
     bottom: 40px;                                          /* Distância da parte inferior.                      */
@@ -160,7 +160,7 @@ nav {
 
 /* O bloco abaixo estiliza o contêiner do alfabeto */
 .alfabeto-conteiner {
-    display: flex;                                         /* Layout flexível.                                  */
+    display: flex;                                         /* Ativa o layout flexível.                          */
     flex-direction: column;                                /* Direção da flexbox para coluna.                   */
     gap: 8px;                                              /* Espaçamento entre os botões.                      */
 }
@@ -172,14 +172,14 @@ nav {
     border: 2px solid transparent;                         /* Borda transparente.                               */
     padding: 12px;                                         /* Preenchimento interno.                            */
     border-radius: 8px;                                    /* Cantos arredondados.                              */
-    cursor: pointer;                                       /* Cursor de ponteiro.                               */
+    cursor: pointer;                                       /* Define o cursor como ponteiro.                    */
     font-weight: 600;                                      /* Peso da fonte.                                    */
     font-size: 1rem;                                       /* Tamanho da fonte.                                 */
-    position: relative;                                    /* Posição relativa.                                 */
+    position: relative;                                    /* Posiciona o elemento de forma relativa.           */
     transition: all 0.3s ease;                             /* Transição suave.                                  */
-    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
+    text-align: center;                                    /* Centraliza o texto.                               */
     min-height: 45px;                                      /* Altura mínima.                                    */
-    display: flex;                                         /* Layout flexível.                                  */
+    display: flex;                                         /* Ativa o layout flexível.                          */
     align-items: center;                                   /* Alinhamento vertical ao centro.                   */
     justify-content: center;                               /* Alinhamento horizontal ao centro.                 */
 }
@@ -245,17 +245,17 @@ body.modulo-sobre #conteudo-principal {
 
 /* O bloco abaixo exibe a seção ativa */
 .secao-ativa {
-    display: block;                                        /* Exibe o elemento.                                 */
+    display: block;                                        /* Exibe o elemento como bloco.                      */
 }
 
 /* O bloco abaixo esconde a seção inativa */
 .secao-inativa {
-    display: none;                                         /* Esconde o elemento.                               */
+    display: none;                                         /* Oculta o elemento.                                */
 }
 
 /* O bloco abaixo estiliza a mensagem inicial */
 #mensagem-inicial {
-    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
+    text-align: center;                                    /* Centraliza o texto.                               */
     /*padding: 20px 20px;                                    /* Preenchimento interno.                            */
 
 }
@@ -273,7 +273,7 @@ body.modulo-sobre #conteudo-principal {
 
 /* O bloco abaixo estiliza o container de carregamento */
 .loading-conteiner {
-    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
+    text-align: center;                                    /* Centraliza o texto.                               */
     padding: 20px;                                         /* Preenchimento interno reduzido.                   */
     position: absolute;                                    /* Posição absoluta para controle preciso.           */
     top: 280px;                                           /* Posição abaixo dos filtros.                       */
@@ -311,7 +311,7 @@ body.modulo-sobre #conteudo-principal {
 
 /* O bloco abaixo estiliza o rodapé */
 footer {
-    position: fixed;                                       /* Posição fixa.                                     */
+    position: fixed;                                       /* Fixa o elemento na tela.                          */
     bottom: 0;                                             /* Alinha na parte inferior.                         */
     left: 0px;                                             /* Alinha à esquerda.                                */
     z-index: 1;                                            /* Ordem de empilhamento.                            */
@@ -319,7 +319,7 @@ footer {
     height: 40px;                                          /* Altura fixa.                                      */
     background-color: rgba(56, 56, 56, 0.8);               /* Fundo semitransparente.                           */
     color: #d4ac0d;                                        /* Cor do texto dourada.                             */
-    text-align: center;                                    /* Alinhamento do texto ao centro.                   */
+    text-align: center;                                    /* Centraliza o texto.                               */
 }
 
 footer p {
@@ -341,14 +341,14 @@ footer p {
 
 /* O bloco abaixo estiliza a imagem de marca d'água */
 .marca-dagua-imagem {
-    position: fixed;                                       /* Posição fixa.                                     */
+    position: fixed;                                       /* Fixa o elemento na tela.                          */
     top: 0;                                                /* Alinha no topo.                                   */
     left: 0;                                               /* Alinha à esquerda.                                */
     width: 100%;                                           /* Largura total.                                    */
     height: 120%;                                          /* Altura maior que a tela.                          */
     z-index: 10;                                           /* Ordem de empilhamento.                            */
     opacity: 0.3;                                          /* Opacidade.                                        */
-    overflow: hidden;                                      /* Esconde o conteúdo que transborda.                */
+    overflow: hidden;                                      /* Oculta o conteúdo que transborda.                 */
     pointer-events: none;                                  /* Impede eventos de mouse.                          */
     background-size: cover;                                /* Cobre toda a área.                                */
     background-repeat: no-repeat;                          /* Não repete a imagem.                              */
@@ -370,14 +370,14 @@ footer p {
 
 /* O bloco abaixo estiliza o título da seção de referências */
 .referencias-titulo {
-    font-weight: bold;                                     /* Peso da fonte em negrito.                         */
+    font-weight: bold;                                     /* Define o texto em negrito.                        */
     margin-bottom: 5px;                                    /* Margem inferior.                                  */
     color: #d4af37;                                        /* Cor do texto dourada.                             */
 }
 
 /* O bloco abaixo estiliza os itens de referência */
 .referencia-item {
-    display: inline-block;                                 /* Exibição como bloco em linha.                     */
+    display: inline-block;                                 /* Exibe o elemento como bloco em linha.             */
     margin-right: 10px;                                    /* Margem à direita.                                 */
     color: #cccccc;                                        /* Cor do texto cinza claro.                         */
 }

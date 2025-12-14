@@ -5,281 +5,281 @@
 
 /* O bloco abaixo configura o corpo da janela do slide */
 body {
-  margin: 0;
-  padding: 0;
-  background-color: black;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  color: white;
-  font-family: Arial, sans-serif;
-  overflow: hidden;
-  opacity: 0;
-  transition: opacity 0.3s ease-in-out;
+  margin: 0;                                           /* Remove margens externas.                          */
+  padding: 0;                                          /* Remove preenchimento interno.                     */
+  background-color: black;                             /* Cor de fundo preta.                               */
+  display: flex;                                       /* Ativa layout flexível.                            */
+  flex-direction: column;                              /* Organiza elementos em coluna.                     */
+  justify-content: center;                             /* Centraliza conteúdo verticalmente.                */
+  align-items: center;                                 /* Centraliza conteúdo horizontalmente.              */
+  height: 100vh;                                       /* Altura de 100% da viewport.                       */
+  color: white;                                        /* Cor do texto branca.                              */
+  font-family: Arial, sans-serif;                      /* Família da fonte Arial.                           */
+  overflow: hidden;                                    /* Esconde conteúdo que transborda.                  */
+  opacity: 0;                                          /* Opacidade inicial zero (invisível).               */
+  transition: opacity 0.3s ease-in-out;                /* Transição suave de opacidade em 0.3s.             */
 }
 
 body.loaded {
-  opacity: 1;
+  opacity: 1;                                          /* Opacidade total quando carregado.                 */
 }
 
 /* O bloco abaixo configura o contêiner do versículo e do título */
 #versiculo-conteiner {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin-top: 0;
-  margin-bottom: 1.25rem;
-  width: 95%;
-  text-align: center;
-  flex-grow: 1;
-  overflow-y: auto;
-  padding: 1rem 1rem 0;
-  box-sizing: border-box;
-  position: relative;
+  display: flex;                                       /* Ativa layout flexível.                            */
+  flex-direction: column;                              /* Organiza elementos em coluna.                     */
+  justify-content: center;                             /* Centraliza conteúdo verticalmente.                */
+  align-items: center;                                 /* Centraliza conteúdo horizontalmente.              */
+  margin-top: 0;                                       /* Remove margem superior.                           */
+  margin-bottom: 1.25rem;                              /* Margem inferior de 1.25rem.                       */
+  width: 95%;                                          /* Largura de 95% do container pai.                  */
+  text-align: center;                                  /* Centraliza o texto horizontalmente.               */
+  flex-grow: 1;                                        /* Cresce para ocupar espaço disponível.             */
+  overflow-y: auto;                                    /* Permite rolagem vertical se necessário.           */
+  padding: 1rem 1rem 0;                                /* Preenchimento: 1rem topo/lados, zero base.        */
+  box-sizing: border-box;                              /* Inclui bordas e padding no tamanho total.         */
+  position: relative;                                  /* Posicionamento relativo para elementos filhos.    */
 }
 
 /* O bloco abaixo estiliza o título */
 #titulo {
-  background-color: rgba(0, 0, 0, 0.6);
-  color: #f1c40f;
-  width: 100%;
-  text-align: center;
-  padding: 0.75rem 0;
-  font-size: clamp(1.2rem, 3vw, 2rem);
-  font-weight: bold;
-  font-style: italic;
-  font-family: Arial, sans-serif;
-  text-transform: uppercase;
-  margin: 0;
-  box-sizing: border-box;
-  flex-shrink: 0;
-  z-index: 2;
+  background-color: rgba(0, 0, 0, 0.6);                /* Fundo preto com 60% de opacidade.                 */
+  color: #f1c40f;                                      /* Cor do texto dourada.                             */
+  width: 100%;                                         /* Largura total do container.                       */
+  text-align: center;                                  /* Centraliza o texto horizontalmente.               */
+  padding: 0.75rem 0;                                  /* Preenchimento: 0.75rem vertical, zero horizontal. */
+  font-size: clamp(1.2rem, 3vw, 2rem);                 /* Tamanho responsivo: mín 1.2rem, máx 2rem.         */
+  font-weight: bold;                                   /* Peso da fonte em negrito.                         */
+  font-style: italic;                                  /* Estilo da fonte itálico.                          */
+  font-family: Arial, sans-serif;                      /* Família da fonte Arial.                           */
+  text-transform: uppercase;                           /* Texto em letras maiúsculas.                       */
+  margin: 0;                                           /* Remove margens externas.                          */
+  box-sizing: border-box;                              /* Inclui bordas e padding no tamanho total.         */
+  flex-shrink: 0;                                      /* Impede que o elemento encolha.                    */
+  z-index: 2;                                          /* Camada de empilhamento 2.                         */
 }
 
 /* O bloco abaixo estiliza o texto do versículo */
 .texto-versiculo {
-  text-align: center;
-  font-size: clamp(2rem, 2.82vw, 5rem);
-  max-width: 100%;
-  overflow-wrap: break-word;
-  line-height: 1.3;
-  font-weight: bold;
-  font-style: italic;
-  font-family: "Arial Black", Gadget, sans-serif;
-  z-index: 2;
-  margin-top: 0.5rem;
+  text-align: center;                                  /* Centraliza o texto horizontalmente.               */
+  font-size: clamp(2rem, 2.82vw, 5rem);                /* Tamanho responsivo: mín 2rem, máx 5rem.           */
+  max-width: 100%;                                     /* Largura máxima de 100% do container.              */
+  overflow-wrap: break-word;                           /* Quebra palavras longas para nova linha.           */
+  line-height: 1.3;                                    /* Altura da linha 1.3 vezes o tamanho da fonte.     */
+  font-weight: bold;                                   /* Peso da fonte em negrito.                         */
+  font-style: italic;                                  /* Estilo da fonte itálico.                          */
+  font-family: "Arial Black", Gadget, sans-serif;      /* Família da fonte Arial Black.                     */
+  z-index: 2;                                          /* Camada de empilhamento 2.                         */
+  margin-top: 0.5rem;                                  /* Margem superior de 0.5rem.                        */
 }
 
 /* Adicionado estilo para tradução completa da versão original */
 .traducao-completa {
-  text-align: center;
-  font-size: clamp(1.5rem, 2.5vw, 3rem);
-  max-width: 100%;
-  overflow-wrap: break-word;
-  line-height: 1.4;
-  font-weight: normal;
-  font-style: italic;
-  font-family: Arial, sans-serif;
-  color: #ffffff;
-  z-index: 2;
-  margin-bottom: 2rem;
+  text-align: center;                                  /* Centraliza o texto horizontalmente.               */
+  font-size: clamp(1.5rem, 2.5vw, 3rem);               /* Tamanho responsivo: mín 1.5rem, máx 3rem.         */
+  max-width: 100%;                                     /* Largura máxima de 100% do container.              */
+  overflow-wrap: break-word;                           /* Quebra palavras longas para nova linha.           */
+  line-height: 1.4;                                    /* Altura da linha 1.4 vezes o tamanho da fonte.     */
+  font-weight: normal;                                 /* Peso da fonte normal.                             */
+  font-style: italic;                                  /* Estilo da fonte itálico.                          */
+  font-family: Arial, sans-serif;                      /* Família da fonte Arial.                           */
+  color: #ffffff;                                      /* Cor do texto branca.                              */
+  z-index: 2;                                          /* Camada de empilhamento 2.                         */
+  margin-bottom: 2rem;                                 /* Margem inferior de 2rem.                          */
 }
 
 /* Container de palavras em layout de colunas (direita para esquerda) */
 .palavras-container {
-  display: flex;
-  flex-direction: row-reverse;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 2rem;
-  width: 100%;
-  max-width: 95%;
-  margin: 0 auto;
-  padding: 1rem;
-  z-index: 2;
+  display: flex;                                       /* Ativa layout flexível.                            */
+  flex-direction: row-reverse;                         /* Organiza elementos da direita para esquerda.      */
+  flex-wrap: wrap;                                     /* Permite quebra de linha dos itens.                */
+  justify-content: center;                             /* Centraliza conteúdo horizontalmente.              */
+  align-items: flex-start;                             /* Alinha itens ao início vertical.                  */
+  gap: 2rem;                                           /* Espaçamento de 2rem entre os itens.               */
+  width: 100%;                                         /* Largura total do container.                       */
+  max-width: 95%;                                      /* Largura máxima de 95% do container pai.           */
+  margin: 0 auto;                                      /* Centraliza horizontalmente com margens auto.      */
+  padding: 1rem;                                       /* Preenchimento interno de 1rem em todos os lados.  */
+  z-index: 2;                                          /* Camada de empilhamento 2.                         */
 }
 
 /* Cada palavra em coluna vertical */
 .word-detail-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  gap: 0.5rem;
-  min-width: 100px;
-  max-width: 200px;
-  flex-shrink: 0;
+  display: flex;                                       /* Ativa layout flexível.                            */
+  flex-direction: column;                              /* Organiza elementos em coluna.                     */
+  align-items: center;                                 /* Centraliza itens horizontalmente.                 */
+  justify-content: flex-start;                         /* Alinha conteúdo ao início vertical.               */
+  gap: 0.5rem;                                         /* Espaçamento de 0.5rem entre elementos internos.   */
+  min-width: 100px;                                    /* Largura mínima de 100 pixels.                     */
+  max-width: 200px;                                    /* Largura máxima de 200 pixels.                     */
+  flex-shrink: 0;                                      /* Impede que o elemento encolha.                    */
 }
 
 /* Texto hebraico em dourado/amarelo brilhante */
 .word-detail-item .hebrew {
-  font-size: clamp(2rem, 3vw, 4rem);
-  font-weight: bold;
-  color: #ffd700;
-  text-align: center;
-  line-height: 1.2;
-  font-family: "Times New Roman", serif;
+  font-size: clamp(2rem, 3vw, 4rem);                   /* Tamanho responsivo: mín 2rem, máx 4rem.           */
+  font-weight: bold;                                   /* Peso da fonte em negrito.                         */
+  color: #ffd700;                                      /* Cor do texto dourada.                             */
+  text-align: center;                                  /* Centraliza o texto horizontalmente.               */
+  line-height: 1.2;                                    /* Altura da linha 1.2 vezes o tamanho da fonte.     */
+  font-family: "Times New Roman", serif;               /* Família da fonte Times New Roman.                 */
 }
 
 /* Transliteração em cinza claro e maiúsculas */
 .word-detail-item .transliteration {
-  font-size: clamp(0.9rem, 1.5vw, 1.5rem);
-  font-weight: normal;
-  color: #cccccc;
-  text-align: center;
-  text-transform: uppercase;
-  line-height: 1.2;
-  font-family: Arial, sans-serif;
+  font-size: clamp(0.9rem, 1.5vw, 1.5rem);             /* Tamanho responsivo: mín 0.9rem, máx 1.5rem.       */
+  font-weight: normal;                                 /* Peso da fonte normal.                             */
+  color: #cccccc;                                      /* Cor do texto cinza claro.                         */
+  text-align: center;                                  /* Centraliza o texto horizontalmente.               */
+  text-transform: uppercase;                           /* Texto em letras maiúsculas.                       */
+  line-height: 1.2;                                    /* Altura da linha 1.2 vezes o tamanho da fonte.     */
+  font-family: Arial, sans-serif;                      /* Família da fonte Arial.                           */
 }
 
 /* Tradução em branco e itálico */
 .word-detail-item .translation {
-  font-size: clamp(0.9rem, 1.5vw, 1.5rem);
-  font-weight: normal;
-  color: #ffffff;
-  text-align: center;
-  font-style: italic;
-  line-height: 1.2;
-  font-family: Arial, sans-serif;
+  font-size: clamp(0.9rem, 1.5vw, 1.5rem);             /* Tamanho responsivo: mín 0.9rem, máx 1.5rem.       */
+  font-weight: normal;                                 /* Peso da fonte normal.                             */
+  color: #ffffff;                                      /* Cor do texto branca.                              */
+  text-align: center;                                  /* Centraliza o texto horizontalmente.               */
+  font-style: italic;                                  /* Estilo da fonte itálico.                          */
+  line-height: 1.2;                                    /* Altura da linha 1.2 vezes o tamanho da fonte.     */
+  font-family: Arial, sans-serif;                      /* Família da fonte Arial.                           */
 }
 
 /* O bloco abaixo estiliza o título da seção dentro do contêiner do versículo */
 #versiculo-conteiner strong.section-title {
-  color: #5df565;
-  font-size: clamp(1.5rem, 2.8vw, 3rem);
-  margin-bottom: 1rem;
-  display: block;
-  font-weight: bold;
-  font-style: italic;
-  font-family: Arial, sans-serif;
-  text-align: center;
-  width: 100%;
-  z-index: 3;
-  line-height: 1.2;
+  color: #5df565;                                      /* Cor do texto verde claro.                         */
+  font-size: clamp(1.5rem, 2.8vw, 3rem);               /* Tamanho responsivo: mín 1.5rem, máx 3rem.         */
+  margin-bottom: 1rem;                                 /* Margem inferior de 1rem.                          */
+  display: block;                                      /* Exibe como bloco (ocupa linha toda).              */
+  font-weight: bold;                                   /* Peso da fonte em negrito.                         */
+  font-style: italic;                                  /* Estilo da fonte itálico.                          */
+  font-family: Arial, sans-serif;                      /* Família da fonte Arial.                           */
+  text-align: center;                                  /* Centraliza o texto horizontalmente.               */
+  width: 100%;                                         /* Largura total do container.                       */
+  z-index: 3;                                          /* Camada de empilhamento 3.                         */
+  line-height: 1.2;                                    /* Altura da linha 1.2 vezes o tamanho da fonte.     */
 }
 
 /* O bloco abaixo configura a imagem de marca d'água no fundo */
 #marcadagua {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url("../img/biblia.png");
-  opacity: 0.15;
-  z-index: 1;
-  pointer-events: none;
-  overflow: hidden;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+  position: fixed;                                     /* Posição fixa na tela.                             */
+  top: 0;                                              /* Alinha no topo.                                   */
+  left: 0;                                             /* Alinha à esquerda.                                */
+  width: 100%;                                         /* Largura total da tela.                            */
+  height: 100%;                                        /* Altura total da tela.                             */
+  background-image: url("../img/biblia.png");          /* Imagem de fundo da marca d'água.                  */
+  opacity: 0.15;                                       /* Opacidade de 15% (muito transparente).            */
+  z-index: 1;                                          /* Camada de empilhamento 1 (atrás do conteúdo).     */
+  pointer-events: none;                                /* Não captura eventos de mouse.                     */
+  overflow: hidden;                                    /* Esconde conteúdo que transborda.                  */
+  background-size: cover;                              /* Cobre toda a área mantendo proporção.             */
+  background-repeat: no-repeat;                        /* Não repete a imagem.                              */
+  background-position: center;                         /* Centraliza a imagem.                              */
 }
 
 /* O bloco abaixo configura o contêiner dos botões de navegação */
 #botao-conteiner {
-  width: 100%;
-  background-color: rgba(0, 0, 0, 0.6);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 1rem;
-  padding: 0.5rem 1.2rem;
-  box-sizing: border-box;
-  flex-shrink: 0;
-  z-index: 2;
+  width: 100%;                                         /* Largura total do container.                       */
+  background-color: rgba(0, 0, 0, 0.6);                /* Fundo preto com 60% de opacidade.                 */
+  display: flex;                                       /* Ativa layout flexível.                            */
+  justify-content: center;                             /* Centraliza conteúdo horizontalmente.              */
+  align-items: center;                                 /* Centraliza conteúdo verticalmente.                */
+  gap: 1rem;                                           /* Espaçamento de 1rem entre os botões.              */
+  padding: 0.5rem 1.2rem;                              /* Preenchimento: 0.5rem vertical, 1.2rem horizontal.*/
+  box-sizing: border-box;                              /* Inclui bordas e padding no tamanho total.         */
+  flex-shrink: 0;                                      /* Impede que o elemento encolha.                    */
+  z-index: 2;                                          /* Camada de empilhamento 2.                         */
 }
 
 /* O bloco abaixo estiliza os botões de voltar e próximo */
 #voltar-botao,
 #proximo-botao {
-  border: none;
-  padding: 0.6rem 1.5rem;
-  font-size: clamp(0.9rem, 1.2vw, 1.2rem);
-  font-weight: bold;
-  font-style: normal;
-  border-radius: 6px;
-  cursor: pointer;
-  transition: background-color 0.2s ease, color 0.2s ease, opacity 0.2s ease;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 120px;
-  text-align: center;
+  border: none;                                        /* Remove borda.                                     */
+  padding: 0.6rem 1.5rem;                              /* Preenchimento: 0.6rem vertical, 1.5rem horizontal.*/
+  font-size: clamp(0.9rem, 1.2vw, 1.2rem);             /* Tamanho responsivo: mín 0.9rem, máx 1.2rem.       */
+  font-weight: bold;                                   /* Peso da fonte em negrito.                         */
+  font-style: normal;                                  /* Estilo da fonte normal.                           */
+  border-radius: 6px;                                  /* Bordas arredondadas com raio de 6px.              */
+  cursor: pointer;                                     /* Cursor muda para ponteiro ao passar sobre.        */
+  transition: background-color 0.2s ease, color 0.2s ease, opacity 0.2s ease; /* Transições suaves em 0.2s.                        */
+  display: inline-flex;                                /* Exibe como flex em linha.                         */
+  align-items: center;                                 /* Centraliza itens verticalmente.                   */
+  justify-content: center;                             /* Centraliza conteúdo horizontalmente.              */
+  min-width: 120px;                                    /* Largura mínima de 120 pixels.                     */
+  text-align: center;                                  /* Centraliza o texto horizontalmente.               */
 }
 
 /* O bloco abaixo estiliza o botão de voltar */
 #voltar-botao {
-  background-color: #f1c40f;
-  color: black;
+  background-color: #f1c40f;                           /* Cor de fundo dourada.                             */
+  color: black;                                        /* Cor do texto preta.                               */
 }
 
 /* O bloco abaixo estiliza o botão de próximo */
 #proximo-botao {
-  background-color: #f1c40f;
-  color: black;
+  background-color: #f1c40f;                           /* Cor de fundo dourada.                             */
+  color: black;                                        /* Cor do texto preta.                               */
 }
 
 /* O bloco abaixo estiliza o hover do botão de voltar */
 #voltar-botao:not(:disabled):hover {
-  background-color: #d4ac0d;
-  color: white;
+  background-color: #d4ac0d;                           /* Cor de fundo dourada mais escura ao passar.       */
+  color: white;                                        /* Cor do texto branca ao passar.                    */
 }
 
 /* O bloco abaixo estiliza o hover do botão de próximo */
 #proximo-botao:not(:disabled):hover {
-  background-color: #d4ac0d;
-  color: white;
+  background-color: #d4ac0d;                           /* Cor de fundo dourada mais escura ao passar.       */
+  color: white;                                        /* Cor do texto branca ao passar.                    */
 }
 
 /* O bloco abaixo estiliza os botões desativados */
 #voltar-botao:disabled,
 #proximo-botao:disabled {
-  background-color: #333333;
-  color: #888888;
-  cursor: not-allowed;
-  opacity: 0.6;
+  background-color: #333333;                           /* Cor de fundo cinza escuro quando desativado.      */
+  color: #888888;                                      /* Cor do texto cinza claro quando desativado.       */
+  cursor: not-allowed;                                 /* Cursor de não permitido quando desativado.        */
+  opacity: 0.6;                                        /* Opacidade de 60% quando desativado.               */
 }
 
 /* Estilos para o popup */
 .popup-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 1000;
+    position: fixed;                                   /* Posição fixa na tela.                             */
+    top: 0;                                            /* Alinha no topo.                                   */
+    left: 0;                                           /* Alinha à esquerda.                                */
+    width: 100%;                                       /* Largura total da tela.                            */
+    height: 100%;                                      /* Altura total da tela.                             */
+    background-color: rgba(0, 0, 0, 0.7);              /* Fundo preto com 70% de opacidade.                 */
+    display: flex;                                     /* Ativa layout flexível.                            */
+    justify-content: center;                           /* Centraliza conteúdo horizontalmente.              */
+    align-items: center;                               /* Centraliza conteúdo verticalmente.                */
+    z-index: 1000;                                     /* Camada de empilhamento 1000 (acima de tudo).      */
 }
 
 .popup-conteudo {
-    background-color: white;
-    padding: 2rem;
-    border-radius: 10px;
-    text-align: center;
-    color: black;
+    background-color: white;                           /* Cor de fundo branca.                              */
+    padding: 2rem;                                     /* Preenchimento interno de 2rem em todos os lados.  */
+    border-radius: 10px;                               /* Bordas arredondadas com raio de 10px.             */
+    text-align: center;                                /* Centraliza o texto horizontalmente.               */
+    color: black;                                      /* Cor do texto preta.                               */
 }
 
 .popup-conteudo h2 {
-    margin-top: 0;
+    margin-top: 0;                                     /* Remove margem superior.                           */
 }
 
 #fechar-popup {
-    background-color: #f1c40f;
-    color: black;
-    border: none;
-    padding: 0.5rem 1rem;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 1rem;
+    background-color: #f1c40f;                         /* Cor de fundo dourada.                             */
+    color: black;                                      /* Cor do texto preta.                               */
+    border: none;                                      /* Remove borda.                                     */
+    padding: 0.5rem 1rem;                              /* Preenchimento: 0.5rem vertical, 1rem horizontal.  */
+    border-radius: 5px;                                /* Bordas arredondadas com raio de 5px.              */
+    cursor: pointer;                                   /* Cursor muda para ponteiro ao passar sobre.        */
+    font-size: 1rem;                                   /* Tamanho da fonte de 1rem.                         */
 }
 
 #fechar-popup:hover {
-    background-color: #d4ac0d;
+    background-color: #d4ac0d;                         /* Cor de fundo dourada mais escura ao passar.       */
 }
