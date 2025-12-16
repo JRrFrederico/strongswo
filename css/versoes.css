@@ -11,8 +11,8 @@
 /*           consistência entre navegadores.            */
 /*======================================================*/
 * {
-    margin: 0;                                             /* Remove margens externas padrão dos elementos.     */
-    padding: 0;                                            /* Remove o espaçamento interno padrão.              */
+    margin: 0;                                             /* Remove margens externas padrão dos elementos.      */
+    padding: 0;                                            /* Remove o espaçamento interno padrão.               */
     box-sizing: border-box;                                /* Faz o tamanho total incluir bordas e padding (Evita quebrar layout). */
 }
 
@@ -23,13 +23,13 @@
 /*======================================================*/
 body {
     width: 100%;                                           /* Define largura total que o CONTÊINER PRINCIPAL ocupa. */
-    margin: 0;                                             /* Remove margens externas padrão dos elementos.     */
-    background-color: #181818;                           /* Define a cor de fundo em cinza escuro.            */
-    color: #fff;                                           /* Define a cor do texto em branco.                  */
-    font-family: sans-serif;                               /* Define o tipo de fonte como SANS-SERIF.           */
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.            */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                         */
-    overflow-x: hidden;                                    /* Oculta o conteúdo excedente na horizontal.        */
+    margin: 0;                                             /* Remove margens externas padrão dos elementos.      */
+    background-color: #181818;                           /* Define a cor de fundo em cinza escuro.             */
+    color: #fff;                                         /* Define a cor do texto em branco.                   */
+    font-family: sans-serif;                               /* Define o tipo de fonte como SANS-SERIF.            */
+    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.             */
+    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                          */
+    overflow-x: hidden;                                    /* Oculta o conteúdo excedente na horizontal e desativa a rolagem. */
 }
 
 /*=====================================================*/
@@ -37,8 +37,8 @@ body {
 /*   Header, títulos principais e seletor de versão    */
 /*=====================================================*/
 header {
-    width: 100%;                                           /* Define a largura total que o CABEÇALHO ocupa.      */
-    position: relative;                                    /* Permite o posiciona relativo do elemento.          */
+    width: 100%;                                           /* Define a largura total que o CABEÇALHO ocupa.     */
+    position: relative;                                    /* Permite o posicionamento relativo do CABEÇALHO e do TÍTULO.    */
 }
 
 /*=====================================================*/
@@ -47,9 +47,9 @@ header {
 /*       que ele fique sobre outros elementos.         */
 /*=====================================================*/
 .cabecalho-superior {
-    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout. */
-    justify-content: space-between;                        /* Define o espaço entre os itens.                   */
-    align-items: center;                                   /* Centraliza verticalmente.                         */
+    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout do CABEÇALHO. */
+    justify-content: space-between;                        /* Define o espaço entre os itens do CABEÇALHO.      */
+    align-items: center;                                   /* Centraliza verticalmente o CABEÇALHO.             */
     padding-top: 20px;                                     /* Espaço no topo.                                   */
 }
 
@@ -58,14 +58,14 @@ header {
 /*    Estilo do título principal da versão bíblica                         */
 /*=========================================================================*/
 #titulo-principal-versao {
-    margin: 0;                                             /* Remove margens externas padrão.                   */
-    margin-left: 30px;                                     /* Afastamento da esquerda.                          */
-    /* Define o tipo de fonte como SEGOE UI, TAHOMA, GENEVA, VERDANA, SANS-SERIF */
+    margin: 0;                                             /* Remove margens externas padrão.                    */
+    margin-left: 30px;                                     /* Afastamento da esquerda.                           */
+                                                           /* Define o tipo de fonte como SEGOE UI, TAHOMA, GENEVA, VERDANA, SANS-SERIF */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 2.5rem;                                     /* Tamanho grande.                                   */
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.            */
-    color: #d4ac0d;                                      /* Define a cor do texto em dourada.                 */
-    font-weight: 700;                                      /* Deixa o texto em NEGRITO FORTE.                   */
+    font-size: 2.5rem;                                     /* Tamanho grande.                                    */
+    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.             */
+    color: #d4ac0d;                                        /* Define a cor do texto em dourada.                  */
+    font-weight: 700;                                      /* Deixa o texto em NEGRITO FORTE.                    */
 }
 
 
@@ -74,11 +74,11 @@ header {
 /*    Exibe o nome extenso da versão bíblica                                */
 /*=========================================================================*/
 #subtitulo-versao-extenso {
-    margin-top: 1px;                                       /* Espaço mínimo acima.                              */
-    margin-bottom: 0.5px;                                  /* Espaço mínimo abaixo.                             */
-    margin-left: 295px;                                    /* Alinhamento específico desktop.                   */
-    font-size: 1.5em;                                      /* Tamanho médio.                                    */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourada.                 */
+    margin-top: 1px;                                       /* Espaço mínimo acima.                               */
+    margin-bottom: 0.5px;                                  /* Espaço mínimo abaixo.                              */
+    margin-left: 295px;                                    /* Alinhamento específico desktop.                    */
+    font-size: 1.5em;                                      /* Tamanho médio.                                     */
+    color: #d4ac0d;                                        /* Define a cor do texto em dourada.                  */
 }
 
 
@@ -87,9 +87,9 @@ header {
 /*    Container do campo de busca bíblica                                  */
 /*=========================================================================*/
 .barra-pesquisa {
-    display: flex;                                         /* Layout flexível.                                  */
-    align-items: center;                                   /* Centraliza verticalmente.                         */
-    margin-right: 20px;                                    /* Espaço à direita.                                 */
+    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout da BARRA DE PESQUISA. */
+    align-items: center;                                   /* Centraliza verticalmente.                          */
+    margin-right: 20px;                                    /* Espaço à direita.                                  */
 }
 
 
@@ -98,14 +98,14 @@ header {
 /*    Seleção de livro, capítulo ou versículo                               */
 /*=========================================================================*/
 .barra-pesquisa select {
-    width: auto;                                           /* Largura automática.                               */
-    margin-right: 5px;                                     /* Espaço à direita.                                 */
-    padding: 8px;                                          /* Espaço interno.                                   */
-    background-color: #383838;                             /* Define a cor de fundo em cinza escuro.            */
-    border: 1px solid #fff;                                /* Borda branca.                                     */
-    border-radius: 5px;                                    /* Cantos arredondados.                              */
-    color: #fff;                                           /* Define a cor do texto em branco.                  */
-    font-size: 16px;                                       /* Tamanho legível.                                  */
+    width: auto;                                           /* Largura automática.                                */
+    margin-right: 5px;                                     /* Espaço à direita.                                  */
+    padding: 8px;                                          /* Espaço interno.                                    */
+    background-color: #383838;                             /* Define a cor de fundo em cinza escuro.             */
+    border: 1px solid #fff;                                /* Borda branca.                                      */
+    border-radius: 5px;                                    /* Cantos arredondados.                               */
+    color: #fff;                                           /* Define a cor do texto em branco.                   */
+    font-size: 16px;                                       /* Tamanho legível.                                   */
 }
 
 
@@ -114,14 +114,14 @@ header {
 /*    Entrada manual de busca                                              */
 /*=========================================================================*/
 .barra-pesquisa input[type="text"] {
-    width: 200px;                                          /* Largura fixa.                                     */
-    margin-right: 10px;                                    /* Espaço à direita.                                 */
-    padding: 8px;                                          /* Espaço interno.                                   */
-    background-color: #383838;                             /* Define a cor de fundo em cinza escuro.            */
-    border: 1px solid #fff;                                /* Borda branca.                                     */
-    border-radius: 5px;                                    /* Cantos arredondados.                              */
-    color: #fff;                                           /* Define a cor do texto em branco.                  */
-    font-size: 16px;                                       /* Tamanho legível.                                  */
+    width: 200px;                                          /* Largura fixa.                                      */
+    margin-right: 10px;                                    /* Espaço à direita.                                  */
+    padding: 8px;                                          /* Espaço interno.                                    */
+    background-color: #383838;                             /* Define a cor de fundo em cinza escuro.             */
+    border: 1px solid #fff;                                /* Borda branca.                                      */
+    border-radius: 5px;                                    /* Cantos arredondados.                               */
+    color: #fff;                                           /* Define a cor do texto em branco.                   */
+    font-size: 16px;                                       /* Tamanho legível.                                   */
 }
 
 
@@ -130,13 +130,13 @@ header {
 /*    Aciona a busca do texto bíblico                                      */
 /*=========================================================================*/
 .barra-pesquisa button {
-    padding: 8px 15px;                                     /* Espaço interno.                                   */
-    background-color: #4CAF50;                             /* Define a cor de fundo em verde claro.             */
-    border: 1px solid #fff;                                /* Borda branca.                                     */
-    border-radius: 5px;                                    /* Cantos arredondados.                              */
-    color: white;                                          /* Define a cor do texto em branco.                  */
-    font-size: 1.6rem;                                     /* Tamanho da fonte.                                 */
-    cursor: pointer;                                       /* Cursor de ação.                                   */
+    padding: 8px 15px;                                     /* Espaço interno.                                    */
+    background-color: #4CAF50;                             /* Define a cor de fundo em verde claro.              */
+    border: 1px solid #fff;                                /* Borda branca.                                      */
+    border-radius: 5px;                                    /* Cantos arredondados.                               */
+    color: white;                                          /* Define a cor do texto em branco.                   */
+    font-size: 1.6rem;                                     /* Tamanho da fonte.                                  */
+    cursor: pointer;                                       /* Cursor de ação.                                    */
 }
 
 
@@ -145,18 +145,18 @@ header {
 /*    Barra fixa com menus e links principais                              */
 /*=========================================================================*/
 nav {
-    position: fixed;                                       /* Fixa no topo.                                     */
+    position: fixed;                                       /* Permite o posicionamento fixo da BARRA DE MENU SUPERIOR no topo. */
     top: 110px;                                            /* Distância do topo.                                */
     left: 0;                                               /* Alinhado à esquerda.                              */
     z-index: 1;                                            /* Sobreposição.                                     */
-    width: 100%;                                           /* Define a largura total QUE o MENU SUPERIOR DE NAVEGAÇÃO ocupa. */
+    width: 100%;                                           /* Define a largura total que a BARRA DE MENU SUPERIOR ocupa. */
     height: 40px;                                          /* Altura fixa.                                      */
     padding: 10px 0;                                       /* Espaço interno vertical.                          */
-    background: linear-gradient(to right, #333, #555, #777); /* Degradê cinza. */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);              /* Sombra suave.                                     */
-    display: flex;                                         /* Layout flexível.                                  */
+    background: linear-gradient(to right, #333, #555, #777); /* Degradê cinza.                                   */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);            /* Sombra suave.                                     */
+    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout da BARRA DE MENU SUPERIOR. */
     align-items: center;                                   /* Centraliza verticalmente.                         */
-    justify-content: space-between;                        /* Distribui nas extremidades.                       */
+    justify-content: space-between;                        /* Define o espaço entre os itens da BARRA DE MENU SUPERIOR.  */
 }
 
 
@@ -165,13 +165,13 @@ nav {
 /*    Agrupa os links de navegação                                         */
 /*=========================================================================*/
 nav .menu-opcoes {
-    display: flex;                                         /* Itens lado a lado.                                */
-    margin-left: 80px;                                     /* Espaço à esquerda.                                */
-    padding: 0;                                            /* Remove padding padrão.                            */
-    flex-grow: 1;                                          /* Ocupa espaço disponível.                          */
-    justify-content: center;                               /* Centraliza horizontalmente.                       */
-    align-items: center;                                   /* Centraliza verticalmente.                         */
-    list-style: none;                                      /* Remove marcadores.                                */
+    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout das opções da BARRA DE MENU SUPERIOR. */
+    margin-left: 80px;                                     /* Espaço à esquerda.                                 */
+    padding: 0;                                            /* Remove padding padrão.                             */
+    flex-grow: 1;                                          /* Ocupa espaço disponível.                           */
+    justify-content: center;                               /* Centraliza horizontalmente da BARRA DE MENU SUPERIOR. */
+    align-items: center;                                   /* Centraliza verticalmente.                          */
+    list-style: none;                                      /* Remove marcadores.                                 */
 }
 
 
@@ -180,8 +180,8 @@ nav .menu-opcoes {
 /*    Item individual da navegação                                        */
 /*=========================================================================*/
 nav .menu-opcoes li {
-    margin: 0 13px;                                        /* Espaço entre itens.                               */
-    white-space: nowrap;                                   /* Impede quebra de linha.                           */
+    margin: 0 13px;                                        /* Espaço entre itens.                                */
+    white-space: nowrap;                                   /* Impede quebra de linha.                            */
 }
 
 
@@ -190,13 +190,13 @@ nav .menu-opcoes li {
 /*    Estilo dos links navegáveis                                         */
 /*=========================================================================*/
 nav .menu-opcoes li a {
-    display: inline-block;                                 /* Bloco em linha.                                   */
-    padding: 4px 4px;                                      /* Espaço interno.                                   */
-    border-radius: 5px;                                    /* Bordas arredondadas.                              */
-    text-decoration: none;                                 /* Remove sublinhado.                                */
-    color: white;                                          /* Define a cor do texto em branco.                  */
-    font-size: 1.2vw;                                      /* Fonte responsiva desktop.                         */
-    transition: background 0.3s ease;                      /* Transição suave.                                  */
+    display: inline-block;                                 /* Bloco em linha.                                    */
+    padding: 4px 4px;                                      /* Espaço interno.                                    */
+    border-radius: 5px;                                    /* Bordas arredondadas.                               */
+    text-decoration: none;                                 /* Remove sublinhado.                                 */
+    color: white;                                          /* Define a cor do texto em branco.                   */
+    font-size: 1.2vw;                                      /* Fonte responsiva desktop.                          */
+    transition: background 0.3s ease;                      /* Transição suave.                                   */
 }
 
 
@@ -205,7 +205,7 @@ nav .menu-opcoes li a {
 /*    Efeito visual ao passar o mouse                                     */
 /*=========================================================================*/
 nav .menu-opcoes li a:hover {
-    background: rgba(255, 255, 255, 0.2);                  /* Fundo translúcido.                                */
+    background: rgba(255, 255, 255, 0.2);                  /* Fundo translúcido.                                 */
 }
 
 
@@ -214,12 +214,12 @@ nav .menu-opcoes li a:hover {
 /*    Identificador visual da seção de livros                             */
 /*=========================================================================*/
 .titulo-menu {
-    display: flex;                                         /* Layout flexível.                                  */
-    margin-left: 37px;                                     /* Margem esquerda.                                  */
-    margin-right: 20px;                                    /* Margem direita.                                   */
-    align-items: center;                                   /* Centraliza verticalmente.                         */
-    color: white;                                          /* Define a cor do texto em branco.                  */
-    font-size: 1.5vw;                                      /* Fonte responsiva.                                 */
+    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout do TITULO DO MENU. */
+    margin-left: 37px;                                     /* Margem esquerda.                                   */
+    margin-right: 20px;                                    /* Margem direita.                                    */
+    align-items: center;                                   /* Centraliza verticalmente.                          */
+    color: white;                                          /* Define a cor do texto em branco.                   */
+    font-size: 1.5vw;                                      /* Fonte responsiva.                                  */
 }
 
 
@@ -227,9 +227,9 @@ nav .menu-opcoes li a:hover {
 /*                    MENU SUSPENSO (DROPDOWN)                              */
 /*    Estrutura base do menu suspenso                                      */
 /*=========================================================================*/
-.meu-suspenso { 
-    position: relative;                                    /* Referência para posicionamento absoluto do filho. */
-    display: inline-block;                                 /* Exibe como bloco em linha. */
+.meu-suspenso {
+    position: relative;                                    /* Permite o posicionamento relativo do MENU SUSPENSO (DROPDOWN). */
+    display: inline-block;                                 /* Exibe como bloco em linha.                        */
 }
 
 
@@ -238,15 +238,15 @@ nav .menu-opcoes li a:hover {
 /*    Lista flutuante exibida ao interagir                                 */
 /*=========================================================================*/
 .conteudo-menu-suspenso {
-    position: absolute;                                    /* Posicionamento flutuante. */
-    top: 100%;                                             /* Logo abaixo do elemento pai. */
-    left: -5px;                                            /* Ajuste horizontal fino. */
-    width: 240px;                                          /* Largura fixa. */
-    background-color: rgba(0, 0, 0, 0.9);                  /* Define a cor de fundo em preto translúcido.       */
-    border-radius: 8px;                                    /* Bordas arredondadas. */
-    display: none;                                         /* Oculto por padrão. */
-    list-style: none;                                      /* Remove marcadores de lista. */
-    z-index: 1;                                            /* Camada acima do conteúdo. */
+    position: absolute;                                    /* Permite o posicionamento flutuante do DROPDOWN.   */
+    top: 100%;                                             /* Logo abaixo do elemento pai.                       */
+    left: -5px;                                            /* Ajuste horizontal fino.                            */
+    width: 240px;                                          /* Largura fixa.                                      */
+    background-color: rgba(0, 0, 0, 0.9);                  /* Define a cor de fundo em preto translúcido.        */
+    border-radius: 8px;                                    /* Bordas arredondadas.                               */
+    display: none;                                         /* Oculto por padrão.                                 */
+    list-style: none;                                      /* Remove marcadores de lista.                        */
+    z-index: 1;                                            /* Camada acima do conteúdo.                          */
 }
 
 
@@ -254,8 +254,8 @@ nav .menu-opcoes li a:hover {
 /*                    DROPDOWN — EXIBIÇÃO                                  */
 /*    Mostra o menu ao passar o mouse                                      */
 /*=========================================================================*/
-.meu-suspenso:hover .conteudo-menu-suspenso { 
-    display: block;                                        /* Exibe o menu suspenso. */
+.meu-suspenso:hover .conteudo-menu-suspenso {
+    display: block;                                        /* Exibe o menu suspenso.                             */
 }
 
 
@@ -264,10 +264,10 @@ nav .menu-opcoes li a:hover {
 /*    Estilo dos links internos do menu                                    */
 /*=========================================================================*/
 .conteudo-menu-suspenso li a {
-    display: block;                                        /* Ocupa toda a largura. */
-    padding: 6px 8px;                                      /* Espaço interno. */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                 */
-    text-decoration: none;                                 /* Remove sublinhado. */
+    display: block;                                        /* Ocupa toda a largura.                              */
+    padding: 6px 8px;                                      /* Espaço interno.                                    */
+    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                  */
+    text-decoration: none;                                 /* Remove sublinhado.                                 */
 }
 
 
@@ -275,9 +275,9 @@ nav .menu-opcoes li a:hover {
 /*                    DROPDOWN — HOVER                                     */
 /*    Feedback visual ao passar o mouse                                    */
 /*=========================================================================*/
-.conteudo-menu-suspenso li a:hover { 
-    background-color: #0f0e0e;                             /* Define a cor de fundo em preto.                   */
-    color: white;                                          /* Define a cor do texto em branco.                  */
+.conteudo-menu-suspenso li a:hover {
+    background-color: #0f0e0e;                             /* Define a cor de fundo em preto.                    */
+    color: white;                                          /* Define a cor do texto em branco.                   */
 }
 
 
@@ -286,71 +286,71 @@ nav .menu-opcoes li a:hover {
 /*    Navegação fixa lateral dos livros bíblicos                           */
 /*=========================================================================*/
 .menu-livros {
-    position: fixed;                                       /* Fixa o menu na tela. */
-    top: 150px;                                            /* Abaixo do cabeçalho. */
-    left: 0;                                               /* Alinhado à esquerda. */
-    bottom: 0;                                             /* Até o final da tela. */
-    z-index: 10;                                           /* Prioridade visual média. */
-    width: 225px;                                          /* Largura fixa. */
-    height: calc(100vh - 180px);                           /* Altura dinâmica. */
-    margin-right: 20px;                                    /* Espaço à direita. */
-    padding: 18px;                                         /* Espaço interno. */
-    background-color: #181818;                             /* Define a cor de fundo em cinza escuro.            */
-    color: #fff;                                           /* Define a cor do texto em branco.                  */
-    overflow-y: auto;                                      /* Rolagem vertical automática. */
+    position: fixed;                                       /* Permite o posicionamento fixo do MENU LATERAL DOS LIVROS. */
+    top: 150px;                                            /* Abaixo do cabeçalho.                               */
+    left: 0;                                               /* Alinhado à esquerda.                               */
+    bottom: 0;                                             /* Até o final da tela.                               */
+    z-index: 10;                                           /* Prioridade visual média.                           */
+    width: 225px;                                          /* Largura fixa.                                      */
+    height: calc(100vh - 180px);                           /* Altura dinâmica.                                   */
+    margin-right: 20px;                                    /* Espaço à direita.                                  */
+    padding: 18px;                                         /* Espaço interno.                                    */
+    background-color: #181818;                             /* Define a cor de fundo em cinza escuro.             */
+    color: #fff;                                           /* Define a cor do texto em branco.                   */
+    overflow-y: auto;                                      /* Rolagem vertical automática.                       */
 }
 
 
 /*=========================================================================*/
 /*                    MENU LATERAL — LISTA                                 */
 /*=========================================================================*/
-.menu-livros ul { 
-    margin: 15px 0 0 15px;                                 /* Ajuste de margens. */
-    list-style-type: none;                                 /* Remove marcadores. */
+.menu-livros ul {
+    margin: 15px 0 0 15px;                                 /* Ajuste de margens.                                 */
+    list-style-type: none;                                 /* Remove marcadores.                                 */
 }
 
 
 /*=========================================================================*/
 /*                    MENU LATERAL — ITEM                                  */
 /*=========================================================================*/
-.menu-livros li { 
-    margin-bottom: 10px;                                   /* Espaço entre itens. */
+.menu-livros li {
+    margin-bottom: 10px;                                   /* Espaço entre itens.                                */
 }
 
 
 /*=========================================================================*/
 /*                    MENU LATERAL — LINK                                  */
 /*=========================================================================*/
-.menu-livros a { 
-    text-decoration: none;                                 /* Remove sublinhado. */
-    color: #fcf9f9;                                        /* Define a cor do texto em branco gelo.             */
-    font-size: 1.1rem;                                     /* Tamanho desktop. */
+.menu-livros a {
+    text-decoration: none;                                 /* Remove sublinhado.                                 */
+    color: #fcf9f9;                                        /* Define a cor do texto em branco gelo.              */
+    font-size: 1.1rem;                                     /* Tamanho desktop.                                   */
 }
 
 
 /*=========================================================================*/
 /*                    MENU LATERAL — HOVER                                 */
 /*=========================================================================*/
-.menu-livros a:hover { 
-    text-decoration: underline;                            /* Destaque visual. */
+.menu-livros a:hover {
+    text-decoration: underline;                            /* Destaque visual.                                   */
 }
 
 
 /*=========================================================================*/
 /*                    SCROLLBAR — MENU LATERAL                             */
 /*=========================================================================*/
-.menu-livros::-webkit-scrollbar { 
-    width: 12px;                                           /* Largura da barra. */
+.menu-livros::-webkit-scrollbar {
+    width: 12px;                                           /* Largura da barra.                                  */
 }
 
-.menu-livros::-webkit-scrollbar-track { 
-    background: #383838;                                   /* Fundo da trilha. */
+.menu-livros::-webkit-scrollbar-track {
+    background: #383838;                                   /* Fundo da trilha.                                   */
 }
 
-.menu-livros::-webkit-scrollbar-thumb { 
-    margin: 5px;                                           /* Margem interna. */
-    background: #a7a2a2;                                   /* Cor da alça. */
-    border-radius: 10px;                                   /* Bordas arredondadas. */
+.menu-livros::-webkit-scrollbar-thumb {
+    margin: 5px;                                           /* Margem interna.                                    */
+    background: #a7a2a2;                                   /* Cor da alça.                                       */
+    border-radius: 10px;                                   /* Bordas arredondadas.                               */
 }
 
 
@@ -359,32 +359,32 @@ nav .menu-opcoes li a:hover {
 /*    Área central de leitura e exibição do texto                          */
 /*=========================================================================*/
 .conteudo {
-    height: calc(100vh - 160px);                           /* Altura útil. */
-    margin-top: 50px;                                      /* Espaço superior. */
-    flex: 3;                                               /* Crescimento flexível. */
-    overflow-y: auto;                                      /* Rolagem vertical. */
-    overflow-x: hidden;                                    /* Sem rolagem horizontal. */
-    margin-left: 10px;                                     /* Distância do menu lateral. */
-    padding-right: 20px;                                   /* Respiro à direita. */
+    height: calc(100vh - 160px);                           /* Altura útil.                                       */
+    margin-top: 50px;                                      /* Espaço superior.                                   */
+    flex: 3;                                               /* Crescimento flexível.                              */
+    overflow-y: auto;                                      /* Rolagem vertical.                                  */
+    overflow-x: hidden;                                    /* Oculta o conteúdo excedente na horizontal e desativa a rolagem. */
+    margin-left: 10px;                                     /* Distância do menu lateral.                         */
+    padding-right: 20px;                                   /* Respiro à direita.                                 */
 }
 
 
 /*=========================================================================*/
 /*                    SCROLLBAR — CONTEÚDO                                 */
 /*=========================================================================*/
-.conteudo::-webkit-scrollbar { 
-    width: 16px;                                           /* Largura da barra. */
+.conteudo::-webkit-scrollbar {
+    width: 16px;                                           /* Largura da barra.                                  */
 }
 
-.conteudo::-webkit-scrollbar-track { 
-    background: #383838;                                   /* Fundo da trilha. */
+.conteudo::-webkit-scrollbar-track {
+    background: #383838;                                   /* Fundo da trilha.                                   */
 }
 
-.conteudo::-webkit-scrollbar-thumb { 
-    margin: 5px;                                           /* Margem da alça. */
-    min-height: 50px;                                      /* Altura mínima. */
-    background: #a7a2a2;                                   /* Cor da alça. */
-    border-radius: 10px;                                   /* Bordas arredondadas. */
+.conteudo::-webkit-scrollbar-thumb {
+    margin: 5px;                                           /* Margem da alça.                                    */
+    min-height: 50px;                                      /* Altura mínima.                                     */
+    background: #a7a2a2;                                   /* Cor da alça.                                       */
+    border-radius: 10px;                                   /* Bordas arredondadas.                               */
 }
 
 
@@ -393,15 +393,15 @@ nav .menu-opcoes li a:hover {
 /*    Cabeçalho principal das seções                                       */
 /*=========================================================================*/
 h2 {
-    margin-top: 30px;                                      /* Espaço superior. */
-    margin-bottom: 30px;                                   /* Espaço inferior. */
-    margin-left: 150px;                                    /* Compensação do menu lateral. */
-    width: 100%;                                           /* Define a largura total que o titulo H2 ocupa. */
-    max-width: 100%;                                       /* Sem limite. */
-    font-size: 2.5vw;                                      /* Fonte responsiva. */
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.            */
-    text-align: center;                                    /* Centralizado. */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                 */
+    margin-top: 30px;                                      /* Espaço superior.                                   */
+    margin-bottom: 30px;                                   /* Espaço inferior.                                   */
+    margin-left: 150px;                                    /* Compensação do menu lateral.                       */
+    width: 100%;                                           /* Define a largura total que o titulo H2 ocupa.      */
+    max-width: 100%;                                       /* Sem limite.                                        */
+    font-size: 2.5vw;                                      /* Fonte responsiva.                                  */
+    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.             */
+    text-align: center;                                    /* Centralizado.                                      */
+    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                  */
 }
 
 
@@ -409,10 +409,10 @@ h2 {
 /*                    TÍTULOS (H3)                                         */
 /*    Subtítulos e marcações visuais                                       */
 /*=========================================================================*/
-h3 { 
-    margin: 10px 0 0 30px;                                 /* Ajuste de margens. */
-    font-size: 11.5em;                                     /* Tamanho muito grande. */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                 */
+h3 {
+    margin: 10px 0 0 30px;                                 /* Ajuste de margens.                                 */
+    font-size: 11.5em;                                     /* Tamanho muito grande.                              */
+    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                  */
 }
 
 
@@ -421,18 +421,18 @@ h3 {
 /*       Imagem de fundo semi-transparente             */
 /*=====================================================*/
 .marca-dagua-imagem {
-    position: fixed;                                       /* Fixo na tela. */
-    top: 0;                                                /* Distância do topo zero. */
-    left: 0;                                               /* Distância da esquerda zero. */
+    position: fixed;                                       /* Permite o posicionamento fixo da MARCA D'ÁGUA.    */
+    top: 0;                                                /* Distância do topo zero.                           */
+    left: 0;                                               /* Distância da esquerda zero.                       */
     width: 100%;                                           /* Define a largura total que a MARCA D'ÁGUA ocupa.  */
-    height: 120%;                                          /* Altura expandida. */
-    z-index: 10;                                           /* Camada de fundo. */
-    opacity: 0.3;                                          /* Transparente. */
+    height: 120%;                                          /* Altura expandida.                                 */
+    z-index: 10;                                           /* Camada de fundo.                                  */
+    opacity: 0.3;                                          /* Transparente.                                     */
     overflow: hidden;                                      /* Oculta o conteúdo que transborda.                 */
-    pointer-events: none;                                  /* Não clicável. */
-    background-size: cover;                                /* Cobre área. */
-    background-repeat: no-repeat;                          /* Não repete. */
-    background-position: center;                           /* Centraliza. */
+    pointer-events: none;                                  /* Não clicável.                                     */
+    background-size: cover;                                /* Cobre área.                                       */
+    background-repeat: no-repeat;                          /* Não repete.                                       */
+    background-position: center;                           /* Centraliza.                                       */
 }
 
 /*=========================================================================*/
@@ -440,7 +440,7 @@ h3 {
 /*    Estrutura base dos versículos e seus elementos                       */
 /*=========================================================================*/
 .versiculo {
-    margin-bottom: 20px;                                   /* Espaço entre versículos. */
+    margin-bottom: 20px;                                   /* Espaço entre versículos.                           */
 }
 
 
@@ -449,12 +449,12 @@ h3 {
 /*    Destaque temático do versículo (ex: “No Princípio”)                  */
 /*=========================================================================*/
 .titulo-versiculo-interno {
-    color: #d4ac0d;                                        /* Define a cor do texto em dourada.                 */
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.            */
-    margin-bottom: 15px;                                   /* Espaço inferior. */
-    margin-top: 15px;                                      /* Espaço superior. */
-    margin-left: 30px;                                     /* Recuo à esquerda. */
-    font-size: 1.5rem;                                     /* Tamanho da fonte. */
+    color: #d4ac0d;                                        /* Define a cor do texto em dourada.                  */
+    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.             */
+    margin-bottom: 15px;                                   /* Espaço inferior.                                   */
+    margin-top: 15px;                                      /* Espaço superior.                                   */
+    margin-left: 30px;                                     /* Recuo à esquerda.                                  */
+    font-size: 1.5rem;                                     /* Tamanho da fonte.                                  */
 }
 
 
@@ -463,12 +463,12 @@ h3 {
 /*    Estilo do parágrafo bíblico principal                                */
 /*=========================================================================*/
 .texto-versiculo p {
-    font-size: 3rem;                                       /* Fonte grande para leitura. */
-    line-height: 1.1;                                      /* Altura de linha compacta. */
-    color: #f0f0f0;                                      /* Define a cor do texto em branco gelo.             */
-    text-align: justify;                                   /* Texto justificado. */
-    margin: 0;                                             /* Remove margens padrão. */
-    padding: 0 10px;                                       /* Espaçamento lateral interno. */
+    font-size: 3rem;                                       /* Fonte grande para leitura.                         */
+    line-height: 1.1;                                      /* Altura de linha compacta.                          */
+    color: #f0f0f0;                                        /* Define a cor do texto em branco gelo.              */
+    text-align: justify;                                   /* Texto justificado.                                 */
+    margin: 0;                                             /* Remove margens padrão.                             */
+    padding: 0 10px;                                       /* Espaçamento lateral interno.                       */
 }
 
 
@@ -477,14 +477,14 @@ h3 {
 /*    Palavras, transliteração e tradução palavra a palavra                */
 /*=========================================================================*/
 .versiculo .traducao-completa {
-    font-weight: bold;                                     /* Define o texto em NEGRITO.                        */
-    margin-bottom: 15px;                                   /* Espaço abaixo. */
-    display: block;                                        /* Exibe como bloco. */
-    font-size: 1.1em;                                      /* Tamanho da fonte. */
-    color: #f8f8f8;                                      /* Define a cor do texto em branca gelo.             */
-    margin-left: 30px;                                     /* Margem esquerda. */
-    margin-right: 30px;                                    /* Margem direita. */
-    text-align: justify;                                   /* Texto justificado. */
+    font-weight: bold;                                     /* Define o texto em NEGRITO.                         */
+    margin-bottom: 15px;                                   /* Espaço abaixo.                                     */
+    display: block;                                        /* Exibe como bloco.                                  */
+    font-size: 1.1em;                                      /* Tamanho da fonte.                                  */
+    color: #f8f8f8;                                        /* Define a cor do texto em branca gelo.              */
+    margin-left: 30px;                                     /* Margem esquerda.                                   */
+    margin-right: 30px;                                    /* Margem direita.                                    */
+    text-align: justify;                                   /* Texto justificado.                                 */
 }
 
 
@@ -493,16 +493,16 @@ h3 {
 /*    Organiza as palavras hebraicas em layout flexível RTL                */
 /*=========================================================================*/
 .versiculo .palavras-container {
-    display: flex;                                         /* Ativa o layout flexível.                          */
+    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout da exibição dos VERSÍCULOS. */
     flex-wrap: wrap;                                       /* Permite quebra de linha dos itens.                */
-    justify-content: flex-start;                           /* Alinha no início. */
-    direction: rtl;                                        /* Direção direita para esquerda. */
-    margin-top: 20px;                                      /* Margem superior. */
-    padding-top: 15px;                                     /* Espaço interno superior. */
-    border-top: 1px dashed #444;                           /* Borda tracejada superior. */
-    margin-left: 30px;                                     /* Margem esquerda. */
-    margin-right: 30px;                                    /* Margem direita. */
-    gap: 15px 20px;                                        /* Espaçamento entre itens. */
+    justify-content: flex-start;                           /* Alinha no início os VERSÍCULOS.                   */
+    direction: rtl;                                        /* Direção direita para esquerda.                    */
+    margin-top: 20px;                                      /* Margem superior.                                  */
+    padding-top: 15px;                                     /* Espaço interno superior.                          */
+    border-top: 1px dashed #444;                         /* Borda tracejada superior.                         */
+    margin-left: 30px;                                     /* Margem esquerda.                                  */
+    margin-right: 30px;                                    /* Margem direita.                                   */
+    gap: 15px 20px;                                        /* Espaçamento entre itens.                          */
 }
 
 
@@ -511,14 +511,14 @@ h3 {
 /*    Agrupa hebraico, transliteração e tradução                            */
 /*=========================================================================*/
 .versiculo .word-detail-item {
-    padding: 12px 15px;                                    /* Espaço interno. */
-    border-radius: 6px;                                    /* Bordas arredondadas. */
-    display: flex;                                         /* Ativa o layout flexível.                          */
-    flex-direction: column;                                /* Direção coluna. */
-    align-items: flex-end;                                 /* Alinha no final. */
-    white-space: nowrap;                                   /* Impede a quebra de linha.                         */
-    min-width: 80px;                                       /* Largura mínima. */
-    max-width: 320px;                                      /* Largura máxima. */
+    padding: 12px 15px;                                    /* Espaço interno.                                    */
+    border-radius: 6px;                                    /* Bordas arredondadas.                               */
+    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout dos ITENS INDIVIDUAIS DAS PALAVRAS. */
+    flex-direction: column;                                /* Direção coluna.                                    */
+    align-items: flex-end;                                 /* Alinha no final.                                   */
+    white-space: nowrap;                                   /* Impede a quebra de linha.                          */
+    min-width: 80px;                                       /* Largura mínima.                                    */
+    max-width: 320px;                                      /* Largura máxima.                                    */
 }
 
 
@@ -526,12 +526,12 @@ h3 {
 /*                    LINHAS INTERNAS DO ITEM                               */
 /*    Controla alinhamento e espaçamento de cada linha                     */
 /*=========================================================================*/
-.versiculo .word-detail-item > div { 
-    display: block;                                        /* Exibe como bloco. */
-    margin-bottom: 4px;                                    /* Espaço abaixo. */
-    line-height: 1.2;                                      /* Altura da linha. */
-    width: 100%;                                           /* Define a largura total que o VERSÍCULO ocupa.    */
-    text-align: right;                                     /* Alinha à direita. */
+.versiculo .word-detail-item>div {
+    display: block;                                        /* Exibe como bloco.                                  */
+    margin-bottom: 4px;                                    /* Espaço abaixo.                                     */
+    line-height: 1.2;                                      /* Altura da linha.                                   */
+    width: 100%;                                           /* Define a largura total que o VERSÍCULO ocupa.      */
+    text-align: right;                                     /* Alinha à direita.                                  */
 }
 
 
@@ -539,11 +539,11 @@ h3 {
 /*                    TEXTO HEBRAICO                                        */
 /*    Destaque visual do texto original                                    */
 /*=========================================================================*/
-.versiculo .hebraico-text { 
-    font-family: "Noto Sans Hebrew", serif;                /* Define o tipo de fonte como hebraica.             */
-    font-size: 1.4em;                                      /* Tamanho da fonte.                                 */
-    color: #d4ac0d;                                      /* Define a cor do texto em dourada.                 */
-    font-weight: 700;                                      /* Deixa o texto em NEGRITO FORTE.                   */
+.versiculo .hebraico-text {
+    font-family: "Noto Sans Hebrew", serif;                /* Define o tipo de fonte como hebraica.              */
+    font-size: 1.4em;                                      /* Tamanho da fonte.                                  */
+    color: #d4ac0d;                                        /* Define a cor do texto em dourada.                  */
+    font-weight: 700;                                      /* Deixa o texto em NEGRITO FORTE.                    */
 }
 
 
@@ -551,10 +551,10 @@ h3 {
 /*                    TEXTO TRANSLITERADO                                   */
 /*    Representação fonética do hebraico                                   */
 /*=========================================================================*/
-.versiculo .transliteral-text { 
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.            */
-    color: #aaa;                                         /* Define a cor do texto em cinza claro.             */
-    font-size: 0.9em;                                      /* Tamanho da fonte. */
+.versiculo .transliteral-text {
+    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.             */
+    color: #aaa;                                           /* Define a cor do texto em cinza claro.              */
+    font-size: 0.9em;                                      /* Tamanho da fonte.                                  */
 }
 
 
@@ -562,10 +562,10 @@ h3 {
 /*                    TRADUÇÃO DA PALAVRA                                   */
 /*    Significado da palavra em português                                  */
 /*=========================================================================*/
-.versiculo .traducao-palavra-text { 
-    font-weight: normal;                                   /* Deixa o texto em NORMAL.                          */
-    color: #f8f8f8;                                      /* Define a cor do texto em branca gelo.             */
-    font-size: 1em;                                        /* Tamanho da fonte.                                 */
+.versiculo .traducao-palavra-text {
+    font-weight: normal;                                   /* Deixa o texto em NORMAL.                           */
+    color: #f8f8f8;                                        /* Define a cor do texto em branca gelo.              */
+    font-size: 1em;                                        /* Tamanho da fonte.                                  */
 }
 
 
@@ -573,33 +573,33 @@ h3 {
 /*                    MODO LEITURA — ITEM DA PALAVRA                        */
 /*    Ajustes visuais para leitura contínua                                 */
 /*=========================================================================*/
-body.module-leitura .versiculo .word-detail-item { 
-    background-color: #f9f6f0;                             /* Define a cor de fundo em bege claro.              */
-    border-color: #d0c4ac;                                 /* Cor da borda. */
+body.module-leitura .versiculo .word-detail-item {
+    background-color: #f9f6f0;                             /* Define a cor de fundo em bege claro.               */
+    border-color: #d0c4ac;                                 /* Cor da borda.                                      */
 }
 
 
 /*=========================================================================*/
 /*                    MODO LEITURA — TEXTO HEBRAICO                         */
 /*=========================================================================*/
-body.module-leitura .versiculo .hebraico-text { 
-    color: #8b4513;                                        /* Define a cor do texto em marrom.                  */
+body.module-leitura .versiculo .hebraico-text {
+    color: #8b4513;                                        /* Define a cor do texto em marrom.                   */
 }
 
 
 /*=========================================================================*/
 /*                    MODO LEITURA — TEXTO TRANSLITERADO                   */
 /*=========================================================================*/
-body.module-leitura .versiculo .transliteral-text { 
-    color: #777;                                           /* Define a cor do texto em cinza médio.             */
+body.module-leitura .versiculo .transliteral-text {
+    color: #777;                                           /* Define a cor do texto em cinza médio.              */
 }
 
 
 /*=========================================================================*/
 /*                    MODO LEITURA — TRADUÇÃO DA PALAVRA                   */
 /*=========================================================================*/
-body.module-leitura .versiculo .traducao-palavra-text { 
-    color: #333;                                           /* Define a cor do texto em cinza escuro.            */
+body.module-leitura .versiculo .traducao-palavra-text {
+    color: #333;                                           /* Define a cor do texto em cinza escuro.             */
 }
 
 /*=========================================================================*/
@@ -607,24 +607,24 @@ body.module-leitura .versiculo .traducao-palavra-text {
 /*    Área fixa com informações no final da página                          */
 /*=========================================================================*/
 footer {
-    position: fixed;                                       /* Fixo na tela. */
-    bottom: 0;                                             /* Encostado no fundo. */
-    left: 0;                                               /* Encostado à esquerda. */
-    z-index: 1;                                            /* Camada acima do conteúdo. */
+    position: fixed;                                       /* Permite o posicionamento fixo do RODAPÉ.          */
+    bottom: 0;                                             /* Encostado no fundo.                               */
+    left: 0;                                               /* Encostado à esquerda.                             */
+    z-index: 1;                                            /* Camada acima do conteúdo.                         */
     width: 100%;                                           /* Define a largura total que o RODAPÉ ocupa.        */
-    height: 30px;                                          /* Altura fixa. */
-    background-color: #383838;                             /* Define a cor de fundo em cinza escuro.            */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                 */
-    text-align: center;                                    /* Texto centralizado. */
+    height: 30px;                                          /* Altura fixa.                                      */
+    background-color: #383838;                           /* Define a cor de fundo em cinza escuro.            */
+    color: #d4ac0d;                                      /* Define a cor do texto em dourado.                 */
+    text-align: center;                                    /* Texto centralizado.                               */
 }
 
 
 /*=========================================================================*/
 /*                    RODAPÉ — TEXTO                                       */
 /*=========================================================================*/
-footer p { 
-    font-size: 1.3em;                                      /* Tamanho da fonte. */
-    line-height: 1.5;                                      /* Altura da linha. */
+footer p {
+    font-size: 1.3em;                                      /* Tamanho da fonte.                                  */
+    line-height: 1.5;                                      /* Altura da linha.                                   */
 }
 
 
@@ -633,19 +633,19 @@ footer p {
 /*    Janela central com informações da aplicação                          */
 /*=========================================================================*/
 .conteudo-sobre {
-    position: fixed;                                       /* Fixo na tela. */
-    top: 50%;                                              /* Centro vertical. */
-    left: 50%;                                             /* Centro horizontal. */
-    transform: translate(-50%, -50%);                      /* Centralização perfeita. */
-    z-index: 1000;                                         /* Camada máxima. */
-    background: rgba(0, 0, 0, 0.9);                        /* Fundo escuro translúcido. */
-    border: 2px solid #d4ac0d;                             /* Borda dourada. */
-    border-radius: 12px;                                   /* Bordas arredondadas. */
-    padding: 45px;                                         /* Espaço interno. */
-    width: 92%;                                            /* Largura relativa. */
-    max-width: 1000px;                                     /* Limite máximo. */
-    height: 82vh;                                          /* Altura relativa à viewport. */
-    overflow: hidden;                                      /* Evita transbordo. */
+    position: fixed;                                       /* Permite o posicionamento fixo da caixa de texto da opção SOBRE. */
+    top: 50%;                                              /* Centro vertical.                                   */
+    left: 50%;                                             /* Centro horizontal.                                 */
+    transform: translate(-50%, -50%);                      /* Centralização perfeita.                            */
+    z-index: 1000;                                         /* Camada máxima.                                     */
+    background: rgba(0, 0, 0, 0.9);                      /* Fundo escuro translúcido.                          */
+    border: 2px solid #d4ac0d;                           /* Borda dourada.                                     */
+    border-radius: 12px;                                   /* Bordas arredondadas.                               */
+    padding: 45px;                                         /* Espaço interno.                                    */
+    width: 92%;                                            /* Largura relativa.                                  */
+    max-width: 1000px;                                     /* Limite máximo.                                     */
+    height: 82vh;                                          /* Altura relativa à viewport.                        */
+    overflow: hidden;                                      /* Evita transbordo.                                  */
 }
 
 
@@ -653,30 +653,30 @@ footer p {
 /*                    MODAL “SOBRE” — BOTÃO FECHAR                         */
 /*=========================================================================*/
 .fechar-sobre {
-    position: absolute;                                    /* Posicionamento absoluto. */
-    top: 15px;                                             /* Distância do topo. */
-    right: 15px;                                           /* Distância da direita. */
-    background: transparent;                               /* Sem fundo. */
-    border: none;                                          /* Sem borda. */
-    color: #d4ac0d;                                      /* Define a cor do texto em dourado.                 */
-    font-size: 28px;                                       /* Fonte grande. */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                         */
-    cursor: pointer;                                       /* Cursor de ação. */
+    position: absolute;                                    /* Permite o posicionamento absoluto do BOTÃO FECHAR da opção SOBRE. */
+    top: 15px;                                             /* Distância do topo.                                 */
+    right: 15px;                                           /* Distância da direita.                              */
+    background: transparent;                               /* Sem fundo.                                         */
+    border: none;                                          /* Sem borda.                                         */
+    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                  */
+    font-size: 28px;                                       /* Fonte grande.                                      */
+    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                          */
+    cursor: pointer;                                       /* Cursor de ação.                                    */
 }
 
 
 /*=========================================================================*/
 /*                    MODAL “SOBRE” — TEXTO                               */
 /*=========================================================================*/
-.texto-sobre { 
-    position: relative;                                    /* Referência interna. */
-    z-index: 920;                                          /* Camada elevada. */
-    max-height: calc(82vh - 120px);                        /* Altura máxima calculada. */
-    overflow-y: auto;                                      /* Rolagem vertical. */
-    text-align: justify;                                   /* Texto justificado. */
-    font-weight: normal;                                   /* Deixa o texto em NORMAL.                          */
-    line-height: 1.4;                                      /* Altura da linha. */
-    font-size: 1.2rem;                                     /* Tamanho da fonte. */
+.texto-sobre {
+    position: relative;                                    /* Permite o posicionamento relativo fixo texto da opção SOBRE. */
+    z-index: 920;                                          /* Camada elevada.                                    */
+    max-height: calc(82vh - 120px);                        /* Altura máxima calculada.                           */
+    overflow-y: auto;                                      /* Rolagem vertical.                                  */
+    text-align: justify;                                   /* Texto justificado.                                 */
+    font-weight: normal;                                   /* Deixa o texto em NORMAL.                           */
+    line-height: 1.4;                                      /* Altura da linha.                                   */
+    font-size: 1.2rem;                                     /* Tamanho da fonte.                                  */
 }
 
 
@@ -684,14 +684,14 @@ footer p {
 /*                    OVERLAY ESCURO (Texto sobre a imagem)                                      */
 /*    Escurece o fundo quando o modal está ativo                           */
 /*=========================================================================*/
-body.sobre-ativo::after { 
-    content: '';                                           /* Pseudo-elemento vazio. */
-    position: fixed;                                       /* Fixo na tela. */
-    top: 0;                                                /* Topo zero. */
-    left: 0;                                               /* Esquerda zero. */
-    width: 100%;                                           /* Define a largura total que a opção SOBRE ocupa.   */
-    height: 100%;                                          /* Altura total. */
-    background: rgba(0, 0, 0, 0.7);                        /* Fundo escuro translúcido. */
+body.sobre-ativo::after {
+    content: '';                                           /* Pseudo-elemento vazio.                             */
+    position: fixed;                                       /* Permite o posicionamento fixo sobre a imagem quando ativo. */
+    top: 0;                                                /* Topo zero.                                         */
+    left: 0;                                               /* Esquerda zero.                                     */
+    width: 100%;                                           /* Define a largura total que a opção SOBRE ocupa.    */
+    height: 100%;                                          /* Altura total.                                      */
+    background: rgba(0, 0, 0, 0.7);                      /* Fundo escuro translúcido.                          */
 }
 
 
@@ -700,14 +700,14 @@ body.sobre-ativo::after {
 /*    Botões organizados em layout responsivo                              */
 /*=========================================================================*/
 .capitulos {
-    display: grid;                                         /* Layout em grade. */
-    grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); /* Colunas responsivas. */
-    gap: 6px;                                              /* Espaçamento compacto. */
-    padding: 20px;                                         /* Espaço interno. */
-    margin-left: 250px;                                    /* Compensa menu lateral. */
-    margin-right: 20px;                                    /* Margem direita. */
-    margin-top: -40px;                                     /* Ajuste vertical. */
-    max-width: calc(100% - 80px);                          /* Largura máxima. */
+    display: grid;                                         /* Layout em grade.                                   */
+    grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); /* Colunas responsivas.                         */
+    gap: 6px;                                              /* Espaçamento compacto.                              */
+    padding: 20px;                                         /* Espaço interno.                                    */
+    margin-left: 250px;                                    /* Compensa menu lateral.                             */
+    margin-right: 20px;                                    /* Margem direita.                                    */
+    margin-top: -40px;                                     /* Ajuste vertical.                                   */
+    max-width: calc(100% - 80px);                          /* Largura máxima.                                    */
 }
 
 
@@ -716,25 +716,25 @@ body.sobre-ativo::after {
 /*=========================================================================*/
 .capitulos button,
 .botao-capitulo {
-    background-color: #3f51b5;                           /* Define a cor de fundo em azul índigo.             */
-    color: white;                                        /* Define a cor do texto em branco.                  */
-    border: none;                                          /* Sem borda. */
-    padding: 8px 0;                                        /* Altura compacta. */
-    margin: 0;                                             /* Remove margens padrão. */
-    cursor: pointer;                                       /* Cursor de ação. */
-    text-align: center;                                    /* Centralizado. */
-    border-radius: 4px;                                    /* Bordas arredondadas. */
-    font-size: 1.1rem;                                     /* Fonte legível. */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                         */
-    transition: background-color 0.3s;                     /* Transição suave. */
+    background-color: #3f51b5;                             /* Define a cor de fundo em azul índigo.              */
+    color: white;                                          /* Define a cor do texto em branco.                   */
+    border: none;                                          /* Sem borda.                                         */
+    padding: 8px 0;                                        /* Altura compacta.                                   */
+    margin: 0;                                             /* Remove margens padrão.                             */
+    cursor: pointer;                                       /* Cursor de ação.                                    */
+    text-align: center;                                    /* Centralizado.                                      */
+    border-radius: 4px;                                    /* Bordas arredondadas.                               */
+    font-size: 1.1rem;                                     /* Fonte legível.                                     */
+    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                          */
+    transition: background-color 0.3s;                     /* Transição suave.                                   */
 }
 
 .capitulos button:hover,
-.botao-capitulo:hover { 
-    background-color: #45a049;                             /* Define a cor de fundo em verde claro no HOVER.    */
+.botao-capitulo:hover {
+    background-color: #45a049;                             /* Define a cor de fundo em verde claro no HOVER.     */
 }
 
-.capitulos button.active { 
+.capitulos button.active {
     background-color: #4CAF50;                             /* Define a cor de fundo em verde claro quando o BOTÃO CAPITULO estiver ativo. */
 }
 
@@ -743,14 +743,14 @@ body.sobre-ativo::after {
 /*                    GRADE DE VERSÍCULOS                                  */
 /*=========================================================================*/
 .versiculos {
-    display: grid;                                         /* Layout em grade. */
-    grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); /* Grade compacta. */
-    gap: 6px;                                              /* Espaçamento. */
-    padding: 20px;                                         /* Espaço interno. */
-    margin-left: 250px;                                    /* Compensa menu lateral. */
-    margin-right: 20px;                                    /* Margem direita. */
-    margin-top: -10px;                                     /* Ajuste vertical. */
-    max-width: calc(100% - 80px);                          /* Largura máxima. */
+    display: grid;                                         /* Layout em grade.                                   */
+    grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); /* Grade compacta.                              */
+    gap: 6px;                                              /* Espaçamento.                                       */
+    padding: 20px;                                         /* Espaço interno.                                    */
+    margin-left: 250px;                                    /* Compensa menu lateral.                             */
+    margin-right: 20px;                                    /* Margem direita.                                    */
+    margin-top: -10px;                                     /* Ajuste vertical.                                   */
+    max-width: calc(100% - 80px);                          /* Largura máxima.                                    */
 }
 
 
@@ -758,23 +758,23 @@ body.sobre-ativo::after {
 /*                    BOTÕES DE VERSÍCULO                                  */
 /*=========================================================================*/
 .botao-versiculo {
-    background-color: #6758ec;                           /* Define a cor de fundo em roxo.                    */
-    border: none;                                          /* Sem borda. */
-    color: white;                                        /* Define a cor do texto em branco.                  */
-    text-align: center;                                    /* Centralizado. */
-    padding: 6px 0;                                        /* Altura reduzida. */
-    border-radius: 4px;                                    /* Bordas arredondadas. */
-    cursor: pointer;                                       /* Cursor de ação. */
-    font-size: 1.1rem;                                     /* Fonte fixa. */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                         */
-    transition: background-color 0.3s;                     /* Transição suave. */
+    background-color: #6758ec;                             /* Define a cor de fundo em roxo.                     */
+    border: none;                                          /* Sem borda.                                         */
+    color: white;                                          /* Define a cor do texto em branco.                   */
+    text-align: center;                                    /* Centralizado.                                      */
+    padding: 6px 0;                                        /* Altura reduzida.                                   */
+    border-radius: 4px;                                    /* Bordas arredondadas.                               */
+    cursor: pointer;                                       /* Cursor de ação.                                    */
+    font-size: 1.1rem;                                     /* Fonte fixa.                                        */
+    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                          */
+    transition: background-color 0.3s;                     /* Transição suave.                                   */
 }
 
-.botao-versiculo:hover { 
-    background-color: #45a049;                             /* Define a cor de fundo em verde claro no HOVER.    */
+.botao-versiculo:hover {
+    background-color: #45a049;                             /* Define a cor de fundo em verde claro no HOVER.     */
 }
 
-.botao-versiculo.active { 
+.botao-versiculo.active {
     background-color: #4CAF50;                             /* Define a cor de fundo em verde claro quando o BOTÃO VERSÍCULO estiver ativo. */
 }
 
@@ -782,434 +782,418 @@ body.sobre-ativo::after {
 /*=========================================================================*/
 /*                    CONTAINERS AUXILIARES                                */
 /*=========================================================================*/
-.capitulos-conteiner { 
-    margin-bottom: 20px;                                   /* Espaço inferior. */
+.capitulos-conteiner {
+    margin-bottom: 20px;                                   /* Espaço inferior.                                   */
 }
 
-.conteudo-versiculos { 
-    margin-bottom: 20px;                                   /* Espaço inferior. */
+.conteudo-versiculos {
+    margin-bottom: 20px;                                   /* Espaço inferior.                                   */
 }
 
 /*=====================================================*/
 /*           CORREÇÕES ESPECÍFICAS PARA MOBILE         */
 /*=====================================================*/
 @media (max-width: 900px) {
-/*=====================================================*/
-    /* RESET GERAL MOBILE                                 */
-    /*=====================================================*/
-    /* --- RESET GERAL MOBILE --- */
-    ::-webkit-scrollbar { 
-        display: none;                                     /* Remove barra de rolagem visual. */
+
+    /*=====================================================*/ /* RESET GERAL MOBILE                              */
+    /*=====================================================*/ /* --- RESET GERAL MOBILE ---                      */
+    ::-webkit-scrollbar {
+        display: none;                                     /* Remove barra de rolagem visual.                    */
     }
 
-    /* Firefox, IE e Edge legado */
-    html, body { 
-        scrollbar-width: none;                             /* Remove barra de rolagem no Firefox. */
-        -ms-overflow-style: none;                          /* Remove barra de rolagem no IE/Edge. */
+                                                           /* Firefox, IE e Edge legado                          */
+    html,
+    body {
+        scrollbar-width: none;                             /* Remove barra de rolagem no Firefox.                */
+        -ms-overflow-style: none;                          /* Remove barra de rolagem no IE/Edge.                */
     }
-/*=====================================================*/
-    /* OCULTAÇÃO DE ELEMENTOS DESKTOP                     */
-    /*=====================================================*/
-    /* Oculta botões de desktop */
-    #modo-leitura, #link-slide { 
-        display: none !important;                          /* Oculta completamente. */
+
+    /*=====================================================*/ /* OCULTAÇÃO DE ELEMENTOS DESKTOP                  */
+    /*=====================================================*/ /* Oculta botões de desktop                        */
+    #modo-leitura,
+    #link-slide {
+        display: none !important;                          /* Oculta completamente.                              */
     }
+
+    /*=====================================================*/ /* OCULTAR ITENS DO MENU NO MOBILE                 */
     /*=====================================================*/
-/*           OCULTAR ITENS DO MENU NO MOBILE           */
-/*=====================================================*/
-    nav .menu-opcoes li:has(#modo-leitura), 
-    nav .menu-opcoes li:has(#link-slide) { 
-        display: none !important;                          /* Oculta itens do menu. */
+    nav .menu-opcoes li:has(#modo-leitura),
+    nav .menu-opcoes li:has(#link-slide) {
+        display: none !important;                          /* Oculta itens do menu.                              */
     }
-/*=====================================================*/
-    /* 1. CABEÇALHO MOBILE                                */
-    /*=====================================================*/
-    /* 1. CABEÇALHO MOBILE */
+
+    /*=====================================================*/ /* 1. CABEÇALHO MOBILE                             */
+    /*=====================================================*/ /* 1. CABEÇALHO MOBILE                             */
     .cabecalho-superior {
-        flex-direction: column;                            /* Empilha itens. */
-        align-items: center;                               /* Centraliza. */
-        text-align: center;                                /* Texto centralizado. */
-        gap: 10px;                                         /* Espaço. */
-        padding-bottom: 10px;                              /* Padding baixo. */
+        flex-direction: column;                            /* Empilha itens.                                     */
+        align-items: center;                               /* Centraliza.                                        */
+        text-align: center;                                /* Texto centralizado.                                */
+        gap: 10px;                                         /* Espaço.                                            */
+        padding-bottom: 10px;                              /* Padding baixo.                                     */
+    }
+
+    /*=====================================================*/ /* AJUSTES DE TÍTULOS NO MOBILE                    */
+    /*=====================================================*/
+    #titulo-principal-versao {
+        margin-left: 0;                                    /* Remove margem esquerda.                            */
+        font-size: 2.3rem;                                 /* Tamanho da fonte.                                  */
+    }
+
+    #subtitulo-versao-extenso {
+        margin-left: 0;                                    /* Remove margem esquerda.                            */
+        text-align: center;                                /* Centraliza texto.                                  */
     }
 
     /*=====================================================*/
-/*             AJUSTES DE TÍTULOS NO MOBILE           */
-/*=====================================================*/
-    #titulo-principal-versao { 
-        margin-left: 0;                                    /* Remove margem esquerda. */
-        font-size: 2.3rem;                                 /* Tamanho da fonte. */
-    }
-    #subtitulo-versao-extenso { 
-        margin-left: 0;                                    /* Remove margem esquerda. */
-        text-align: center;                                /* Centraliza texto. */
-    }
-/*=====================================================*/
-    /* BARRA DE PESQUISA - CONTAINER                      */
+    /* BARRA DE PESQUISA - CONTAINER                   */
     /*=====================================================*/
-    /* Barra de Pesquisa */
     .barra-pesquisa {
-        margin-right: 0;                                   /* Remove margem direita. */
-        width: 92%;                                        /* Largura total. */
-        margin-left: auto;                                 /* Centraliza horizontalmente. */
-        margin-right: auto;                                /* Centraliza horizontalmente. */
-        display: flex;                                     /* Layout flexível. */
-        flex-direction: column;                            /* Empilha. */
-        align-items: stretch;                              /* Estica itens. */
-        gap: 8px;                                          /* Espaço entre itens. */
+        margin-right: 0;                                   /* Remove margem direita.                             */
+        width: 92%;                                        /* Largura total.                                     */
+        margin-left: auto;                                 /* Centraliza horizontalmente.                        */
+        margin-right: auto;                                /* Centraliza horizontalmente.                        */
+        display: flex;                                     /* Ativa o FLEXBOX para alinhas os itens corretamente no layout da BARRA DE PESQUISA. */
+        flex-direction: column;                            /* Empilha.                                           */
+        align-items: stretch;                              /* Estica itens.                                      */
+        gap: 8px;                                          /* Espaço entre itens.                                */
     }
+
+    /*=====================================================*/ /* BARRA DE PESQUISA - INPUT    e BOTÂO            */
     /*=====================================================*/
-    /* BARRA DE PESQUISA - INPUT    e BOTÂO                      */
-    /*=====================================================*/
-    .barra-pesquisa input[type="text"], .barra-pesquisa button {
+    .barra-pesquisa input[type="text"],
+    .barra-pesquisa button {
         width: 100%;                                       /* Define a largura total que a BARRA DE PESQUISA ocupa. */
-        height: 40px;                                      /* Altura fixa. */
-        margin: 0;                                         /* Remove margens externas padrão dos elementos.     */
-        border-radius: 5px;                                /* Bordas arredondadas. */
+        height: 40px;                                      /* Altura fixa.                                       */
+        margin: 0;                                         /* Remove margens externas padrão dos elementos.      */
+        border-radius: 5px;                                /* Bordas arredondadas.                               */
     }
 
+    /*=====================================================*/ /* BARRA DE PESQUISA - SELECT                      */
     /*=====================================================*/
-    /* BARRA DE PESQUISA - SELECT                         */
-    /*=====================================================*/
-    .barra-pesquisa select { 
+    .barra-pesquisa select {
         width: 100%;                                       /* Define a largura total que a BARRA DE PESQUISA e SELEÇÃO ocupa. */
-        height: 40px;                                      /* Altura fixa. */
+        height: 40px;                                      /* Altura fixa.                                       */
     }
-/*=====================================================*/
-/*         2. MENU DE OPÇÕES (GRID 6 COLUNAS)        */
-/*=====================================================*/
 
-/*=====================================================*/
-/* MENU DE OPÇÕES - CONTAINER                          */
-/*=====================================================*/
-/* Ajustes do container do menu */
-nav {
-    position: static;                                  /* Fluxo normal. */
-    height: auto;                                      /* Altura automática. */
-    padding: 5px;                                      /* Espaço interno. */
-    background: rgba(68, 68, 68, 0.95);               /* Fundo escuro. */
-    flex-direction: column;                            /* Layout em coluna. */
-}
+    /*=====================================================*/ /* 2. MENU DE OPÇÕES (GRID 6 COLUNAS)              */
+    /*=====================================================*/
 
-/*=====================================================*/
-/* MENU DE OPÇÕES - ESCONDER TÍTULO                   */
-/*=====================================================*/
-/* Esconde o título "LIVROS" do menu */
-.titulo-menu { 
-    display: none;                                     /* Esconde título "LIVROS". */
-}
+    /*=====================================================*/
+    /* MENU DE OPÇÕES - CONTAINER                      */
+    /*=====================================================*/ /* Ajustes do container do menu                    */
+    nav {
+        position: static;                                  /* Permite o posicionamento do fluxo normal da BARRA DE MENU SUPERIOR. */
+        height: auto;                                      /* Altura automática.                                 */
+        padding: 5px;                                      /* Espaço interno.                                    */
+        background: rgba(68, 68, 68, 0.95);                /* Fundo escuro.                                      */
+        flex-direction: column;                            /* Layout em coluna.                                  */
+    }
 
-/*=====================================================*/
-    /* MENU DE OPÇÕES - CONTAINER                         */
+    /*=====================================================*/ /* MENU DE OPÇÕES - ESCONDER TÍTULO                */
+    /*=====================================================*/ /* Esconde o título "LIVROS" do menu               */
+    .titulo-menu {
+        display: none;                                     /* Esconde título "LIVROS".                           */
+    }
+
+    /*=====================================================*/ /* MENU DE OPÇÕES - CONTAINER                      */
     /*=====================================================*/
     nav .menu-opcoes {
-        margin-left: 0;                                    /* Remove margem esquerda. */
-        width: 100%;                                           /* Define a largura total que o MENU SUPERIOR DE NAVEGAÇÃO ocupa. */
-        display: grid;                                     /* Grid layout. */
-        grid-template-columns: repeat(6, 1fr);             /* 6 colunas virtuais. */
-        gap: 10px 5px;                                     /* Espaçamento. */
-        padding: 10px;                                     /* Espaço interno. */
+        margin-left: 0;                                    /* Remove margem esquerda.                            */
+        width: 100%;                                       /* Define a largura total que o MENU SUPERIOR DE NAVEGAÇÃO ocupa. */
+        display: grid;                                     /* Grid layout.                                       */
+        grid-template-columns: repeat(6, 1fr);             /* 6 colunas virtuais.                                */
+        gap: 10px 5px;                                     /* Espaçamento.                                       */
+        padding: 10px;                                     /* Espaço interno.                                    */
     }
-     /*=====================================================*/
-    /* MENU DE OPÇÕES - ITENS                             */
+
+    /*=====================================================*/ /* MENU DE OPÇÕES - ITENS                          */
     /*=====================================================*/
     nav .menu-opcoes li {
-        display: flex;                                     /* Layout flexível. */
-        justify-content: center;                           /* Centraliza horizontalmente. */
-        align-items: center;                               /* Centraliza verticalmente. */
-        margin: 0;                                         /* Remove margens externas padrão dos elementos.     */
+        display: flex;                                     /* Ativa o FLEXBOX para alinhas os itens corretamente no layout da opção da BARRA DE MENU SUPERIOR. */
+        justify-content: center;                           /* Centraliza horizontalmente as opções da BARRA DE MENU SUPERIOR. */
+        align-items: center;                               /* Centraliza verticalmente.                          */
+        margin: 0;                                         /* Remove margens externas padrão dos elementos.      */
     }
-/*=====================================================*/
-    /* DISTRIBUIÇÃO DO MENU                               */
+
+    /*=====================================================*/ /* DISTRIBUIÇÃO DO MENU                            */
+    /*=====================================================*/ /* DISTRIBUIÇÃO DO MENU                            */
+                                                           /* Linha 1                                            */
+    nav .menu-opcoes li:nth-child(1) {
+        grid-column: span 3;                               /* Ocupa 3 colunas.                                   */
+        order: 1;                                          /* Ordem de exibição.                                 */
+    }
+
+    nav .menu-opcoes li:nth-child(4) {
+        grid-column: span 3;                               /* Ocupa 3 colunas.                                   */
+        order: 2;                                          /* Ordem de exibição.                                 */
+    }
+
+                                                           /* Linha 2 (Ajustada)                                 */
+    nav .menu-opcoes li:nth-child(5) {
+        grid-column: span 3;                               /* Ocupa 3 colunas.                                   */
+        order: 3;                                          /* Ordem de exibição.                                 */
+        justify-content: flex-end;                         /* Alinha à direita o texto da BARRA DE MENU SUPERIOR.  */
+        padding-right: 2px;                                /* Espaço à direita.                                  */
+        position: relative;                                /* Permite o posicionamento relativo do texto da BARRA DE MENU SUPERIOR. */
+        left: -2px;                                        /* Ajuste horizontal.                                 */
+    }
+
+    nav .menu-opcoes li:nth-child(7) {
+        grid-column: span 3;                               /* Ocupa 3 colunas.                                   */
+        order: 4;                                          /* Ordem de exibição.                                 */
+        justify-content: flex-start;                       /* Alinha à esquerda o texto da BARRA DE MENU SUPERIOR. */
+        padding-left: 2px;                                 /* Espaço à esquerda.                                 */
+        position: relative;                                /* Permite o posicionamento relativo do texto da BARRA DE MENU SUPERIOR. */
+        left: -2px;                                        /* Ajuste horizontal.                                 */
+    }
+
+                                                           /* Linha 3                                            */
+    nav .menu-opcoes li:nth-child(6) {
+        grid-column: span 2;                               /* Ocupa 2 colunas.                                   */
+        order: 5;                                          /* Ordem de exibição.                                 */
+        justify-content: center;                           /* Centraliza horizontalmente as opções da BARRA DE MENU SUPERIOR. */
+        padding: 0;                                        /* Remove o espaçamento interno padrão.               */
+    }
+
+    nav .menu-opcoes li:nth-child(8) {
+        grid-column: span 2;                               /* Ocupa 2 colunas.                                   */
+        order: 6;                                          /* Ordem de exibição.                                 */
+    }
+
+    nav .menu-opcoes li:nth-child(9) {
+        grid-column: span 2;                               /* Ocupa 2 colunas.                                   */
+        order: 7;                                          /* Ordem de exibição.                                 */
+    }
+
+    /*=====================================================*/ /* LINKS DO MENU                                   */
     /*=====================================================*/
-    /* DISTRIBUIÇÃO DO MENU */
-    /* Linha 1 */
-    nav .menu-opcoes li:nth-child(1) { 
-        grid-column: span 3;                               /* Ocupa 3 colunas. */
-        order: 1;                                          /* Ordem de exibição. */
-    }
-    nav .menu-opcoes li:nth-child(4) { 
-        grid-column: span 3;                               /* Ocupa 3 colunas. */
-        order: 2;                                          /* Ordem de exibição. */
-    }
-    
-    /* Linha 2 (Ajustada) */
-    nav .menu-opcoes li:nth-child(5) { 
-        grid-column: span 3;                               /* Ocupa 3 colunas. */
-        order: 3;                                          /* Ordem de exibição. */
-        justify-content: flex-end;                         /* Alinha à direita. */
-        padding-right: 2px;                                /* Espaço à direita. */
-        position: relative;                                /* Posicionamento relativo. */
-        left: -2px;                                        /* Ajuste horizontal. */
-    } 
-    nav .menu-opcoes li:nth-child(7) { 
-        grid-column: span 3;                               /* Ocupa 3 colunas. */
-        order: 4;                                          /* Ordem de exibição. */
-        justify-content: flex-start;                       /* Alinha à esquerda. */
-        padding-left: 2px;                                 /* Espaço à esquerda. */
-        position: relative;                                /* Posicionamento relativo. */
-        left: -2px;                                        /* Ajuste horizontal. */
+    nav .menu-opcoes li a {
+        font-size: 1.2rem;                                 /* Tamanho da fonte.                                  */
+        color: #e0e0e0;                                    /* Define a cor do texto em cinza claro.              */
+        font-weight: bold;                                 /* Deixa o texto em NEGRITO.                          */
+        font-style: italic;                                /* Define o estilo da fonte como ITÁLICO.             */
+        padding: 5px 0;                                    /* Espaço interno vertical.                           */
+        line-height: 1.1;                                  /* Altura da linha.                                   */
+        text-align: center;                                /* Texto centralizado.                                */
+        width: calc(100% - 2px);                           /* Largura calculada.                                 */
+        white-space: nowrap;                               /* Não quebra linha.                                  */
     }
 
-    /* Linha 3 */
-    nav .menu-opcoes li:nth-child(6) { 
-        grid-column: span 2;                               /* Ocupa 2 colunas. */
-        order: 5;                                          /* Ordem de exibição. */
-        justify-content: center;                           /* Centraliza. */
-        padding: 0;                                        /* Remove o espaçamento interno padrão.              */
+    /*=====================================================*/ /* ITEM 1 - AJUSTES ESPECÍFICOS                    */
+    /*=====================================================*/
+    nav .menu-opcoes li:nth-child(1) a {
+        white-space: normal;                               /* Permite quebra de linha.                           */
+        width: min-content;                                /* Largura mínima necessária.                         */
+        margin: 0 auto;                                    /* Centraliza.                                        */
+        line-height: 1;                                    /* Altura da linha.                                   */
     }
-    nav .menu-opcoes li:nth-child(8) { 
-        grid-column: span 2;                               /* Ocupa 2 colunas. */
-        order: 6;                                          /* Ordem de exibição. */
+
+    /*=====================================================*/ /* ITEM 4 - AJUSTES ESPECÍFICOS                    */
+    /*=====================================================*/
+    nav .menu-opcoes li:nth-child(4) a {
+        white-space: normal;                               /* Permite quebra de linha.                           */
+        line-height: 1;                                    /* Altura da linha.                                   */
+        text-align: center;                                /* Texto centralizado.                                */
+        padding-left: 0;                                   /* Remove padding esquerdo.                           */
+        width: 100%;                                       /* Define a largura total que o MENU SUPERIOR DE NAVEGAÇÃO ocupa. */
     }
-    nav .menu-opcoes li:nth-child(9) { 
-        grid-column: span 2;                               /* Ocupa 2 colunas. */
-        order: 7;                                          /* Ordem de exibição. */
+
+    /*=====================================================*/ /* 3. LISTA DE LIVROS (2 COLUNAS)                  */
+    /*=====================================================*/
+    .menu-livros {
+        position: static;                                  /* Permite o posicionamento do fluxo normal do MENU LATERAL DOS LIVROS.                                      */
+        width: 100%;                                       /* Define a largura total que o MENU LATERAL DOS LIVROS ocupa. */
+        height: auto;                                      /* Altura automática.                                 */
+        background-color: rgba(5, 5, 5, 0.95);             /* Define a cor de fundo em preto semi-transparente.  */
+        padding: 15px 10px;                                /* Espaço interno.                                    */
+        border-right: none;                                /* Remove borda direita.                              */
+        border-bottom: 2px solid #555;                     /* Borda inferior.                                    */
+        overflow: visible;                                 /* Permite estouro.                                   */
+        margin-bottom: 5px;                                /* Espaço abaixo.                                     */
     }
-/*=====================================================*/
-/* LINKS DO MENU                                      */
-/*=====================================================*/
-nav .menu-opcoes li a {
-    font-size: 1.2rem;                                     /* Tamanho da fonte. */
-    color: #e0e0e0;                                      /* Define a cor do texto em cinza claro.             */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                         */
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.            */
-    padding: 5px 0;                                        /* Espaço interno vertical. */
-    line-height: 1.1;                                      /* Altura da linha. */
-    text-align: center;                                    /* Texto centralizado. */
-    width: calc(100% - 2px);                               /* Largura calculada. */
-    white-space: nowrap;                                   /* Não quebra linha. */
-}
 
-/*=====================================================*/
-/* ITEM 1 - AJUSTES ESPECÍFICOS                       */
-/*=====================================================*/
-nav .menu-opcoes li:nth-child(1) a { 
-    white-space: normal;                               /* Permite quebra de linha. */
-    width: min-content;                                /* Largura mínima necessária. */
-    margin: 0 auto;                                    /* Centraliza. */
-    line-height: 1;                                    /* Altura da linha. */
-}
+    /*=====================================================*/ /* PSEUDO-ELEMENTO "LIVROS"                        */
+    /*=====================================================*/
+    .menu-livros::before {
+        content: "LIVROS";                                 /* Conteúdo do pseudo-elemento.                       */
+        display: block;                                    /* Exibe como bloco.                                  */
+        color: #fff;                                       /* Define a cor do texto em branca.                   */
+        font-size: 1.8rem;                                 /* Tamanho da fonte.                                  */
+        font-weight: bold;                                 /* Deixa o texto em NEGRITO.                          */
+        margin-bottom: 10px;                               /* Espaço abaixo.                                     */
+        border-bottom: 1px solid #777;                     /* Borda inferior.                                    */
+        padding-bottom: 5px;                               /* Espaço interno inferior.                           */
+        text-align: left;                                  /* Alinha à esquerda.                                 */
+    }
 
-/*=====================================================*/
-/* ITEM 4 - AJUSTES ESPECÍFICOS                       */
-/*=====================================================*/
-nav .menu-opcoes li:nth-child(4) a { 
-    white-space: normal;                               /* Permite quebra de linha. */
-    line-height: 1;                                    /* Altura da linha. */
-    text-align: center;                                /* Texto centralizado. */
-    padding-left: 0;                                   /* Remove padding esquerdo. */
-    width: 100%;                                           /* Define a largura total que o MENU SUPERIOR DE NAVEGAÇÃO ocupa. */
-}
+    /*=====================================================*/ /* LISTA INTERNA                                   */
+    /*=====================================================*/
+    .menu-livros ul {
+        display: grid;                                     /* Layout em grade.                                   */
+        grid-template-columns: 1fr 1fr;                    /* 2 colunas.                                         */
+        gap: 10px 40px;                                    /* Espaçamento.                                       */
+        margin: 0;                                         /* Remove margens externas padrão dos elementos.      */
+        padding: 0;                                        /* Remove o espaçamento interno padrão.               */
+        text-align: left;                                  /* Alinha à esquerda.                                 */
+    }
 
-/*=====================================================*/
-/* 3. LISTA DE LIVROS (2 COLUNAS)                     */
-/*=====================================================*/
-.menu-livros {
-    position: static;                                  /* Fluxo normal. */
-    width: 100%;                                           /* Define a largura total que o MENU LATERAL DOS LIVROS ocupa. */
-    height: auto;                                      /* Altura automática. */
-    background-color: rgba(5, 5, 5, 0.95);                 /* Define a cor de fundo em preto semi-transparente. */
-    padding: 15px 10px;                                /* Espaço interno. */
-    border-right: none;                                /* Remove borda direita. */
-    border-bottom: 2px solid #555;                     /* Borda inferior. */
-    overflow: visible;                                 /* Permite estouro. */
-    margin-bottom: 5px;                                /* Espaço abaixo. */
-}
+    /*=====================================================*/ /* ITENS DA LISTA                                  */
+    /*=====================================================*/
+    .menu-livros li {
+        display: block;                                    /* Exibe como bloco.                                  */
+        margin: 0;                                         /* Remove margens externas padrão dos elementos.      */
+    }
 
-/*=====================================================*/
-/* PSEUDO-ELEMENTO "LIVROS"                            */
-/*=====================================================*/
-.menu-livros::before {
-    content: "LIVROS";                                     /* Conteúdo do pseudo-elemento.                      */
-    display: block;                                        /* Exibe como bloco. */
-    color: #fff;                                         /* Define a cor do texto em branca.                  */
-    font-size: 1.8rem;                                     /* Tamanho da fonte.                                 */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                         */
-    margin-bottom: 10px;                                   /* Espaço abaixo. */
-    border-bottom: 1px solid #777;                       /* Borda inferior. */
-    padding-bottom: 5px;                                   /* Espaço interno inferior. */
-    text-align: left;                                      /* Alinha à esquerda. */
-}
+    /*=====================================================*/ /* LINKS DOS LIVROS                                */
+    /*=====================================================*/
+    .menu-livros a {
+        display: block;                                    /* Exibe como bloco.                                  */
+        color: #fff;                                       /* Define a cor do texto em branca.                   */
+        font-size: 1rem;                                   /* Tamanho da fonte.                                  */
+        font-weight: bold;                                 /* Deixa o texto em NEGRITO.                          */
+        font-style: italic;                                /* Define o estilo da fonte como ITÁLICO.             */
+        text-decoration: none;                             /* Remove sublinhado.                                 */
+        white-space: nowrap;                               /* Não quebra linha.                                  */
+        overflow: hidden;                                  /* Esconde estouro.                                   */
+        text-overflow: ellipsis;                           /* Adiciona reticências.                              */
+    }
 
-/*=====================================================*/
-/* LISTA INTERNA                                       */
-/*=====================================================*/
-.menu-livros ul {
-    display: grid;                                     /* Layout em grade. */
-    grid-template-columns: 1fr 1fr;                    /* 2 colunas. */
-    gap: 10px 40px;                                    /* Espaçamento. */
-    margin: 0;                                         /* Remove margens externas padrão dos elementos. */
-    padding: 0;                                        /* Remove o espaçamento interno padrão. */
-    text-align: left;                                  /* Alinha à esquerda. */
-}
+    /*=====================================================*/ /* HOVER NOS LINKS                                 */
+    /*=====================================================*/
+    .menu-livros a:hover {
+        text-decoration: underline;                        /* Sublinhado no hover.                               */
+        color: #d4ac0d;                                    /* Define a cor do texto em dourado no HOVER.         */
+    }
 
-/*=====================================================*/
-/* ITENS DA LISTA                                      */
-/*=====================================================*/
-.menu-livros li { 
-    display: block;                                    /* Exibe como bloco. */
-    margin: 0;                                         /* Remove margens externas padrão dos elementos. */
-}
+    /*=====================================================*/ /* 4. CONTEÚDO PRINCIPAL (MOBILE)                  */
+    /*=====================================================*/
+    .conteudo {
+        margin-left: 0;                                    /* Remove margem esquerda.                            */
+        margin-top: 0;                                     /* Remove margem superior.                            */
+        padding: 0 5px 10px 5px;                           /* Espaço interno.                                    */
+        height: auto;                                      /* Altura automática.                                 */
+        overflow: visible;                                 /* Permite estouro.                                   */
+        width: 100%;                                       /* Define largura total que o CONTEÚDO ocupa.         */
+    }
 
-/*=====================================================*/
-/* LINKS DOS LIVROS                                    */
-/*=====================================================*/
-.menu-livros a {
-    display: block;                                        /* Exibe como bloco. */
-    color: #fff;                                         /* Define a cor do texto em branca.                  */
-    font-size: 1rem;                                       /* Tamanho da fonte. */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                             */
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.            */
-    text-decoration: none;                                 /* Remove sublinhado. */
-    white-space: nowrap;                                   /* Não quebra linha. */
-    overflow: hidden;                                      /* Esconde estouro. */
-    text-overflow: ellipsis;                               /* Adiciona reticências. */
-}
+    /*=====================================================*/ /* TÍTULOS H2                                      */
+    /*=====================================================*/
+    h2 {
+        margin-left: 0;                                    /* Remove margem esquerda.                            */
+        margin-right: 0;                                   /* Remove margem direita.                             */
+        width: 100%;                                       /* Define largura total que o título H2 ocupa.        */
+        max-width: 100% !important;                        /* Largura máxima forçada.                            */
+        text-align: center;                                /* Centraliza texto.                                  */
+        white-space: normal;                               /* Permite quebra de linha.                           */
+        font-size: 8vw;                                    /* Tamanho responsivo.                                */
+        line-height: 1.1;                                  /* Altura da linha.                                   */
+        overflow: visible;                                 /* Permite estouro.                                   */
+        padding: 0 2px;                                    /* Espaço interno lateral.                            */
+        margin-top: 5px;                                   /* Margem superior.                                   */
+        margin-bottom: 5px;                                /* Margem inferior.                                   */
+    }
 
-/*=====================================================*/
-/* HOVER NOS LINKS                                     */
-/*=====================================================*/
-.menu-livros a:hover { 
-    text-decoration: underline;                        /* Sublinhado no hover. */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourado no HOVER.        */
-}
-/*=====================================================*/
-/* 4. CONTEÚDO PRINCIPAL (MOBILE)                     */
-/*=====================================================*/
-.conteudo {
-    margin-left: 0;                                    /* Remove margem esquerda. */
-    margin-top: 0;                                     /* Remove margem superior. */
-    padding: 0 5px 10px 5px;                           /* Espaço interno. */
-    height: auto;                                      /* Altura automática. */
-    overflow: visible;                                 /* Permite estouro. */
-    width: 100%;                                           /* Define largura total que o CONTEÚDO ocupa.        */
-}
+    /*=====================================================*/ /* TÍTULOS H3                                      */
+    /*=====================================================*/
+    h3 {
+        margin-left: 0;                                    /* Remove margem esquerda.                            */
+        text-align: center;                                /* Centraliza texto.                                  */
+    }
 
-/*=====================================================*/
-/* TÍTULOS H2                                         */
-/*=====================================================*/
-h2 { 
-    margin-left: 0;                                    /* Remove margem esquerda. */
-    margin-right: 0;                                   /* Remove margem direita. */
-    width: 100%;                                           /* Define largura total que o título H2 ocupa.       */
-    max-width: 100% !important;                        /* Largura máxima forçada. */
-    text-align: center;                                /* Centraliza texto. */
-    white-space: normal;                               /* Permite quebra de linha. */
-    font-size: 8vw;                                    /* Tamanho responsivo. */
-    line-height: 1.1;                                  /* Altura da linha. */
-    overflow: visible;                                 /* Permite estouro. */
-    padding: 0 2px;                                    /* Espaço interno lateral. */
-    margin-top: 5px;                                   /* Margem superior. */
-    margin-bottom: 5px;                                /* Margem inferior. */
-}
+    /*=====================================================*/ /* VERSÍCULOS MOBILE E PROTEÇÃO CONTRA CONFLITOS   */
+    /*=====================================================*/
+    .versiculo,
+    .texto-versiculo {
+        width: 100%;                                       /* Define largura total que o texto do VERSÍCULO ocupa. */
+        margin-left: 0;                                    /* Remove margem esquerda.                            */
+        margin-right: 0;                                   /* Remove margem direita.                             */
+        padding: 0 10px;                                   /* Espaço interno lateral.                            */
+        box-sizing: border-box;                            /* Inclui bordas e padding no tamanho total.          */
+    }
 
-/*=====================================================*/
-/* TÍTULOS H3                                         */
-/*=====================================================*/
-h3 {
-    margin-left: 0;                                    /* Remove margem esquerda. */
-    text-align: center;                                /* Centraliza texto. */
-}
+    /*=====================================================*/ /* VERSÍCULOS MOBILE - ESTILO DE CABEÇALHO         */
+    /*=====================================================*/
+    .texto-versiculo h3,
+    .titulo-versiculo-interno {
+        width: 100%;                                       /* Define largura total que o CABEÇALHO ocupa.        */
+        margin: 0 0 20px 0;                                /* Margens.                                           */
+        font-size: 2rem;                                   /* Tamanho da fonte.                                  */
+        line-height: 1.3;                                  /* Altura da linha.                                   */
+        color: #4CAF50;                                    /* Define a cor do texto em verde.                    */
+        text-align: center;                                /* Centraliza texto.                                  */
+        text-transform: uppercase;                         /* Texto em maiúsculas.                               */
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);       /* Sombra do texto.                                   */
+    }
 
-/*=====================================================*/
-/* VERSÍCULOS MOBILE E PROTEÇÃO CONTRA CONFLITOS      */
-/*=====================================================*/
-.versiculo, .texto-versiculo {
-    width: 100%;                                       /* Define largura total que o texto do VERSÍCULO ocupa.  */
-    margin-left: 0;                                    /* Remove margem esquerda. */
-    margin-right: 0;                                   /* Remove margem direita. */
-    padding: 0 10px;                                   /* Espaço interno lateral. */
-    box-sizing: border-box;                            /* Inclui bordas e padding no tamanho total. */
-}
+    /*=====================================================*/ /* VERSÍCULOS MOBILE - PARÁGRAFOS                  */
+    /*=====================================================*/
+    .texto-versiculo p {
+        width: 100%;                                       /* Define largura total que o PARÁGRAFO ocupa.        */
+        font-size: 1.9rem;                                 /* Tamanho da fonte.                                  */
+        padding: 0;                                        /* Remove padding interno.                            */
+        text-align: center;                                /* Centraliza texto.                                  */
+        margin: 0;                                         /* Remove margens externas padrão.                    */
+    }
 
-/*=====================================================*/
-/* VERSÍCULOS MOBILE - ESTILO DE CABEÇALHO           */
-/*=====================================================*/
-.texto-versiculo h3, .titulo-versiculo-interno {
-    width: 100%;                                           /* Define largura total que o CABEÇALHO ocupa.       */
-    margin: 0 0 20px 0;                                /* Margens. */
-    font-size: 2rem;                                   /* Tamanho da fonte. */
-    line-height: 1.3;                                  /* Altura da linha. */
-    color: #4CAF50;                                        /* Define a cor do texto em verde.                   */
-    text-align: center;                                /* Centraliza texto. */
-    text-transform: uppercase;                         /* Texto em maiúsculas. */
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);      /* Sombra do texto. */
-}
+    /*=====================================================*/ /* BOTÕES DE CAPÍTULOS (MOBILE)                    */
+    /*=====================================================*/
+    .capitulos {
+        margin: 0 auto;                                    /* Centraliza horizontalmente.                        */
+        padding: 10px 5px;                                 /* Espaço interno.                                    */
+        max-width: 100%;                                   /* Largura máxima.                                    */
+        width: 100%;                                       /* Define largura total que os BOTÕES DE CAPÍTULOS ocupa. */
+        display: grid;                                     /* Layout em grade.                                   */
+        grid-template-columns: repeat(5, 1fr);             /* 5 colunas iguais.                                  */
+        gap: 5px;                                          /* Espaçamento.                                       */
+        justify-content: center;                           /* Centraliza horizontalmente os BOTÕES DOS CAPÍTULOS */
+    }
 
-/*=====================================================*/
-/* VERSÍCULOS MOBILE - PARÁGRAFOS                     */
-/*=====================================================*/
-.texto-versiculo p {
-    width: 100%;                                           /* Define largura total que o PARÁGRAFO ocupa.       */
-    font-size: 1.9rem;                                 /* Tamanho da fonte. */
-    padding: 0;                                        /* Remove padding interno. */
-    text-align: center;                                /* Centraliza texto. */
-    margin: 0;                                         /* Remove margens externas padrão. */
-}
+    .capitulos button,
+    .botao-capitulo {
+        width: 100%;                                       /* Define largura total que os BOTÕES DE CAPÍTULOS ocupa. */
+        margin: 0;                                         /* Remove margens externas padrão.                    */
+        padding: 10px 0;                                   /* Espaço interno vertical.                           */
+        font-size: 1.6rem;                                 /* Tamanho da fonte.                                  */
+        font-weight: bold;                                 /* Deixa o texto em NEGRITO.                          */
+        border-radius: 8px;                                /* Bordas arredondadas.                               */
+    }
 
-/*=====================================================*/
-/* BOTÕES DE CAPÍTULOS (MOBILE)                        */
-/*=====================================================*/
-.capitulos {
-    margin: 0 auto;                                    /* Centraliza horizontalmente. */
-    padding: 10px 5px;                                 /* Espaço interno. */
-    max-width: 100%;                                   /* Largura máxima. */
-    width: 100%;                                           /* Define largura total que os BOTÕES DE CAPÍTULOS ocupa. */
-    display: grid;                                     /* Layout em grade. */
-    grid-template-columns: repeat(5, 1fr);             /* 5 colunas iguais. */
-    gap: 5px;                                          /* Espaçamento. */
-    justify-content: center;                           /* Centraliza conteúdo. */
-}
+    /*=====================================================*/ /* BOTÕES DE VERSÍCULOS (MOBILE)                   */
+    /*=====================================================*/
+    .versiculos {
+        margin: 0 auto;                                    /* Centraliza horizontalmente.                        */
+        padding: 10px 5px;                                 /* Espaço interno.                                    */
+        max-width: 100%;                                   /* Largura máxima.                                    */
+        width: 100%;                                       /* Define largura total que os BOTÕES DE VERSÍCULOS ocupa. */
+        display: grid;                                     /* Layout em grade.                                   */
+        grid-template-columns: repeat(5, 1fr);             /* 5 colunas iguais.                                  */
+        gap: 5px;                                          /* Espaçamento.                                       */
+        justify-content: center;                           /* Centraliza horizontalmente os BOTÕES DOS VERSÍCULOS. */
 
-.capitulos button, .botao-capitulo {
-    width: 100%;                                           /* Define largura total que os BOTÕES DE CAPÍTULOS ocupa. */
-    margin: 0;                                             /* Remove margens externas padrão. */
-    padding: 10px 0;                                       /* Espaço interno vertical. */
-    font-size: 1.6rem;                                     /* Tamanho da fonte.                                 */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                         */
-    border-radius: 8px;                                    /* Bordas arredondadas.                              */
-}
+    .botao-versiculo {
+        width: 100%;                                       /* Define largura total que os BOTÕES DE VERSÍCULOS ocupa. */
+        margin: 0;                                         /* Remove margens externas padrão.                    */
+        padding: 10px 0;                                   /* Espaço interno vertical.                           */
+        font-size: 1.6rem;                                 /* Tamanho da fonte.                                  */
+        font-weight: bold;                                 /* Deixa o texto em NEGRITO.                          */
+        border-radius: 8px;                                /* Bordas arredondadas.                               */
+    }
 
-/*=====================================================*/
-/* BOTÕES DE VERSÍCULOS (MOBILE)                       */
-/*=====================================================*/
-.versiculos {
-    margin: 0 auto;                                    /* Centraliza horizontalmente. */
-    padding: 10px 5px;                                 /* Espaço interno. */
-    max-width: 100%;                                   /* Largura máxima. */
-    width: 100%;                                           /* Define largura total que os BOTÕES DE VERSÍCULOS ocupa. */
-    display: grid;                                     /* Layout em grade. */
-    grid-template-columns: repeat(5, 1fr);             /* 5 colunas iguais. */
-    gap: 5px;                                          /* Espaçamento. */
-    justify-content: center;                           /* Centraliza conteúdo. */
-}
+    /*=====================================================*/ /* CONTAINER DE PALAVRAS DO VERSÍCULO              */
+    /*=====================================================*/
+    .versiculo .palavras-container {
+        justify-content: center;                           /* Centraliza horizontalmente o texto dos VERSICULOS. */
+        margin: 15px 0;                                    /* Margem vertical.                                   */
+        gap: 8px;                                          /* Espaçamento.                                       */
+    }
 
-.botao-versiculo {
-    width: 100%;                                           /* Define largura total que os BOTÕES DE VERSÍCULOS ocupa. */
-    margin: 0;                                             /* Remove margens externas padrão. */
-    padding: 10px 0;                                       /* Espaço interno vertical. */
-    font-size: 1.6rem;                                     /* Tamanho da fonte. */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                         */
-    border-radius: 8px;                                    /* Bordas arredondadas. */
-}
+    .versiculo .word-detail-item {
+        width: 48%;                                        /* Largura de 48%.                                    */
+        align-items: center;                               /* Centraliza verticalmente.                          */
+    }
 
-/*=====================================================*/
-/* CONTAINER DE PALAVRAS DO VERSÍCULO                 */
-/*=====================================================*/
-.versiculo .palavras-container { 
-    justify-content: center;                           /* Centraliza conteúdo. */
-    margin: 15px 0;                                    /* Margem vertical. */
-    gap: 8px;                                          /* Espaçamento. */
-}
-
-.versiculo .word-detail-item { 
-    width: 48%;                                        /* Largura de 48%. */
-    align-items: center;                               /* Centraliza verticalmente. */
-}
-
-.versiculo .word-detail-item > div { 
-    text-align: center;                                /* Centraliza texto. */
-}
+    .versiculo .word-detail-item>div {
+        text-align: center;                                /* Centraliza texto.                                  */
+    }
 
 }
