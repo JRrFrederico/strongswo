@@ -7,7 +7,7 @@
 
 /*======================================================*/
 /*            CONFIGURAÇÃO INICIAL (RESET)              */
-/*    Remove margens e PADDING padrão para garantir    */
+/*    Remove margens e PADDING padrão para garantir     */
 /*           consistência entre navegadores.            */
 /*======================================================*/
 * {
@@ -22,14 +22,14 @@
 /*           para ocupar toda a altura da tela.         */
 /*======================================================*/
 body {
-    width: 100%;                                           /* Define largura total que o CONTÊINER PRINCIPAL ocupa. */
-    margin: 0;                                             /* Remove margens externas padrão dos elementos.      */
-    background-color: #181818;                           /* Define a cor de fundo em cinza escuro.             */
-    color: #fff;                                         /* Define a cor do texto em branco.                   */
-    font-family: sans-serif;                               /* Define o tipo de fonte como SANS-SERIF.            */
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.             */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                          */
-    overflow-x: hidden;                                    /* Oculta o conteúdo excedente na horizontal e desativa a rolagem. */
+    width: 100%;                                           /* Define largura total que o CONTÊINER PRINCIPAL ocupa.                */
+    margin: 0;                                             /* Remove margens externas padrão dos elementos do CONTÊINER PRINCIPAL. */
+    background-color: #181818;                           /* Define a cor de fundo em cinza escuro do CONTÊINER PRINCIPAL.        */
+    color: #fff;                                         /* Define a cor do texto em branco do CONTÊINER PRINCIPAL.              */
+    font-family: SANS-SERIF;                               /* Define o tipo de fonte como SANS-SERIF do CONTÊINER PRINCIPAL.       */
+    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO do CONTÊINER PRINCIPAL.        */
+    font-weight: bold;                                     /* Deixa o texto em NEGRITO do CONTÊINER PRINCIPAL.                     */
+    overflow-x: hidden;                                    /* Oculta o conteúdo excedente na horizontal e desativa a rolagem do CONTÊINER PRINCIPAL. */
 }
 
 /*=====================================================*/
@@ -37,8 +37,8 @@ body {
 /*   Header, títulos principais e seletor de versão    */
 /*=====================================================*/
 header {
-    width: 100%;                                           /* Define a largura total que o CABEÇALHO ocupa.     */
-    position: relative;                                    /* Permite o posicionamento relativo do CABEÇALHO e do TÍTULO.    */
+    width: 100%;                                           /* Define a largura total que o CABEÇALHO e o TÍTULO ocupa.     */
+    position: relative;                                    /* Permite o posicionamento relativo do CABEÇALHO e do TÍTULO.  */
 }
 
 /*=====================================================*/
@@ -58,12 +58,12 @@ header {
 /*    Estilo do título principal da versão bíblica                         */
 /*=========================================================================*/
 #titulo-principal-versao {
-    margin: 0;                                             /* Remove margens externas padrão do TITULO PRINCIPAL.*/
-    margin-left: 30px;                                     /* Define o espaço à esquerda do TITULO PRINCIPAL.    */
+    margin: 0;                                             /* Remove margens externas padrão do TITULO PRINCIPAL.       */
+    margin-left: 30px;                                     /* Define o espaço à esquerda do TITULO PRINCIPAL.           */
     /* Alinha a baixo define o tipo de fonte como SEGOE UI, TAHOMA, GENEVA, VERDANA, SANS-SERIF */
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 2.5rem;                                     /* Define o tamanho da fonte do TITULO PRINCIPAL.    */
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO no TITULO PRINCIPAL. */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, SANS-SERIF;
+    font-size: 2.5rem;                                     /* Define o tamanho da fonte do TITULO PRINCIPAL.             */
+    /*font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO no TITULO PRINCIPAL. */
     color: #d4ac0d;                                      /* Define a cor do texto em dourada do TITULO PRINCIPAL.      */
     font-weight: 700;                                      /* Deixa o texto em NEGRITO FORTE do TITULO PRINCIPAL.        */
 }
@@ -74,11 +74,11 @@ header {
 /*    Exibe o nome extenso da versão bíblica                                */
 /*=========================================================================*/
 #subtitulo-versao-extenso {
-    margin-top: 1px;                                       /* Espaço mínimo acima.                               */
-    margin-bottom: 0.5px;                                  /* Espaço mínimo abaixo.                              */
-    margin-left: 295px;                                    /* Define o espaço a esquerda do subtitulo da VERSÃO.*/
-    font-size: 1.5em;                                      /* Tamanho médio.                                     */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourada.                  */
+    margin-top: 1px;                                       /* Espaço mínimo acima.                                     */
+    margin-bottom: 0.5px;                                  /* Espaço mínimo abaixo.                                    */
+    margin-left: 295px;                                    /* Define o espaço a esquerda do SUBTITULO DA VERSÃO.       */
+    font-size: 1.5em;                                      /* Define o tamanho da fonte do SUBTÍTULO DA VERSÃO.        */
+    color: #d4ac0d;                                      /* Define a cor do texto em dourada do SUBTÍTULO DA VERSÃO. */
 }
 
 
@@ -98,52 +98,51 @@ header {
 /*    Seleção de livro, capítulo ou versículo                               */
 /*=========================================================================*/
 .barra-pesquisa select {
-    width: auto;                                           /* Largura automática.                                */
-    margin-right: 5px;                                     /* Espaço à direita.                                  */
-    padding: 8px;                                          /* Espaço interno.                                    */
-    background-color: #383838;                             /* Define a cor de fundo em cinza escuro.             */
-    border: 1px solid #fff;                                /* Borda branca.                                      */
-    border-radius: 5px;                                    /* Cantos arredondados.                               */
-    color: #fff;                                           /* Define a cor do texto em branco.                   */
-    font-size: 16px;                                       /* Tamanho legível.                                   */
+    width: auto;                                           /* Largura automática.                                   */
+    margin-right: 5px;                                     /* Espaço à direita.                                     */
+    padding: 8px;                                          /* Espaço interno.                                       */
+    background-color: #383838;                           /* Define a cor de fundo em cinza escuro da BARRA DE PESQUISA. */
+    border: 1px solid #fff;                              /* Borda branca.                                         */
+    border-radius: 5px;                                    /* Cantos arredondados.                                  */
+    /*color: #fff;                                         /* Define a cor do texto em branco na BARRA DE PESQUISA. */
+    font-size: 16px;                                       /* Define o tamanho da fonte da BARRA DE PESQUISA.       */
 }
 
 
-/*=========================================================================*/
-/*                    BARRA DE PESQUISA — CAMPO TEXTO                     */
-/*    Entrada manual de busca                                              */
-/*=========================================================================*/
+/*======================================================*/
+/*           BARRA DE PESQUISA — CAMPO TEXTO            */
+/*               Entrada manual de busca                */
+/*======================================================*/
 .barra-pesquisa input[type="text"] {
     width: 200px;                                          /* Largura fixa.                                      */
     margin-right: 10px;                                    /* Espaço à direita.                                  */
     padding: 8px;                                          /* Espaço interno.                                    */
-    background-color: #383838;                             /* Define a cor de fundo em cinza escuro.             */
+    background-color: #383838;                           /* Define a cor de fundo em cinza escuro da BARRA DE PESQUISA. */
     border: 1px solid #fff;                                /* Borda branca.                                      */
     border-radius: 5px;                                    /* Cantos arredondados.                               */
-    color: #fff;                                           /* Define a cor do texto em branco.                   */
-    font-size: 16px;                                       /* Tamanho legível.                                   */
+    color: #fff;                                         /* Define a cor do texto em branco na BARRA DE PESQUISA.       */
+    font-size: 16px;                                       /* Define o tamanho da fonte na BARRA DE PESQUISA NO INPUT.    */
 }
 
 
-/*=========================================================================*/
-/*                    BARRA DE PESQUISA — BOTÃO                           */
-/*    Aciona a busca do texto bíblico                                      */
-/*=========================================================================*/
+/*======================================================*/
+/*              BARRA DE PESQUISA — BOTÃO               */
+/*           Aciona a busca do texto bíblico            */
+/*======================================================*/
 .barra-pesquisa button {
     padding: 8px 15px;                                     /* Espaço interno.                                    */
-    background-color: #4CAF50;                             /* Define a cor de fundo em verde claro.              */
+    background-color: #4CAF50;                           /* Define a cor de fundo em verde claro do BOTÃO DA BARRA DE PESQUISA. */
     border: 1px solid #fff;                                /* Borda branca.                                      */
     border-radius: 5px;                                    /* Cantos arredondados.                               */
-    color: white;                                          /* Define a cor do texto em branco.                   */
-    font-size: 1.6rem;                                     /* Tamanho da fonte.                                  */
+    color: white;                                        /* Define a cor do texto em branco do BOTÃO DA BARRA DE PESQUISA.      */
+    font-size: 1.6rem;                                     /* Define o tamanho da fonte do BOTÃO DA BARRA DE PESQUISA.            */
     cursor: pointer;                                       /* Cursor de ação.                                    */
 }
 
-
-/*=========================================================================*/
-/*                    MENU SUPERIOR — NAVEGAÇÃO                           */
-/*    Barra fixa com menus e links principais                              */
-/*=========================================================================*/
+/*======================================================*/
+/*              MENU SUPERIOR — NAVEGAÇÃO               */
+/*       Barra fixa com menus e links principais        */
+/*======================================================*/
 nav {
     position: fixed;                                       /* Permite o posicionamento fixo da BARRA DE MENU SUPERIOR no topo. */
     top: 110px;                                            /* Distância do topo.                                */
@@ -185,20 +184,19 @@ nav .menu-opcoes li {
 }
 
 
-/*=========================================================================*/
-/*                    MENU SUPERIOR — LINK                                */
-/*    Estilo dos links navegáveis                                         */
-/*=========================================================================*/
+/*======================================================*/
+/*                 MENU SUPERIOR — LINK                 */
+/*             Estilo dos links navegáveis              */
+/*======================================================*/
 nav .menu-opcoes li a {
     display: inline-block;                                 /* Bloco em linha.                                    */
     padding: 4px 4px;                                      /* Espaço interno.                                    */
     border-radius: 5px;                                    /* Bordas arredondadas.                               */
     text-decoration: none;                                 /* Remove sublinhado.                                 */
-    color: white;                                          /* Define a cor do texto em branco.                   */
-    font-size: 1.2vw;                                      /* Fonte responsiva desktop.                          */
+    color: white;                                        /* Define a cor do texto em branco do MENU SUPERIOR.  */
+    font-size: 1.2vw;                                      /* Define o tamanho da fonte do MENU SUPERIOR de forma responsiva. */
     transition: background 0.3s ease;                      /* Transição suave.                                   */
 }
-
 
 /*=========================================================================*/
 /*                    MENU SUPERIOR — HOVER                               */
@@ -209,24 +207,24 @@ nav .menu-opcoes li a:hover {
 }
 
 
-/*=========================================================================*/
-/*                    TÍTULO DO MENU                                      */
-/*    Identificador visual da seção de livros                             */
-/*=========================================================================*/
+/*======================================================*/
+/*                    TÍTULO DO MENU                    */
+/*       Identificador visual da seção de livros        */
+/*======================================================*/
 .titulo-menu {
-    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout do TITULO DO MENU. */
-    margin-left: 37px;                                     /* Define o espaço à esquerda do MENU LATERAL DOS LIVROS.*/
-    margin-right: 20px;                                    /* Margem direita.                                   */
-    align-items: center;                                   /* Centraliza verticalmente o TITULO DO MENU LATERAL DOS LIVROS.*/
-    color: white;                                        /* Define a cor do texto em branco.                  */
-    font-size: 1.5vw;                                      /* Fonte responsiva.                                 */
+    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout do TITULO DO MENU.    */
+    margin-left: 37px;                                     /* Define o espaço à esquerda do MENU LATERAL DOS LIVROS.                             */
+    margin-right: 20px;                                    /* Margem direita.                                              */
+    align-items: center;                                   /* Centraliza verticalmente o TITULO DO MENU LATERAL DOS LIVROS.                       */
+    /*color: white;                                        /* Define a cor do texto em branco do TITULO DO MENU LATERAL DOS LIVROS.               */
+    font-size: 1.5vw;                                      /* Define o tamanho da fonte do TITULO DO MENU LATERAL DOS LIVROS de forma responsiva. */
 }
 
 
-/*=========================================================================*/
-/*                    MENU SUSPENSO (DROPDOWN)                              */
-/*    Estrutura base do menu suspenso                                      */
-/*=========================================================================*/
+/*======================================================*/
+/*               MENU SUSPENSO (DROPDOWN)               */
+/*           Estrutura base do menu suspenso            */
+/*======================================================*/
 .meu-suspenso {
     position: relative;                                    /* Permite o posicionamento relativo do MENU SUSPENSO (DROPDOWN). */
     display: inline-block;                                 /* Exibe como bloco em linha.                        */
@@ -266,7 +264,7 @@ nav .menu-opcoes li a:hover {
 .conteudo-menu-suspenso li a {
     display: block;                                        /* Ocupa toda a largura.                              */
     padding: 6px 8px;                                      /* Espaço interno.                                    */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                  */
+    color: #d4ac0d !important;                                       /* Define a cor do texto em dourado.                  */
     text-decoration: none;                                 /* Remove sublinhado.                                 */
 }
 
@@ -296,7 +294,7 @@ nav .menu-opcoes li a:hover {
     margin-right: 20px;                                    /* Espaço à direita.                                  */
     padding: 18px;                                         /* Espaço interno.                                    */
     background-color: #181818;                             /* Define a cor de fundo em cinza escuro.             */
-    color: #fff;                                           /* Define a cor do texto em branco.                   */
+    /*color: #fff;                                           /* Define a cor do texto em branco.                   */
     overflow-y: auto;                                      /* Rolagem vertical automática.                       */
 }
 
@@ -310,35 +308,35 @@ nav .menu-opcoes li a:hover {
 }
 
 
-/*=========================================================================*/
-/*                    MENU LATERAL — ITEM                                  */
-/*=========================================================================*/
+/*======================================================*/
+/*                 MENU LATERAL — ITEM                  */
+/*======================================================*/
 .menu-livros li {
-    margin-bottom: 10px;                                   /* Espaço entre itens.                                */
+    margin-bottom: 10px;                                   /* Espaço entre itens.                               */
 }
 
 
-/*=========================================================================*/
-/*                    MENU LATERAL — LINK                                  */
-/*=========================================================================*/
+/*======================================================*/
+/*                 MENU LATERAL — LINK                  */
+/*======================================================*/
 .menu-livros a {
     text-decoration: none;                                 /* Remove sublinhado.                                 */
-    color: #fcf9f9;                                        /* Define a cor do texto em branco gelo.              */
-    font-size: 1.1rem;                                     /* Tamanho desktop.                                   */
+    color: #fcf9f9;                                      /* Define a cor do texto em branco gelo do do link do MENU LATERAL DOS LIVROS. */
+    font-size: 1.1rem;                                     /* Define o tamanho da fonte dos links do MENU LATERAL DOS LIVROS.             */
 }
 
 
-/*=========================================================================*/
-/*                    MENU LATERAL — HOVER                                 */
-/*=========================================================================*/
+/*======================================================*/
+/*                 MENU LATERAL — HOVER                 */
+/*======================================================*/
 .menu-livros a:hover {
     text-decoration: underline;                            /* Destaque visual.                                   */
 }
 
 
-/*=========================================================================*/
-/*                    SCROLLBAR — MENU LATERAL                             */
-/*=========================================================================*/
+/*======================================================*/
+/*               SCROLLBAR — MENU LATERAL               */
+/*======================================================*/
 .menu-livros::-webkit-scrollbar {
     width: 12px;                                           /* Largura da barra.                                  */
 }
@@ -388,31 +386,31 @@ nav .menu-opcoes li a:hover {
 }
 
 
-/*=========================================================================*/
-/*                    TÍTULOS (H2)                                         */
-/*    Cabeçalho principal das seções                                       */
-/*=========================================================================*/
+/*======================================================*/
+/*                     TÍTULOS (H2)                     */
+/*            Cabeçalho principal das seções            */
+/*======================================================*/
 h2 {
-    margin-top: 30px;                                      /* Espaço superior.                                   */
-    margin-bottom: 30px;                                   /* Espaço inferior.                                   */
-    margin-left: 150px;                                    /* Define o espaço à esquerda do TITULO DA VERSÃO.    */
-    width: 100%;                                           /* Define a largura total que o titulo H2 ocupa.      */
-    max-width: 100%;                                       /* Sem limite.                                        */
-    font-size: 2.5vw;                                      /* Fonte responsiva.                                  */
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.             */
-    text-align: center;                                    /* Centralizado.                                      */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                  */
+    margin-top: 30px;                                      /* Espaço superior.                                    */
+    margin-bottom: 30px;                                   /* Espaço inferior.                                    */
+    margin-left: 150px;                                    /* Define o espaço à esquerda do TITULO DA VERSÃO.     */
+    width: 100%;                                           /* Define a largura total que o TITULO DA VERSÃO ocupa. */
+    max-width: 100%;                                       /* Sem limite.                                          */
+    font-size: 2.5vw;                                      /* Define o tamanho da fonte do TITULO DA VERSÃO de forma responsiva. */
+    /*font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO do TITULO DA VERSÃO.         */
+    text-align: center;                                    /* Centralizado.                                         */
+    color: #d4ac0d;                                      /* Define a cor do texto em dourado do TITULO DA VERSÃO. */
 }
 
 
-/*=========================================================================*/
-/*                    TÍTULOS (H3)                                         */
-/*    Subtítulos e marcações visuais                                       */
-/*=========================================================================*/
+/*======================================================*/
+/*                     TÍTULOS (H3)                     */
+/*            Subtítulos e marcações visuais            */
+/*======================================================*/
 h3 {
-    margin: 10px 0 0 30px;                                 /* Margem superior de 10px e recuo à esquerda de 30px (Topo, Dir, Inf, Esq) para separar o TITULO sobre os botões. */ 
-    font-size: 11.5em;                                     /* Tamanho muito grande.                              */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                  */
+    margin: 10px 0 0 30px;                                   /* Margem superior de 10px e recuo à esquerda de 30px (Topo, Dir, Inf, Esq) para separar o TITULO sobre os botões. */ 
+    font-size: 11.5em;                                       /* Define o tamanho da fonte do TITULO sobre os botões.          */
+    color: #d4ac0d;                                        /* Define a cor do texto em dourado do TITULO sobre os botões.   */
 }
 
 
@@ -443,55 +441,51 @@ h3 {
     margin-bottom: 20px;                                   /* Espaço entre versículos.                           */
 }
 
-
 /*=========================================================================*/
 /*                    TÍTULO INTERNO DO VERSÍCULO                          */
 /*    Destaque temático do versículo (ex: “No Princípio”)                  */
 /*=========================================================================*/
 .titulo-versiculo-interno {
-    color: #d4ac0d;                                      /* Define a cor do texto em dourada.                  */
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.             */
+    color: #d4ac0d;                                      /* Define a cor do texto em dourada do TITULO DO VERSÍCULO.      */
+    /*font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO do TITULO DO VERSÍCULO. */
     margin-bottom: 15px;                                   /* Espaço inferior.                                   */
     margin-top: 15px;                                      /* Espaço superior.                                   */
-    margin-left: 30px;                                     /* Define o espaço à esquerda do TITULO DO VERSÍCULO na area principal acima dos botões. */
-    font-size: 1.5rem;                                     /* Tamanho da fonte.                                  */
+    margin-left: 30px;                                     /* Define o espaço à esquerda do TITULO DO VERSÍCULO. */
+    font-size: 1.5rem;                                     /* Define o tamanho da fonte do TITULO DO VERSÍCULO.  */
 }
 
-
-/*=========================================================================*/
-/*                    TEXTO DO VERSÍCULO                                   */
-/*    Estilo do parágrafo bíblico principal                                */
-/*=========================================================================*/
+/*======================================================*/
+/*                  TEXTO DO VERSÍCULO                  */
+/*        Estilo do parágrafo bíblico principal         */
+/*======================================================*/
 .texto-versiculo p {
-    font-size: 3rem;                                       /* Fonte grande para leitura.                         */
+    font-size: 3rem;                                       /* Define o tamanho da fonte do texto do VERSÍCULO.   */
     line-height: 1.1;                                      /* Altura de linha compacta.                          */
-    color: #f0f0f0;                                        /* Define a cor do texto em branco gelo.              */
+    color: #f0f0f0;                                      /* Define a cor do texto em branco gelo do VERSÍCULO. */
     text-align: justify;                                   /* Texto justificado.                                 */
     margin: 0;                                             /* Remove margens externas padrão do texto do VERSÍCULO. */
     padding: 0 10px;                                       /* Espaçamento lateral interno.                       */
 }
 
-
-/*=========================================================================*/
-/*                    TEXTO ORIGINAL (HEBRAICO)                             */
-/*    Palavras, transliteração e tradução palavra a palavra                */
-/*=========================================================================*/
+/*=======================================================*/
+/*              TEXTO ORIGINAL (HEBRAICO)                */
+/* Palavras, transliteração e tradução palavra a palavra */
+/*=======================================================*/
 .versiculo .traducao-completa {
-    font-weight: bold;                                     /* Define o texto em NEGRITO.                         */
+    /*font-weight: bold;                                     /* Define o texto em NEGRITO do TEXTO DO VERSÍCULO.           */
     margin-bottom: 15px;                                   /* Espaço abaixo.                                     */
     display: block;                                        /* Exibe como bloco.                                  */
-    font-size: 1.1em;                                      /* Tamanho da fonte.                                  */
-    color: #f8f8f8;                                        /* Define a cor do texto em branca gelo.              */
-    margin-left: 30px;                                     /* Define o espaço à esquerda das opções da BARRA DO MENU SUPERIOR.*/
+    font-size: 1.1em;                                      /* Define o tamanho da fonte do TEXTO DO VERSÍCULO.            */
+    color: #f8f8f8;                                      /* Define a cor do texto em branca gelo do TEXTO DO VERSÍCULO. */
+    margin-left: 30px;                                     /* Define o espaço à esquerda das opções do TEXTO DO VERSÍCULO.*/
     margin-right: 30px;                                    /* Margem direita.                                    */
     text-align: justify;                                   /* Texto justificado.                                 */
 }
 
-
-/*=========================================================================*/
-/*                    CONTAINER DAS PALAVRAS                               */
-/*    Organiza as palavras hebraicas em layout flexível RTL                */
-/*=========================================================================*/
+/*=======================================================*/
+/*                CONTAINER DAS PALAVRAS                 */
+/* Organiza as palavras hebraicas em layout flexível RTL */
+/*=======================================================*/
 .versiculo .palavras-container {
     display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout da exibição dos VERSÍCULOS. */
     flex-wrap: wrap;                                       /* Permite quebra de linha dos itens.                */
@@ -522,10 +516,10 @@ h3 {
 }
 
 
-/*=========================================================================*/
-/*                    LINHAS INTERNAS DO ITEM                               */
-/*    Controla alinhamento e espaçamento de cada linha                     */
-/*=========================================================================*/
+/*=======================================================*/
+/*                LINHAS INTERNAS DO ITEM                */
+/*   Controla alinhamento e espaçamento de cada linha    */
+/*=======================================================*/
 .versiculo .word-detail-item>div {
     display: block;                                        /* Exibe como bloco.                                  */
     margin-bottom: 4px;                                    /* Espaço abaixo.                                     */
@@ -535,44 +529,44 @@ h3 {
 }
 
 
-/*=========================================================================*/
-/*                    TEXTO HEBRAICO                                        */
-/*    Destaque visual do texto original                                    */
-/*=========================================================================*/
+/*======================================================*/
+/*                    TEXTO HEBRAICO                    */
+/*          Destaque visual do texto original           */
+/*======================================================*/
 .versiculo .hebraico-text {
-    font-family: "Noto Sans Hebrew", serif;                /* Define o tipo de fonte como hebraica.              */
-    font-size: 1.4em;                                      /* Tamanho da fonte.                                  */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourada.                  */
-    font-weight: 700;                                      /* Deixa o texto em NEGRITO FORTE.                    */
+    font-family: "Noto Sans Hebrew", serif;                /* Define o tipo de fonte como hebraica.                   */
+    font-size: 1.4em;                                      /* Define o tamanho da fonte do TEXTO DO VERSÍCULO.        */
+    color: #d4ac0d;                                      /* Define a cor do texto em dourada do TEXTO DO VERSÍCULO. */
+    font-weight: 700;                                      /* Define o texto em NEGRITO do VERSÍCULO.                 */
 }
 
 
-/*=========================================================================*/
-/*                    TEXTO TRANSLITERADO                                   */
-/*    Representação fonética do hebraico                                   */
-/*=========================================================================*/
+/*======================================================*/
+/*                 TEXTO TRANSLITERADO                  */
+/*          Representação fonética do hebraico          */
+/*======================================================*/
 .versiculo .transliteral-text {
-    font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO.             */
-    color: #aaa;                                           /* Define a cor do texto em cinza claro.              */
-    font-size: 0.9em;                                      /* Tamanho da fonte.                                  */
+    /*font-style: italic;                                    /* Define o estilo da fonte como ITÁLICO do VERSÍCULO.*/
+    color: #aaa;                                         /* Define a cor do texto em cinza claro do VERSÍCULO. */
+    font-size: 0.9em;                                      /* Define o tamanho da fonte do TEXTO DO VERSÍCULO.   */
 }
 
 
-/*=========================================================================*/
-/*                    TRADUÇÃO DA PALAVRA                                   */
-/*    Significado da palavra em português                                  */
-/*=========================================================================*/
+/*======================================================*/
+/*                 TRADUÇÃO DA PALAVRA                  */
+/*         Significado da palavra em português          */
+/*======================================================*/
 .versiculo .traducao-palavra-text {
-    font-weight: normal;                                   /* Deixa o texto em NORMAL.                           */
-    color: #f8f8f8;                                        /* Define a cor do texto em branca gelo.              */
-    font-size: 1em;                                        /* Tamanho da fonte.                                  */
+    font-weight: normal;                                   /* Define o texto em NORMAL do VERSÍCULO.             */
+    color: #f8f8f8;                                      /* Define a cor do texto em branca gelo do VERSÍCULO. */
+    font-size: 1em;                                        /* Define o tamanho da fonte do TEXTO DO VERSÍCULO.   */
 }
 
 
-/*=========================================================================*/
-/*                    MODO LEITURA — ITEM DA PALAVRA                        */
-/*    Ajustes visuais para leitura contínua                                 */
-/*=========================================================================*/
+/*======================================================*/
+/*            MODO LEITURA — ITEM DA PALAVRA            */
+/*        Ajustes visuais para leitura contínua         */
+/*======================================================*/
 body.module-leitura .versiculo .word-detail-item {
     background-color: #f9f6f0;                             /* Define a cor de fundo em bege claro.               */
     border-color: #d0c4ac;                                 /* Cor da borda.                                      */
@@ -619,12 +613,12 @@ footer {
 }
 
 
-/*=========================================================================*/
-/*                    RODAPÉ — TEXTO                                       */
-/*=========================================================================*/
+/*======================================================*/
+/*                    RODAPÉ — TEXTO                    */
+/*======================================================*/
 footer p {
-    font-size: 1.3em;                                      /* Tamanho da fonte.                                  */
-    line-height: 1.5;                                      /* Altura da linha.                                   */
+    font-size: 1.3em;                                      /* Define o tamanho da fonte do RODAPÉ.               */
+    line-height: 1.5;                                      /* Altura da linha do RODAPÉ.                         */
 }
 
 
@@ -649,25 +643,25 @@ footer p {
 }
 
 
-/*=========================================================================*/
-/*                    MODAL “SOBRE” — BOTÃO FECHAR                         */
-/*=========================================================================*/
+/*======================================================*/
+/*             MODAL “SOBRE” — BOTÃO FECHAR             */
+/*======================================================*/
 .fechar-sobre {
     position: absolute;                                    /* Permite o posicionamento absoluto do BOTÃO FECHAR da opção SOBRE. */
     top: 15px;                                             /* Distância do topo.                                 */
     right: 15px;                                           /* Distância da direita.                              */
     background: transparent;                               /* Sem fundo.                                         */
-    border: none;                                          /* Sem borda.                                         */
-    color: #d4ac0d;                                        /* Define a cor do texto em dourado.                  */
-    font-size: 28px;                                       /* Fonte grande.                                      */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO.                          */
-    cursor: pointer;                                       /* Cursor de ação.                                    */
+    border: none;                                          /* Sem borda.                                        */
+    color: #d4ac0d;                                      /* Define a cor do texto em dourado do BOTÃO FECHAR da opção SOBRE. */
+    font-size: 28px;                                       /* Define o tamanho da fonte do BOTÃO FECHAR da opção SOBRE.        */
+    /*font-weight: bold;                                     /* Deixa o texto em NEGRITO do BOTÃO FECHAR da opção SOBRE.         */
+    cursor: pointer;                                       /* Cursor de ação.                                   */
 }
 
 
-/*=========================================================================*/
-/*                    MODAL “SOBRE” — TEXTO                               */
-/*=========================================================================*/
+/*======================================================*/
+/*                MODAL “SOBRE” — TEXTO                 */
+/*======================================================*/
 .texto-sobre {
     position: relative;                                    /* Permite o posicionamento relativo fixo texto da opção SOBRE. */
     z-index: 920;                                          /* Camada elevada.                                    */
@@ -710,22 +704,21 @@ body.sobre-ativo::after {
     max-width: calc(100% - 80px);                          /* Largura máxima.                                    */
 }
 
-
-/*=========================================================================*/
-/*                    BOTÕES DE CAPÍTULO                                   */
-/*=========================================================================*/
+/*======================================================*/
+/*                  BOTÕES DE CAPÍTULO                  */
+/*======================================================*/
 .capitulos button,
 .botao-capitulo {
-    background-color: #3f51b5;                             /* Define a cor de fundo em azul índigo.              */
-    color: white;                                          /* Define a cor do texto em branco.                   */
+    background-color: #3f51b5;                           /* Define a cor de fundo em azul índigo dos BOTÕES DOS CAPITULOS. */
+    color: white;                                        /* Define a cor do texto em branco dos BOTÕES DOS CAPÍTULOS.      */
     border: none;                                          /* Sem borda.                                         */
     padding: 8px 0;                                        /* Altura compacta.                                   */
-    margin: 0;                                             /* Remove margens externas padrão dos BOTÕES DOS CAPÍTULOS. */
+    margin: 0;                                             /* Remove margens externas padrão dos BOTÕES DOS CAPÍTULOS.       */
     cursor: pointer;                                       /* Cursor de ação.                                          */
     text-align: center;                                    /* Centralizado.                                            */
     border-radius: 4px;                                    /* Bordas arredondadas.                                     */
-    font-size: 1.1rem;                                     /* Define o tamanho da fonte dos BOTÕES DOS CAPÍTULOS.      */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO dos BOTÕES DOS CAPÍTULOS.       */
+    font-size: 1.1rem;                                     /* Define o tamanho da fonte dos BOTÕES DOS CAPÍTULOS.            */
+    /*font-weight: bold;                                     /* Deixa o texto em NEGRITO dos BOTÕES DOS CAPÍTULOS.             */
     transition: background-color 0.3s;                     /* Transição suave.                                   */
 }
 
@@ -737,7 +730,6 @@ body.sobre-ativo::after {
 .capitulos button.active {
     background-color: #4CAF50;                             /* Define a cor de fundo em verde claro quando o BOTÃO CAPITULO estiver ativo. */
 }
-
 
 /*=========================================================================*/
 /*                    GRADE DE VERSÍCULOS                                  */
@@ -753,20 +745,19 @@ body.sobre-ativo::after {
     max-width: calc(100% - 80px);                          /* Largura máxima.                                    */
 }
 
-
-/*=========================================================================*/
-/*                    BOTÕES DOS VERSÍCULOS                                  */
-/*=========================================================================*/
+/*======================================================*/
+/*                BOTÕES DOS VERSÍCULOS                 */
+/*======================================================*/
 .botao-versiculo {
-    background-color: #6758ec;                           /* Define a cor de fundo em roxo.                     */
+    background-color: #6758ec;                           /* Define a cor de fundo em roxo dos BOTÕES DOS VERSÍCULOS.   */
     border: none;                                          /* Sem borda.                                         */
-    color: white;                                        /* Define a cor do texto em branco.                   */
+    color: white;                                        /* Define a cor do texto em branco dos BOTÕES DOS VERSÍCULOS. */
     text-align: center;                                    /* Centralizado.                                      */
     padding: 6px 0;                                        /* Altura reduzida.                                   */
     border-radius: 4px;                                    /* Bordas arredondadas.                               */
     cursor: pointer;                                       /* Cursor de ação.                                    */
-    font-size: 1.1rem;                                     /* Define o tamanho da fonte dos BOTÕES DOS VERSÍCULOS. */
-    font-weight: bold;                                     /* Deixa o texto em NEGRITO dos BOTÕES DOS VERSÍCULOS.  */
+    font-size: 1.1rem;                                     /* Define o tamanho da fonte dos BOTÕES DOS VERSÍCULOS.       */
+    /*font-weight: bold;                                     /* Deixa o texto em NEGRITO dos BOTÕES DOS VERSÍCULOS.        */
     transition: background-color 0.3s;                     /* Transição suave.                                   */
 }
 
@@ -777,7 +768,6 @@ body.sobre-ativo::after {
 .botao-versiculo.active {
     background-color: #4CAF50;                             /* Define a cor de fundo em verde claro quando o BOTÃO VERSÍCULO estiver ativo. */
 }
-
 
 /*=========================================================================*/
 /*                    CONTAINERS AUXILIARES                                */
@@ -791,7 +781,7 @@ body.sobre-ativo::after {
 }
 
 /*=====================================================*/
-/*           CORREÇÕES ESPECÍFICAS PARA MOBILE         */
+/*          CORREÇÕES ESPECÍFICAS PARA MOBILE          */
 /*=====================================================*/
 @media (max-width: 900px) {
 
@@ -833,12 +823,12 @@ body.sobre-ativo::after {
         padding-bottom: 10px;                              /* Padding baixo.                                    */
     }
 
-    /*=====================================================*/
-    /* AJUSTES DE TÍTULOS NO MOBILE                    */
-    /*=====================================================*/
+    /*==================================================*/
+    /*           AJUSTES DE TÍTULOS NO MOBILE           */
+    /*==================================================*/
     #titulo-principal-versao {
         margin-left: 0;                                    /* Define o espaço à esquerda do TITULO DA VERSÃO.   */
-        font-size: 2.3rem;                                 /* Define o tamanho da fonte do TITULO DA VERSÃO.       */
+        font-size: 2.3rem;                                 /* Define o tamanho da fonte do TITULO DA VERSÃO.    */
     }
 
     #subtitulo-versao-extenso {
@@ -846,9 +836,9 @@ body.sobre-ativo::after {
         text-align: center;                                /* Centraliza texto.                                  */
     }
 
-    /*=====================================================*/
-    /* BARRA DE PESQUISA - CONTAINER                   */
-    /*=====================================================*/
+    /*==================================================*/
+    /*          BARRA DE PESQUISA - CONTAINER           */
+    /*==================================================*/
     .barra-pesquisa {
         margin-right: 0;                                   /* Remove margem direita.                            */
         width: 92%;                                        /* Largura total.                                    */
@@ -970,14 +960,14 @@ body.sobre-ativo::after {
         order: 7;                                          /* Ordem de exibição.                                 */
     }
 
-    /*=====================================================*/
-    /* LINKS DO MENU                                   */
-    /*=====================================================*/
+    /*==================================================*/
+    /*                  LINKS DO MENU                   */
+    /*==================================================*/
     nav .menu-opcoes li a {
         font-size: 1.2rem;                                 /* Define o tamanho da fonte do texto da BARRA DE MENU SUPERIOR.             */
         color: #e0e0e0;                                  /* Define a cor do texto em cinza claro do texto da BARRA DE MENU SUPERIOR.  */
-        font-weight: bold;                                 /* Deixa o texto em NEGRITO do texto da BARRA DE MENU SUPERIOR.              */
-        font-style: italic;                                /* Define o estilo da fonte como ITÁLICO do texto da BARRA DE MENU SUPERIOR. */
+        /*font-weight: bold;                                 /* Deixa o texto em NEGRITO do texto da BARRA DE MENU SUPERIOR.              */
+        /*font-style: italic;                                /* Define o estilo da fonte como ITÁLICO do texto da BARRA DE MENU SUPERIOR. */
         padding: 5px 0;                                    /* Espaço interno vertical.                           */
         line-height: 1.1;                                  /* Altura da linha.                                   */
         text-align: center;                                /* Texto centralizado.                                */
@@ -995,7 +985,8 @@ body.sobre-ativo::after {
         line-height: 1;                                    /* Altura da linha.                                   */
     }
 
-    /*=====================================================*/ /* ITEM 4 - AJUSTES ESPECÍFICOS                    */
+    /*=====================================================*/
+    /* ITEM 4 - AJUSTES ESPECÍFICOS                    */
     /*=====================================================*/
     nav .menu-opcoes li:nth-child(4) a {
         white-space: normal;                               /* Permite quebra de linha.                           */
@@ -1005,11 +996,12 @@ body.sobre-ativo::after {
         width: 100%;                                       /* Define a largura total que a BARRA DE MENU SUPERIOR ocupa. */
     }
 
-    /*=====================================================*/ /* 3. LISTA DE LIVROS (2 COLUNAS)                  */
+    /*=====================================================*/
+    /*       LISTA DE LIVROS COM 2 COLUNAS (MOBILE)        */
     /*=====================================================*/
     .menu-livros {
-        position: static;                                  /* Permite o posicionamento do fluxo normal do MENU LATERAL DOS LIVROS.                                      */
-        width: 100%;                                       /* Define a largura total que o MENU LATERAL DOS LIVROS ocupa. */
+        position: static;                                  /* Permite o posicionamento do fluxo normal do MENU LATERAL DOS LIVROS. */
+        width: 100%;                                       /* Define a largura total que o MENU LATERAL DOS LIVROS ocupa.          */
         height: auto;                                      /* Altura automática.                                 */
         background-color: rgba(5, 5, 5, 0.95);             /* Define a cor de fundo em preto semi-transparente.  */
         padding: 15px 10px;                                /* Espaço interno.                                    */
@@ -1019,24 +1011,24 @@ body.sobre-ativo::after {
         margin-bottom: 5px;                                /* Espaço abaixo.                                     */
     }
 
-    /*=====================================================*/
-    /* PSEUDO-ELEMENTO "LIVROS"                        */
-    /*=====================================================*/
+    /*==================================================*/
+    /*        PSEUDO-ELEMENTO "LIVROS" (MOBILE)         */
+    /*==================================================*/
     .menu-livros::before {
         content: "LIVROS";                                 /* Conteúdo do pseudo-elemento.                      */
         display: block;                                    /* Exibe como bloco.                                 */
-        color: #fff;                                     /* Define a cor do texto em branca.                  */
+        /*color: #fff;                                     /* Define a cor do texto em branca.                  */
         font-size: 1.8rem;                                 /* Define o tamanho da fonte do TITULO DOS LIVROS.   */
-        font-weight: bold;                                 /* Deixa o texto em NEGRITO do TITULO DOS LIVROS.    */
+        /*font-weight: bold;                                 /* Deixa o texto em NEGRITO do TITULO DOS LIVROS.    */
         margin-bottom: 10px;                               /* Espaço abaixo.                                    */
         border-bottom: 1px solid #777;                   /* Borda inferior.                                   */
         padding-bottom: 5px;                               /* Espaço interno inferior.                          */
         text-align: left;                                  /* Alinha à esquerda.                                */
     }
 
-    /*=====================================================*/
-    /* LISTA INTERNA                                   */
-    /*=====================================================*/
+    /*==================================================*/
+    /*              LISTA INTERNA (MOBILE)              */
+    /*==================================================*/
     .menu-livros ul {
         display: grid;                                     /* Layout em grade.                                   */
         grid-template-columns: 1fr 1fr;                    /* 2 colunas.                                         */
@@ -1046,39 +1038,40 @@ body.sobre-ativo::after {
         text-align: left;                                  /* Alinha à esquerda.                                 */
     }
 
-    /*=====================================================*/
-    /* ITENS DA LISTA                                  */
-    /*=====================================================*/
+    /*==================================================*/
+    /*             ITENS DA LISTA (MOBILE)              */
+    /*==================================================*/
     .menu-livros li {
         display: block;                                    /* Exibe como bloco.                                  */
         margin: 0;                                         /* Remove margens externas padrão do MENU LATERAL DOS LIVROS. */
     }
 
-    /*=====================================================*/
-    /* LINKS DOS LIVROS                                */
-    /*=====================================================*/
+    /*==================================================*/
+    /*            LINKS DOS LIVROS (MOBILE)             */
+    /*==================================================*/
     .menu-livros a {
         display: block;                                    /* Exibe como bloco.                                                          */
-        color: #fff;                                     /* Define a cor do texto em branca.                                           */
+        /*color: #fff;                                     /* Define a cor do texto em branca.                                           */
         font-size: 1rem;                                   /* Define o tamanho da fonte do texto do MENU LATERAL DOS LIVROS.             */
-        font-weight: bold;                                 /* Deixa o texto em NEGRITO do texto do MENU LATERAL DOS LIVROS.              */
-        font-style: italic;                                /* Define o estilo da fonte como ITÁLICO do texto do MENU LATERAL DOS LIVROS. */
+        /*font-weight: bold;                                 /* Deixa o texto em NEGRITO do texto do MENU LATERAL DOS LIVROS.              */
+        /*font-style: italic;                                /* Define o estilo da fonte como ITÁLICO do texto do MENU LATERAL DOS LIVROS. */
         text-decoration: none;                             /* Remove sublinhado.                                 */
         white-space: nowrap;                               /* Não quebra linha.                                  */
         overflow: hidden;                                  /* Esconde estouro.                                   */
         text-overflow: ellipsis;                           /* Adiciona reticências.                              */
     }
 
-    /*=====================================================*/ /* HOVER NOS LINKS                                 */
-    /*=====================================================*/
+    /*==================================================*/
+    /*             HOVER NOS LINKS (MOBILE)             */
+    /*==================================================*/
     .menu-livros a:hover {
         text-decoration: underline;                        /* Sublinhado no hover.                               */
         color: #d4ac0d;                                    /* Define a cor do texto em dourado no HOVER.         */
     }
 
-    /*=====================================================*/
-    /* 4. CONTEÚDO PRINCIPAL (MOBILE)                  */
-    /*=====================================================*/
+    /*==================================================*/
+    /*           CONTEÚDO PRINCIPAL (MOBILE)            */
+    /*==================================================*/
     .conteudo {
         margin-left: 0;                                    /* Remove a margem esquerda do conteúdo da área principal. */
         margin-top: 0;                                     /* Remove margem superior.                           */
@@ -1088,18 +1081,18 @@ body.sobre-ativo::after {
         width: 100%;                                       /* Define largura total que o CONTEÚDO ocupa.        */
     }
 
-    /*=====================================================*/
-    /* TÍTULOS H2                                      */
-    /*=====================================================*/
+    /*==================================================*/
+    /*               TÍTULOS H2 (MOBILE)                */
+    /*==================================================*/
     h2 {
-        margin-left: 0;                                    /* Remove a margem esquerda do TITULO DA VERSÃO.             */
-        margin-right: 0;                                   /* Remove margem direita do TÍTULO DA VERSÃO.                */
-        width: 100%;                                       /* Define largura total que o do TÍTULO DA VERSÃO ocupa.     */
-        max-width: 100% !important;                        /* Largura máxima forçada do TÍTULO DA VERSÃO.               */
-        text-align: center;                                /* Centraliza texto do TÍTULO DA VERSÃO.                     */
-        white-space: normal;                               /* Permite quebra de linha.                                  */
-        font-size: 8vw;                                    /* Define o tamanho responsivo do texto do TÍTULO DA VERSÃO. */
-        line-height: 1.1;                                  /* Altura da linha do TÍTULO DA VERSÃO.                      */
+        margin-left: 0;                                    /* Remove a margem esquerda do TITULO DA VERSÃO.     */
+        margin-right: 0;                                   /* Remove margem direita do TÍTULO DA VERSÃO.        */
+        width: 100%;                                       /* Define largura total que o TÍTULO DA VERSÃO ocupa.*/
+        max-width: 100% !important;                        /* Largura máxima forçada do TÍTULO DA VERSÃO.       */
+        text-align: center;                                /* Centraliza texto do TÍTULO DA VERSÃO.             */
+        white-space: normal;                               /* Permite quebra de linha.                          */
+        font-size: 8vw;                                    /* Define o tamanho do texto do TÍTULO DA VERSÃO de forma responsiva. */
+        line-height: 1.1;                                  /* Altura da linha do TÍTULO DA VERSÃO.              */
         overflow: visible;                                 /* Permite estouro.                                  */
         padding: 0 2px;                                    /* Espaço interno lateral.                           */
         margin-top: 5px;                                   /* Margem superior.                                  */
@@ -1107,15 +1100,15 @@ body.sobre-ativo::after {
     }
 
     /*=====================================================*/
-    /* TÍTULOS H3                                      */
+    /*                 TÍTULOS H3 (MOBILE)                 */
     /*=====================================================*/
     h3 {
-        margin-left: 0;                                    /* Remove a margem esquerda do TITULO DA VERÃO.      */
-        text-align: center;                                /* Centraliza texto.                                 */
+        margin-left: 0;                                    /* Remove a margem esquerda do TITULO sobre os botões. */
+        text-align: center;                                /* Centraliza texto do TITULO sobre os botões.         */
     }
 
     /*=====================================================*/
-    /* VERSÍCULOS MOBILE E PROTEÇÃO CONTRA CONFLITOS  */
+    /*  VERSÍCULOS E PROTEÇÃO CONTRA CONFLITOS  (MOBILE)   */
     /*=====================================================*/
     .versiculo,
     .texto-versiculo {
@@ -1126,14 +1119,14 @@ body.sobre-ativo::after {
         box-sizing: border-box;                            /* Inclui bordas e padding no tamanho total.         */
     }
 
-    /*=====================================================*/
-    /* VERSÍCULOS MOBILE - ESTILO DE CABEÇALHO         */
-    /*=====================================================*/
+    /*==================================================*/
+    /*    VERSÍCULOS - ESTILO DE CABEÇALHO (MOBILE)     */
+    /*==================================================*/
     .texto-versiculo h3,
     .titulo-versiculo-interno {
         width: 100%;                                       /* Define largura total que o CABEÇALHO ocupa.        */
-        margin: 0 0 20px 0;                                /* Define margem inferior em 20px (Topo, Dir, Inf, Esq) para separar ao texto dos VERSÍCULO. */
-        font-size: 2rem;                                   /* Tamanho da fonte.                                  */
+        margin: 0 0 20px 0;                                /* Define margem inferior em 20px (Topo, Dir, Inf, Esq) para separar o TÍTULO DO VERSÍCULO. */
+        font-size: 2rem;                                   /* Define o tamanho da fonte do TITULO DO VERSÍCULO.  */
         line-height: 1.3;                                  /* Altura da linha.                                   */
         color: #4CAF50;                                  /* Define a cor do texto em verde.                    */
         text-align: center;                                /* Centraliza texto.                                  */
@@ -1141,20 +1134,20 @@ body.sobre-ativo::after {
         text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);     /* Sombra do texto.                                   */
     }
 
-    /*=====================================================*/
-    /* VERSÍCULOS MOBILE - PARÁGRAFOS                  */
-    /*=====================================================*/
+    /*==================================================*/
+    /*         VERSÍCULOS - PARÁGRAFOS (MOBILE)         */
+    /*==================================================*/
     .texto-versiculo p {
         width: 100%;                                       /* Define largura total que o PARÁGRAFO do texto do VERSÍCULOS ocupa. */
-        font-size: 1.9rem;                                 /* Define o tamanho da fonte do texto do VERSÍCULOS.     */
-        padding: 0;                                        /* Remove padding interno do texto do VERSÍCULOS.        */
-        text-align: center;                                /* Centraliza texto do VERSÍCULOS.                       */
-        margin: 0;                                         /* Remove margens externas padrão do texto do VERSÍCULO. */
+        font-size: 1.9rem;                                 /* Define o tamanho da fonte do texto do VERSÍCULO.     */
+        padding: 0;                                        /* Remove padding interno do texto do VERSÍCULO.        */
+        text-align: center;                                /* Centraliza texto do VERSÍCULOS.                      */
+        margin: 0;                                         /* Remove margens externas padrão do texto do VERSÍCULO.*/
     }
 
-    /*=====================================================*/
-    /* BOTÕES DOS CAPÍTULOS (MOBILE)                    */
-    /*=====================================================*/
+    /*==================================================*/
+    /*          BOTÕES DOS CAPÍTULOS (MOBILE)           */
+    /*==================================================*/
     .capitulos {
         margin: 0 auto;                                    /* Zera margens verticais e define laterais automáticas para centralizar os BOTÕES DOS CAPÍTULOS. */
         padding: 10px 5px;                                 /* Espaço interno.                                    */
@@ -1172,13 +1165,13 @@ body.sobre-ativo::after {
         margin: 0;                                         /* Remove margens externas padrão dos BOTÕES DOS CAPÍTULOS. */
         padding: 10px 0;                                   /* Espaço interno vertical dos BOTÕES DOS CAPÍTULOS.        */
         font-size: 1.6rem;                                 /* Define o tamanho da fonte dos BOTÕES DOS CAPÍTULOS.      */
-        font-weight: bold;                                 /* Deixa o texto em NEGRITO BOTÕES DOS CAPÍTULOS.           */
+        /*font-weight: bold;                                 /* Deixa o texto em NEGRITO BOTÕES DOS CAPÍTULOS.           */
         border-radius: 8px;                                /* Bordas arredondadas BOTÕES DOS CAPÍTULOS.                */
     }
 
-    /*=====================================================*/
-    /* BOTÕES DOS VERSÍCULOS (MOBILE)                   */
-    /*=====================================================*/
+    /*==================================================*/
+    /*          BOTÕES DOS VERSÍCULOS (MOBILE)          */
+    /*==================================================*/
     .versiculos {
         margin: 0 auto;                                    /* Zera margens verticais e define laterais automáticas para centralizar os BOTÕES DOS VERSÍCULOS. */
         padding: 10px 5px;                                 /* Espaço interno.                                    */
@@ -1195,13 +1188,13 @@ body.sobre-ativo::after {
         margin: 0;                                         /* Remove margens externas padrão dos BOTÕES DOS VERSÍCULOS. */
         padding: 10px 0;                                   /* Espaço interno vertical dos BOTÕES DOS VERSÍCULOS.   */
         font-size: 1.6rem;                                 /* Define o tamanho da fonte dos BOTÕES DOS VERSÍCULOS. */
-        font-weight: bold;                                 /* Deixa o texto em NEGRITO dos BOTÕES DOS VERSÍCULOS.  */
+        /*font-weight: bold;                                 /* Deixa o texto em NEGRITO dos BOTÕES DOS VERSÍCULOS.  */
         border-radius: 8px;                                /* Bordas arredondadas dos BOTÕES DOS VERSÍCULOS.       */
     }
 
-    /*=====================================================*/
-    /* CONTAINER DE PALAVRAS DO VERSÍCULO              */
-    /*=====================================================*/
+    /*==================================================*/
+    /*   CONTAINER DE PALAVRAS DO VERSÍCULO (MOBILE)    */
+    /*==================================================*/
     .versiculo .palavras-container {
         justify-content: center;                           /* Centraliza horizontalmente o texto dos VERSÍCULOS.*/
         margin: 15px 0;                                    /* Define espaçamento vertical e zera as margens laterais em relação ao texto dos VERSÍCULOS. */
