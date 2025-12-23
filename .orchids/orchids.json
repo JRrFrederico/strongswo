@@ -2,6 +2,6 @@
   "projectId": "8e958bee-3615-4f3e-befd-8a831eda580c",
   "createdAt": 1765627875747,
   "startupCommands": [
-    "cd /d E:\\biblia && python -m http.server 3000"
+    "cd /d E:\\biblia; python -m http.server 3000"
   ]
 }

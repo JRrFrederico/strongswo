@@ -73,11 +73,11 @@ header {
 /*       Exibe o nome extenso da versão bíblica         */
 /*======================================================*/
 #subtitulo-versao-extenso {
-    margin-top: 1px;                                       /* Espaço mínimo acima.                                     */
-    margin-bottom: 0.5px;                                  /* Espaço mínimo abaixo.                                    */
-    margin-left: 295px;                                    /* Define o espaço a esquerda do SUBTITULO DA VERSÃO.       */
-    font-size: 1.5em;                                      /* Define o tamanho da fonte do SUBTÍTULO DA VERSÃO.        */
-    color: #d4ac0d;                                      /* Define a cor do texto em dourada do SUBTÍTULO DA VERSÃO. */
+    margin-top: 1px;                                       /* Define o espaço mínimo acima do SUBTITULO DA VERSÃO.       */
+    margin-bottom: 0.5px;                                  /* Define o espaço mínimo abaixo do SUBTITULO DA VERSÃO.      */
+    margin-left: 295px;                                    /* Define o espaço a esquerda do SUBTITULO DA VERSÃO.         */
+    font-size: 1.5em;                                      /* Define o tamanho da fonte do SUBTÍTULO DA VERSÃO.          */
+    color: #d4ac0d;                                      /* Define a cor do texto em dourada do SUBTÍTULO DA VERSÃO.   */
 }
 
 /*======================================================*/
@@ -203,8 +203,8 @@ nav .menu-opcoes li a:hover {
 /*       Identificador visual da seção de livros        */
 /*======================================================*/
 .titulo-menu {
-    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout do TITULO DO MENU.    */
-    margin-left: 37px;                                     /* Define o espaço à esquerda do MENU LATERAL DOS LIVROS.                             */
+    display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout do TITULO DO MENU.     */
+    margin-left: 37px;                                     /* Define o espaço à esquerda do TITULO DO MENU LATERAL DOS LIVROS.                    */
     margin-right: 20px;                                    /* Margem direita.                                              */
     align-items: center;                                   /* Centraliza verticalmente o TITULO DO MENU LATERAL DOS LIVROS.                       */
     /*color: white;                                        /* Define a cor do texto em branco do TITULO DO MENU LATERAL DOS LIVROS.               */
@@ -318,11 +318,11 @@ nav .menu-opcoes li a:hover {
 /*               SCROLLBAR — MENU LATERAL               */
 /*======================================================*/
 .menu-livros::-webkit-scrollbar {
-    width: 12px;                                           /* Largura da barra.                                  */
+    width: 12px;                                          /* Largura da barra.                                  */
 }
 
 .menu-livros::-webkit-scrollbar-track {
-    background: #383838;                                   /* Fundo da trilha.                                   */
+    background: #383838;                                /* Fundo da trilha.                                   */
 }
 
 .menu-livros::-webkit-scrollbar-thumb {
@@ -332,24 +332,24 @@ nav .menu-opcoes li a:hover {
 }
 
 
-/*=========================================================================*/
-/*                    CONTEÚDO PRINCIPAL                                   */
-/*    Área central de leitura e exibição do texto                          */
-/*=========================================================================*/
+/*======================================================*/
+/*                  CONTEÚDO PRINCIPAL                  */
+/*     Área central de leitura e exibição do texto      */
+/*======================================================*/
 .conteudo {
-    height: calc(100vh - 160px);                           /* Altura útil.                                       */
-    margin-top: 50px;                                      /* Espaço superior.                                   */
-    flex: 3;                                               /* Crescimento flexível.                              */
-    overflow-y: auto;                                      /* Rolagem vertical.                                  */
+    height: calc(100vh - 160px);                           /* Altura útil.                                           */
+    margin-top: 50px;                                      /* Define o espaço mínimo acima do conteúdo principal.    */
+    flex: 3;                                               /* Crescimento flexível.                                  */
+    overflow-y: auto;                                      /* Rolagem vertical.                                      */
     overflow-x: hidden;                                    /* Oculta o conteúdo excedente na horizontal e desativa a rolagem na área principal. */
-    margin-left: 10px;                                     /* Define o espaço à esquerda do texto da área principal.*/
-    padding-right: 20px;                                   /* Respiro à direita.                                 */
+    margin-left: 10px;                                     /* Define o espaço à esquerda do texto da área principal. */
+    padding-right: 20px;                                   /* Respiro à direita.                                     */
 }
 
 
-/*=========================================================================*/
-/*                    SCROLLBAR — CONTEÚDO                                 */
-/*=========================================================================*/
+/*======================================================*/
+/*                 SCROLLBAR — CONTEÚDO                 */
+/*======================================================*/
 .conteudo::-webkit-scrollbar {
     width: 16px;                                           /* Largura da barra.                                  */
 }
@@ -370,20 +370,20 @@ nav .menu-opcoes li a:hover {
 /*            Cabeçalho principal das seções            */
 /*======================================================*/
 h2 {
-    margin-top: 30px;                                      /* Espaço superior.                                    */
-    margin-bottom: 30px;                                   /* Espaço inferior.                                    */
-    margin-left: 150px;                                    /* Define o espaço à esquerda do TITULO DA VERSÃO.     */
-    width: 100%;                                           /* Define a largura total que o TITULO DA VERSÃO ocupa. */
-    max-width: 100%;                                       /* Sem limite.                                          */
+    margin-top: 30px;                                      /* Define o espaço mínimo acima do TITULO DA VERSÃO.                  */
+    margin-bottom: 30px;                                   /* Define o espaço mínimo abaixo do TITULO DA VERSÃO.                 */
+    margin-left: 150px;                                    /* Define o espaço à esquerda do TITULO DA VERSÃO.                    */
+    width: 100%;                                           /* Define a largura total que o TITULO DA VERSÃO ocupa.               */
+    max-width: 100%;                                       /* Sem limite.                                                        */
     font-size: 2.5vw;                                      /* Define o tamanho da fonte do TITULO DA VERSÃO de forma responsiva. */
     /*font-style: italic;                                  /* Define o estilo da fonte como ITÁLICO do TITULO DA VERSÃO.         */
-    text-align: center;                                    /* Centralizado.                                         */
-    color: #d4ac0d;                                      /* Define a cor do texto em dourado do TITULO DA VERSÃO. */
+    text-align: center;                                    /* Centralizado.                                                      */
+    color: #d4ac0d;                                      /* Define a cor do texto em dourado do TITULO DA VERSÃO.              */
 }
 
 /*======================================================*/
 /*                     TÍTULOS (H3)                     */
-/*            Subtítulos e marcações visuais            */
+/*               QUE FICA SOBRE OS BOTÕES               */
 /*======================================================*/
 h3 {
     margin: 10px 0 0 30px;                                 /* Margem superior de 10px e recuo à esquerda de 30px (Topo, Dir, Inf, Esq) para separar o TITULO sobre os botões. */ 
@@ -425,10 +425,10 @@ h3 {
 .titulo-versiculo-interno {
     color: #d4ac0d;                                      /* Define a cor do texto em dourada do TITULO DO VERSÍCULO.      */
     /*font-style: italic;                                  /* Define o estilo da fonte como ITÁLICO do TITULO DO VERSÍCULO. */
-    margin-bottom: 15px;                                   /* Espaço inferior.                                   */
-    margin-top: 15px;                                      /* Espaço superior.                                   */
-    margin-left: 30px;                                     /* Define o espaço à esquerda do TITULO DO VERSÍCULO. */
-    font-size: 1.5rem;                                     /* Define o tamanho da fonte do TITULO DO VERSÍCULO.  */
+    margin-bottom: 15px;                                   /* Define o espaço mínimo abaixo do TITULO DO VERSÍCULO.         */
+    margin-top: 15px;                                      /* Define o espaço mínimo acima do TITULO DO VERSÍCULO.          */
+    margin-left: 30px;                                     /* Define o espaço à esquerda do TITULO DO VERSÍCULO.            */
+    font-size: 1.5rem;                                     /* Define o tamanho da fonte do TITULO DO VERSÍCULO.             */
 }
 
 /*======================================================*/
@@ -454,7 +454,7 @@ h3 {
     display: block;                                        /* Exibe como bloco.                                  */
     font-size: 1.1em;                                      /* Define o tamanho da fonte do TEXTO DO VERSÍCULO.            */
     /*color: #f8f8f8;                                      /* Define a cor do texto em branca gelo do TEXTO DO VERSÍCULO. */
-    margin-left: 30px;                                     /* Define o espaço à esquerda das opções do TEXTO DO VERSÍCULO.*/
+    margin-left: 30px;                                     /* Define o espaço à esquerda do TEXTO DO VERSÍCULO.           */
     margin-right: 30px;                                    /* Margem direita.                                    */
     text-align: justify;                                   /* Texto justificado.                                 */
 }
@@ -469,7 +469,7 @@ h3 {
     justify-content: flex-start;                           /* Alinha no início os VERSÍCULOS.                   */
     direction: rtl;                                        /* Direção direita para esquerda.                    */
     margin-top: 20px;                                      /* Margem superior.                                  */
-    padding-top: 15px;                                     /* Define o espaço interno superior do texto do VERSÍCULO. */
+    padding-top: 15px;                                     /* Define o espaço interno superior do texto do VERSÍCULO.             */
     border-top: 1px dashed #444;                         /* Borda tracejada superior.                         */
     margin-left: 30px;                                     /* Define o espaço à esquerda do texto do VERSÍCULO na area principal. */
     margin-right: 30px;                                    /* Margem direita.                                   */
@@ -768,7 +768,6 @@ body.sobre-ativo::after {
     ::-webkit-scrollbar {
         display: none;                                     /* Remove barra de rolagem visual.                    */
     }
-
                                                            /* Firefox, IE e Edge legado                          */
     html,
     body {
@@ -776,23 +775,25 @@ body.sobre-ativo::after {
         -ms-overflow-style: none;                          /* Remove barra de rolagem no IE/Edge.                */
     }
 
-    /*=====================================================*/ /* OCULTAÇÃO DE ELEMENTOS DESKTOP                  */
-    /*=====================================================*/ /* Oculta botões de desktop                        */
+    /*==================================================*/
+    /*     OCULTAÇÃO DE ELEMENTOS DESKTOP (MOBILE)      */
+    /*==================================================*/
     #modo-leitura,
     #link-slide {
         display: none !important;                          /* Oculta completamente.                              */
     }
 
-    /*=====================================================*/ /* OCULTAR ITENS DO MENU NO MOBILE                 */
-    /*=====================================================*/
+    /*==================================================*/
+    /*          OCULTAR ITENS DO MENU (MOBILE)          */
+    /*==================================================*/
     nav .menu-opcoes li:has(#modo-leitura),
     nav .menu-opcoes li:has(#link-slide) {
         display: none !important;                          /* Oculta itens do menu.                              */
     }
 
-    /*=====================================================*/
-    /* 1. CABEÇALHO MOBILE                             */
-    /*=====================================================*/
+    /*==================================================*/
+    /*                CABEÇALHO (MOBILE)                */
+    /*==================================================*/
     .cabecalho-superior {
         flex-direction: column;                            /* Empilha itens.                                    */
         align-items: center;                               /* Centraliza verticalmente o CABEÇALHO.             */
@@ -802,25 +803,25 @@ body.sobre-ativo::after {
     }
 
     /*==================================================*/
-    /*           AJUSTES DE TÍTULOS NO MOBILE           */
+    /*           AJUSTES DE TÍTULOS (MOBILE)            */
     /*==================================================*/
     #titulo-principal-versao {
-        margin-left: 0;                                    /* Define o espaço à esquerda do TITULO DA VERSÃO.   */
-        font-size: 2.3rem;                                 /* Define o tamanho da fonte do TITULO DA VERSÃO.    */
+        margin-left: 0;                                    /* Remove o espaço à esquerda do TITULO PRINCIPAL DA VERSÃO.   */
+        font-size: 2.3rem;                                 /* Define o tamanho da fonte do TITULO PRINCIPAL DA VERSÃO.    */
     }
 
     #subtitulo-versao-extenso {
-        margin-left: 0;                                    /* Remove o espaço à esquerda do TITULO DA VERSÃO.   */
+        margin-left: 0;                                    /* Remove o espaço à esquerda do SUBTITULO DA VERSÃO.         */
         text-align: center;                                /* Centraliza texto.                                  */
     }
 
     /*==================================================*/
-    /*          BARRA DE PESQUISA - CONTAINER           */
+    /*      BARRA DE PESQUISA - CONTAINER (MOBILE)      */
     /*==================================================*/
     .barra-pesquisa {
         margin-right: 0;                                   /* Remove margem direita.                            */
         width: 92%;                                        /* Largura total.                                    */
-        margin-left: auto;                                 /* Ajusta automaticamente a margem esquerda da BARRA DE PESQUISA. */
+        margin-left: auto;                                 /* Ajusta automaticamente a margem esquerda da BARRA DE PESQUISA.                     */
         margin-right: auto;                                /* Centraliza horizontalmente.                       */
         display: flex;                                     /* Ativa o FLEXBOX para alinhas os itens corretamente no layout da BARRA DE PESQUISA. */
         flex-direction: column;                            /* Empilha.                                          */
@@ -828,9 +829,9 @@ body.sobre-ativo::after {
         gap: 8px;                                          /* Espaço entre itens.                               */
     }
 
-    /*=====================================================*/
-    /* BARRA DE PESQUISA - INPUT    e BOTÂO            */
-    /*=====================================================*/
+    /*==================================================*/
+    /*    BARRA DE PESQUISA - INPUT e BOTÃO (MOBILE)    */
+    /*==================================================*/
     .barra-pesquisa input[type="text"],
     .barra-pesquisa button {
         width: 100%;                                       /* Define a largura total que a BARRA DE PESQUISA ocupa. */
@@ -839,38 +840,38 @@ body.sobre-ativo::after {
         border-radius: 5px;                                /* Bordas arredondadas.                               */
     }
 
-    /*=====================================================*/ /* BARRA DE PESQUISA - SELECT                      */
-    /*=====================================================*/
+    /*==================================================*/
+    /*       BARRA DE PESQUISA - SELECT (MOBILE)        */
+    /*==================================================*/
     .barra-pesquisa select {
         width: 100%;                                       /* Define a largura total que a BARRA DE PESQUISA e SELEÇÃO ocupa. */
         height: 40px;                                      /* Altura fixa.                                       */
     }
 
-    /*=====================================================*/ /* 2. MENU DE OPÇÕES (GRID 6 COLUNAS)              */
-    /*=====================================================*/
-
-    /*=====================================================*/
-    /* MENU DE OPÇÕES - CONTAINER                      */
-    /*=====================================================*/ /* Ajustes do container do menu                    */
+    /*==================================================*/
+    /*                  MENU DE OPÇÕES                  */
+    /*       GRID 6 COLUNAS - CONTAINER (MOBILE)        */
+    /*==================================================*/
     nav {
         position: static;                                  /* Permite o posicionamento do fluxo normal da BARRA DE MENU SUPERIOR. */
         height: auto;                                      /* Altura automática.                                 */
         padding: 5px;                                      /* Espaço interno.                                    */
-        background: rgba(68, 68, 68, 0.95);                /* Fundo escuro.                                      */
+        background: rgba(68, 68, 68, 0.95);              /* Fundo escuro.                                      */
         flex-direction: column;                            /* Layout em coluna.                                  */
     }
 
-    /*=====================================================*/ /* MENU DE OPÇÕES - ESCONDER TÍTULO                */
-    /*=====================================================*/ /* Esconde o título "LIVROS" do menu               */
+    /*==================================================*/
+    /*    MENU DE OPÇÕES - ESCONDER TÍTULO (MOBILE)     */
+    /*==================================================*/
     .titulo-menu {
         display: none;                                     /* Esconde título "LIVROS".                           */
     }
 
-    /*=====================================================*/
-    /* MENU DE OPÇÕES - CONTAINER                      */
-    /*=====================================================*/
+    /*==================================================*/
+    /*       MENU DE OPÇÕES - CONTAINER (MOBILE)        */
+    /*==================================================*/
     nav .menu-opcoes {
-        margin-left: 0;                                    /* Remove a margem esquerda da BARRA DE MENU SUPERIOR. */
+        margin-left: 0;                                    /* Remove a margem esquerda da BARRA DE MENU SUPERIOR.        */
         width: 100%;                                       /* Define a largura total que a BARRA DE MENU SUPERIOR ocupa. */
         display: grid;                                     /* Grid layout.                                       */
         grid-template-columns: repeat(6, 1fr);             /* 6 colunas virtuais.                                */
@@ -1052,7 +1053,7 @@ body.sobre-ativo::after {
     /*==================================================*/
     .conteudo {
         margin-left: 0;                                    /* Remove a margem esquerda do conteúdo da área principal. */
-        margin-top: 0;                                     /* Remove margem superior.                           */
+        margin-top: 0;                                     /* Remove margem superior do conteúdo da area principal.   */
         padding: 0 5px 10px 5px;                           /* Espaço interno.                                   */
         height: auto;                                      /* Altura automática.                                */
         overflow: visible;                                 /* Permite estouro.                                  */
