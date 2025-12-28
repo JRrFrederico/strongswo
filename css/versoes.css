@@ -141,12 +141,13 @@ header {
 nav {
     position: fixed;                                       /* Permite o posicionamento fixo da BARRA DE MENU SUPERIOR no topo.                                     */
     top: 110px;                                            /* Define a distância em relação ao topo para posicionar a BARRA DE MENU SUPERIOR abaixo do cabeçalho.  */
-    left: 0;                                               /* Alinha a extremidade esquerda da BARRA DE MENU SUPERIOR ao limite lateral da tela.                   */
+    left: 0;                                               /* Define a distância da esquerda como zero para alinhar a BARRA DE MENU SUPERIOR ao limite lateral.    */
     z-index: 1;                                            /* Define a ordem de empilhamento para que a BARRA DE MENU SUPERIOR se sobreponha a elementos de fundo. */
     width: 100%;                                           /* Define a largura total que a BARRA DE MENU SUPERIOR ocupa.                                           */
     height: 40px;                                          /* Altura fixa.                                      */
     padding: 10px 0;                                       /* Define o preenchimento interno vertical para criar um espaço vazio na BARRA DE MENU SUPERIOR.        */ 
-    background: linear-gradient(to right, #333, #555, #777); /* Degradê cinza.                                   */
+    /* Degradê cinza.                                   */
+    background: linear-gradient(to right, #333, #555, #777);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);            /* Sombra suave.                                     */
     display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout da BARRA DE MENU SUPERIOR.              */
     align-items: center;                                   /* Centraliza verticalmente a BARRA DE MENU SUPERIOR.                                                   */
@@ -271,9 +272,9 @@ nav .menu-opcoes li a:hover {
 .menu-livros {
     position: fixed;                                       /* Permite o posicionamento fixo do MENU LATERAL DOS LIVROS.                              */
     top: 150px;                                            /* Define a distância em relação ao topo para o posicionamento do MENU LATERAL DE LIVROS. */
-    left: 0;                                               /* Alinha a extremidade esquerda do MENU LATERAL DE LIVROS ao limite lateral da tela.     */
+    left: 0;                                               /* Define a distância da esquerda como zero para alinhar a barra do MENU LATERAL DE LIVROS ao limite lateral. */
     bottom: 0;                                             /* Até o final da tela.                               */
-    z-index: 10;                                           /* Define a ordem de empilhamento para que o MENU LATERAL DE LIVROS se sobreponha ao conteúdo principal. */
+    z-index: 10;                                           /* Define a ordem de empilhamento para que o MENU LATERAL DE LIVROS se sobreponha ao conteúdo principal.      */
     width: 225px;                                          /* Define a largura fixa para padronizar o tamanho do MENU LATERAL DOS LIVROS.            */
     height: calc(100vh - 180px);                           /* Altura dinâmica.                                   */
     margin-right: 20px;                                    /* Define o espaço à direita do MENU LATERAL DOS LIVROS.                                  */
@@ -569,8 +570,8 @@ body.module-leitura .versiculo .traducao-palavra-text {
 footer {
     position: fixed;                                       /* Permite o posicionamento fixo do RODAPÉ.          */
     bottom: 0;                                             /* Encostado no fundo.                               */
-    left: 0;                                               /* Encostado à esquerda.                             */
-    z-index: 1;                                            /* Camada acima do conteúdo.                         */
+    left: 0;                                               /* Define a distância da esquerda como zero para alinhar o RODAPÉ ao limite lateral. */
+    z-index: 1;                                            /* Define a ordem de empilhamento para que o RODAPÉ se sobreponha ao conteúdo.       */
     width: 100%;                                           /* Define a largura total que o RODAPÉ ocupa.        */
     height: 30px;                                          /* Altura fixa.                                      */
     background-color: #383838;                           /* Define a cor de fundo em cinza escuro.            */
@@ -587,20 +588,20 @@ footer p {
 }
 
 /*======================================================*/
-/*                    MODAL “SOBRE”                     */
+/*              CONTEÚDO DA OPÇÃO “SOBRE”               */
 /*     Janela central com informações da aplicação      */
 /*======================================================*/
 .conteudo-sobre {
     position: fixed;                                       /* Permite o posicionamento fixo da caixa de texto da opção SOBRE.                                                   */
-    top: 50%;                                              /* Posiciona a borda superior da opção SOBRE na metade da altura da tela para auxiliar a centralização.              */
-    left: 50%;                                             /* Posiciona a borda esquerda da opção SOBRE na metade da largura da tela para auxiliar a centralização.             */
+    top: 50%;                                              /* Define a distância do topo em 50% para auxiliar a centralização vertical a opção SOBRE.                           */
+    left: 50%;                                             /* Define a distância da esquerda em 50% para auxiliar a centralização horizontal a opção SOBRE.                     */
     transform: translate(-50%, -50%);                      /* Centralização perfeita.                            */
     z-index: 1000;                                         /* Define a ordem de empilhamento em nível máximo para garantir que a opção SOBRE fique acima de todos os elementos. */
     background: rgba(0, 0, 0, 0.9);                      /* Fundo escuro translúcido.                          */
     border: 2px solid #d4ac0d;                           /* Define uma borda sólida dourada para delimitar e destacar visualmente a área da opção SOBRE.                      */
     border-radius: 12px;                                   /* Define os cantos arredondados para suavizar o design da janela flutuante da opção SOBRE.                          */
     padding: 45px;                                         /* Define o preenchimento interno para criar um espaço vazio entre o conteúdo e as bordas da opção SOBRE.            */
-    width: 92%;                                            /* Define a largura relativa para garantir que o MODAL SOBRE seja responsivo em diferentes resoluções.               */
+    width: 92%;                                            /* Define a largura relativa para garantir que a opção SOBRE seja responsivo em diferentes resoluções.               */
     max-width: 1000px;                                     /* Limite máximo.                                     */
     height: 82vh;                                          /* Altura relativa à viewport.                        */
     overflow: hidden;                                      /* Evita transbordo.                                  */
@@ -610,23 +611,23 @@ footer p {
 /*             MODAL “SOBRE” — BOTÃO FECHAR             */
 /*======================================================*/
 .fechar-sobre {
-    position: absolute;                                    /* Permite o posicionamento absoluto do BOTÃO FECHAR da opção SOBRE.                 */
-    top: 15px;                                             /* Distância do topo.                                 */
-    right: 15px;                                           /* Distância da direita.                              */
+    position: absolute;                                    /* Permite o posicionamento absoluto do BOTÃO FECHAR da opção SOBRE.                      */
+    top: 15px;                                             /* Define a distância em relação ao topo para posicionar o BOTÃO FECHAR da opção SOBRE.   */
+    right: 15px;                                           /* Define a distância em relação à direita para posicionar o BOTÃO FECHAR da opção SOBRE. */
     background: transparent;                               /* Sem fundo.                                         */
-    border: none;                                          /* Define a borda como nula para remover o contorno do BOTÃO FECHAR da opção SOBRE.  */
-    color: #d4ac0d;                                      /* Define a cor do texto em dourado do BOTÃO FECHAR da opção SOBRE.                  */
-    font-size: 28px;                                       /* Define o tamanho da fonte do BOTÃO FECHAR da opção SOBRE.                         */
-    /*font-weight: bold;                                   /* Deixa o texto em NEGRITO do BOTÃO FECHAR da opção SOBRE.                          */
-    cursor: pointer;                                       /* Define o cursor como ponteiro para indicar uma área de interação no BOTÃO FECHAR. */
+    border: none;                                          /* Define a borda como nula para remover o contorno do BOTÃO FECHAR da opção SOBRE.       */
+    color: #d4ac0d;                                      /* Define a cor do texto em dourado do BOTÃO FECHAR da opção SOBRE.                       */
+    font-size: 28px;                                       /* Define o tamanho da fonte do BOTÃO FECHAR da opção SOBRE.                              */
+    /*font-weight: bold;                                   /* Deixa o texto em NEGRITO do BOTÃO FECHAR da opção SOBRE.                               */
+    cursor: pointer;                                       /* Define o cursor como ponteiro para indicar uma área de interação no BOTÃO FECHAR.      */
 }
 
 /*======================================================*/
-/*                MODAL “SOBRE” — TEXTO                 */
+/*                OPÇÃO “SOBRE” — TEXTO                 */
 /*======================================================*/
 .texto-sobre {
     position: relative;                                    /* Permite o posicionamento relativo fixo texto da opção SOBRE. */
-    z-index: 920;                                          /* Camada elevada.                                    */
+    z-index: 920;                                           /* Define a ordem de empilhamento em camada elevada para que o texto da opção SOBRE fique visível. */
     max-height: calc(82vh - 120px);                        /* Altura máxima calculada.                           */
     overflow-y: auto;                                      /* Rolagem vertical.                                  */
     text-align: justify;                                   /* Texto justificado.                                 */
@@ -641,9 +642,9 @@ footer p {
 /*======================================================*/
 body.sobre-ativo::after {
     content: '';                                           /* Pseudo-elemento vazio.                             */
-    position: fixed;                                       /* Permite o posicionamento fixo sobre a imagem quando ativo. */
-    top: 0;                                                /* Topo zero.                                         */
-    left: 0;                                               /* Esquerda zero.                                     */
+    position: fixed;                                       /* Permite o posicionamento fixo sobre a imagem quando ativo.                                */
+    top: 0;                                                /* Define a distância do topo como zero para iniciar o OVERLAY ESCURO no limite superior.    */
+    left: 0;                                               /* Define a distância da esquerda como zero para iniciar o OVERLAY ESCURO no limite lateral. */
     width: 100%;                                           /* Define a largura total que a opção SOBRE ocupa.    */
     height: 100%;                                          /* Altura total.                                      */
     background: rgba(0, 0, 0, 0.7);                      /* Fundo escuro translúcido.                          */
@@ -896,18 +897,17 @@ body.sobre-ativo::after {
         justify-content: flex-end;                         /* Alinha à direita o texto da BARRA DE MENU SUPERIOR.  */
         padding-right: 2px;                                /* Espaço à direita.                                  */
         position: relative;                                /* Permite o posicionamento relativo do texto da BARRA DE MENU SUPERIOR. */
-        left: -2px;                                        /* Ajuste horizontal.                                 */
+        left: -2px;                                        /* Define o deslocamento da esquerda em -2px para o ajuste fino do item no MENU SUPERIOR. */
     }
 
     nav .menu-opcoes li:nth-child(7) {
         grid-column: span 3;                               /* Ocupa 3 colunas.                                   */
         order: 4;                                          /* Ordem de exibição.                                 */
-        justify-content: flex-start;                       /* Alinha horizontalmente ao início da exibição o texto da BARRA DE MENU SUPERIOR. */
+        justify-content: flex-start;                       /* Alinha horizontalmente ao início da exibição o texto da BARRA DE MENU SUPERIOR.        */
         padding-left: 2px;                                 /* Espaço à esquerda.                                 */
-        position: relative;                                /* Permite o posicionamento relativo do texto da BARRA DE MENU SUPERIOR. */
-        left: -2px;                                        /* Ajuste horizontal.                                 */
+        position: relative;                                /* Permite o posicionamento relativo do texto da BARRA DE MENU SUPERIOR.                  */
+        left: -2px;                                        /* Define o deslocamento da esquerda em -2px para o ajuste fino do item no MENU SUPERIOR. */
     }
-
                                                            /* Linha 3                                            */
     nav .menu-opcoes li:nth-child(6) {
         grid-column: span 2;                               /* Ocupa 2 colunas.                                   */
