@@ -144,10 +144,9 @@ nav {
     left: 0;                                               /* Define a distância da esquerda como zero para alinhar a BARRA DE MENU SUPERIOR ao limite lateral.    */
     z-index: 1;                                            /* Define a ordem de empilhamento para que a BARRA DE MENU SUPERIOR se sobreponha a elementos de fundo. */
     width: 100%;                                           /* Define a largura total que a BARRA DE MENU SUPERIOR ocupa.                                           */
-    height: 40px;                                          /* Altura fixa.                                      */
+    height: 40px;                                          /* Define a altura fixa da BARRA DE MENU SUPERIOR.                                                      */
     padding: 10px 0;                                       /* Define o preenchimento interno vertical para criar um espaço vazio na BARRA DE MENU SUPERIOR.        */ 
-    /* Degradê cinza.                                   */
-    background: linear-gradient(to right, #333, #555, #777);
+    background: linear-gradient(to right, #333, #555, #777); /* Aplica um degradê linear cinza para o fundo da BARRA DE MENU SUPERIOR.                      */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);            /* Sombra suave.                                     */
     display: flex;                                         /* Ativa o FLEXBOX para alinhas os itens corretamente no layout da BARRA DE MENU SUPERIOR.              */
     align-items: center;                                   /* Centraliza verticalmente a BARRA DE MENU SUPERIOR.                                                   */
@@ -276,7 +275,7 @@ nav .menu-opcoes li a:hover {
     bottom: 0;                                             /* Até o final da tela.                               */
     z-index: 10;                                           /* Define a ordem de empilhamento para que o MENU LATERAL DE LIVROS se sobreponha ao conteúdo principal.      */
     width: 225px;                                          /* Define a largura fixa para padronizar o tamanho do MENU LATERAL DOS LIVROS.            */
-    height: calc(100vh - 180px);                           /* Altura dinâmica.                                   */
+    height: calc(100vh - 180px);                           /* Define a altura do MENU LATERAL DE LIVROS automaticamente(dinamicamente).              */
     margin-right: 20px;                                    /* Define o espaço à direita do MENU LATERAL DOS LIVROS.                                  */
     padding: 18px;                                         /* Define o preenchimento interno para criar um espaço vazio no MENU LATERAL DE LIVROS.   */
     /*background-color: #181818;                           /* Define a cor de fundo em cinza escuro.                                                 */
@@ -332,13 +331,12 @@ nav .menu-opcoes li a:hover {
     border-radius: 10px;                                   /* Define os cantos arredondados para suavizar o design da alça da BARRA DE ROLAGEM do MENU LATERAL DOS LIVROS. */
 }
 
-
 /*======================================================*/
 /*                  CONTEÚDO PRINCIPAL                  */
 /*     Área central de leitura e exibição do texto      */
 /*======================================================*/
 .conteudo {
-    height: calc(100vh - 160px);                           /* Altura útil.                                           */
+    height: calc(100vh - 160px);                           /* Define a altura na área principal automaticamente (dinamicamente).               */
     margin-top: 50px;                                      /* Define o espaço mínimo acima do conteúdo principal.    */
     flex: 3;                                               /* Crescimento flexível.                                  */
     overflow-y: auto;                                      /* Rolagem vertical.                                      */
@@ -396,12 +394,12 @@ h3 {
 /*       Imagem de fundo semi-transparente             */
 /*=====================================================*/
 .marca-dagua-imagem {
-    position: fixed;                                       /* Permite o posicionamento fixo da MARCA D'ÁGUA.    */
-    top: 0;                                                /* Define a distância do topo como zero para que a MARCA D'ÁGUA comece no limite superior. */
-    left: 0;                                               /* Define a distância da esquerda como zero para alinhar a MARCA D'ÁGUA ao limite lateral. */
-    width: 100%;                                           /* Define a largura total que a MARCA D'ÁGUA ocupa.  */
-    height: 120%;                                          /* Altura expandida.                                 */
-    z-index: 10;                                           /* Define a ordem de empilhamento em camada de fundo para a MARCA D'ÁGUA.                  */
+    position: fixed;                                       /* Permite o posicionamento fixo da MARCA D'ÁGUA.                                                */
+    top: 0;                                                /* Define a distância do topo como zero para que a MARCA D'ÁGUA comece no limite superior.       */
+    left: 0;                                               /* Define a distância da esquerda como zero para alinhar a MARCA D'ÁGUA ao limite lateral.       */
+    width: 100%;                                           /* Define a largura total que a MARCA D'ÁGUA ocupa.                                              */
+    height: 120%;                                          /* Define a altura expandida para garantir que a MARCA D'ÁGUA cubra toda a área de visualização. */
+    z-index: 10;                                           /* Define a ordem de empilhamento em camada de fundo para a MARCA D'ÁGUA.                        */
     opacity: 0.3;                                          /* Transparente.                                     */
     overflow: hidden;                                      /* Oculta o conteúdo que transborda.                 */
     pointer-events: none;                                  /* Não clicável.                                     */
@@ -568,14 +566,14 @@ body.module-leitura .versiculo .traducao-palavra-text {
 /*     Área fixa com informações no final da página     */
 /*======================================================*/
 footer {
-    position: fixed;                                       /* Permite o posicionamento fixo do RODAPÉ.          */
+    position: fixed;                                       /* Permite o posicionamento fixo do RODAPÉ.                                          */
     bottom: 0;                                             /* Encostado no fundo.                               */
     left: 0;                                               /* Define a distância da esquerda como zero para alinhar o RODAPÉ ao limite lateral. */
     z-index: 1;                                            /* Define a ordem de empilhamento para que o RODAPÉ se sobreponha ao conteúdo.       */
-    width: 100%;                                           /* Define a largura total que o RODAPÉ ocupa.        */
-    height: 30px;                                          /* Altura fixa.                                      */
-    background-color: #383838;                           /* Define a cor de fundo em cinza escuro.            */
-    color: #d4ac0d;                                      /* Define a cor do texto em dourado.                 */
+    width: 100%;                                           /* Define a largura total que o RODAPÉ ocupa.                                        */
+    height: 30px;                                          /* Define a altura fixa para padronizar a dimensão vertical do RODAPÉ.               */
+    background-color: #383838;                           /* Define a cor de fundo em cinza escuro.                                            */
+    color: #d4ac0d;                                      /* Define a cor do texto em dourado.                                                 */
     text-align: center;                                    /* Texto centralizado.                               */
 }
 
@@ -603,7 +601,7 @@ footer p {
     padding: 45px;                                         /* Define o preenchimento interno para criar um espaço vazio entre o conteúdo e as bordas da opção SOBRE.            */
     width: 92%;                                            /* Define a largura relativa para garantir que a opção SOBRE seja responsivo em diferentes resoluções.               */
     max-width: 1000px;                                     /* Limite máximo.                                     */
-    height: 82vh;                                          /* Altura relativa à viewport.                        */
+    height: 82vh;                                          /* Define a altura baseada na visão vertical para garantir que a opção SOBRE ocupe a maior parte da tela.            */
     overflow: hidden;                                      /* Evita transbordo.                                  */
 }
 
@@ -627,7 +625,7 @@ footer p {
 /*======================================================*/
 .texto-sobre {
     position: relative;                                    /* Permite o posicionamento relativo fixo texto da opção SOBRE. */
-    z-index: 920;                                           /* Define a ordem de empilhamento em camada elevada para que o texto da opção SOBRE fique visível. */
+    z-index: 920;                                          /* Define a ordem de empilhamento em camada elevada para que o texto da opção SOBRE fique visível. */
     max-height: calc(82vh - 120px);                        /* Altura máxima calculada.                           */
     overflow-y: auto;                                      /* Rolagem vertical.                                  */
     text-align: justify;                                   /* Texto justificado.                                 */
@@ -645,8 +643,8 @@ body.sobre-ativo::after {
     position: fixed;                                       /* Permite o posicionamento fixo sobre a imagem quando ativo.                                */
     top: 0;                                                /* Define a distância do topo como zero para iniciar o OVERLAY ESCURO no limite superior.    */
     left: 0;                                               /* Define a distância da esquerda como zero para iniciar o OVERLAY ESCURO no limite lateral. */
-    width: 100%;                                           /* Define a largura total que a opção SOBRE ocupa.    */
-    height: 100%;                                          /* Altura total.                                      */
+    width: 100%;                                           /* Define a largura total para garantir que o OVERLAY ESCURO ocupa.    */
+    height: 100%;                                          /* Define a altura total para garantir que o OVERLAY ESCURO preencha toda a tela.            */
     background: rgba(0, 0, 0, 0.7);                      /* Fundo escuro translúcido.                          */
 }
 
@@ -819,18 +817,18 @@ body.sobre-ativo::after {
     /*==================================================*/
     .barra-pesquisa input[type="text"],
     .barra-pesquisa button {
-        width: 100%;                                       /* Define a largura total que a BARRA DE PESQUISA ocupa.                     */
-        height: 40px;                                      /* Altura fixa.                                       */
-        margin: 0;                                         /* Remove margens externas padrão da BARRA DE PESQUISA.                      */
-        border-radius: 5px;                                /* Define os cantos arredondados para suavizar o design do INPUT e do BOTÃO. */
+        width: 100%;                                       /* Define a largura total que a BARRA DE PESQUISA ocupa.                         */
+        height: 40px;                                      /* Define a altura fixa para padronizar a dimensão vertical do INPUT e do BOTÃO. */
+        margin: 0;                                         /* Remove margens externas padrão da BARRA DE PESQUISA.                          */
+        border-radius: 5px;                                /* Define os cantos arredondados para suavizar o design do INPUT e do BOTÃO.     */
     }
 
     /*==================================================*/
     /*       BARRA DE PESQUISA - SELECT (MOBILE)        */
     /*==================================================*/
     .barra-pesquisa select {
-        width: 100%;                                       /* Define a largura total que a BARRA DE PESQUISA e SELEÇÃO ocupa. */
-        height: 40px;                                      /* Altura fixa.                                       */
+        width: 100%;                                       /* Define a largura total que a BARRA DE PESQUISA e o SELECT ocupa.    */
+        height: 40px;                                      /* Define a altura fixa para padronizar a dimensão vertical do SELECT. */
     }
 
     /*==================================================*/
@@ -838,8 +836,8 @@ body.sobre-ativo::after {
     /*       GRID 6 COLUNAS - CONTAINER (MOBILE)        */
     /*==================================================*/
     nav {
-        position: static;                                  /* Permite o posicionamento do fluxo normal da BARRA DE MENU SUPERIOR. */
-        height: auto;                                      /* Altura automática.                                 */
+        position: static;                                  /* Permite o posicionamento do fluxo normal da BARRA DE MENU SUPERIOR.                     */
+        height: auto;                                      /* Define a altura automática para que a BARRA DE MENU SUPERIOR se ajuste ao seu conteúdo. */
         padding: 5px;                                      /* Define o preenchimento interno para criar um espaço vazio entre o conteúdo e as bordas da BARRA DE MENU SUPERIOR. */
         background: rgba(68, 68, 68, 0.95);              /* Fundo escuro.                                      */
         flex-direction: column;                            /* Layout em coluna.                                  */
@@ -970,15 +968,15 @@ body.sobre-ativo::after {
     /*      LISTA DE LIVROS COM 2 COLUNAS (MOBILE)      */
     /*==================================================*/
     .menu-livros {
-        position: static;                                  /* Permite o posicionamento do fluxo normal da lista no MENU LATERAL DOS LIVROS.          */
-        width: 100%;                                       /* Define a largura total da lista do MENU LATERAL DOS LIVROS ocupa.                      */
-        height: auto;                                      /* Altura automática.                                 */
-        background-color: rgba(5, 5, 5, 0.95);           /* Define a cor de fundo em preto semi-transparente da lista do MENU LATERAL DOS LIVROS.  */
-        padding: 15px 10px;                                /* Define o preenchimento interno vertical e horizontal para criar um espaço vazio entre o conteúdo e as bordas da lista no MENU LATERAL DOS LIVROS (MOBILE). */
-        border-right: none;                                /* Define a borda direita como nula para remover o contorno do MENU LATERAL DOS LIVROS.   */
-        border-bottom: 2px solid #555;                   /* Define uma borda sólida inferior para demarcar o limite do MENU LATERAL DOS LIVROS.    */
+        position: static;                                  /* Permite o posicionamento do fluxo normal da lista no MENU LATERAL DOS LIVROS.            */
+        width: 100%;                                       /* Define a largura total da lista do MENU LATERAL DOS LIVROS ocupa.                        */
+        height: auto;                                      /* Define a altura automática para que o MENU LATERAL DOS LIVROS se ajuste ao seu conteúdo. */
+        background-color: rgba(5, 5, 5, 0.95);           /* Define a cor de fundo em preto semi-transparente da lista do MENU LATERAL DOS LIVROS.    */
+        padding: 15px 10px;                                /* Define o preenchimento interno vertical e horizontal para criar um espaço vazio entre o conteúdo e as bordas da lista no MENU LATERAL DOS LIVROS. */
+        border-right: none;                                /* Define a borda direita como nula para remover o contorno do MENU LATERAL DOS LIVROS.     */
+        border-bottom: 2px solid #555;                   /* Define uma borda sólida inferior para demarcar o limite do MENU LATERAL DOS LIVROS.      */
         overflow: visible;                                 /* Permite estouro.                                   */
-        margin-bottom: 5px;                                /* Define o espaço mínimo abaixo da lista do MENU LATERAL DOS LIVROS.                     */
+        margin-bottom: 5px;                                /* Define o espaço mínimo abaixo da lista do MENU LATERAL DOS LIVROS.                       */
     }
 
     /*==================================================*/
@@ -988,7 +986,7 @@ body.sobre-ativo::after {
     .menu-livros::before {
         content: "LIVROS";                                 /* Conteúdo do pseudo-elemento.                        */
         display: block;                                    /* Define a exibição como bloco para garantir que o título ocupe uma linha exclusiva acima da LISTA DE LIVROS (MOBILE). */
-        /*color: #fff;                                     /* Define a cor do texto em branca.                     */
+        /*color: #fff;                                   /* Define a cor do texto em branca.                     */
         font-size: 1.8rem;                                 /* Define o tamanho da fonte do TITULO DOS LIVROS.                     */
         /*font-weight: bold;                               /* Deixa o texto em NEGRITO do TITULO DOS LIVROS.                      */
         margin-bottom: 10px;                               /* Define o espaço mínimo abaixo do TITULO DOS LIVROS.                 */
@@ -1050,8 +1048,8 @@ body.sobre-ativo::after {
     .conteudo {
         margin-left: 0;                                    /* Remove o espaço à esquerda do conteúdo da área principal.   */
         margin-top: 0;                                     /* Remove o espaço mínimo acima do conteúdo da area principal. */
-        padding: 0 5px 10px 5px;                           /* Define o preenchimento interno para criar um espaço vazio entre o conteúdo e as bordas do conteúdo da area principal (MOBILE). */
-        height: auto;                                      /* Altura automática.                                */
+        padding: 0 5px 10px 5px;                           /* Define o preenchimento interno para criar um espaço vazio entre o conteúdo e as bordas do conteúdo da area principal. */
+        height: auto;                                      /* Define a altura automática para que o conteúdo da área principal se ajuste ao seu conteúdo. */
         overflow: visible;                                 /* Permite estouro.                                  */
         width: 100%;                                       /* Define largura total que o CONTEÚDO ocupa.        */
     }
