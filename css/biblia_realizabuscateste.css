@@ -1,0 +1,161 @@
+/*=====================================================*/
+/*                ARQUIVO DE ESTILOS DA BUSCA BÍBLICA  */
+/*   Estiliza a sobreposição e os resultados da busca  */
+/*=====================================================*/
+
+/*======================================================*/
+/*           CONFIGURA O CONTÊINER PRINCIPAL            */
+/*               DA SOBREPOSIÇÃO DE BUSCA               */
+/*======================================================*/
+#search-overlay-content {
+    max-width: 100%;                                       /* Define a largura total para garantir que o CONTÊINER DE BUSCA ocupe toda a extensão.                             */
+    margin: 10px auto;                                     /* Define 40px de margem superior/inferior e margens laterais automáticas (auto) para centralização horizontal.     */
+    opacity: 0;                                            /* Define a opacidade como 0 (nula) para iniciar a transição de exibição.                                           */
+    color: #851313 !important;                                      /* Define a cor do texto principal em cinza claro no CONTÊINER DE BUSCA.                                            */
+    font-family: sans-serif;                               /* Define o tipo de fonte como SANS-SERIF no CONTÊINER DE BUSCA.                                                    */
+    font-style: normal;                                    /* Define o estilo da fonte como normal no CONTÊINER DE BUSCA.                                                      */
+    font-weight: normal;                                   /* Define o peso da fonte como normal no CONTÊINER DE BUSCA.                                                        */
+    text-align: left;                                      /* Define o alinhamento de texto à esquerda no CONTÊINER DE BUSCA.                                                  */
+    transition: opacity 0.2s ease-in-out;                  /* Adiciona uma transição suave de opacidade de 0.2s.                                                               */
+}
+
+/*======================================================*/
+/*    Torna o contêiner visível após o carregamento     */
+/*======================================================*/
+#search-overlay-content.loaded {
+    opacity: 1;                                            /* Define a opacidade como 1 (total) para tornar o CONTÊINER DE BUSCA totalmente visível após o carregamento. */
+}
+
+/*======================================================*/
+/*          TÍTULO PRINCIPAL DA SOBREPOSIÇÃO            */
+/*======================================================*/
+#search-overlay-content h2 {
+    margin-bottom: 30px;                                   /* Define 30px de margem inferior para o TÍTULO PRINCIPAL.            */
+    text-shadow: 2px 2px 2px #000;                       /* Aplica uma sombra ao texto do TÍTULO PRINCIPAL.                    */
+    color: yellow;                                       /* Define a cor do texto do TÍTULO PRINCIPAL em amarelo.              */
+    text-align: center;                                    /* Define o alinhamento de texto centralizado para o TÍTULO PRINCIPAL.*/
+    font-size: 2.5em;                                      /* Define o tamanho da fonte do TÍTULO PRINCIPAL.                     */
+    font-weight: bold;                                     /* Define o peso da fonte em negrito para o TÍTULO PRINCIPAL.         */
+}
+
+/*======================================================*/
+/*       PARTE INTERNA DA BARRA DE PROGRESSO            */
+/*======================================================*/
+#search-overlay-progress-bar-inner {
+    width: 0%;                                             /* Inicia a largura em 0% para a animação da BARRA DE PROGRESSO INTERNA.           */
+    height: 20px;                                          /* Define a altura da BARRA DE PROGRESSO INTERNA.                                  */
+    background-color: #FFD700;                           /* Define a cor de preenchimento em dourado para a BARRA DE PROGRESSO INTERNA.     */
+    border-radius: 10px;                                   /* Define os cantos arredondados para a BARRA DE PROGRESSO INTERNA.                */
+    transition: width 0.4s ease-in-out;                    /* Adiciona uma transição suave para a alteração da largura.                       */
+}
+
+/*======================================================*/
+/*       PARTE EXTERNA DA BARRA DE PROGRESSO            */
+/*======================================================*/
+#search-overlay-progress-bar-outer {
+    width: 80%;                                            /* Define a largura da BARRA DE PROGRESSO EXTERNA.                                                                  */
+    margin: 15px auto;                                     /* Define 15px de margem superior/inferior e margens laterais automáticas (auto) para centralização horizontal.     */
+    padding: 3px;                                          /* Define o preenchimento interno para criar um respiro na BARRA DE PROGRESSO EXTERNA.                              */
+    background-color: #555;                              /* Define a cor de fundo em cinza escuro para a BARRA DE PROGRESSO EXTERNA.                                         */
+    border-radius: 13px;                                   /* Define os cantos arredondados para a BARRA DE PROGRESSO EXTERNA.                                                 */
+}
+
+/*======================================================*/
+/*        CONTÊINER DA BARRA DE PROGRESSO               */
+/*======================================================*/
+#search-overlay-progress-conteiner {
+    padding: 20px;                                         /* Define o preenchimento interno para o CONTÊINER DA BARRA DE PROGRESSO.               */
+    text-align: center;                                    /* Define o alinhamento de texto centralizado para o CONTÊINER DA BARRA DE PROGRESSO.   */
+}
+
+/*======================================================*/
+/*          TEXTO DE PROGRESSO DA BUSCA                 */
+/*======================================================*/
+#search-overlay-progress-text {
+    margin-top: 10px;                                      /* Define 10px de margem superior para o TEXTO DE PROGRESSO DA BUSCA.            */
+    color: #ccc;                                         /* Define a cor do texto em cinza claro para o TEXTO DE PROGRESSO DA BUSCA.      */
+    font-style: italic;                                    /* Define o estilo da fonte como itálico para o TEXTO DE PROGRESSO DA BUSCA.     */
+}
+
+/*======================================================*/
+/*         MENSAGEM DE "NENHUM RESULTADO"               */
+/*======================================================*/
+#search-overlay-resultados-conteiner p {
+    padding: 40px 0;                                       /* Define 40px de preenchimento vertical para criar um respiro na MENSAGEM DE RESULTADO.*/
+    text-align: center;                                    /* Define o alinhamento de texto centralizado para a MENSAGEM DE RESULTADO.             */
+    font-size: 1.2em;                                      /* Define o tamanho da fonte para a MENSAGEM DE RESULTADO.                              */
+}
+
+/*======================================================*/
+/*             BOTÃO DE FECHAR SOBREPOSIÇÃO             */
+/*======================================================*/
+.search-overlay-botao-fechar {
+    position: fixed;                                       /* Define o posicionamento fixo para manter o BOTÃO FECHAR estático na tela.                  */
+    top: 20px;                                             /* Define a distância do topo para posicionar o BOTÃO FECHAR.                                 */
+    right: 30px;                                           /* Define a distância da direita para posicionar o BOTÃO FECHAR.                              */
+    z-index: 10;                                           /* Define a ordem de empilhamento para que o BOTÃO FECHAR fique acima dos elementos.          */
+    padding: 10px 15px;                                    /* Define o preenchimento interno vertical/horizontal para criar um respiro no BOTÃO FECHAR.  */
+    background-color: #f44336;                           /* Define a cor de fundo em vermelho para o BOTÃO FECHAR.                                     */
+    border: none;                                          /* Remove a borda padrão do BOTÃO FECHAR.                                                     */
+    border-radius: 4px;                                    /* Define os cantos arredondados para o BOTÃO FECHAR.                                         */
+    color: white;                                        /* Define a cor do texto em branco para o BOTÃO FECHAR.                                       */
+    cursor: pointer;                                       /* Define o cursor do mouse como ponteiro para indicar uma área de interação.                 */
+}
+
+/*======================================================*/
+/*           ITEM INDIVIDUAL DO RESULTADO               */
+/*======================================================*/
+.search-overlay-resultado-item {
+    padding: 15px 10px;                                    /* Define o preenchimento interno vertical/horizontal para o ITEM DE RESULTADO.  */
+    border-bottom: 1px solid #444;                       /* Adiciona uma borda sólida cinza na parte inferior como linha separadora.      */
+    line-height: 1.6;                                      /* Define a altura da linha para melhorar a legibilidade no ITEM DE RESULTADO.   */
+}
+
+/*======================================================*/
+/*         TEXTO DO VERSÍCULO DO RESULTADO              */
+/*======================================================*/
+.search-overlay-resultado-item span {
+    color: #eee;                                         /* Define a cor do texto do versículo em cinza claro.                 */
+    font-weight: normal;                                   /* Define o peso da fonte como normal para o texto do versículo.      */
+    font-style: normal;                                    /* Define o estilo da fonte como normal para o texto do versículo.    */
+}
+
+/*======================================================*/
+/*            LINK DO TÍTULO DO RESULTADO               */
+/*======================================================*/
+.search-overlay-resultado-item strong a {
+    display: block;                                        /* Define a exibição como bloco para que o link ocupe toda a largura.            */
+    margin-bottom: 5px;                                    /* Define 5px de margem inferior para o link do TÍTULO DO RESULTADO.             */
+    opacity: 1;                                            /* Define a opacidade como 1 (total) para o link.                                */
+    color: #FFD700;                                      /* Define a cor do link do TÍTULO DO RESULTADO em dourado.                       */
+    font-size: 1.1em;                                      /* Define o tamanho da fonte para o link do TÍTULO DO RESULTADO.                 */
+    font-weight: bold;                                     /* Define o peso da fonte em negrito para o link do TÍTULO DO RESULTADO.         */
+    text-decoration: underline;                            /* Aplica o sublinhado ao link.                                                  */
+    cursor: pointer;                                       /* Define o cursor do mouse como ponteiro.                                       */
+}
+
+/*======================================================*/
+/*        LINK DO TÍTULO DO RESULTADO — HOVER           */
+/*======================================================*/
+.search-overlay-resultado-item strong a:hover {
+    opacity: 0.8;                                          /* Reduz a opacidade para 0.8 no efeito de HOVER.       */
+    text-decoration: none;                                 /* Remove o sublinhado no efeito de HOVER.              */
+}
+
+/*======================================================*/
+/*             IMAGEM DE MARCA D'ÁGUA                   */
+/*======================================================*/
+#marcadagua {
+    position: fixed;                                       /* Define o posicionamento fixo para manter a MARCA D'ÁGUA estática na tela.               */
+    top: 50%;                                              /* Define a distância do topo em 50% para auxiliar a centralização vertical.               */
+    left: 50%;                                             /* Define a distância da esquerda em 50% para auxiliar a centralização horizontal.         */
+    z-index: -1;                                           /* Define a ordem de empilhamento em -1 para colocar a MARCA D'ÁGUA atrás do conteúdo.     */
+    width: 80%;                                            /* Define a largura da MARCA D'ÁGUA em 80% da tela.                                        */
+    height: 80%;                                           /* Define a altura da MARCA D'ÁGUA em 80% da tela.                                         */
+    opacity: 0.08;                                         /* Define a opacidade em 0.08 para criar o efeito semi-transparente.                       */
+    background-size: contain;                              /* Ajusta o tamanho da imagem de fundo para caber no contêiner sem cortes.                 */
+    background-repeat: no-repeat;                          /* Impede a repetição da imagem de fundo.                                                  */
+    background-position: center center;                    /* Centraliza a imagem de fundo na área de visualização.                                   */
+    transform: translate(-50%, -50%);                      /* Aplica o deslocamento de correção para garantir a centralização precisa da MARCA D'ÁGUA.*/
+    pointer-events: none;                                  /* Desativa a interação do mouse para que a MARCA D'ÁGUA não bloqueie cliques no conteúdo. */
+}

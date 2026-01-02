@@ -199,9 +199,6 @@
             }
 
 shadow.innerHTML = `<style>
-    /*======================================================*/
-    /*         CONTÊINER PRINCIPAL (SOBREPOSIÇÃO)           */
-    /*======================================================*/
     :host {
         position: fixed; top: 0; left: 0; width: 100%; height: 100%;
         z-index: 10000;
@@ -218,18 +215,14 @@ shadow.innerHTML = `<style>
     }
     :host::-webkit-scrollbar { display: none; }
     
-    /*======================================================*/
-    /*           CONTÊINER DE CONTEÚDO DA BUSCA             */
-    /*======================================================*/
     #search-content {
         font-family: sans-serif; font-style: normal; font-weight: normal; color: #f0f0f0;
         width: 100%;
-        max-width: 100%; /* Garante que o contêiner não exceda o tamanho da sobreposição */
         margin: 0;
         text-align: left;
         opacity: 0; transition: opacity 0.2s ease-in-out;
         background-color: rgba(0, 0, 0, 0.7);
-        padding: 10px; /* Reduz o padding geral para telas menores */
+        padding: 20px;
         border-radius: 8px;
         box-sizing: border-box;
         display: flex;
@@ -238,26 +231,19 @@ shadow.innerHTML = `<style>
         min-height: 0;
     }
 
-    #search-content.loaded { opacity: 1; }
-
-    /*======================================================*/
-    /*            CONTÊINER DOS RESULTADOS                  */
-    /*======================================================*/
     #resultados-busca-conteiner {
         flex-grow: 1;
         overflow-y: auto;
         scrollbar-width: none;
-        padding-left: 0; /* Remove padding excessivo para maximizar a área */
-        padding-right: 0;
+        padding-left: 60px; 
     }
 
     #resultados-busca-conteiner::-webkit-scrollbar {
         display: none;
     }
-    
-    /*======================================================*/
-    /*                TÍTULO DA BUSCA (H2)                  */
-    /*======================================================*/
+
+    #search-content.loaded { opacity: 1; }
+
     #search-content h2 {
         color: yellow; 
         text-align: center; 
@@ -268,27 +254,18 @@ shadow.innerHTML = `<style>
         flex-shrink: 0;
     }
 
-    /*======================================================*/
-    /*                BOTÃO DE FECHAR                       */
-    /*======================================================*/
     .botao-fechar-busca {
         position: fixed; top: 20px; right: 30px;
         background-color: #f44336; color: white; padding: 10px 15px;
         border: none; border-radius: 4px; cursor: pointer; z-index: 10;
     }
 
-    /*======================================================*/
-    /*           ITEM INDIVIDUAL DO RESULTADO               */
-    /*======================================================*/
     .resultado-item {
-        padding: 10px 5px; /* Ajuste o padding para 5px nas laterais para telas menores */
+        padding: 15px 10px; 
         border-bottom: 1px solid #444; 
         line-height: 1.6;
     }
 
-    /*======================================================*/
-    /*          LINK DO TÍTULO DO RESULTADO (STRONG)        */
-    /*======================================================*/
     .resultado-item strong a {
         color: #FFD700; 
         font-size: 1.8em; 
@@ -299,30 +276,21 @@ shadow.innerHTML = `<style>
         cursor: pointer;
     }
 
-    /*======================================================*/
-    /*        LINK DO TÍTULO DO RESULTADO — HOVER           */
-    /*======================================================*/
     .resultado-item strong a:hover { 
         text-decoration: none; 
         opacity: 0.8; 
     }
     
-    /*======================================================*/
-    /*         TEXTO DO VERSÍCULO DO RESULTADO              */
-    /*======================================================*/
+    /* ✅ CORRIGIDO: texto alinhado à esquerda, sem recuo */
     .resultado-item span { 
         color: #eee; 
         font-size: 1.5em;
-        /* Esses ajustes garantem que o texto inicie na margem esquerda */
-        display: inline; /* Não força uma nova linha, permitindo fluxo normal */
+        display: block;
         margin: 0;
         padding: 0;
-        text-align: left; /* Garante alinhamento à esquerda */
+        text-align: left;
     }
 
-    /*======================================================*/
-    /*         MENSAGEM DE "NENHUM RESULTADO"               */
-    /*======================================================*/
     #resultados-busca-conteiner p { 
         text-align: center; 
         font-size: 1.5em; 
@@ -330,17 +298,11 @@ shadow.innerHTML = `<style>
         color: #ccc;
     }
 
-    /*======================================================*/
-    /*        CONTÊINER DA BARRA DE PROGRESSO               */
-    /*======================================================*/
     #progress-conteiner { 
         padding: 20px; 
         text-align: center; 
     }
 
-    /*======================================================*/
-    /*       PARTE EXTERNA DA BARRA DE PROGRESSO            */
-    /*======================================================*/
     #progress-bar-outer { 
         background-color: #555; 
         border-radius: 13px; 
@@ -349,9 +311,6 @@ shadow.innerHTML = `<style>
         width: 80%; 
     }
 
-    /*======================================================*/
-    /*       PARTE INTERNA DA BARRA DE PROGRESSO            */
-    /*======================================================*/
     #progress-bar-inner { 
         background-color: #FFD700; 
         width: 0%; 
@@ -360,9 +319,6 @@ shadow.innerHTML = `<style>
         transition: width 0.4s ease-in-out; 
     }
 
-    /*======================================================*/
-    /*          TEXTO DE PROGRESSO DA BUSCA                 */
-    /*======================================================*/
     #progress-text { 
         margin-top: 10px; 
         font-style: italic; 
