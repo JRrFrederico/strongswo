@@ -4,20 +4,24 @@
 /*     Versão Otimizada: Carrega capítulos em paralelo para máxima velocidade    */
 /*===============================================================================*/
 
-(function() {
-    'use strict';
-    
-    const CACHE_VERSION = 'v10'; // Versão incrementada para forçar a reconstrução
-    const MAX_RESULTS = 500;
-    
-    window.searchEngine = {
-        invertedIndex: {},
-        versiculos: [],
-        versaoAtual: '',
-        isReady: false
-    };
-    
-    const livrosBiblicos = {
+(function() {                                                                                           // Inicia a função autoexecutável
+    'use strict';                                                                                       // Ativa o modo de escrita rígido
+
+    // Bloco: Configurações iniciais e variáveis de controle 
+    const CACHE_VERSION = 'v10';                                                                        // Versão do cache para atualização
+    const MAX_RESULTS = 500;                                                                            // Limite de versículos exibidos
+
+    // Bloco: Objeto global do motor de busca (estado)
+    window.searchEngine = {                                                                             // Objeto global do motor de busca
+        invertedIndex: {},                                                                              // Dicionário: palavra -> versículos
+        versiculos: [],                                                                                 // Lista mestre de todos os versos
+        versaoAtual: '',                                                                                // Sigla da bíblia carregada agora
+        isReady: false                                                                                  // Status de prontidão da busca
+    };                                                                                                  
+
+
+    // Bloco: Dicionário de livros e quantidade de capítulos 
+    const livrosBiblicos = {                                                                            // Lista de livros e seus capítulos
         genesis: 50, exodo: 40, levitico: 27, numeros: 36, deuteronomio: 34, josue: 24, juizes: 21, rute: 4, 
         '1samuel': 31, '2samuel': 24, '1reis': 22, '2reis': 25, '1cronicas': 29, '2cronicas': 36, esdras: 10, 
         neemias: 13, ester: 10, jo: 42, salmos: 150, proverbios: 31, eclesiastes: 12, cantares: 8, isaias: 66, 
@@ -27,208 +31,221 @@
         galatas: 6, efesios: 6, filipenses: 4, colossenses: 4, '1tessalonicenses': 5, '2tessalonicenses': 3, 
         '1timoteo': 6, '2timoteo': 4, tito: 3, filemom: 1, hebreus: 13, tiago: 5, '1pedro': 5, '2pedro': 3, 
         '1joao': 5, '2joao': 1, '3joao': 1, judas: 1, apocalipse: 22
-    };
+    }; 
 
-    function normalizarTexto(texto) { return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^\w\s]/g, ''); }
-    
-    function extrairVersiculosDoHTML(htmlString, livro, cap) {
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(htmlString, 'text/html');
-        const versiculos = [];
-        const versiculoNodes = doc.querySelectorAll('div[id^="versiculo-"]');
-        
-        versiculoNodes.forEach(node => {
-            const idMatch = node.id.match(/versiculo-(\d+)/);
-            if (idMatch) {
-                const vers = parseInt(idMatch[1]);
-                let texto = '';
-                const cloneNode = node.cloneNode(true);
-                cloneNode.querySelectorAll('strong').forEach(strong => strong.remove());
-                texto = cloneNode.textContent.trim();
-                if (texto) {
-                    versiculos.push({ livro: livro, cap: parseInt(cap), vers: vers, texto: texto });
-                }
-            }
-        });
-        return versiculos;
+    // Bloco; Esta função normaliza o texto (limpeza e padronização)
+    function normalizarTexto(texto) {                                                                        // Função que limpa e padroniza texto
+        return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^\w\s]/g, ''); // Remove acentos e caracteres extras
     }
-    
-    async function carregarConstruirIndice() {
-        const versao = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';
 
-        // Se a versão for 'original', não construa o índice, pois os arquivos estão incompletos.
-        if (versao === 'original') {
-            console.log("[Busca] Indexação pulada para a versão 'original' (incompleta).");
-            window.searchEngine.isReady = true; // Marca como "pronto" para não bloquear a interface de busca.
-            return;
+    // Bloco: Esta função extrai o versículos de arquivos html 
+    function extrairVersiculosDoHTML(htmlString, livro, cap) {                                          // Extrai versos de arquivos HTML
+        const parser = new DOMParser();                                                                 // Criador de documentos virtuais
+        const doc = parser.parseFromString(htmlString, 'text/html');                                    // Transforma texto em HTML real
+        const versiculos = [];                                                                          // Lista temporária de versículos
+        const versiculoNodes = doc.querySelectorAll('div[id^="versiculo-"]');                           // Busca as DIVs de versículo
+
+        versiculoNodes.forEach(node => {                                                                // Varre cada nó de versículo achado
+            const idMatch = node.id.match(/versiculo-(\d+)/);                                           // Tenta pegar o número do ID
+            if (idMatch) {                                                                              // Se o número for encontrado
+                const vers = parseInt(idMatch[1]);                                                      // Converte número em inteiro
+                let texto = '';                                                                         // Inicia texto vazio
+                const cloneNode = node.cloneNode(true);                                                 // Clona o nó para limpeza
+                cloneNode.querySelectorAll('strong').forEach(strong => strong.remove());                // Remove títulos internos (negrito)
+                texto = cloneNode.textContent.trim();                                                   // Pega o texto puro limpo
+                if (texto) {                                                                            // Se houver texto real
+                    versiculos.push({ livro: livro, cap: parseInt(cap), vers: vers, texto: texto });    // Salva o objeto do versículo
+                } 
+            } 
+        }); 
+        return versiculos;                                                                              // Retorna a lista processada
+    }
+
+    // bloco: Esta função carrega e constrói o índice (construtor do motor)
+    async function carregarConstruirIndice() {                                                          // Função principal de indexação
+        const versao = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';                       // Pega a bíblia salva no navegador
+
+        // Bloco: Verificação de segurança para a versão Original
+        if (versao === 'original') {                                                                    // Verifica se é a bíblia original
+            console.log("[Busca] Indexação pulada para a versão 'original' (incompleta).");             // Loga aviso de segurança
+            window.searchEngine.isReady = true;                                                         // Libera a interface de busca
+            return;                                                                                     // Interrompe o processo
         }
 
-        if (window.searchEngine.isReady && window.searchEngine.versaoAtual === versao) { return; }
-        
-        window.searchEngine.isReady = false;
-        console.log("[Busca] Iniciando construção do índice...");
-        const chaveCache = `searchIndex_${versao}_${CACHE_VERSION}`;
-        
-        if (await carregarIndexedDB(chaveCache)) {
-            console.log(`[Busca] Índice carregado do IndexedDB para ${versao}.`);
-            window.searchEngine.isReady = true;
-            return;
+        if (window.searchEngine.isReady && window.searchEngine.versaoAtual === versao) { return; }      // Sai se a bíblia já estiver pronta
+
+        window.searchEngine.isReady = false;                                                            // Bloqueia busca durante construção
+        console.log("[Busca] Iniciando construção do índice...");                                       // Loga início do trabalho
+        const chaveCache = `searchIndex_${versao}_${CACHE_VERSION}`;                                    // Define nome da chave no banco
+
+        if (await carregarIndexedDB(chaveCache)) {                                                      // Tenta carregar índice já pronto
+            console.log(`[Busca] Índice carregado do IndexedDB para ${versao}.`);                       // Loga sucesso de carregamento
+            window.searchEngine.isReady = true;                                                         // Ativa o motor de busca
+            return;                                                                                     // Finaliza a função
         }
-        
-        console.log(`[Busca] Construindo índice para ${versao} a partir dos arquivos de capítulo em paralelo...`);
-        
-        const newInvertedIndex = {}, newVersiculos = [];
-        let versiculoId = 0;
-        const isHtmlVersion = versao.toLowerCase() === 'arc';
-        const fileExtension = isHtmlVersion ? 'html' : 'json';
-        
-        const todasAsPromessas = [];
-        for (const livro in livrosBiblicos) {
-            const totalCapitulos = livrosBiblicos[livro];
-            for (let cap = 1; cap <= totalCapitulos; cap++) {
-                const caminho = `../versao/${versao}/${livro}/${cap}.${fileExtension}`;
-                todasAsPromessas.push(fetch(caminho).then(res => {
-                    if (!res.ok) return null;
+
+        console.log(`[Busca] Construindo índice para ${versao} a partir dos arquivos...`);              // Loga construção manual
+        const newInvertedIndex = {}, newVersiculos = [];                                                // Cria coletores vazios
+        let versiculoId = 0;                                                                            // Contador único de IDs
+        const isHtmlVersion = versao.toLowerCase() === 'arc';                                           // Vê se a versão usa HTML
+        const fileExtension = isHtmlVersion ? 'html' : 'json';                                          // Define extensão do arquivo
+
+        const todasAsPromessas = [];                                                                    // Fila de downloads paralelos
+        for (const livro in livrosBiblicos) {                                                           // Passa por cada livro da bíblia
+            const totalCapitulos = livrosBiblicos[livro];                                               // Pega o total de capítulos
+            for (let cap = 1; cap <= totalCapitulos; cap++) {                                           // Passa por cada capítulo
+                const caminho = `../versao/${versao}/${livro}/${cap}.${fileExtension}`;                 // Monta o endereço do arquivo
+                todasAsPromessas.push(fetch(caminho).then(res => {                                      // Adiciona o pedido de download
+                    if (!res.ok) return null;                                                           // Se falhar, retorna nulo
                     return isHtmlVersion ? res.text().then(html => ({ tipo: 'html', data: html, livro, cap }))
                                          : res.json().then(json => ({ tipo: 'json', data: json, livro, cap }));
-                }));
-            }
-        }
+                })); 
+            } 
+        } 
 
-        const todosOsCapitulos = await Promise.all(todasAsPromessas);
+        const todosOsCapitulos = await Promise.all(todasAsPromessas);                                   // Aguarda todos os downloads
 
-        for (const resultado of todosOsCapitulos) {
-            if (!resultado) continue;
+        for (const resultado of todosOsCapitulos) {                                                     // Lê cada capítulo baixado
+            if (!resultado) continue;                                                                   // Pula se o arquivo falhou
 
-            const { tipo, data, livro, cap } = resultado;
-            let versiculosCapitulo = [];
+            const { tipo, data, livro, cap } = resultado;                                               // Desmembra os dados do resultado
+            let versiculosCapitulo = [];                                                                // Lista de versos do capítulo
 
-            if (tipo === 'html') {
-                versiculosCapitulo = extrairVersiculosDoHTML(data, livro, cap);
-            } else { // json
-                const chapterData = Array.isArray(data) ? data[0] : data;
-                for (const [vers, texto] of Object.entries(chapterData.versiculos || {})) {
-                    if (typeof texto === 'object' && texto !== null && texto.traducao_completa) {
+            if (tipo === 'html') {                                                                      // Se o dado for HTML
+                versiculosCapitulo = extrairVersiculosDoHTML(data, livro, cap);                         // Processa as tags HTML
+            } else {                                                                                    // Se o dado for JSON
+                const chapterData = Array.isArray(data) ? data[0] : data;                               // Trata arrays ou objetos
+                for (const [vers, texto] of Object.entries(chapterData.versiculos || {})) {             // Varre cada versículo JSON
+                    if (typeof texto === 'object' && texto !== null && texto.traducao_completa) {       // Se for JSON estruturado (original)
                         versiculosCapitulo.push({ livro: livro, cap: parseInt(cap), vers: parseInt(vers), texto: texto.traducao_completa });
-                    } else if (typeof texto === 'string') {
+                    } else if (typeof texto === 'string') {                                             // Se for JSON simples (texto puro)
                         versiculosCapitulo.push({ livro: livro, cap: parseInt(cap), vers: parseInt(vers), texto: texto });
-                    }
-                }
+                    } 
+                } 
             }
-            
-            versiculosCapitulo.forEach(versiculoObj => {
-                versiculoObj.id = versiculoId++;
-                newVersiculos.push(versiculoObj);
-                const palavras = normalizarTexto(versiculoObj.texto).split(/\s+/).filter(p => p.length > 1);
-                palavras.forEach(palavra => {
-                    if (!newInvertedIndex[palavra]) newInvertedIndex[palavra] = [];
-                    newInvertedIndex[palavra].push(versiculoObj);
+
+            versiculosCapitulo.forEach(versiculoObj => {                                                      // Varre os versos do capítulo
+                versiculoObj.id = versiculoId++;                                                              // Dá um ID sequencial único
+                newVersiculos.push(versiculoObj);                                                             // Salva na lista mestre
+                const palavras = normalizarTexto(versiculoObj.texto).split(/\s+/).filter(p => p.length > 1);  // Quebra texto em palavras
+                palavras.forEach(palavra => {                                                                 // Varre cada palavra do verso
+                    if (!newInvertedIndex[palavra]) newInvertedIndex[palavra] = [];                           // Cria lista para palavra nova
+                    newInvertedIndex[palavra].push(versiculoObj);                                             // Associa verso à palavra
                 });
             });
         }
 
-        window.searchEngine.invertedIndex = newInvertedIndex;
-        window.searchEngine.versiculos = newVersiculos;
-        window.searchEngine.versaoAtual = versao;
-        
-        await salvarEmIndexedDB(chaveCache, window.searchEngine);
-        console.log(`[Busca] Índice construído e salvo. Total de versículos: ${newVersiculos.length}.`);
-        window.searchEngine.isReady = true;
+        window.searchEngine.invertedIndex = newInvertedIndex;                                           // Salva dicionário no motor
+        window.searchEngine.versiculos = newVersiculos;                                                 // Salva lista mestre no motor
+        window.searchEngine.versaoAtual = versao;                                                       // Grava qual bíblia foi lida
+
+        await salvarEmIndexedDB(chaveCache, window.searchEngine);                                       // Salva tudo no banco do navegador
+        console.log(`[Busca] Índice construído e salvo. Total: ${newVersiculos.length}.`);              // Loga conclusão com contagem
+        window.searchEngine.isReady = true;                                                             // Libera a busca para o usuário
     }
-    
-    document.addEventListener('DOMContentLoaded', () => {
-        setTimeout(() => { carregarConstruirIndice(); }, 1000);
+
+    // Bloco: Agendamento automático da indexação após a carga da página
+    document.addEventListener('DOMContentLoaded', () => {                                               // Ouve o carregamento da página
+        setTimeout(() => { carregarConstruirIndice(); }, 1000);                                         // Inicia indexação após 1 segundo
     });
 
-    async function carregarIndexedDB(chave) {
-        return new Promise((resolve) => {
-            const request = indexedDB.open('BibleSearchDB', 1);
-            request.onupgradeneeded = (event) => {
-                const db = event.target.result;
-                if (!db.objectStoreNames.contains('searchIndexes')) {
-                    db.createObjectStore('searchIndexes', { keyPath: 'id' });
-                }
-            };
-            request.onsuccess = (event) => {
-                const db = event.target.result;
-                const transaction = db.transaction(['searchIndexes'], 'readonly');
-                const store = transaction.objectStore('searchIndexes');
-                const getRequest = store.get(chave);
-                getRequest.onsuccess = () => {
-                    if (getRequest.result) {
-                        window.searchEngine = getRequest.result.data;
+    // Bloco: Esta função carrega o indexeddb (leitura do banco local)
+    async function carregarIndexedDB(chave) {                                                           // Lê dados do banco IndexedDB
+        return new Promise((resolve) => {                                                               // Cria promessa de leitura
+            const request = indexedDB.open('BibleSearchDB', 1);                                         // Abre/Cria o banco de dados
+            request.onupgradeneeded = (event) => {                                                      // Se o banco for novo...
+                const db = event.target.result;                                                         // Acessa o banco
+                if (!db.objectStoreNames.contains('searchIndexes')) {                                   // Se a tabela não existir...
+                    db.createObjectStore('searchIndexes', { keyPath: 'id' });                           // Cria a tabela de índices
+                }                                                                                       // Fecha if tabela
+            };                                                                                          // Fecha onupgradeneeded
+            request.onsuccess = (event) => {                                                            // Se abrir com sucesso
+                const db = event.target.result;                                                         // Acessa o banco
+                const transaction = db.transaction(['searchIndexes'], 'readonly');                      // Inicia leitura
+                const store = transaction.objectStore('searchIndexes');                                 // Acessa a tabela
+                const getRequest = store.get(chave);                                                    // Busca pela chave da bíblia
+                getRequest.onsuccess = () => {                                                          // Se achar o dado
+                    if (getRequest.result) {                                                            // Se o resultado for válido
+                        window.searchEngine = getRequest.result.data;                                   // Restaura o motor de busca
                         window.searchEngine.versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';
-                        resolve(true);
-                    } else { resolve(false); }
+                        resolve(true);                                                                  // Avisa que carregou
+                    } else { resolve(false); }                                                          // Avisa que não achou
                 };
-                getRequest.onerror = () => resolve(false);
+                getRequest.onerror = () => resolve(false);                                              // Trata erro de busca
             };
-            request.onerror = () => resolve(false);
+            request.onerror = () => resolve(false);                                                     // Trata erro de abertura
         });
     }
-    
-    async function salvarEmIndexedDB(chave, dados) {
-        return new Promise((resolve) => {
-            const request = indexedDB.open('BibleSearchDB', 1);
-            request.onsuccess = (event) => {
-                const db = event.target.result;
-                const transaction = db.transaction(['searchIndexes'], 'readwrite');
-                const store = transaction.objectStore('searchIndexes');
-                store.put({ id: chave, data: dados });
-                transaction.oncomplete = () => resolve(true);
-                transaction.onerror = () => resolve(false);
-            };
-            request.onerror = () => resolve(false);
+
+    // Bloco: Esta função salva em indexeddb (gravação do banco local)
+    async function salvarEmIndexedDB(chave, dados) {                                                    // Grava dados no IndexedDB
+        return new Promise((resolve) => {                                                               // Cria promessa de gravação
+            const request = indexedDB.open('BibleSearchDB', 1);                                         // Abre o banco
+            request.onsuccess = (event) => {                                                            // Se abrir sucesso
+                const db = event.target.result;                                                         // Acessa o banco
+                const transaction = db.transaction(['searchIndexes'], 'readwrite');                     // Inicia gravação
+                const store = transaction.objectStore('searchIndexes');                                 // Acessa a tabela
+                store.put({ id: chave, data: dados });                                                  // Grava os dados da bíblia
+                transaction.oncomplete = () => resolve(true);                                           // Avisa que terminou
+                transaction.onerror = () => resolve(false);                                             // Trata erro de gravação
+            }; 
+            request.onerror = () => resolve(false);                                                     // Trata erro de abertura
         });
     }
+
     
-    window.realizarBuscaAvancada = async function(termo) {
-        if (!termo) return [];
-        const versaoSelecionada = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';
-        
-        if (!window.searchEngine.isReady || window.searchEngine.versaoAtual !== versaoSelecionada) {
-            await carregarConstruirIndice();
+    // Bloco: Esta função realiza busca avançada (interface de entrada)
+    window.realizarBuscaAvancada = async function(termo) {                                              // Função chamada pela interface
+        if (!termo) return [];                                                                          // Se vazio, retorna lista vazia
+        const versaoSelecionada = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';            // Vê bíblia atual
+
+        if (!window.searchEngine.isReady || window.searchEngine.versaoAtual !== versaoSelecionada) {    // Se bíblia mudou ou não carregou
+            await carregarConstruirIndice();                                                            // Reconstrói o índice agora
         }
-        
-        const termoNorm = normalizarTexto(termo);
-        const palavrasBusca = termoNorm.split(/\s+/).filter(p => p.length > 1);
-        const resultados = combinarEstrategiasBusca(palavrasBusca, termoNorm);
-        return resultados.slice(0, MAX_RESULTS);
+
+        const termoNorm = normalizarTexto(termo);                                                       // Limpa o termo pesquisado
+        const palavrasBusca = termoNorm.split(/\s+/).filter(p => p.length > 1);                         // Quebra em palavras relevantes
+        const resultados = combinarEstrategiasBusca(palavrasBusca, termoNorm);                          // Executa a lógica de busca
+        return resultados.slice(0, MAX_RESULTS);                                                        // Devolve o top dos resultados
     };
 
-    function combinarEstrategiasBusca(palavrasBusca, termoOriginalNormalizado) {
-        let resultadosFinais = new Map();
-        if (palavrasBusca.length > 0) {
-            let candidatos = new Map();
-            palavrasBusca.forEach(palavra => {
-                if (window.searchEngine.invertedIndex[palavra]) {
-                    window.searchEngine.invertedIndex[palavra].forEach(ref => {
-                        const key = `${ref.livro}-${ref.cap}-${ref.vers}`;
-                        candidatos.set(key, (candidatos.get(key) || 0) + 1);
-                        if (!resultadosFinais.has(key)) {
-                            resultadosFinais.set(key, ref);
+    // Bloco: Esta função combina estratégias de busca (lógica algorítmica)
+    function combinarEstrategiasBusca(palavrasBusca, termoOriginalNormalizado) {                        // Lógica de filtragem de versos
+        let resultadosFinais = new Map();                                                               // Mapa para evitar duplicatas
+        if (palavrasBusca.length > 0) {                                                                 // Se houver palavras para buscar
+            let candidatos = new Map();                                                                 // Conta palavras achadas por verso
+            palavrasBusca.forEach(palavra => {                                                          // Passa por cada palavra digitada
+                if (window.searchEngine.invertedIndex[palavra]) {                                       // Se a palavra existir no índice
+                    window.searchEngine.invertedIndex[palavra].forEach(ref => {                         // Passa por cada verso associado
+                        const key = `${ref.livro}-${ref.cap}-${ref.vers}`;                              // Cria chave única (Ex: gn-1-1)
+                        candidatos.set(key, (candidatos.get(key) || 0) + 1);                            // Soma ocorrência da palavra
+                        if (!resultadosFinais.has(key)) {                                               // Se for a primeira vez do verso
+                            resultadosFinais.set(key, ref);                                             // Guarda o objeto do verso
                         }
                     });
-                }
+                } 
             });
-            const resultadosComTodasPalavras = Array.from(candidatos.entries())
-                .filter(([key, count]) => count === palavrasBusca.length)
-                .map(([key, count]) => resultadosFinais.get(key));
-            const resultadosFinaisFiltrados = resultadosComTodasPalavras.filter(r => 
-                normalizarTexto(r.texto).includes(termoOriginalNormalizado)
+
+            const resultadosComTodasPalavras = Array.from(candidatos.entries())                          // Filtra versos com TODAS as palavras
+                .filter(([key, count]) => count === palavrasBusca.length)                               // Compara contagem com total buscado
+                .map(([key, count]) => resultadosFinais.get(key));                                      // Recupera o objeto do versículo
+            
+            const resultadosFinaisFiltrados = resultadosComTodasPalavras.filter(r =>                    // Filtra por frase exata
+                normalizarTexto(r.texto).includes(termoOriginalNormalizado)                             // Verifica se texto contém a frase
             );
-            if (resultadosFinaisFiltrados.length === 0 && palavrasBusca.length > 1) {
-                Array.from(candidatos.entries()).forEach(([key, count]) => {
-                    const ref = resultadosFinais.get(key);
-                    if (normalizarTexto(ref.texto).includes(termoOriginalNormalizado)) {
-                        resultadosFinaisFiltrados.push(ref);
-                    }
-                });
-            }
-            return resultadosFinaisFiltrados;
-        } else {
-            return window.searchEngine.versiculos.filter(r => 
-                normalizarTexto(r.texto).includes(termoOriginalNormalizado)
+
+            if (resultadosFinaisFiltrados.length === 0 && palavrasBusca.length > 1) {                   // Se não achou frase exata
+                Array.from(candidatos.entries()).forEach(([key, count]) => {                            // Tenta versos com palavras soltas
+                    const ref = resultadosFinais.get(key);                                              // Pega o versículo
+                    if (normalizarTexto(ref.texto).includes(termoOriginalNormalizado)) {                // Revalida a frase
+                        resultadosFinaisFiltrados.push(ref);                                            // Adiciona aos achados
+                    } 
+                }); 
+            } 
+            return resultadosFinaisFiltrados;                                                           // Retorna lista filtrada
+        } else {                                                                                        // Caso não haja palavras limpas
+            return window.searchEngine.versiculos.filter(r =>                                           // Busca bruta na lista mestre
+                normalizarTexto(r.texto).includes(termoOriginalNormalizado)                             // Filtra por inclusão direta
             );
         }
     }

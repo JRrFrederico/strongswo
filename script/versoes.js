@@ -1,83 +1,88 @@
 /*===============================================================================*/
 /*                     SCRIPT PRINCIPAL DE VERSÕES BÍBLICAS                      */
 /*===============================================================================*/
-/*  Este script controla:                                                        */
-/*                       - Carregamento das versões da Bíblia                    */
-/*                       - Busca otimizada e NAVEGÁVEL (Versão Final com CSS)    */
+/* O QUE ESTE SCRIPT FAZ:                                                        */
+/*     1. Gerencia qual tradução da Bíblia está sendo lida (ARC, NVI, etc).      */
+/*     2. Carrega arquivos extras de forma inteligente.                          */
+/*     3. Cria uma tela de busca (pesquisa) que aparece por cima do site.        */
+/*     4. Faz a navegação automática para livros, capítulos e versículos.        */
 /*===============================================================================*/
 
-(function () {
-    'use strict';
+(function () {                                                                                          // Inicia a função autoexecutável
+    'use strict';                                                                                       // Ativa o modo de escrita rígido
 
-    function obterParametroUrl(parametro) {
-        const parametrosUrl = new URLSearchParams(window.location.search);
-        return parametrosUrl.get(parametro);
+    // Bloco: Função para ler informações que aparecem na barra de endereço do navegador (URL)
+    function obterParametroUrl(parametro) {                                                             // Inicia função de leitura de URL
+        const parametrosUrl = new URLSearchParams(window.location.search);                              // Captura os parâmetros da barra
+        return parametrosUrl.get(parametro);                                                            // Retorna o valor do item pedido
     }
 
-    function carregaScriptAssincrono(origem, id) {
-        return new Promise((resolve, reject) => {
-            const scriptAntigo = document.getElementById(id);
-            if (scriptAntigo) scriptAntigo.remove();
-            const novoScript = document.createElement('script');
-            novoScript.src = origem;
-            novoScript.id = id;
-            novoScript.async = false;
-            novoScript.onload = () => resolve();
-            novoScript.onerror = (evento) => {
-                console.error(`Falha ao carregar: ${origem}`, evento);
-                reject(new Error(`Falha ${origem}`));
+    // Bloco: Função "Mágica" para carregar outros arquivos de código (.js) enquanto o site roda
+    function carregaScriptAssincrono(origem, id) {                                                      // Inicia função de carga externa
+        return new Promise((resolve, reject) => {                                                       // Cria uma promessa de trabalho
+            const scriptAntigo = document.getElementById(id);                                           // Busca script antigo pelo nome
+            if (scriptAntigo) scriptAntigo.remove();                                                    // Se existir, apaga o antigo
+            const novoScript = document.createElement('script');                                        // Cria nova etiqueta de código
+            novoScript.src = origem;                                                                    // Define o caminho do arquivo
+            novoScript.id = id;                                                                         // Define o nome de ID dele
+            novoScript.async = false;                                                                   // Mantém a ordem sequencial
+            novoScript.onload = () => resolve();                                                        // Resolve ao terminar de baixar
+            novoScript.onerror = (evento) => {                                                          // Trata falha no carregamento
+                console.error(`Falha ao carregar: ${origem}`, evento);                                  // Registra erro no console
+                reject(new Error(`Falha ${origem}`));                                                   // Rejeita a promessa no erro
             };
-            document.body.appendChild(novoScript);
-        });
-    }
+            document.body.appendChild(novoScript);                                                      // Adiciona o script ao documento
+        }); 
+    } 
 
-    window.NOME_VERSAO_COMPLETA_BIBLIA = 'Versão King James';
+    window.NOME_VERSAO_COMPLETA_BIBLIA = 'Versão King James';                                           // Nome global da bíblia ativa
 
-    window.modoLeituraAtivo = false;
-    window.ultimoLivroSelecionado = null;
-    window.ultimoCapituloSelecionado = null;
-    window.ultimoVersiculoSelecionado = null;
+    window.modoLeituraAtivo = false;                                                                    // Estado do modo tela cheia
+    window.ultimoLivroSelecionado = null;                                                               // Cache do último livro lido
+    window.ultimoCapituloSelecionado = null;                                                            // Cache do último capítulo lido
+    window.ultimoVersiculoSelecionado = null;                                                           // Cache do último versículo lido
 
-    // A SUA FUNÇÃO DE NAVEGAÇÃO, QUE FUNCIONA PERFEITAMENTE
-    window.navegarParaVersiculo = async function(livro, cap, vers) {
-        console.log(`[Navegação] Solicitado navegar para: ${livro} ${cap}:${vers}`);
+    // Bloco: A função de Navegação - O "GPS" que te leva ao versículo certo
+    window.navegarParaVersiculo = async function(livro, cap, vers) {                                    // Função global de navegação
+        console.log(`[Navegação] Solicitado navegar para: ${livro} ${cap}:${vers}`);                    // Loga o destino no console
         if (typeof window.atualizaBotoesCapitulos !== 'function' || typeof window.toggleVersiculos !== 'function') {
-            alert("Erro: Funções de navegação da página principal não encontradas.");
-            return;
+            alert("Erro: Funções de navegação da página principal não encontradas.");                   // Alerta falta de sistema
+            return;                                                                                     // Aborta a navegação
+        } 
+        if (window.modoLeituraAtivo) {                                                                  // Se estiver em modo leitura
+            await window.toggleReadingMode(false);                                                      // Desativa para trocar de tela
         }
-        if (window.modoLeituraAtivo) {
-            await window.toggleReadingMode(false);
-        }
-        await window.atualizaBotoesCapitulos(livro, cap);
-        await window.toggleVersiculos(livro, cap);
-        setTimeout(() => {
-            const conteinerCapitulos = document.querySelector('#dynamic-chapter-buttons-conteiner');
-            if (conteinerCapitulos) {
-                conteinerCapitulos.querySelectorAll('button').forEach(btn => {
-                    btn.classList.toggle('active', btn.dataset.capitulo == cap);
+        await window.atualizaBotoesCapitulos(livro, cap);                                               // Monta a régua de capítulos
+        await window.toggleVersiculos(livro, cap);                                                      // Gera a lista de versículos
+        setTimeout(() => {                                                                              // Aguarda o desenho do site
+            const conteinerCapitulos = document.querySelector('#dynamic-chapter-buttons-conteiner');    // Acha o local dos capítulos
+            if (conteinerCapitulos) {                                                                   // Se o local existir
+                conteinerCapitulos.querySelectorAll('button').forEach(btn => {                          // Varre todos os botões
+                    btn.classList.toggle('active', btn.dataset.capitulo == cap);                        // Destaca o capítulo ativo
                 });
             }
-            const conteinerVersiculos = document.querySelector('.conteudo-versiculos');
-            if (!conteinerVersiculos) {
-                console.error("Conteiner de versículos não encontrado após o toggle.");
-                return;
-            }
-            const botaoVersiculo = conteinerVersiculos.querySelector(`button[data-versiculo="${vers}"]`);
-            if (botaoVersiculo && typeof botaoVersiculo.click === 'function') {
-                console.log(`[Navegação] Clicando no botão do versículo ${vers}.`);
-                botaoVersiculo.click();
-            } else {
-                console.error(`[Navegação] Botão para o versículo ${vers} não foi encontrado.`);
-            }
-        }, 150);
-    };
+            const conteinerVersiculos = document.querySelector('.conteudo-versiculos');                 // Acha o local dos versículos
+            if (!conteinerVersiculos) {                                                                 // Se não achar o local
+                console.error("Conteiner de versículos não encontrado após o toggle.");                 // Loga falha de interface
+                return;                                                                                 // Para a execução
+            } 
+            const botaoVersiculo = conteinerVersiculos.querySelector(`button[data-versiculo="${vers}"]`); // Procura o número exato
+            if (botaoVersiculo && typeof botaoVersiculo.click === 'function') {                         // Se o botão existir
+                console.log(`[Navegação] Clicando no botão do versículo ${vers}.`);                     // Loga clique automático
+                botaoVersiculo.click();                                                                 // Simula o clique do mouse
+            } else {                                                                                    // Caso o botão suma
+                console.error(`[Navegação] Botão para o versículo ${vers} não foi encontrado.`);        // Loga erro de localização
+            } 
+        }, 150);                                                                                        // Espera 150 milissegundos
+    }; 
 
 
-    async function inicializarVersao(codigoVersao) {
-        console.log(`[Principal] Inicializando ${codigoVersao.toUpperCase()}`);
-        document.body.className = '';
+    // Bloco: Inicializador da Versão - Carrega todos os "ingredientes" necessários para a Bíblia funcionar
+    async function inicializarVersao(codigoVersao) {                                                    // Função que monta a bíblia
+        console.log(`[Principal] Inicializando ${codigoVersao.toUpperCase()}`);                         // Loga início do sistema
+        document.body.className = '';                                                                   // Limpa classes do corpo
         document.body.classList.add(['arc'].includes(codigoVersao.toLowerCase()) ? 'versao-html-ativa' : 'versao-json-ativa');
-        try {
+        try {                                                                                           // Tenta carregar módulos externos
             await carregaScriptAssincrono('../script/versoes_cache.js', 'script-versoes-cache');
             await carregaScriptAssincrono('../script/versoes_navegacao.js', 'script-versoes-navegacao');
             await carregaScriptAssincrono('../script/versoes_capitulos.js', 'script-versoes-capitulos');
@@ -88,76 +93,78 @@
             await carregaScriptAssincrono('../script/versoes_realizabusca.js', 'script-versoes-realizabusca');
             await carregaScriptAssincrono(`../script/${codigoVersao.toLowerCase()}.js`, 'script-versao-biblica');
 
-            window.defineTituloPagina(codigoVersao);
+            window.defineTituloPagina(codigoVersao);                                                    // Atualiza nomes no topo
 
-            await carregaScriptAssincrono('../script/slide_biblia_dados.js', 'script-slide-dados');
-            await carregaScriptAssincrono('../script/slide_biblia_utils.js', 'script-slide-utils');
+            await carregaScriptAssincrono('../script/slide_biblia_dados.js', 'script-slide-dados');      // Dados do projetor
+            await carregaScriptAssincrono('../script/slide_biblia_utils.js', 'script-slide-utils');      // Utilidades do projetor
             await carregaScriptAssincrono('../script/slide_biblia_interface.js', 'script-slide-interface');
-            await carregaScriptAssincrono('../script/slide_biblia_janela.js', 'script-slide-janela');
-            await carregaScriptAssincrono('../script/slide_biblia_preload.js', 'script-slide-preload');
+            await carregaScriptAssincrono('../script/slide_biblia_janela.js', 'script-slide-janela');    // Janela do projetor
+            await carregaScriptAssincrono('../script/slide_biblia_preload.js', 'script-slide-preload');  // Pré-carga do projetor
             await carregaScriptAssincrono('../script/slide_biblia_coordenador.js', 'script-slide-coordenador');
 
-            if (typeof window.inicializarDropdowns === 'function') window.inicializarDropdowns();
-            if (typeof window.inicializarSobre === 'function') window.inicializarSobre();
-            if (typeof window.inicializarSlide === 'function') window.inicializarSlide();
+            if (typeof window.inicializarDropdowns === 'function') window.inicializarDropdowns();       // Liga menus suspensos
+            if (typeof window.inicializarSobre === 'function') window.inicializarSobre();               // Liga tela de créditos
+            if (typeof window.inicializarSlide === 'function') window.inicializarSlide();               // Liga sistema de slide
 
-            const botaoModoLeitura = document.getElementById('modo-leitura');
-            if (botaoModoLeitura) {
-                const novoBotao = botaoModoLeitura.cloneNode(true);
-                botaoModoLeitura.parentNode.replaceChild(novoBotao, botaoModoLeitura);
-                novoBotao.addEventListener('click', (e) => {
-                    e.preventDefault();
+            const botaoModoLeitura = document.getElementById('modo-leitura');                           // Acha botão de leitura
+            if (botaoModoLeitura) {                                                                     // Se o botão existir
+                const novoBotao = botaoModoLeitura.cloneNode(true);                                     // Clona para limpar ordens
+                botaoModoLeitura.parentNode.replaceChild(novoBotao, botaoModoLeitura);                  // Substitui no site
+                novoBotao.addEventListener('click', (e) => {                                            // Adiciona novo clique
+                    e.preventDefault();                                                                 // Não recarrega a página
                     window.toggleReadingMode(!window.modoLeituraAtivo, window.activeLivro, window.activeCapitulo);
                 });
-            }
-            console.log(`[Principal] ${codigoVersao.toUpperCase()} inicializada.`);
-        } catch (erro) {
-            console.error(`[Principal] Erro init ${codigoVersao.toUpperCase()}:`, erro);
-            window.defineTituloPagina(codigoVersao);
-            alert(`Erro ao inicializar ${codigoVersao.toUpperCase()}.`);
-        }
+            } 
+            console.log(`[Principal] ${codigoVersao.toUpperCase()} inicializada.`);                     // Loga sucesso final
+        } catch (erro) {                                                                                // Em caso de falha grave
+            console.error(`[Principal] Erro init ${codigoVersao.toUpperCase()}:`, erro);                // Loga erro técnico
+            window.defineTituloPagina(codigoVersao);                                                    // Mantém título básico
+            alert(`Erro ao inicializar ${codigoVersao.toUpperCase()}.`);                                // Alerta o usuário
+        } 
     }
 
-    window.defineTituloPagina = function (codigoVersao) {
-        const elementoTituloPrincipal = document.getElementById('titulo-principal-versao');
-        const elementoSubtituloExtenso = document.getElementById('subtitulo-versao-extenso');
+    window.defineTituloPagina = function (codigoVersao) {                                               // Função de escrita visual
+        const elementoTituloPrincipal = document.getElementById('titulo-principal-versao');             // Acha título h1/h2
+        const elementoSubtituloExtenso = document.getElementById('subtitulo-versao-extenso');           // Acha local do subtítulo
         if (elementoTituloPrincipal) elementoTituloPrincipal.textContent = `Bíblia Sagrada ${codigoVersao.toUpperCase()}`;
         if (elementoSubtituloExtenso) elementoSubtituloExtenso.textContent = window.NOME_VERSAO_COMPLETA_BIBLIA || '';
-    };
+    }; 
 
-    function initializePage() {
-        const seletor = document.getElementById('seletor-versao-principal');
-        let opcoesValidas = ['arc', 'ara', 'nvi', 'acf', 'ntlh', 'kjv', 'naa', 'original'];
-        let versaoPadrao = 'arc';
+    // Bloco: A função principal que arruma tudo assim que o site abre
+    function initializePage() {                                                                         // Motor de arranque do site
+        const seletor = document.getElementById('seletor-versao-principal');                            // Acha menu de bíblias
+        let opcoesValidas = ['arc', 'ara', 'nvi', 'acf', 'ntlh', 'kjv', 'naa', 'original'];             // Lista de permitidas
+        let versaoPadrao = 'arc';                                                                       // Define padrão de segurança
 
-        if (seletor && seletor.options.length > 0) {
-            opcoesValidas = Array.from(seletor.options).map(opcao => opcao.value);
-            versaoPadrao = seletor.value || opcoesValidas[0];
-        }
+        if (seletor && seletor.options.length > 0) {                                                    // Se menu tiver opções
+            opcoesValidas = Array.from(seletor.options).map(opcao => opcao.value);                      // Pega códigos reais
+            versaoPadrao = seletor.value || opcoesValidas[0];                                           // Define a bíblia ativa
+        } 
 
-        let versaoInicial = obterParametroUrl('versao') ||
+        let versaoInicial = obterParametroUrl('versao') ||                                              // Vê se há versão na URL
             (typeof window.obterPreferencia === 'function' ? window.obterPreferencia('versaoBiblicaSelecionada', 'arc') : localStorage.getItem('versaoBiblicaSelecionada') || 'arc');
 
-        if (!opcoesValidas.includes(versaoInicial.toLowerCase())) versaoInicial = opcoesValidas[0];
-        if (seletor) seletor.value = versaoInicial;
+        if (!opcoesValidas.includes(versaoInicial.toLowerCase())) versaoInicial = opcoesValidas[0];     // Se estranha, usa padrão
+        if (seletor) seletor.value = versaoInicial;                                                     // Marca visualmente
         if (window.salvarPreferencia) window.salvarPreferencia('versaoBiblicaSelecionada', versaoInicial);
-        else localStorage.setItem('versaoBiblicaSelecionada', versaoInicial);
+        else localStorage.setItem('versaoBiblicaSelecionada', versaoInicial);                           // Grava escolha
 
-        inicializarVersao(versaoInicial);
+        inicializarVersao(versaoInicial);                                                               // Começa carga da bíblia
         
         // FUNÇÃO GLOBAL PARA ATUALIZAR A BARRA DE PROGRESSO
-        window.updateSearchIndexProgress = function(progresso, livro) {
-            const overlay = document.getElementById('search-overlay');
-            if (overlay && overlay.shadowRoot) {
-                const progressoBar = overlay.shadowRoot.querySelector('#progress-bar-inner');
-                const progressoTexto = overlay.shadowRoot.querySelector('#progress-text');
-                if (progressoBar) progressoBar.style.width = progresso + '%';
-                if (progressoTexto) progressoTexto.textContent = `Indexando ${livro}...`;
-            }
+        window.updateSearchIndexProgress = function(progresso, livro) {                                 // Função de barra de carga
+            const overlay = document.getElementById('search-overlay');                                  // Acha tela de pesquisa
+            if (overlay && overlay.shadowRoot) {                                                        // Se estiver aberta
+                const progressoBar = overlay.shadowRoot.querySelector('#progress-bar-inner');           // Acha barra amarela
+                const progressoTexto = overlay.shadowRoot.querySelector('#progress-text');              // Acha texto de carga
+                if (progressoBar) progressoBar.style.width = progresso + '%';                           // Move a barra
+                if (progressoTexto) progressoTexto.textContent = `Indexando ${livro}...`;               // Mostra livro atual
+            } 
         };
 
-        function getLivroDisplayName(livro) {
-            const nomes = {
+        // Bloco: Esta função traduz os nomes internos dos livros da Bíblia para nomes legíveis e acentuados
+        function getLivroDisplayName(livro) {                                                           // Tradutor de nomes internos
+            const nomes = {                                                                             // Dicionário de tradução
                 genesis: "Gênesis", exodo: "Êxodo", levitico: "Levítico", numeros: "Números", deuteronomio: "Deuteronômio",
                 josue: "Josué", juizes: "Juízes", rute: "Rute", "1samuel": "1º Samuel", "2samuel": "2º Samuel",
                 "1reis": "1º Reis", "2reis": "2º Reis", "1cronicas": "1º Crônicas", "2cronicas": "2º Crônicas",
@@ -171,23 +178,23 @@
                 "1tessalonicenses": "1º Tessalonicenses", "2tessalonicenses": "2º Tessalonicenses", "1timoteo": "1º Timóteo",
                 "2timoteo": "2º Timóteo", tito: "Tito", filemom: "Filemom", hebreus: "Hebreus", tiago: "Tiago", "1pedro": "1º Pedro",
                 "2pedro": "2º Pedro", "1joao": "1º João", "2joao": "2º João", "3joao": "3º João", judas: "Judas", apocalipse: "Apocalipse"
-            };
-            return nomes[livro] || livro;
-        }
-        
-        async function realizarBusca(termo) {
-            if (!termo) return;
+            }; 
+            return nomes[livro] || livro;                                                               // Retorna nome ou ID puro
+        } 
+                
+        async function realizarBusca(termo) {                                                           // Função de pesquisa
+            if (!termo) return;                                                                         // Ignora buscas vazias
 
-            const overlayAntigo = document.getElementById('search-overlay');
-            if (overlayAntigo) overlayAntigo.remove();
+            const overlayAntigo = document.getElementById('search-overlay');                            // Procura busca aberta
+            if (overlayAntigo) overlayAntigo.remove();                                                  // Limpa busca anterior
 
-            const overlay = document.createElement('div');
-            overlay.id = 'search-overlay';
+            const overlay = document.createElement('div');                                              // Cria cortina da busca
+            overlay.id = 'search-overlay';                                                              // Define ID da cortina
             
-            const shadow = overlay.attachShadow({ mode: 'open' });
+            const shadow = overlay.attachShadow({ mode: 'open' });                                      // Isola estilos da busca
 
-            let mensagemInicial = '<p>Buscando...</p>';
-            if (window.searchEngine && !window.searchEngine.isReady) {
+            let mensagemInicial = '<p>Buscando...</p>';                                                 // Texto de espera
+            if (window.searchEngine && !window.searchEngine.isReady) {                                  // Se busca estiver carregando
                 mensagemInicial = `
                     <div id="progress-conteiner">
                         <p>Preparando a busca rápida (só na primeira vez)...</p>
@@ -195,8 +202,8 @@
                             <div id="progress-bar-inner"></div>
                         </div>
                         <p id="progress-text">Iniciando...</p>
-                    </div>`;
-            }
+                    </div>`;                                                                            // HTML da barra de carga
+            } 
 
 shadow.innerHTML = `<style>
     /*======================================================*/
@@ -372,93 +379,93 @@ shadow.innerHTML = `<style>
 <div id="search-content">
     <h2>Resultados da Busca</h2>
     <div id="resultados-busca-conteiner">${mensagemInicial}</div>
-</div>`;            
-            document.body.appendChild(overlay);
-            document.body.style.overflow = 'hidden';
+</div>`;                                                                                                // Injeta HTML e CSS da busca
+            document.body.appendChild(overlay);                                                         // Mostra a busca no site
+            document.body.style.overflow = 'hidden';                                                    // Trava a rolagem do fundo
 
-            if (typeof window.realizarBuscaAvancada === 'function') {
-                const resultados = await window.realizarBuscaAvancada(termo);
-                exibirResultados(resultados, overlay, getLivroDisplayName);
-            } else {
-                const conteiner = overlay.shadowRoot.querySelector('#resultados-busca-conteiner');
-                conteiner.innerHTML = '<p>Funcionalidade de busca não carregada.</p>';
-            }
-        }
+            if (typeof window.realizarBuscaAvancada === 'function') {                                   // Se o motor de busca existir
+                const resultados = await window.realizarBuscaAvancada(termo);                           // Processa a pesquisa real
+                exibirResultados(resultados, overlay, getLivroDisplayName);                             // Desenha os itens na tela
+            } else {                                                                                    // Caso o código falhe
+                const conteiner = overlay.shadowRoot.querySelector('#resultados-busca-conteiner');      // Acha local do texto
+                conteiner.innerHTML = '<p>Funcionalidade de busca não carregada.</p>';                  // Avisa erro técnico
+            } 
+        } 
         
-        function exibirResultados(resultados, overlay, getLivroDisplayNameFunc) {
-            const shadow = overlay.shadowRoot;
-            const conteiner = shadow.querySelector('#resultados-busca-conteiner');
-            conteiner.innerHTML = '';
+        function exibirResultados(resultados, overlay, getLivroDisplayNameFunc) {                       // Inicia desenho de resultados
+            const shadow = overlay.shadowRoot;                                                          // Acessa Shadow DOM
+            const conteiner = shadow.querySelector('#resultados-busca-conteiner');                      // Local onde versos entram
+            conteiner.innerHTML = '';                                                                   // Limpa texto de espera
             
-            const botaoFechar = document.createElement('button');
-            botaoFechar.className = 'botao-fechar-busca';
-            botaoFechar.textContent = 'Fechar Busca';
-            botaoFechar.onclick = () => {
-                document.body.style.overflow = '';
-                overlay.remove();
-            };
-            shadow.appendChild(botaoFechar);
+            const botaoFechar = document.createElement('button');                                       // Cria botão de sair
+            botaoFechar.className = 'botao-fechar-busca';                                               // Define estilo visual
+            botaoFechar.textContent = 'Fechar Busca';                                                   // Escreve nome no botão
+            botaoFechar.onclick = () => {                                                               // Ação ao clicar em fechar
+                document.body.style.overflow = '';                                                      // Devolve rolagem ao site
+                overlay.remove();                                                                       // Apaga a tela de busca
+            }; 
+            shadow.appendChild(botaoFechar);                                                            // Fixa botão na tela
 
-            if (resultados.length === 0) {
-                conteiner.innerHTML = '<p>Nenhum resultado encontrado.</p>';
-            } else {
-                resultados.forEach(r => {
-                    const div = document.createElement('div');
-                    div.className = 'resultado-item'; 
+            if (resultados.length === 0) {                                                              // Se busca deu em nada
+                conteiner.innerHTML = '<p>Nenhum resultado encontrado.</p>';                            // Avisa o usuário
+            } else {                                                                                    // Se houver versículos
+                resultados.forEach(r => {                                                               // Loop por cada verso
+                    const div = document.createElement('div');                                          // Cria linha do item
+                    div.className = 'resultado-item';                                                   // Define estilo da linha
                     div.innerHTML = `<strong><a href="#">${getLivroDisplayNameFunc(r.livro)} ${r.cap}:${r.vers}</a></strong><span>${r.texto}</span>`;
-                    const link = div.querySelector('a');
-                    link.addEventListener('click', (e) => {
-                        e.preventDefault();
-                        if (typeof window.navegarParaVersiculo === 'function') {
-                            window.navegarParaVersiculo(r.livro, r.cap, r.vers);
+                    const link = div.querySelector('a');                                                // Pega link do resultado
+                    link.addEventListener('click', (e) => {                                             // Clique para navegar
+                        e.preventDefault();                                                             // Não recarrega o site
+                        if (typeof window.navegarParaVersiculo === 'function') {                        // Se GPS existir
+                            window.navegarParaVersiculo(r.livro, r.cap, r.vers);                        // Pula para o local
                         }
-                        botaoFechar.click();
+                        botaoFechar.click();                                                            // Fecha tela de busca
                     });
-                    conteiner.appendChild(div);
+                    conteiner.appendChild(div);                                                         // Fixa item na lista
                 });
             }
-            setTimeout(() => {
-                shadow.querySelector('#search-content').classList.add('loaded');
-            }, 10);
+            setTimeout(() => {                                                                          // Pequeno delay visual
+                shadow.querySelector('#search-content').classList.add('loaded');                        // Faz a tela surgir suave
+            }, 10);                                                                                     // 10 milissegundos
         }
 
-        const botaoBuscar = document.querySelector('.barra-pesquisa button');
-        const inputBusca = document.querySelector('.barra-pesquisa input');
-        if (botaoBuscar && inputBusca) {
-            botaoBuscar.addEventListener('click', () => {
-                const termo = inputBusca.value.trim();
-                realizarBusca(termo);
+        const botaoBuscar = document.querySelector('.barra-pesquisa button');                           // Acha botão da lupa
+        const inputBusca = document.querySelector('.barra-pesquisa input');                             // Acha caixa de texto
+        if (botaoBuscar && inputBusca) {                                                                // Se existirem na página
+            botaoBuscar.addEventListener('click', () => {                                               // Clique na lupa
+                const termo = inputBusca.value.trim();                                                  // Limpa espaços extras
+                realizarBusca(termo);                                                                   // Inicia motor de busca
+            });                                                                                         // Fecha clique lupa
+            inputBusca.addEventListener('keypress', (e) => {                                            // Ouve teclado
+                if (e.key === 'Enter') {                                                                // Se for tecla Enter
+                    const termo = inputBusca.value.trim();                                              // Pega o que digitou
+                    realizarBusca(termo);                                                               // Inicia motor de busca
+                } 
             });
-            inputBusca.addEventListener('keypress', (e) => {
-                if (e.key === 'Enter') {
-                    const termo = inputBusca.value.trim();
-                    realizarBusca(termo);
-                }
-            });
-        }
+        } 
 
-        if (seletor) {
-            seletor.addEventListener('change', (e) => {
+        if (seletor) {                                                                                  // Se menu de bíblias on
+            seletor.addEventListener('change', (e) => {                                                 // Quando trocar bíblia
                 if (window.salvarPreferencia) window.salvarPreferencia('versaoBiblicaSelecionada', e.target.value);
-                else localStorage.setItem('versaoBiblicaSelecionada', e.target.value);
-                window.location.search = `?versao=${e.target.value}`;
+                else localStorage.setItem('versaoBiblicaSelecionada', e.target.value);                  // Grava preferência
+                window.location.search = `?versao=${e.target.value}`;                                   // Recarrega página
             });
-        }
+        } 
 
-        const listaVersoes = document.getElementById('versoes-list');
-        if (listaVersoes && seletor && opcoesValidas.length > 0) {
-            listaVersoes.innerHTML = '';
+        const listaVersoes = document.getElementById('versoes-list');                                   // Acha lista rodapé
+        if (listaVersoes && seletor && opcoesValidas.length > 0) {                                      // Se tudo existir
+            listaVersoes.innerHTML = '';                                                                // Limpa links velhos
             const opcoesTexto = Object.fromEntries(Array.from(seletor.options).map(opcao => [opcao.value, opcao.textContent]));
-            opcoesValidas.forEach(versao => {
-                const itemLista = document.createElement('li');
-                const link = document.createElement('a');
-                link.href = `?versao=${versao}`;
-                link.textContent = opcoesTexto[versao] || versao.toUpperCase();
-                itemLista.appendChild(link);
-                listaVersoes.appendChild(itemLista);
+            opcoesValidas.forEach(versao => {                                                           // Loop bíblias válidas
+                const itemLista = document.createElement('li');                                         // Cria marcador lista
+                const link = document.createElement('a');                                               // Cria link de troca
+                link.href = `?versao=${versao}`;                                                        // Define endereço
+                link.textContent = opcoesTexto[versao] || versao.toUpperCase();                         // Nome da tradução
+                itemLista.appendChild(link);                                                            // Fixa link no marcador
+                listaVersoes.appendChild(itemLista);                                                    // Fixa marcador na lista
             });
-        }
-    }
+        } 
+    } 
     
-    document.addEventListener('DOMContentLoaded', initializePage);
-})();
+    document.addEventListener('DOMContentLoaded', initializePage);                                      // Inicia tudo ao abrir site
+})(); 
