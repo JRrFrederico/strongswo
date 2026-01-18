@@ -7,86 +7,86 @@
 /*                       - A lógica de clique para avançar/retroceder capítulos  */
 /*===============================================================================*/
 
-// Cria uma função anônima e a executa imediatamente (IIFE) para isolar o código.
+/* BLOCO: Cria uma função anônima e a executa imediatamente (IIFE)              */
 (function() {
-    'use strict';                                                                              // Ativa o modo estrito do JavaScript para ajudar a evitar erros comuns.
+    'use strict';                                                                               /* Ativa o modo rigoroso de escrita          */
 
-    // Este bloco cria a função de navegação por teclas (seta esquerda/direita) no modo de leitura.
+    /* BLOCO: Cria a função de navegação por teclas (seta esquerda/direita)     */
     function handleKeyNavigation(evento) { 
-        // Se o modo leitura não está ativo ou o usuário está digitando em um campo de texto, não faz nada
+        /* BLOCO: Verifica se o modo leitura está ativo e se não está digitando */
         if (!window.modoLeituraAtivo || (document.activeElement && /INPUT|TEXTAREA|true/.test(document.activeElement.tagName + document.activeElement.isContentEditable))) {
-            return;                                                                            // Interrompe a função se as condições não forem atendidas.
+            return;                                                                             /* Interrompe se houver digitação            */
         }
         
-        // Este bloco cria um objeto para mapear as teclas aos IDs dos botões.
+        /* BLOCO: Cria um objeto para mapear as teclas aos IDs dos botões       */
         const acoes = {
-            "ArrowLeft" : 'modoLeitura-capitulo-anterior',                                     // Define que a seta para a esquerda corresponde ao botão 'anterior'.
-            "ArrowRight": 'modoLeitura-capitulo-proximo'                                       // Define que a seta para a direita corresponde ao botão 'próximo'.
+            "ArrowLeft" : 'modoLeitura-capitulo-anterior',                                      /* Define seta esquerda como anterior        */
+            "ArrowRight": 'modoLeitura-capitulo-proximo'                                        /* Define seta direita como próximo          */
         };
         
-        // Este bloco busca no objeto o ID correspondente à tecla que foi pressionada.
+        /* BLOCO: Busca no objeto o ID correspondente à tecla pressionada       */
         const idBotao = acoes[evento.key];
-        if (idBotao) {                                                                         // Verifica se a tecla pressionada é uma das mapeadas (esquerda ou direita).
-            const botao = document.getElementById(idBotao);                                    // Busca o elemento do botão na página usando o ID encontrado.
-            if (botao && !botao.disabled) {                                                    // Verifica se o botão existe e se ele não está desabilitado.
-                evento.preventDefault();                                                       // Impede a ação padrão do navegador para a tecla (ex: rolar a página).
-                botao.click();                                                                 // Simula um clique de mouse no botão, acionando sua função.
+        if (idBotao) {                                                                          /* Se a tecla for uma das mapeadas          */
+            const botao = document.getElementById(idBotao);                                     /* Localiza o botão pelo ID                  */
+            if (botao && !botao.disabled) {                                                     /* Verifica se o botão está usável          */
+                evento.preventDefault();                                                        /* Evita a rolagem padrão da página          */
+                botao.click();                                                                  /* Simula o clique no botão                  */
             }
         }
     }
 
-   // Esta bloco cria a função AGORA APENAS que gera e retorna o HTML dos botões de navegação.
+   /* BLOCO: Função que gera e retorna o HTML dos botões de navegação           */
     window.gerarHtmlNavegacao = async function(livro, capitulo) {
         
-        // Busca o capítulo anterior e o próximo (usando funções do script de navegação principal)
-        const livroCapituloAnterior = await window.obterLivroCapituloAnterior(livro, capitulo);// Aguarda a busca pelas informações do capítulo anterior.
-        const proximoLivroCapitulo  = await window.obterProximoLivroECapitulo(livro, capitulo);// Aguarda a busca pelas informações do próximo capítulo.
-        let htmlBotoesNavegacao = '<div class="reading-mode-navigation">';                     // Inicia a criação do texto HTML com um conteiner <div>.
+        /* BLOCO: Busca o capítulo anterior e o próximo                        */
+        const livroCapituloAnterior = await window.obterLivroCapituloAnterior(livro, capitulo); /* Busca dados do recuo                    */
+        const proximoLivroCapitulo  = await window.obterProximoLivroECapitulo(livro, capitulo);  /* Busca dados do avanço                   */
+        let htmlBotoesNavegacao = '<div class="reading-mode-navigation">';                      /* Inicia a string do conteiner             */
         
-        htmlBotoesNavegacao += livroCapituloAnterior ?                                         // Usa um if-curto: se existe um capítulo anterior...
-            `<button id="modoLeitura-capitulo-anterior" data-livro="${livroCapituloAnterior.livro}" data-capitulo="${livroCapituloAnterior.capitulo}">Cap. Anterior</button>` : // ...cria um botão habilitado.
-            `<button id="modoLeitura-capitulo-anterior" disabled>Cap. Anterior</button>`;      // Senão, cria um botão desabilitado.
+        htmlBotoesNavegacao += livroCapituloAnterior ?                                          /* Verifica se há anterior                 */
+            `<button id="modoLeitura-capitulo-anterior" data-livro="${livroCapituloAnterior.livro}" data-capitulo="${livroCapituloAnterior.capitulo}">Cap. Anterior</button>` :
+            `<button id="modoLeitura-capitulo-anterior" disabled>Cap. Anterior</button>`;       /* Cria botão ou desabilita                 */
 
-        htmlBotoesNavegacao += proximoLivroCapitulo ?                                          // Usa um if-curto: se existe um próximo capítulo...
-            `<button id="modoLeitura-capitulo-proximo" data-livro="${proximoLivroCapitulo.livro}" data-capitulo="${proximoLivroCapitulo.capitulo}">Cap. Próximo</button>` : // ...cria um botão habilitado.
-            `<button id="modoLeitura-capitulo-proximo" disabled>Cap. Próximo</button>`;        // Senão, cria um botão desabilitado.
+        htmlBotoesNavegacao += proximoLivroCapitulo ?                                           /* Verifica se há próximo                  */
+            `<button id="modoLeitura-capitulo-proximo" data-livro="${proximoLivroCapitulo.livro}" data-capitulo="${proximoLivroCapitulo.capitulo}">Cap. Próximo</button>` :
+            `<button id="modoLeitura-capitulo-proximo" disabled>Cap. Próximo</button>`;         /* Cria botão ou desabilita                 */
             
-        htmlBotoesNavegacao += '</div>';                                                       // Fecha o conteiner <div> no texto HTML.
+        htmlBotoesNavegacao += '</div>';                                                        /* Fecha a tag do conteiner                 */
         
-        return htmlBotoesNavegacao;                                                            // Retorna a string HTML completa com os botões.
+        return htmlBotoesNavegacao;                                                             /* Devolve o HTML construído                */
     };
 
-    // Este bloco cria uma nova função para configurar os event listeners NOS BOTÕES QUE JÁ ESTÃO NO DOM. */
+    /* BLOCO: Função para configurar os event listeners nos botões do DOM       */
     window.configurarListenersNavegacao = async function(conteinerLeitura, livro, capitulo) {
-        const configurarBotaoNavegacao = (id) => {                                             // Cria uma função interna para evitar a repetição de código.
-            const botao = conteinerLeitura.querySelector(`#${id}`);                            // Busca o botão pelo seu ID dentro do conteiner de leitura.
-            if (botao && !botao.disabled) {                                                    // Verifica se o botão foi encontrado e se não está desabilitado.
-                const novoBotao = botao.cloneNode(true);                                       // Cria uma cópia exata do botão para limpar eventos antigos.
-                botao.parentNode.replaceChild(novoBotao, botao);                               // Substitui o botão original pela sua cópia limpa.
+        const configurarBotaoNavegacao = (id) => {                                              /* Função auxiliar de configuração          */
+            const botao = conteinerLeitura.querySelector(`#${id}`);                             /* Acha o botão no conteiner                */
+            if (botao && !botao.disabled) {                                                     /* Se o botão for clicável                 */
+                const novoBotao = botao.cloneNode(true);                                        /* Clona para limpar listeners              */
+                botao.parentNode.replaceChild(novoBotao, botao);                                /* Substitui pelo clone limpo              */
 
-                // Este bloco adiciona o evento de clique ao novo botão.
+                /* BLOCO: Adiciona o evento de clique ao novo botão            */
                 novoBotao.addEventListener('click', async () => {
-                    const livroDestino    = novoBotao.dataset.livro;                           // Pega o nome do livro de destino do atributo 'data-livro' do botão.
-                    const capituloDestino = parseInt(novoBotao.dataset.capitulo);              // Pega o número do capítulo de destino do atributo 'data-capitulo'.
-                    window.activeLivro    = livroDestino;                                      // Atualiza a variável global que armazena o livro ativo.
-                    window.activeCapitulo = capituloDestino;                                   // Atualiza a variável global que armazena o capítulo ativo.
+                    const livroDestino    = novoBotao.dataset.livro;                            /* Obtém o livro de destino                 */
+                    const capituloDestino = parseInt(novoBotao.dataset.capitulo);               /* Obtém o capítulo de destino              */
+                    window.activeLivro    = livroDestino;                                       /* Atualiza referência global               */
+                    window.activeCapitulo = capituloDestino;                                    /* Atualiza referência global               */
                     
-                    // OBTER A VERSÃO ATUAL ANTES DE CARREGAR
+                    /* BLOCO: Obtém a versão atual antes de carregar           */
                     const versaoAtual = window.BIBLE_VERSION || 
                                        (window.obterPreferencia && window.obterPreferencia('versaoBiblicaSelecionada', 'ara')) || 
-                                       'ara';
-                    console.log(`[Navegação] Carregando capítulo na versão: ${versaoAtual}`);
+                                       'ara';                                                   /* Identifica a bíblia ativa                */
+                    console.log(`[Navegação] Carregando capítulo na versão: ${versaoAtual}`);   /* Loga a versão utilizada                  */
                     
-                    await window.carregarCapituloModoLeitura(livroDestino, capituloDestino, versaoAtual);
+                    await window.carregarCapituloModoLeitura(livroDestino, capituloDestino, versaoAtual); /* Carrega novo conteúdo */
                 });
             }
         };
 
-        configurarBotaoNavegacao('modoLeitura-capitulo-anterior');                             // Configura o evento para o botão de capítulo anterior.
-        configurarBotaoNavegacao('modoLeitura-capitulo-proximo');                              // Configura o evento para o botão de próximo capítulo.
+        configurarBotaoNavegacao('modoLeitura-capitulo-anterior');                              /* Ativa o botão anterior                   */
+        configurarBotaoNavegacao('modoLeitura-capitulo-proximo');                               /* Ativa o botão próximo                    */
     };
 
-    document.addEventListener('keydown', handleKeyNavigation);                                 // Adiciona um "ouvinte" global que aciona 'handleKeyNavigation' a cada tecla pressionada.
-    console.log('[Navegação Modo Leitura] Módulo corrigido carregado.');                       // Exibe uma mensagem no console para confirmar que este script foi carregado.
+    document.addEventListener('keydown', handleKeyNavigation);                                  /* Liga o monitor de teclado                */
+    console.log('[Navegação Modo Leitura] Módulo corrigido carregado.');                        /* Loga o sucesso da carga                  */
 
 })();
