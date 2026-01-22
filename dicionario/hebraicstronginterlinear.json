@@ -1,4 +1,4 @@
-[
+
   {
     "id": "H3068",
     "hebraico": "יְהוָה",
@@ -25,7 +25,7 @@
     "id": "H0853",
     "hebraico": "אֵת",
     "transliteracao": "et",
-    "portugues": "[marcador de objeto direto]",
+    "portugues": "marcador de objeto direto]",
     "strong": "H0853",
     "categoria": "PARTÍCULA",
     "definicao_completa": "Partícula que marca o objeto direto definido (substantivo com artigo definido ou nome próprio). Não tem tradução direta para o português.",
@@ -1807,8 +1807,7 @@
     "definicao_completa": "Incenso, fumaça aromática, perfume queimado em culto. Oferecido no altar de incenso.",
     "observacao": "Incenso representava orações subindo a Deus. Ingredientes específicos na Torah.",
     "radical": "קטר"
-  }
-]
+  },
 
 
   {
@@ -8426,7 +8425,7 @@
     "strong": "H0120",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Ser humano, humanidade (como espécie), homem (em contraste com Deus). Também o nome próprio do primeiro homem.",
-    "observacao": "Refere-se à raça humana como um todo, derivada de 'adamah' (solo/terra). Diferente de 'ish' (indivíduo masculino) [3, 4].",
+    "observacao": "Refere-se à raça humana como um todo, derivada de 'adamah' (solo/terra). Diferente de 'ish' (indivíduo masculino) 3, 4].",
     "radical": "אדם"
   },
   {
@@ -8437,7 +8436,7 @@
     "strong": "H1616",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Alguém que vive permanentemente em uma terra que não é a sua; imigrante com direitos limitados.",
-    "observacao": "Conceito central nas leis de hospitalidade da Torah. Israel é lembrado de que foi 'ger' no Egito [5, 6].",
+    "observacao": "Conceito central nas leis de hospitalidade da Torah. Israel é lembrado de que foi 'ger' no Egito 5, 6].",
     "radical": "גור"
   },
   {
@@ -8448,7 +8447,7 @@
     "strong": "H7971",
     "categoria": "VERBO",
     "definicao_completa": "Enviar um mensageiro, estender a mão, deixar ir (libertar), despachar algo ou alguém.",
-    "observacao": "Verbo fundamental para a missão dos profetas e o envio de pragas ou libertação [7, 8].",
+    "observacao": "Verbo fundamental para a missão dos profetas e o envio de pragas ou libertação 7, 8].",
     "radical": "שׁלח"
   },
   {
@@ -8459,7 +8458,7 @@
     "strong": "H3915",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "O período de escuridão entre o pôr do sol e o amanhecer. Figurativamente: tempo de angústia ou mistério.",
-    "observacao": "Aparece na criação (Gênesis 1) em contraste com o dia ('yom') [9, 10].",
+    "observacao": "Aparece na criação (Gênesis 1) em contraste com o dia ('yom') 9, 10].",
     "radical": "ליל"
   },
   {
@@ -8470,7 +8469,7 @@
     "strong": "H2603",
     "categoria": "VERBO",
     "definicao_completa": "Demonstrar favor, ser compassivo, conceder graça ou misericórdia a um inferior.",
-    "observacao": "Raiz da palavra 'chen' (graça). Indica uma inclinação benevolente e imerecida [11, 12].",
+    "observacao": "Raiz da palavra 'chen' (graça). Indica uma inclinação benevolente e imerecida 11, 12].",
     "radical": "חנן"
   },
   {
@@ -8481,7 +8480,7 @@
     "strong": "H7931",
     "categoria": "VERBO",
     "definicao_completa": "Morar, habitar permanentemente, estabelecer morada em uma tenda ou lugar fixo.",
-    "observacao": "Raiz de 'Mishkan' (Tabernáculo). Descreve a presença de Deus habitando no meio do povo [13].",
+    "observacao": "Raiz de 'Mishkan' (Tabernáculo). Descreve a presença de Deus habitando no meio do povo 13].",
     "radical": "שׁכן"
   },
   {
@@ -8492,7 +8491,7 @@
     "strong": "H1847",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Conhecimento adquirido por experiência, habilidade, discernimento ou revelação.",
-    "observacao": "Derivado de 'yada' (conhecer). Inclui a ideia de intimidade e não apenas intelecto [14].",
+    "observacao": "Derivado de 'yada' (conhecer). Inclui a ideia de intimidade e não apenas intelecto 14].",
     "radical": "ידע"
   },
   {
@@ -8503,7 +8502,7 @@
     "strong": "H3477",
     "categoria": "ADJETIVO",
     "definicao_completa": "O que é plano, reto, íntegro ou agradável aos olhos de Deus; conformidade com a lei.",
-    "observacao": "Raiz de 'mishor' (planície/retidão) e 'Yeshurun' (título poético de Israel) [15, 16].",
+    "observacao": "Raiz de 'mishor' (planície/retidão) e 'Yeshurun' (título poético de Israel) 15, 16].",
     "radical": "ישׁר"
   },
   {
@@ -8514,7 +8513,7 @@
     "strong": "H4687",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Um preceito ou comando dado por autoridade (geralmente Deus); obrigação religiosa.",
-    "observacao": "Deriva de 'tsavah' (ordenar). Refere-se às instruções específicas da Lei [17, 18].",
+    "observacao": "Deriva de 'tsavah' (ordenar). Refere-se às instruções específicas da Lei 17, 18].",
     "radical": "צוה"
   },
   {
@@ -8525,7 +8524,7 @@
     "strong": "H7350",
     "categoria": "ADJETIVO",
     "definicao_completa": "Longe no espaço ou no tempo; remoto, inacessível.",
-    "observacao": "Oposto de 'qarov' (perto). Usado para descrever nações distantes ou o afastamento de Deus [19, 20].",
+    "observacao": "Oposto de 'qarov' (perto). Usado para descrever nações distantes ou o afastamento de Deus 19, 20].",
     "radical": "רחק"
   },
   {
@@ -8536,7 +8535,7 @@
     "strong": "H7138",
     "categoria": "ADJETIVO",
     "definicao_completa": "Próximo em distância, tempo ou relacionamento sanguíneo.",
-    "observacao": "Relacionado ao verbo 'qarav' (aproximar-se). Refere-se também a vizinhos e familiares próximos [21, 22].",
+    "observacao": "Relacionado ao verbo 'qarav' (aproximar-se). Refere-se também a vizinhos e familiares próximos 21, 22].",
     "radical": "קרב"
   },
   {
@@ -8547,7 +8546,7 @@
     "strong": "H1347",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Exaltação, majestade (de Deus); arrogância ou orgulho (dos homens).",
-    "observacao": "Derivado de 'ga'ah' (ser alto/rugir). Indica algo que se eleva [23, 24].",
+    "observacao": "Derivado de 'ga'ah' (ser alto/rugir). Indica algo que se eleva 23, 24].",
     "radical": "גאה"
   },
   {
@@ -8558,7 +8557,7 @@
     "strong": "H3611",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "O animal canino. Frequentemente usado como termo de autodepreciação ou desprezo.",
-    "observacao": "Caleb (nome próprio) compartilha a mesma raiz, simbolizando lealdade ou coração [25].",
+    "observacao": "Caleb (nome próprio) compartilha a mesma raiz, simbolizando lealdade ou coração 25].",
     "radical": "כלב"
   },
   {
@@ -8569,7 +8568,7 @@
     "strong": "H1877",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Vegetação jovem e tenra; brotos que surgem após a chuva.",
-    "observacao": "Símbolo de frescor e provisão divina em passagens como o Salmo 23 [26, 27].",
+    "observacao": "Símbolo de frescor e provisão divina em passagens como o Salmo 23 26, 27].",
     "radical": "דשׁא"
   },
   {
@@ -8580,7 +8579,7 @@
     "strong": "H6051",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Massa de vapor no céu. Especialmente a nuvem da glória de Deus que guiava Israel.",
-    "observacao": "A nuvem ('anan') indicava a presença e a direção divina no deserto [28, 29].",
+    "observacao": "A nuvem ('anan') indicava a presença e a direção divina no deserto 28, 29].",
     "radical": "עננ"
   },
   {
@@ -8591,7 +8590,7 @@
     "strong": "H0427",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Árvore grande e forte, geralmente o carvalho ou terebinto.",
-    "observacao": "Árvores eram marcos geográficos e lugares de adoração ou sepultamento [30, 31].",
+    "observacao": "Árvores eram marcos geográficos e lugares de adoração ou sepultamento 30, 31].",
     "radical": "אלה"
   },
   {
@@ -8602,7 +8601,7 @@
     "strong": "H2280",
     "categoria": "VERBO",
     "definicao_completa": "Enrolar bandagens, selar um animal (como um jumento), ou governar (ligar por autoridade).",
-    "observacao": "Usado para o ato de curar feridas ou preparar uma montaria [32, 33].",
+    "observacao": "Usado para o ato de curar feridas ou preparar uma montaria 32, 33].",
     "radical": "חבשׁ"
   },
   {
@@ -8613,7 +8612,7 @@
     "strong": "H1491",
     "categoria": "VERBO",
     "definicao_completa": "Cortar o pelo de ovelhas ou o cabelo humano.",
-    "observacao": "A tosquia era um evento festivo e econômico importante em Israel [34, 35].",
+    "observacao": "A tosquia era um evento festivo e econômico importante em Israel 34, 35].",
     "radical": "גזז"
   },
   {
@@ -8624,7 +8623,7 @@
     "strong": "H6685",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Abstenção de comida por motivos religiosos ou como sinal de luto e arrependimento.",
-    "observacao": "Prática comum para buscar a face de Deus em tempos de crise [36, 37].",
+    "observacao": "Prática comum para buscar a face de Deus em tempos de crise 36, 37].",
     "radical": "צומ"
   },
   {
@@ -8635,7 +8634,7 @@
     "strong": "H7521",
     "categoria": "VERBO",
     "definicao_completa": "Ter prazer em algo, aceitar favoravelmente, ser benevolente.",
-    "observacao": "Usado para a aceitação de sacrifícios por Deus [22, 38].",
+    "observacao": "Usado para a aceitação de sacrifícios por Deus 22, 38].",
     "radical": "רצה"
   },
   {
@@ -8646,7 +8645,7 @@
     "strong": "H7911",
     "categoria": "VERBO",
     "definicao_completa": "Cessar de lembrar, negligenciar ou ignorar por esquecimento.",
-    "observacao": "Israel é frequentemente advertido a não 'esquecer' os feitos de Deus [39, 40].",
+    "observacao": "Israel é frequentemente advertido a não 'esquecer' os feitos de Deus 39, 40].",
     "radical": "שׁכח"
   },
   {
@@ -8657,7 +8656,7 @@
     "strong": "H0080",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Poeira fina, partículas de terra no ar.",
-    "observacao": "Relacionado ao ato de lutar (lutar levantando poeira), como Jacó no vau de Jaboque [41, 42].",
+    "observacao": "Relacionado ao ato de lutar (lutar levantando poeira), como Jacó no vau de Jaboque 41, 42].",
     "radical": "אבק"
   },
   {
@@ -8668,7 +8667,7 @@
     "strong": "H2976",
     "categoria": "VERBO",
     "definicao_completa": "Perder a esperança, desistir de algo por considerar impossível.",
-    "observacao": "Oposto de 'qavah' (esperar/confiar) [43, 44].",
+    "observacao": "Oposto de 'qavah' (esperar/confiar) 43, 44].",
     "radical": "יאשׁ"
   },
   {
@@ -8679,7 +8678,7 @@
     "strong": "H3384",
     "categoria": "VERBO",
     "definicao_completa": "Lançar (flechas), apontar ou instruir/ensinar.",
-    "observacao": "Raiz de 'Torah' (Instrução). Ensinar é 'apontar' o caminho [45, 46].",
+    "observacao": "Raiz de 'Torah' (Instrução). Ensinar é 'apontar' o caminho 45, 46].",
     "radical": "ירה"
   },
   {
@@ -8690,7 +8689,7 @@
     "strong": "H7523",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "O ato de matar violentamente ou o ruído de esmagamento.",
-    "observacao": "Diferente de 'harag' (matar em geral), tem conotação de crime ou destruição cruel [47, 48].",
+    "observacao": "Diferente de 'harag' (matar em geral), tem conotação de crime ou destruição cruel 47, 48].",
     "radical": "רצח"
   },
   {
@@ -8701,7 +8700,7 @@
     "strong": "H4033",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Terror, medo intenso ou objeto que causa pavor.",
-    "observacao": "Deriva da raiz de 'peregrinar', indicando a insegurança de quem não está em casa [6, 49].",
+    "observacao": "Deriva da raiz de 'peregrinar', indicando a insegurança de quem não está em casa 6, 49].",
     "radical": "גור"
   },
   {
@@ -8712,7 +8711,7 @@
     "strong": "H3110",
     "categoria": "NOME PRÓPRIO",
     "definicao_completa": "Nome do filho de Saul e amigo fiel de Davi. Significa 'YHWH deu'.",
-    "observacao": "Nome composto unindo 'Yo' (YHWH) e 'natan' (dar) [1, 50].",
+    "observacao": "Nome composto unindo 'Yo' (YHWH) e 'natan' (dar) 1, 50].",
     "radical": null
   },
   {
@@ -8723,7 +8722,7 @@
     "strong": "H7760",
     "categoria": "VERBO",
     "definicao_completa": "Pôr, colocar em ordem, designar um nome ou estabelecer uma condição.",
-    "observacao": "Usado quando Deus 'põe' o homem no jardim ou 'põe' um sinal [51].",
+    "observacao": "Usado quando Deus 'põe' o homem no jardim ou 'põe' um sinal 51].",
     "radical": "שׂומ"
   },
   {
@@ -8734,7 +8733,7 @@
     "strong": "H3765",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Planta aromática usada como especiaria e corante (Crocus sativus).",
-    "observacao": "Mencionado em Cantares de Salomão como planta de jardim exótica [52, 53].",
+    "observacao": "Mencionado em Cantares de Salomão como planta de jardim exótica 52, 53].",
     "radical": "כרכם"
   },
   {
@@ -8745,7 +8744,7 @@
     "strong": "H7919",
     "categoria": "VERBO",
     "definicao_completa": "Agir com prudência, ter discernimento ou alcançar prosperidade através da sabedoria.",
-    "observacao": "Diferente de 'chochmah' (habilidade), 'sakal' foca na aplicação prática inteligente [46, 54].",
+    "observacao": "Diferente de 'chochmah' (habilidade), 'sakal' foca na aplicação prática inteligente 46, 54].",
     "radical": "שׂכל"
   },
   {
@@ -8756,7 +8755,7 @@
     "strong": "H5341",
     "categoria": "VERBO",
     "definicao_completa": "Vigiar com cuidado, preservar ou cumprir fielmente um segredo ou lei.",
-    "observacao": "Similar a 'shamar', mas com foco na proteção constante e preservação [55, 56].",
+    "observacao": "Similar a 'shamar', mas com foco na proteção constante e preservação 55, 56].",
     "radical": "נצר"
   },
   {
@@ -8767,7 +8766,7 @@
     "strong": "H7044",
     "categoria": "ADJETIVO",
     "definicao_completa": "Bronze ou metal que foi polido até brilhar intensamente.",
-    "observacao": "Descreve a aparência de seres celestiais em visões proféticas [57, 58].",
+    "observacao": "Descreve a aparência de seres celestiais em visões proféticas 57, 58].",
     "radical": "קלל"
   },
   {
@@ -8778,7 +8777,7 @@
     "strong": "H5282",
     "categoria": "ADJETIVO/NOME PRÓPRIO",
     "definicao_completa": "Agradável, deleitoso. Também o nome do general sírio curado por Eliseu.",
-    "observacao": "Derivado de 'no'am' (suavidade/prazer) [59].",
+    "observacao": "Derivado de 'no'am' (suavidade/prazer) 59].",
     "radical": "נעם"
   },
   {
@@ -8789,7 +8788,7 @@
     "strong": "H2296",
     "categoria": "VERBO",
     "definicao_completa": "Amarrar o cinto ou a espada; preparar-se para ação ou guerra.",
-    "observacao": "Cingir os lombos é uma metáfora para prontidão espiritual e física [60, 61].",
+    "observacao": "Cingir os lombos é uma metáfora para prontidão espiritual e física 60, 61].",
     "radical": "חגר"
   },
   {
@@ -8800,7 +8799,7 @@
     "strong": "H2342",
     "categoria": "VERBO",
     "definicao_completa": "Girar, torcer-se (em dor de parto), dançar em roda ou esperar ansiosamente.",
-    "observacao": "Verbo polissêmico que liga a dor física à dança ritual e à esperança [62, 63].",
+    "observacao": "Verbo polissêmico que liga a dor física à dança ritual e à esperança 62, 63].",
     "radical": "חול"
   },
   {
@@ -8811,7 +8810,7 @@
     "strong": "H1204",
     "categoria": "VERBO",
     "definicao_completa": "Causar pânico repentino ou medo avassalador.",
-    "observacao": "Frequentemente usado quando a presença divina ou um julgamento assusta o homem [64, 65].",
+    "observacao": "Frequentemente usado quando a presença divina ou um julgamento assusta o homem 64, 65].",
     "radical": "בעת"
   },
   {
@@ -8822,7 +8821,7 @@
     "strong": "H7321",
     "categoria": "VERBO",
     "definicao_completa": "Soltar um grito de guerra, um brado de alegria ou soar o alarme com trombeta.",
-    "observacao": "Raiz de 'Teruah' (toque da trombeta/grito) [66, 67].",
+    "observacao": "Raiz de 'Teruah' (toque da trombeta/grito) 66, 67].",
     "radical": "רוע"
   },
   {
@@ -8833,7 +8832,7 @@
     "strong": "H2167",
     "categoria": "VERBO",
     "definicao_completa": "Cortar galhos (poda); tocar um instrumento ou cantar louvores.",
-    "observacao": "Raiz de 'mizmor' (salmo). Louvar é como 'podar' o barulho para Deus [68, 69].",
+    "observacao": "Raiz de 'mizmor' (salmo). Louvar é como 'podar' o barulho para Deus 68, 69].",
     "radical": "זמר"
   },
   {
@@ -8844,7 +8843,7 @@
     "strong": "H1270",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "O metal ferro; símbolo de dureza, força ou opressão (jugo de ferro).",
-    "observacao": "Usado para ferramentas de arado e armas de guerra [30, 31].",
+    "observacao": "Usado para ferramentas de arado e armas de guerra 30, 31].",
     "radical": "ברזל"
   },
   {
@@ -8855,7 +8854,7 @@
     "strong": "H3373",
     "categoria": "ADJETIVO",
     "definicao_completa": "Aquele que tem temor ou reverência; piedoso.",
-    "observacao": "Forma adjetiva de 'yara' (temer). Define quem respeita a autoridade divina [70].",
+    "observacao": "Forma adjetiva de 'yara' (temer). Define quem respeita a autoridade divina 70].",
     "radical": "ירא"
   },
   {
@@ -8866,7 +8865,7 @@
     "strong": "H7453",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Amigo pessoal, vizinho ou qualquer outra pessoa em relação social.",
-    "observacao": "Usado no mandamento 'amarás o teu próximo (rea) como a ti mesmo' [71, 72].",
+    "observacao": "Usado no mandamento 'amarás o teu próximo (rea) como a ti mesmo' 71, 72].",
     "radical": "רעע"
   },
   {
@@ -8877,7 +8876,7 @@
     "strong": "H2245",
     "categoria": "VERBO",
     "definicao_completa": "Ter um amor ardente ou afeição profunda.",
-    "observacao": "Termo raro que descreve o amor protetor de Deus por Suas tribos [11, 71].",
+    "observacao": "Termo raro que descreve o amor protetor de Deus por Suas tribos 11, 71].",
     "radical": "חבב"
   },
   {
@@ -8888,7 +8887,7 @@
     "strong": "H7069",
     "categoria": "VERBO",
     "definicao_completa": "Obter posse através de compra ou criação; redimir.",
-    "observacao": "Usado quando Eva diz que 'adquiriu' (qaniti) um filho ou Deus como 'Possuidor' dos céus [73, 74].",
+    "observacao": "Usado quando Eva diz que 'adquiriu' (qaniti) um filho ou Deus como 'Possuidor' dos céus 73, 74].",
     "radical": "קנה"
   },
   {
@@ -8899,7 +8898,7 @@
     "strong": "H2436",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "A dobra da veste no peito; o lugar de carinho onde se segura um bebê.",
-    "observacao": "Símbolo de proximidade, afeição ou segredo (levar algo no seio) [75].",
+    "observacao": "Símbolo de proximidade, afeição ou segredo (levar algo no seio) 75].",
     "radical": "חיק"
   },
   {
@@ -8910,7 +8909,7 @@
     "strong": "H1523",
     "categoria": "VERBO",
     "definicao_completa": "Alegrar-se intensamente, girar de alegria, regozijar-se.",
-    "observacao": "Indica uma alegria visível e física, muitas vezes em resposta à salvação [76, 77].",
+    "observacao": "Indica uma alegria visível e física, muitas vezes em resposta à salvação 76, 77].",
     "radical": "גיל"
   },
   {
@@ -8921,7 +8920,7 @@
     "strong": "H1225",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Lugar fortificado e inacessível ao inimigo.",
-    "observacao": "Derivado de 'batsar' (cortar/fortificar). Refere-se à segurança inabalável [78, 79].",
+    "observacao": "Derivado de 'batsar' (cortar/fortificar). Refere-se à segurança inabalável 78, 79].",
     "radical": "בצר"
   },
   {
@@ -8932,7 +8931,7 @@
     "strong": "H7939",
     "categoria": "SUBSTANTIVO",
     "definicao_completa": "Pagamento por serviço, aluguel ou recompensa divina por fidelidade.",
-    "observacao": "Deus diz a Abraão: 'Eu sou o teu galardão (sakar)' [80, 81].",
+    "observacao": "Deus diz a Abraão: 'Eu sou o teu galardão (sakar)' 80, 81].",
     "radical": "שׂכר"
   },
   {
@@ -8943,7 +8942,7 @@
     "strong": "H2583",
     "categoria": "VERBO",
     "definicao_completa": "Montar tendas para acampar; também pode significar o declinar do dia.",
-    "observacao": "Raiz de 'machaneh' (acampamento). Descreve as paradas de Israel no deserto [29, 82].",
+    "observacao": "Raiz de 'machaneh' (acampamento). Descreve as paradas de Israel no deserto 29, 82].",
     "radical": "חנה"
   },
   {
@@ -8954,7 +8953,7 @@
     "strong": "H2161",
     "categoria": "VERBO",
     "definicao_completa": "Formular um plano ou intenção (geralmente com conotação de astúcia ou maldade).",
-    "observacao": "Pode ser usado para os planos de Deus ou as conspirações dos ímpios [83, 84].",
+    "observacao": "Pode ser usado para os planos de Deus ou as conspirações dos ímpios 83, 84].",
     "radical": "זמם"
   },
   {
@@ -8965,7 +8964,7 @@
     "strong": "H2114",
     "categoria": "VERBO",
     "definicao_completa": "Afastar-se, tornar-se estranho ou agir como alguém de fora da aliança.",
-    "observacao": "Raiz de 'zar' (estrangeiro/estranho). Usado para 'fogo estranho' no tabernáculo [85, 86].",
+    "observacao": "Raiz de 'zar' (estrangeiro/estranho). Usado para 'fogo estranho' no tabernáculo 85, 86].",
     "radical": "זור"
   },
   
@@ -14551,5 +14550,6 @@
   
   
   
+
 
 
