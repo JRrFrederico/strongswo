@@ -685,8 +685,9 @@
   {"id": "G3323", "grego": "Μεσσίας", "transliteracao": "Messias", "portugues": "Messias", "strong": "G3323", "categoria": "SUBSTANTIVO", "definicao_completa": "O Ungido (transliteração do hebraico)", "frequencia": "2"},
   {"id": "G1439", "grego": "ἐάω", "transliteracao": "eao", "portugues": "permitir", "strong": "G1439", "categoria": "VERBO", "definicao_completa": "Deixar, permitir, deixar estar", "frequencia": "11", "radical": "εα"},
   {"id": "G420", "grego": "ἀνάγνωσις", "transliteracao": "anagnosis", "portugues": "leitura", "strong": "G420", "categoria": "SUBSTANTIVO", "definicao_completa": "Ato de ler, leitura pública", "frequencia": "3", "radical": "αναγνωσ"},
-  {"id": "G4193", "grego": "Πόντιος", "transliteracao": "Pontios", "portugues": "Pôncio", "strong": "G4193", "categoria": "SUBSTANTIVO", "definicao_completa": "Nome próprio: Pôncio (como em Pôncio Pilatos)", "frequencia": "3"},
+  {"id": "G4193", "grego": "Πόντιος", "transliteracao": "Pontios", "portugues": "Pôncio", "strong": "G4193", "categoria": "SUBSTANTIVO", "definicao_completa": "Nome próprio: Pôncio (como em Pôncio Pilatos)", "frequencia": "3"}
   
 ]
 
 	
+
